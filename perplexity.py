@@ -7,7 +7,7 @@ import sys
 import torch
 from tqdm import tqdm
 import traceback
-# from auto_gptq import AutoGPTQForCausalLM, BaseQuantizeConfig
+from auto_gptq import AutoGPTQForCausalLM, BaseQuantizeConfig
 import datasets
 import numpy as np
 import time
@@ -139,8 +139,8 @@ def prepare_data(dataset, column, split, config = None, num_samples=200, token_c
     else:
         ds = datasets.load_dataset(dataset, config, split=split)
 
-    ds = ds[column]
     ds = ds.select(np.random.choice(len(ds), num_samples))
+    ds = ds[column]
 
     texts = [select_token_window(text, token_count=token_count) for text in ds]
     return texts
@@ -171,7 +171,7 @@ if __name__ == "__main__":
     memorised_time = '2022-8'
     num_token = 200
     num_samples = 300
-    model_names = ['gpt-2']
+    model_names = ['gpt2']
     evaluation_datasets = ['quac', 'boolq', 'squad_v2']
 
     datasets_and_texts = {}
