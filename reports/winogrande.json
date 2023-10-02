@@ -1,0 +1,21 @@
+{
+  "dataset_name": "winogrande",
+  "matches": [
+    [
+      {
+        "query": "Sarah was a much better surgeon than Maria so _ always got the easier cases.",
+        "match_string": "Sarah was a much better surgeon than Maria so _ always got the easier cases",
+        "score": 0.9331632653061225,
+        "name": "2023 - GPT-4 - GitHub",
+        "url": "https://github.com/swyxio/ai-notes/blob/main/Resources/BENCHMARKS.md"
+      },
+      {
+        "query": "Sarah was a much better surgeon than Maria so _ always got the easier cases.",
+        "match_string": "Sarah was a much better surgeon than Maria so _ always got the easier cases",
+        "score": 0.9331632653061225,
+        "name": "bigscience/P3 · How do you use `is_correct` = False examples from ...",
+        "url": "https://huggingface.co/datasets/bigscience/P3/discussions/5"
+      }
+    ]
+  ]
+}

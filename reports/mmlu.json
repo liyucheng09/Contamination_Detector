@@ -1,0 +1,518 @@
+{
+  "dataset_name": "mmlu",
+  "matches": [
+    [
+      {
+        "query": "Which of the following Internet-related challenges is most significant in the public relations field?",
+        "match_string": "Which of the following Internet-related challenges is most significant in the public relations field Internet Public Relations",
+        "score": 0.9268808114961963,
+        "name": "1. What is <b>the primary public relations activity in financial</b>...",
+        "url": "https://www.coursehero.com/tutors-problems/Public-Relations/9534130-1-What-is-the-primary-public-relations-activity-in-financial-relation/"
+      }
+    ],
+    [
+      {
+        "query": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year, the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders. Carson accurately reported $28,000 in gross income on Carson’s individual tax return. If the corporation had been an S corporation and the distributions to the owners had been proportionate, how much income would Carson have reported on Carson’s individual return?",
+        "match_string": "Quizlet Carson owned 40% of the outstanding stock of a C corporation During a tax year the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders Carson accurately reported $28,000 in gross income on Carson&#39;s individual tax return If the corporation had been an S",
+        "score": 0.6003861003861004,
+        "name": "<b>SU 10 Multiple choice test 1</b> Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/165471418/su-10-multiple-choice-test-1-flash-cards/"
+      },
+      {
+        "query": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year, the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders. Carson accurately reported $28,000 in gross income on Carson’s individual tax return. If the corporation had been an S corporation and the distributions to the owners had been proportionate, how much income would Carson have reported on Carson’s individual return?",
+        "match_string": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders Carson accurately reported $28,000 in gross income on Carson&#39;s individual tax return If the corporation had been an S",
+        "score": 0.6127007890856287,
+        "name": "<b>Carson</b> <b>owned 40% of the outstanding stock</b> <b>of a C</b> <b>corporation</b>. <b>During</b> a ...",
+        "url": "https://www.gaodun.com/q/906bte"
+      },
+      {
+        "query": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year, the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders. Carson accurately reported $28,000 in gross income on Carson’s individual tax return. If the corporation had been an S corporation and the distributions to the owners had been proportionate, how much income would Carson have reported on Carson’s individual return?",
+        "match_string": "Carson owned 40% of the outstanding stock of a C corporation During a tax year the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders Carson accurately reported $28,000 in gross income on Carson&#39;s individual tax return If the corporation had been an S corporation",
+        "score": 0.6067713902990871,
+        "name": "R1 M4 - Items from Other Entities Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/523994265/r1-m4-items-from-other-entities-flash-cards/"
+      },
+      {
+        "query": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year, the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders. Carson accurately reported $28,000 in gross income on Carson’s individual tax return. If the corporation had been an S corporation and the distributions to the owners had been proportionate, how much income would Carson have reported on Carson’s individual return?",
+        "match_string": "Carson owned 40% of the outstanding stock of a C corporation During a tax year the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders Carson accurately reported $28,000 in gross income on Carson&#39;s individual tax return If the corporation had been an S corporation",
+        "score": 0.6067713902990871,
+        "name": "Questions to Remember Flashcards | Chegg.com",
+        "url": "https://www.chegg.com/flashcards/questions-to-remember-dc47a489-4b27-44bb-adf2-1f2885b98db3/deck"
+      },
+      {
+        "query": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year, the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders. Carson accurately reported $28,000 in gross income on Carson’s individual tax return. If the corporation had been an S corporation and the distributions to the owners had been proportionate, how much income would Carson have reported on Carson’s individual return?",
+        "match_string": "During a tax year the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders Carson accurately reported $28,000 in gross income on Carson’s individual tax return If the corporation had been an S corporation and the distributions to the owners had been proportionate how much",
+        "score": 0.6665540540540541,
+        "name": "<b>REG 8 Flashcards</b> by antoine benard | Brainscape",
+        "url": "https://www.brainscape.com/flashcards/reg-8-3318965/packs/5135182"
+      },
+      {
+        "query": "Carson owned 40% of the outstanding stock of a C corporation. During a tax year, the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders. Carson accurately reported $28,000 in gross income on Carson’s individual tax return. If the corporation had been an S corporation and the distributions to the owners had been proportionate, how much income would Carson have reported on Carson’s individual return?",
+        "match_string": "Carson owned 40% of the outstanding stock of a C corporation During a tax year the corporation reported $400,000 in taxable income and distributed a total of $70,000 in cash dividends to its shareholders Carson accurately reported $28,000 in gross income on Carson’s individual tax return If the corporation had been an S corporation",
+        "score": 0.6281729729729729,
+        "name": "Section 5B-D-F-G--H Flashcards by Adam Herron | Brainscape",
+        "url": "https://www.brainscape.com/flashcards/section-5b-d-f-g-h-7874472/packs/12778615"
+      }
+    ],
+    [
+      {
+        "query": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+        "match_string": "The economy is in a deep recession. Given this economic situation, which of the following statements about monetary policy is accurate policy recession policy",
+        "score": 0.900540825748582,
+        "name": "<b>AP Macroeconomics Question 445: Answer and Explanation</b> - CrackAP.com",
+        "url": "https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html"
+      },
+      {
+        "query": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+        "match_string": "Given this economic situation which of the following statements about monetary policy is accurate policy recession policy",
+        "score": 0.615243730628346,
+        "name": "<b>AP Macroeconomics Practice Test 21</b> - CrackAP.com",
+        "url": "https://www.crackap.com/ap/macroeconomics/test41.html"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?",
+        "match_string": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high",
+        "score": 0.9523214285714285,
+        "name": "<b>Oxford University Press</b> | Online Resource Centre | Chapter 4",
+        "url": "https://global.oup.com/uk/orc/biosciences/biochem/gleeson2e/01student/mcqs/ch04/"
+      }
+    ],
+    [
+      {
+        "query": "According to Epicurus, a law is unjust when:",
+        "match_string": "According to Epicurus, a law is unjust when law",
+        "score": 0.840561224489796,
+        "name": "Multiple-Choice Quiz - <b>Oxford University Press</b>",
+        "url": "https://global.oup.com/us/companion.websites/9780190209803/stud/p1/epicurus/mcq/"
+      }
+    ],
+    [
+      {
+        "query": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(A ∨ B) ⊃ C\nC ⊃ ~D / D ⊃ A",
+        "match_string": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.) (A ∨ B) ⊃ C C ⊃ ~D / D ⊃ A Valid Invalid",
+        "score": 0.9999937112455507,
+        "name": "Section 2.7 Self Quiz - Introduction to Formal Logic Student Resources ...",
+        "url": "https://learninglink.oup.com/access/content/marcus-student-resources/marcus-student-arc-section-2-7-quiz"
+      }
+    ],
+    [
+      {
+        "query": " Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a pauper; Lxy: x is luckier than y)",
+        "match_string": "Select the best translation into predicate logic. All kings are luckier than all paupers. (Kx: x is a king; Px: x is a pauper; Lxy: x is luckier than y",
+        "score": 0.9666468489892985,
+        "name": "Section 5.01 Self-Quiz - Introduction to Formal <b>Logic</b> Student Resources ...",
+        "url": "https://learninglink.oup.com/access/content/marcus-student-resources/marcus-5-01-self-quiz"
+      }
+    ],
+    [
+      {
+        "query": "If an iron nucleus split in two, its fission fragments would have",
+        "match_string": "nucleus fission fragments If an iron nucleus split two its fission fragments have",
+        "score": 0.736111111111111,
+        "name": "<b>Science ch.20</b> Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/69549688/science-ch20-flash-cards/"
+      },
+      {
+        "query": "If an iron nucleus split in two, its fission fragments would have",
+        "match_string": "If an iron nucleus split in two, its fission fragments would have",
+        "score": 0.9997106481481481,
+        "name": "<b>If an iron nucleus split in two, its fission fragments would have</b>: (a ...",
+        "url": "https://homework.study.com/explanation/if-an-iron-nucleus-split-in-two-its-fission-fragments-would-have-a-less-mass-per-nucleon-b-more-mass-per-nucleon-c-the-same-mass-per-nucleon-d-either-more-or-less-mass-per-nucleon.html"
+      },
+      {
+        "query": "If an iron nucleus split in two, its fission fragments would have",
+        "match_string": "If an iron nucleus split in two, its fission fragments would have",
+        "score": 0.9997106481481481,
+        "name": "Answered: Choose the BEST answer to the… | bartleby",
+        "url": "https://www.bartleby.com/questions-and-answers/choose-the-best-answer-to-the-following.-if-an-iron-nucleus-split-in-two-its-fission-fragments-would/fdfb7adb-12ab-4e8f-9db4-57fc972f7228"
+      },
+      {
+        "query": "If an iron nucleus split in two, its fission fragments would have",
+        "match_string": "If an iron nucleus split in two, its fission fragments would have",
+        "score": 0.9997106481481481,
+        "name": "<b>If an iron nucleus split in two, its fission fragments would have</b> (a ...",
+        "url": "https://www.bartleby.com/solution-answer/chapter-16-problem-10rat-conceptual-physical-science-explorations-2nd-edition/9780321567918/if-an-iron-nucleus-split-in-two-its-fission-fragments-would-have-a-more-mass-per-nucleon-b/59e85f97-408d-4a26-94c6-c3cc691c6caf"
+      }
+    ],
+    [
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has",
+        "match_string": "A null type instrument as compared type instrument has",
+        "score": 0.7361111111111112,
+        "name": "<b>A null</b> <b>type</b> of <b>instrument</b> <b>as compared</b> to a deflecting <b>type</b> <b>instrument</b> <b>has</b>",
+        "url": "https://testbook.com/question-answer/a-null-type-of-instrument-as-compared-to-a-deflect--5b3395f26c75266166b7fd18"
+      },
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has",
+        "match_string": "Null type instruments type instruments Null type instruments as compared type instruments type instruments null type instruments",
+        "score": 0.6388888888888888,
+        "name": "<b>Comparison</b> of Deflection and <b>Null</b> <b>Type</b> <b>Instruments</b> - Theteche.com",
+        "url": "https://theteche.com/comparison-of-deflection-and-null-type-instruments/"
+      },
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has",
+        "match_string": "A null type instrument as compared type instrument has comparison comparison",
+        "score": 0.7361111111111112,
+        "name": "Solved L. <b>A null</b>-<b>type</b> <b>instrument</b> <b>as compared</b> to a | Chegg.com",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/l-null-type-instrument-compared-deflection-type-instrument-lower-sensitivity-faster-respon-q82149491"
+      }
+    ],
+    [
+      {
+        "query": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n~C ∨ D",
+        "match_string": "Use the following key to translate the given formula of PL to natural, English sentences. A: Marina reads a Percy Jackson book. B: Izzy plays Minecraft. C: Emily stops working. D: Russell makes dinner. E: Ashleigh stops by. ~C ∨ D Emily working Russell makes dinner B Emily stops working",
+        "score": 0.996285602356321,
+        "name": "<b>Use</b> <b>the following</b> <b>key</b> <b>to translate</b> <b>the given</b> <b>formula</b> <b>of PL</b> <b>to natural</b> ...",
+        "url": "https://picsolve.ai/question/-Use-the-following-key-to-translate-the-given-formula-of-PL-to-natural-English-sentencesA-Marina?qid=10ec80c53d93e8bf2a6e9815b319bcc5"
+      }
+    ],
+    [
+      {
+        "query": "A lizard lacking a chemical defense mechanism that is colored in the same way as a lizard that has a defense mechanism is displaying",
+        "match_string": "A lizard lacking a chemical defense mechanism that is colored in the same way as a lizard that has a defense mechanism is displaying",
+        "score": 0.9999638310185185,
+        "name": "<b>AP Biology Question 261: Answer and Explanation</b> - CrackAP.com",
+        "url": "https://www.crackap.com/ap/biology/question-261-answer-and-explanation.html"
+      },
+      {
+        "query": "A lizard lacking a chemical defense mechanism that is colored in the same way as a lizard that has a defense mechanism is displaying",
+        "match_string": "A lizard lacking a chemical defense mechanism that is colored in the same way as a lizard that has a defense mechanism is displaying",
+        "score": 0.9999638310185185,
+        "name": "9. <b>A lizard</b> <b>lacking</b> <b>a chemical</b> <b>defense</b> <b>mechanism</b> 14. 15. 10.",
+        "url": "https://online.issuhub.com/etfs/3vj9/files/page/294.pdf"
+      }
+    ],
+    [
+      {
+        "query": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+        "match_string": "When an increase in speed doubles the momentum of a moving body, its kinetic energy doubles doubles doubles",
+        "score": 0.9224489795918368,
+        "name": "Solved <b>When an increase</b> <b>in speed</b> <b>doubles</b> <b>the momentum</b> of a - Chegg",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/increase-speed-doubles-momentum-moving-body-kinetic-energy-o-depends-factors-stated-o-incr-q72723625"
+      },
+      {
+        "query": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+        "match_string": "When an increase in speed doubles the momentum of a moving body, its kinetic energy doubles doubles doubles",
+        "score": 0.9224489795918368,
+        "name": "<b>When an increase</b> <b>in speed</b> <b>doubles</b> <b>the momentum</b> <b>of a moving</b> b - <b>Quizlet</b>",
+        "url": "https://quizlet.com/explanations/questions/when-an-increase-in-speed-doubles-the-momentum-of-a-moving-body-its-kinetic-energy-a-increases-but-less-than-doubles-b-doubles-c-more-than-d-72edeea7-16ac5df0-0329-479f-9777-e9b0b5f4f93a"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following is not a purported limitation of the liberalist approach?",
+        "match_string": "Which of the following is not a purported limitation of the liberalist approach",
+        "score": 0.9228098290598291,
+        "name": "Chapter 3 Self-test questions - Contemporary Security Studies 5e ...",
+        "url": "https://learninglink.oup.com/access/content/collins5e-student-resources/collins5e-chapter-3-self-test-questions"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following is true of haematemesis?",
+        "match_string": "Which of the following is true of haematemesis",
+        "score": 0.8737244897959183,
+        "name": "<b>Oxford University Press</b> | Online Resource Centre | Chapter 6",
+        "url": "https://global.oup.com/uk/orc/medicine/cox/01student/mcqs/ch06/"
+      }
+    ],
+    [
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "If the volume of an object were to double, with no change in mass, its density would Double Density density density mass volume to double volume",
+        "score": 0.9650926114390392,
+        "name": "<b>If the volume of an object</b> <b>were</b> <b>to double</b>, <b>with no</b> <b>change</b> <b>in mass</b>, <b>its</b> ...",
+        "url": "https://socratic.org/questions/if-the-volume-of-an-object-were-to-double-with-no-change-in-mass-its-density-wou"
+      },
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "its density double mass of an object were to double with no change volume its density If the volume of an object were to double with no change in mass, its density would",
+        "score": 0.9402573529411764,
+        "name": "Physics final part 2 (4-7) Flashcards | Quizlet",
+        "url": "https://quizlet.com/109365801/physics-final-part-2-4-7-flash-cards/"
+      },
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "if the volume of an object were to double, with no change in mass, its density would",
+        "score": 0.999898229187869,
+        "name": "Solved <b>if the volume of an object were to double, with no</b> - Chegg",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/volume-object-double-change-mass-density-would-q41917497"
+      },
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "If the volume of an object were to double, with no change in mass, its density would double",
+        "score": 0.999898229187869,
+        "name": "Solved <b>If the volume</b> <b>of an object</b> <b>were</b> <b>to double</b>, <b>with no</b> - Chegg",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/volume-object-double-change-mass-density-would--none--halve-double-submit-answer-tries-0-1-q94286625"
+      },
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "If the volume of an object were to double with no change in mass, its density would double its density",
+        "score": 0.9338235294117647,
+        "name": "Chapter 5 Flashcards | Chegg.com",
+        "url": "https://www.chegg.com/flashcards/chapter-5-b3a85946-b482-441e-a87f-1d3603b029b8/deck"
+      },
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "If the volume of an object were to double, with no change in mass, its density would double Object&#39;s Density change density",
+        "score": 0.9872786484836149,
+        "name": "<b>If the volume</b> <b>of an object</b> <b>were</b> <b>to double</b>, <b>with no</b> <b>change</b> <b>in mass</b>, <b>its</b> ...",
+        "url": "https://homework.study.com/explanation/if-the-volume-of-an-object-were-to-double-with-no-change-in-mass-its-density-would-a-halve-b-double-c-be-the-same-d-none-of-these.html"
+      },
+      {
+        "query": "If the volume of an object were to double, with no change in mass, its density would",
+        "match_string": "if the volume of an object were to double, with no change in. mass, its density would volume it&#39;s It&#39;s density objects volume",
+        "score": 0.9163602941176471,
+        "name": "<b>if the volume</b> <b>of an object</b> <b>were</b> <b>to double</b>, <b>with no</b> <b>change</b> <b>in mass</b>, <b>its</b> ...",
+        "url": "https://www.numerade.com/ask/question/if-the-volume-of-an-object-were-to-double-with-no-change-in-mass-its-density-would-78272/"
+      }
+    ],
+    [
+      {
+        "query": "In the moral life, feelings are _____.",
+        "match_string": "In the moral life, feelings are moral moral moral",
+        "score": 0.8035714285714285,
+        "name": "Multiple Choice Quiz - <b>Oxford University Press</b>",
+        "url": "https://global.oup.com/us/companion.websites/9780199765225/student/chapter3/quizzes/mcquiz/"
+      },
+      {
+        "query": "In the moral life, feelings are _____.",
+        "match_string": "In the moral life, feelings are moral Moral",
+        "score": 0.8035714285714285,
+        "name": "Chapter 3 phil Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/157381795/chapter-3-phil-flash-cards/"
+      }
+    ],
+    [
+      {
+        "query": "Consider the following AR(2) process:\n\nyt = 1.5 yt-1 - 0.5 yt-2 + ut\n\nThis is a",
+        "match_string": "Consider the following AR (2) process: yt = 1.5 yt-1 - 0.5 yt-2 + ut. This is a process process process process the following",
+        "score": 0.8739869281045752,
+        "name": "<b>Consider the following AR(2) process: yt = 1.5</b> <b>yt-1</b> - <b>0.5</b> <b>yt-2</b> + <b>ut</b> ...",
+        "url": "https://www.helpdice.com/mcq/uwhrz83y5tx07ojrvmdxnfqs80wcmi9vj76pwwsnc5srk4eprq/"
+      },
+      {
+        "query": "Consider the following AR(2) process:\n\nyt = 1.5 yt-1 - 0.5 yt-2 + ut\n\nThis is a",
+        "match_string": "Consider the following AR (2) process: yt = 1.5 yt-1 - 0.5 yt-2 + ut This is a AR 2 1 1 2 1 1 1 2",
+        "score": 0.9402573529411764,
+        "name": "<b>Consider the following AR (2) process</b>: <b>y t</b> = <b>1.5</b> <b>y t</b> -<b>1</b> - <b>0.5</b> <b>y t</b> -<b>2</b> ...",
+        "url": "https://www.transtutors.com/questions/consider-the-following-ar-2-process-y-t-1-5-y-t-1-0-5-y-t-2-u-t-this-is-a-a-stationa-855287.htm"
+      }
+    ],
+    [
+      {
+        "query": "Creatine is synthesized from:",
+        "match_string": "creatine is synthesized",
+        "score": 0.7361111111111112,
+        "name": "<b>Creatine</b>: Uses, benefits, and health risks - <b>Medical News Today</b>",
+        "url": "https://www.medicalnewstoday.com/articles/263269"
+      },
+      {
+        "query": "Creatine is synthesized from:",
+        "match_string": "Creatine is synthesized the biochemistry of creatine creatine",
+        "score": 0.6388888888888888,
+        "name": "<b>The Biochemistry of Creatine</b> - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/B9780124016880000070"
+      }
+    ],
+    [
+      {
+        "query": " John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+        "match_string": "John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about Mary",
+        "score": 0.9941303531179564,
+        "name": "<b>Chapter 1 Questions</b> - Disputed Moral Issues 5e Student Resources ...",
+        "url": "https://learninglink.oup.com/access/content/timmons5e-student-resources/timmons5e-chapter-1-questions"
+      },
+      {
+        "query": " John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+        "match_string": "John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about Mary",
+        "score": 0.9941303531179564,
+        "name": "CMI: CH 1&amp;2 Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/567623328/cmi-ch-12-flash-cards/"
+      },
+      {
+        "query": " John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+        "match_string": "John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about Mary Mary",
+        "score": 0.9941303531179564,
+        "name": "Exam 1 Flashcards | Quizlet",
+        "url": "https://quizlet.com/576414077/exam-1-flash-cards/"
+      },
+      {
+        "query": " John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+        "match_string": "John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about right",
+        "score": 0.9987321562734786,
+        "name": "PHIL 3302W Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/577109263/phil-3302w-flash-cards/"
+      },
+      {
+        "query": " John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+        "match_string": "John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about Mary Mary Mary John thinks done",
+        "score": 0.9530428249436514,
+        "name": "<b>John</b> <b>Considers</b> <b>What Mary</b> <b>Has</b> <b>Done</b> <b>and Thinks</b> <b>to Himself</b>",
+        "url": "https://quizplus.com/quiz/239996-quiz-1-a-moral-theory-primer/questions/14914505-john-considers-what-mary-has-done-and-thinks-to-himself-mar"
+      }
+    ],
+    [
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has",
+        "match_string": "A null type instrument as compared type instrument has",
+        "score": 0.7361111111111112,
+        "name": "<b>A null</b> <b>type</b> of <b>instrument</b> <b>as compared</b> to a deflecting <b>type</b> <b>instrument</b> <b>has</b>",
+        "url": "https://testbook.com/question-answer/a-null-type-of-instrument-as-compared-to-a-deflect--5b3395f26c75266166b7fd18"
+      },
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has",
+        "match_string": "Null type instruments type instruments Null type instruments as compared type instruments type instruments null type instruments",
+        "score": 0.6388888888888888,
+        "name": "<b>Comparison</b> of Deflection and <b>Null</b> <b>Type</b> <b>Instruments</b> - Theteche.com",
+        "url": "https://theteche.com/comparison-of-deflection-and-null-type-instruments/"
+      },
+      {
+        "query": "A null type instrument as compared to a deflected type instrument has",
+        "match_string": "A null type instrument as compared type instrument has comparison comparison",
+        "score": 0.7361111111111112,
+        "name": "Solved L. <b>A null</b>-<b>type</b> <b>instrument</b> <b>as compared</b> to a | Chegg.com",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/l-null-type-instrument-compared-deflection-type-instrument-lower-sensitivity-faster-respon-q82149491"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following best states why the study of twins is significant to the field of behavioral genetics?",
+        "match_string": "Which of the following best states why the study of twins is significant to the field of behavioral genetics twins twins",
+        "score": 0.9451754385964912,
+        "name": "<b>AP Psychology Question 187: Answer and Explanation</b> - CrackAP.com",
+        "url": "https://www.crackap.com/ap/psychology/question-187-answer-and-explanation.html"
+      }
+    ],
+    [
+      {
+        "query": "Both the ALU and control section of CPU employ which special purpose storage location?",
+        "match_string": "Both the ALU and control section of CPU employ which special purpose storage location",
+        "score": 0.9283601014370245,
+        "name": "<b>Both</b> <b>the ALU</b> <b>and control</b> <b>section</b> <b>of CPU</b> <b>employ</b> <b>which special</b> <b>purpose</b> ...",
+        "url": "https://compsciedu.com/mcq-question/5084/both-the-alu-and-control-section-of-cpu-employ-which-special-purpose-storage-location"
+      }
+    ],
+    [
+      {
+        "query": "Which of the following is the analogous quantity for mass element in force-voltage analogy?",
+        "match_string": "Which of the following is the analogous quantity for mass element in force-voltage analogy",
+        "score": 0.9283601014370245,
+        "name": "Page 2 – <b>Electrical4U</b>",
+        "url": "https://www.electrical4u.com/electrical-mcq.php?subject=control-systems&page=2"
+      }
+    ],
+    [
+      {
+        "query": "According to Epicurus, a law is unjust when:",
+        "match_string": "According to Epicurus, a law is unjust when law",
+        "score": 0.840561224489796,
+        "name": "Multiple-Choice Quiz - <b>Oxford University Press</b>",
+        "url": "https://global.oup.com/us/companion.websites/9780190209803/stud/p1/epicurus/mcq/"
+      }
+    ],
+    [
+      {
+        "query": "A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a simple random sample of 30 adults as they leave a Wall Street office building one weekday afternoon. All but two of the adults agree to participate in the survey. Which of the following conclusions is correct?",
+        "match_string": "A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a simple random sample of 30 adults as they leave a Wall Street office building one weekday afternoon. All but two of the adults agree to participate in the survey. Which of the following conclusions is correct",
+        "score": 0.9821399055489964,
+        "name": "<b>AP Statistics Question 225: Answer and Explanation</b> - CrackAP.com",
+        "url": "https://www.crackap.com/ap/statistics/question-225-answer-and-explanation.html"
+      },
+      {
+        "query": "A researcher plans a study to examine long-term confidence in the U.S. economy among the adult population. She obtains a simple random sample of 30 adults as they leave a Wall Street office building one weekday afternoon. All but two of the adults agree to participate in the survey. Which of the following conclusions is correct?",
+        "match_string": "A researcher plans a study to examine long-term confidence in the U.S economy among the adult population She a simple random sample of 30 adults as they leave a Wall Street office building one weekday afternoon All but two of the adults agree to participate in the survey",
+        "score": 0.7730593270365997,
+        "name": "Solved 슬 elearning.utdallas.edu 8 of 15 Clicker question #25 - Chegg",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/elearningutdallasedu-8-15-clicker-question-25-researcher-plans-study-examine-long-term-con-q24581467"
+      }
+    ],
+    [
+      {
+        "query": "Which of one of the following statements about the postnatal growth of the maxilla is correct?",
+        "match_string": "Which of one of the following statements about the postnatal growth of the maxilla is correct",
+        "score": 0.9373611111111111,
+        "name": "<b>Oxford University Press</b> | Online Resource Centre | Multiple Choice ...",
+        "url": "https://global.oup.com/uk/orc/dentistry/atkinson/student/mcqs/ch33/"
+      }
+    ],
+    [
+      {
+        "query": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "match_string": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "score": 0.9999901289163524,
+        "name": "<b>The sole</b> <b>shareholder</b> <b>of an S corporation contributed equipment with a</b> ...",
+        "url": "https://www.gaodun.com/q/306bsf"
+      },
+      {
+        "query": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "match_string": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize $6,000 the sole s",
+        "score": 0.9868615876650939,
+        "name": "Module 8 - Week 11 Flashcards | <b>Quizlet</b>",
+        "url": "https://quizlet.com/711694536/module-8-week-11-flash-cards/"
+      },
+      {
+        "query": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "match_string": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "score": 0.9999901289163524,
+        "name": "Ch 6 <b>Federal Taxation of Entities Flashcards</b> Preview",
+        "url": "https://www.brainscape.com/flashcards/ch-6-federal-taxation-of-entities-5732498/packs/8723377"
+      },
+      {
+        "query": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "match_string": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "score": 0.9999901289163524,
+        "name": "<b>Taxation of Corporations Flashcards</b> by Heather Turner - Brainscape",
+        "url": "https://www.brainscape.com/flashcards/taxation-of-corporations-6825961/packs/10783256"
+      },
+      {
+        "query": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+        "match_string": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize shareholder contributed equipment subject $12,000 liability shareholder s",
+        "score": 0.9783132292263045,
+        "name": "<b>S</b>-Corp Flashcards by Kirsten Years | Brainscape",
+        "url": "https://www.brainscape.com/flashcards/s-corp-7260522/packs/11765552"
+      }
+    ],
+    [
+      {
+        "query": "Which aspects of cell structure best reveals the unity of all life?",
+        "match_string": "Which aspects of cell structure best reveals the unity of all life All cells All cells All cells of all cells",
+        "score": 0.8946280991735537,
+        "name": "<b>AP Biology Question 151: Answer and Explanation</b> - CrackAP.com",
+        "url": "https://www.crackap.com/ap/biology/question-151-answer-and-explanation.html"
+      },
+      {
+        "query": "Which aspects of cell structure best reveals the unity of all life?",
+        "match_string": "Which aspects of cell structure best reveal unity",
+        "score": 0.625,
+        "name": "text{\\blue{EVOLUTION CONNECTION}} $$ <b>Which aspects</b> of - <b>Quizlet</b>",
+        "url": "https://quizlet.com/explanations/questions/blueevolution-connection-which-aspects-of-cell-structure-best-reveal-evolutionary-unity-what-are-some-examples-of-specialized-modifications-62e46f8b-5d5f8bc0-6e1d-47a6-b6af-7e8c2bfe7529"
+      },
+      {
+        "query": "Which aspects of cell structure best reveals the unity of all life?",
+        "match_string": "Which aspects of cell structure best reveal unity",
+        "score": 0.625,
+        "name": "<b>Which aspects</b> <b>of cell</b> <b>structure</b> <b>best</b> <b>reveal</b> evolutionary <b>unity</b>? What ...",
+        "url": "https://www.youtube.com/watch?v=DcCHHK-f2hM"
+      }
+    ],
+    [
+      {
+        "query": "A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it travel in the lab before decaying?",
+        "match_string": "A particle decays in 2.0 in its rest frame If the same particle moves at v=0.60c in the lab frame how far will it travel in the lab before decaying",
+        "score": 0.8695517500774371,
+        "name": "Solved <b>A particle</b> <b>decays</b> <b>in 2.0</b> us <b>in its</b> <b>rest</b> <b>frame</b>. If the - Chegg",
+        "url": "https://www.chegg.com/homework-help/questions-and-answers/particle-decays-20-us-rest-frame-particle-moves-v-060c-lab-frame-far-travel-lab-decaying-1-q54035605"
+      },
+      {
+        "query": "A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it travel in the lab before decaying?",
+        "match_string": "A particle decays in 2.0 ms in its rest frame If the same particle moves in the lab frame how far will it travel in the lab before decaying",
+        "score": 0.8371826684481771,
+        "name": "<b>A particle</b> <b>decays</b> <b>in 2.0</b> <b>ms</b> <b>in its</b> <b>rest</b> <b>frame</b>. <b>If the same</b> <b>particle</b> ...",
+        "url": "https://homework.study.com/explanation/a-particle-decays-in-2-0-ms-in-its-rest-frame-if-the-same-particle-moves-at-in-the-lab-frame-how-far-will-it-travel-in-the-lab-before-decaying.html"
+      }
+    ]
+  ]
+}
