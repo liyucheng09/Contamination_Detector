@@ -54,9 +54,9 @@ To run this script, you will need a free access token for Bing search API. You c
 
 We found the question, choices, and answers are all presented in the domain `www.crackap.com/`, which indicates a high risk that this example is contaminated.
 
-**Check more comtamination examples of MMLU [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
+**Check more comtamination examples of MMLU [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
 
-**Check comtamination examples of C-Eval [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
+**Check comtamination examples of C-Eval [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
 Results for some benchmarks:
 - `MMLU`: 29 out of 100 have high risk of contamination.
