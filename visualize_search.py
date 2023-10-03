@@ -20,7 +20,7 @@ if __name__ == '__main__':
     html_string = """
 <html>
 <head>
-<title>Query Results</title>
+<title>Contamination Report for """ + benchmark + """. </title>
 <style>
     table {
         width: 100%;
@@ -98,5 +98,5 @@ if __name__ == '__main__':
 </html>
 """
 
-    with open('reports/mmlu.html', 'w') as f:
+    with open(f'reports/{benchmark}.html', 'w') as f:
         f.write(html_string)

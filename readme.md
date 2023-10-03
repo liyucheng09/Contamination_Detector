@@ -4,54 +4,59 @@
 
 # Contamination Detector for LLMs Evaluation
 
-Due to the massive training corpus used in modern LLMs, it's getting more common for training data to unintentionally include parts of benchmark tests. The community calls this phenomenon **Data Contamination**.
-
-Comtamination Detector is a tool to identify potential data contamination issues in Large Language Model (LLM) evaluations.
+In the realm of Large Language Models (LLMs), Data Contamination is a ubiquitous issue. **Contamination Detector** aids in identifying and analyzing such potential contamination without requiring access to the LLMs' training data, enabling even small teams and individuals to conduct robust analyses.
 
 ## Features
 
-Traditional ways for comtamination analysis is extremely limited - these methods rely on finding the overlappings between the training data and the test set. Unfortunately, training data of modern LLMs are often closed sourced. That's why existing contamination analysises are often internal reports alongside the release of LLMs from big tech companies or research teams.
+Traditional methods for analyzing contamination often depend on identifying overlaps between training and test data. However, many modern LLMs utilize closed-source training data, restricting analysis largely to internal reports from big tech companies or research groups.
 
-The main feature of our method is we **do not need the access of the training data**, instead, our method audits models and benchmarks directly. This provides opportunities for the small teams or individuals to conduct contamination analysis.
+Contamination Detector uses a novel approach by directly auditing models and benchmarks, thereby **avoiding the need for access to the training data.** This provides opportunities for small teams and individuals to conduct their own contamination analyses.
 
-Two main approaches:
-- Check whether test examples can be found on the internet -- with `search.py`.
-- Check whether models exhibit memorisation behaviour on test benchmarks -- with `perplexity.py`.
+We implement two principal approaches:
+- **Internet Presence Verification**: Using `search.py`, verify whether test examples (both inputs and labels) are present on the internet, signifying a potential inclusion in web-scraped training data like Common Crawl.
+- **Memorization Behavior Examination**: Employing `perplexity.py`, ascertain whether a model displays memorization behaviors on test benchmarks by comparing the perplexity of benchmarks against two specific baselines: memorized and clean.
 
 ## 0.To start
 
 Clone the repository:
 
-`git clone https://github.com/liyucheng09/Contamination_Detector.git`
+```
+git clone https://github.com/liyucheng09/Contamination_Detector.git
+```
 
 Install the required packages:
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ## `search.py`
 
-We verify whether test examples **(inputs and labels)** are accessible on the internet. If a example is crawlable on the internet, it is very likely included in Common Crawl and involved in model training.
+To check whether test examples are accessible on the internet:
 
-An example from MMLU:
+Simply run this to produce a report for a benchmark:
 
-**MMLU - Test sample**
+```
+python search.py
+```
 
-Question: The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?
+To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api).
 
+**`MMLU` - An example of contamination**
+
+**Question:** The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?
+
+**Matches:**
 | Page Name | Overlapping | Match Ratio | URL |
 |-|-|-|-|
 | **AP Macroeconomics Question 445: Answer and Explanation** - CrackAP.com | **The economy is in a deep recession. Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.901 | [Link](https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html) |  
 | **AP Macroeconomics Practice Test 21** - CrackAP.com | **Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.615 | [Link](https://www.crackap.com/ap/macroeconomics/test41.html) |
 
-We found the question, choices, and answers are presented in the domain `www.crackap.com/` at the same time, which indicates a high risk that this example is contaminated.
+We found the question, choices, and answers are all presented in the domain `www.crackap.com/`, which indicates a high risk that this example is contaminated.
 
-Simply run:
+**Check more comtamination examples of MMLU [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
 
-`python search.py`
-
-to produce a report for a benchmark.
-
-To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api).
+**Check comtamination examples of C-Eval [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
 Results for some benchmarks:
 - `MMLU`: 29 out of 100 have high risk of contamination.
@@ -60,9 +65,12 @@ Results for some benchmarks:
 
 ## `perplexity.py`
 
-To verify how much a model **exhibits memorizations** on a certain test set, we compare the perplexity of the benchmark against two baselines: the memorized and clean baseline.
+We also propose to analyze contamination by measure how much a model **exhibits memorizations** on a certain benchmark - we compare the perplexity of a benchmark against two tailored baselines: the memorized and clean baseline.
 
-The memorized baseline consists of materials presented during the model's training stage. The clean baseline consists of materials the model has never seen before. Comparing the perplexity of benchmark against the two baselines, we could quantify too what extent the model memorized the benchmark.
+- The memorized baseline contains samples model already learned during training. 
+- The clean baseline consists of materials the model has never seen before. 
+
+Comparing the perplexity of benchmark against the two baselines, we could quantify too what extent the model memorized the benchmark.
 
 Let's take XSum as an example:
 
@@ -74,9 +82,13 @@ We found the perplexity on XSum is between the memorized and clean baseline, whi
 
 simply run:
 
-`python perplexity.py`
+```
+python perplexity.py
+```
 
 to view the perplexity comparison.
+
+Check this paper for more details about this method: [Estimating Contamination via Perplexity: Quantifying Memorisation in Language Model Evaluation](https://arxiv.org/abs/2309.10677).
 
 ## Visualization tools
 
@@ -84,8 +96,14 @@ You could generate visualization report to better understand data contaminatioin
 
 try:
 
-`python visualize_search.py`
+```
+python visualize_search.py
+```
 
 This onnly works after you run `python search.py`.
 
 Will add visualization for `perplexity.py` shortly.
+
+## Issues
+
+Open an issue or contact me via email if you encounter any problems in your use.
