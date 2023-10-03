@@ -1,5 +1,4 @@
 import requests
-import mwparserfromhell
 import json
 import os
 from transformers import LlamaForCausalLM, LlamaTokenizerFast, AutoModelForCausalLM, AutoTokenizer, OPTForCausalLM
@@ -7,11 +6,9 @@ import sys
 import torch
 from tqdm import tqdm
 import traceback
-from auto_gptq import AutoGPTQForCausalLM, BaseQuantizeConfig
 import datasets
 import numpy as np
 import time
-import openai
 
 WIKI_API_ENDPOINT = "https://en.wikipedia.org/w/api.php"
 np.random.seed(42)
@@ -96,34 +93,6 @@ def self_info(text, model, tokenizer, merge = False):
         info = merge_sub_tokens(info, encoding.word_ids()[1:])
     return tokens, info
 
-def gpt3_self_info(text, num_retry = 5):
-    # text = text[:1000]
-    openai.api_key = os.environ["OPENAI_API_KEY"]
-
-    for _ in range(num_retry):
-        try:
-            r = openai.Completion.create(
-                model="curie",
-                prompt=f"<|endoftext|>{text}",
-                max_tokens=0,
-                temperature=0,
-                echo=True,
-                logprobs=0,
-            )
-            break
-        except Exception as e:
-            print(e)
-            time.sleep(1)
-
-    result = r['choices'][0]
-    tokens, logprobs = result["logprobs"]["tokens"][1:], result["logprobs"]["token_logprobs"][1:]
-
-    assert len(tokens) == len(logprobs), f"Expected {len(tokens)} logprobs, got {len(logprobs)}"
-
-    self_info = [ -logprob for logprob in logprobs]
-    # TODO: deal with the first delimiter
-    return tokens, self_info
-
 def select_token_window(text, token_count=400):
     tokens = text.split()
     if len(tokens) <= token_count:
@@ -148,6 +117,8 @@ def prepare_data(dataset, column, split, config = None, num_samples=200, token_c
 def load_model_and_tokenizer(model_name):
 
     if 'GPTQ' in model_name:
+        from auto_gptq import AutoGPTQForCausalLM, BaseQuantizeConfig
+
         # only llama-30b use gptq
         model = AutoGPTQForCausalLM.from_quantized(model_name, device = 'cuda:0', use_safetensors = True, disable_exllama=True if '30b' in model_name else False)
         tokenizer = LlamaTokenizerFast.from_pretrained(model_name)

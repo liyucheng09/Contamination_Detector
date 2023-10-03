@@ -77,6 +77,7 @@ def process_search_results(search_results, threshold = 0.7, lang = 'en-US'):
             'score': score,
             'name': name,
             'url': url,
+            'snippet': snippet,
         })
     
     matches = [result for result in all_results if result['score'] >= threshold]
@@ -97,8 +98,8 @@ if __name__ == '__main__':
         os.makedirs(report_path)
 
     datasets_to_check = {
-        # 'winogrande': random_sample_ds(datasets.load_dataset('winogrande', 'winogrande_xs', split = 'test')),
-        # 'ceval': random_sample_ds(datasets.load_dataset('liyucheng/ceval_all', split = 'test')),
+        'winogrande': random_sample_ds(datasets.load_dataset('winogrande', 'winogrande_xs', split = 'test')),
+        'ceval': random_sample_ds(datasets.load_dataset('liyucheng/ceval_all', split = 'test')),
         'mmlu': random_sample_ds(datasets.load_dataset('liyucheng/mmlu_mini', split = 'test')),
     }
 

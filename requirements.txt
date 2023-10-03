@@ -1,0 +1,7 @@
+nltk
+datasets
+requests
+tqdm
+transformers
+torch
+numpy
