@@ -88,7 +88,10 @@ python perplexity.py
 
 to view the perplexity comparison.
 
-Check this paper for more details about this method: [Estimating Contamination via Perplexity: Quantifying Memorisation in Language Model Evaluation](https://arxiv.org/abs/2309.10677).
+**Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**
+
+**Important:** you should choose apporiate data source for the memorised and clean baselinse. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines.
+Check more details about this method in this paper: [Estimating Contamination via Perplexity: Quantifying Memorisation in Language Model Evaluation](https://arxiv.org/abs/2309.10677).
 
 ## Visualization tools
 
