@@ -1,0 +1,22 @@
+{
+    "gpt-3": {
+        "memorised": 2.61,
+        "clean": 2.94,
+        "XSum": 2.67
+    },
+    "llama-7b": {
+        "memorised": 2.53,
+        "clean": 2.38,
+        "XSum": 2.42
+    },
+    "llama-13b": {
+        "memorised": 2.3,
+        "clean": 2.15,
+        "XSum": 2.24
+    },
+    "llama-30b": {
+        "memorised": 2.25,
+        "clean": 2.11,
+        "XSum": 2.06
+    }
+}

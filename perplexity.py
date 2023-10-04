@@ -102,6 +102,10 @@ def select_token_window(text, token_count=400):
     return ' '.join(tokens)
 
 def prepare_data(dataset, column, split, config = None, num_samples=200, token_count=300):
+    # This function is used to prepare the data to analyze
+    # it takes dataset_name as input as return a list of strings as output
+    # Now it main support the downloading datasets from huggingface hub
+    # you could easily extend it to support other datasets
 
     if config is None:
         ds = datasets.load_dataset(dataset, split=split)
@@ -144,6 +148,7 @@ if __name__ == "__main__":
     num_samples = 300
     model_names = ['gpt2']
     evaluation_datasets = ['quac', 'boolq', 'squad_v2']
+    output_file = f'reports/perplexity_{evaluation_base}.json'
 
     datasets_and_texts = {}
     # Prepare evaluation datasets
@@ -156,10 +161,12 @@ if __name__ == "__main__":
     datasets_and_texts['clean'] = prepare_data(CLEAN[evaluation_base], COLUMNS[CLEAN[evaluation_base]], SPLITS[CLEAN[evaluation_base]], \
                                                num_samples = num_samples, token_count = num_token)
 
+    results = {}
     for model_name in model_names:
         model, tokenizer = load_model_and_tokenizer(model_name)
         print('=====================')
         print(f'Model: {model_name}')
+        results[model_name] = {}
 
         for dataset_name, texts in datasets_and_texts.items():
             print(f'=====================')
@@ -174,3 +181,7 @@ if __name__ == "__main__":
                     continue
                 infos.append(sum(info)/len(info))
             print(f'Average self-info: {sum(infos)/len(infos)}')
+            results[model_name][dataset_name] = sum(infos)/len(infos)
+    
+    with open(output_file, 'w') as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)

@@ -5,3 +5,5 @@ tqdm
 transformers
 torch
 numpy
+matplotlib
+pandas
