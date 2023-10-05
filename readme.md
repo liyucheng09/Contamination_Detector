@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/logo.png" alt="Logo of Contamination Detector" width="auto" height="150" />
+    <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/logo.png" alt="Logo of Contamination Detector" width="auto" height="160" />
 </p>
 
 # Contamination Detector for LLMs Evaluation
