@@ -4,17 +4,48 @@
 
 # Contamination Detector for LLMs Evaluation
 
-In the realm of Large Language Models (LLMs), Data Contamination is a ubiquitous issue. **Contamination Detector** aids in identifying and analyzing such potential contamination without requiring access to the LLMs' training data, enabling even small teams and individuals to conduct robust analyses.
+In the realm of Large Language Models (LLMs), Data Contamination is a ubiquitous issue. **Contamination Detector** aids in identifying and analyzing such potential contamination without requiring access to the LLMs' training data, enabling even small teams and individuals to conduct robust evaluation.
 
-## Features
+- **Internet Presence Verification**:
+
+Contamination Detector goes through the benchmark and verify whether test examples (both inputs and labels) are present on the internet.
+
+An example of contamination from **MMLU**:
+
+```
+[
+  {
+    "input": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+    "match_string": "The economy is in a deep recession. Given this economic situation, which of the following statements about monetary policy is accurate policy recession policy",
+    "score": 0.900540825748582,
+    "name": "<b>AP Macroeconomics Question 445: Answer and Explanation</b> - CrackAP.com",
+    "contaminated_url": "https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html",
+  },
+  {
+    "input": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+    "match_string": "Given this economic situation which of the following statements about monetary policy is accurate policy recession policy",
+    "score": 0.615243730628346,
+    "name": "<b>AP Macroeconomics Practice Test 21</b> - CrackAP.com",
+    "contaminated_url": "https://www.crackap.com/ap/macroeconomics/test41.html",
+  }
+]
+```
+
+The results show this example including the question, choices, and answer is accessible on the internet and thus has high risk of containation.
+
+- **Memorization Behavior Examination**:
+
+Contamination Detector also audit the entire benchmark on a specific LLM, to verify whether the model exhibits memorization behaviors on test benchmarks. This is done by comparing the perplexity of the benchmark against memorised and fresh data.
+
+![](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png)
+
+This is an contamination illustration from **XSum**. We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated.
+
+## Why Choose Contamination Detector
 
 Traditional methods for analyzing contamination often depend on identifying overlaps between training and test data. However, many modern LLMs utilize closed-source training data, restricting analysis largely to internal reports from big tech companies or research groups.
 
 Contamination Detector uses a novel approach by directly auditing models and benchmarks, thereby **avoiding the need for access to the training data.** This provides opportunities for small teams and individuals to conduct their own contamination analyses.
-
-We implement two principal approaches:
-- **Internet Presence Verification**: Using `search.py`, verify whether test examples (both inputs and labels) are present on the internet, signifying a potential inclusion in web-scraped training data like Common Crawl.
-- **Memorization Behavior Examination**: Employing `perplexity.py`, ascertain whether a model displays memorization behaviors on test benchmarks by comparing the perplexity of benchmarks against two specific baselines: memorized and clean.
 
 ## 0.To start
 
@@ -30,7 +61,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-## `search.py`
+## Run Internet Presence Verification
 
 To check whether test examples are accessible on the internet:
 
@@ -42,17 +73,25 @@ python search.py
 
 To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api).
 
-**`MMLU` - An example of contamination**
+It will generate a report under `reports/`.
+
+After you have the report for example `mmlu.json`, you could try this to visualize several samples:
+
+```
+python visualize_search.py
+```
+
+**`MMLU` - An example of contamination visualization**
 
 **Question:** The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?
 
 **Matches:**
 | Page Name | Overlapping | Match Ratio | URL |
 |-|-|-|-|
-| **AP Macroeconomics Question 445: Answer and Explanation** - CrackAP.com | **The economy is in a deep recession. Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.901 | [Link](https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html) |  
-| **AP Macroeconomics Practice Test 21** - CrackAP.com | **Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.615 | [Link](https://www.crackap.com/ap/macroeconomics/test41.html) |
+| AP Macroeconomics Question 445: Answer and Explanation - CrackAP.com | **The economy is in a deep recession. Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.901 | [Link](https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html) |  
+| AP Macroeconomics Practice Test 21 - CrackAP.com | **Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.615 | [Link](https://www.crackap.com/ap/macroeconomics/test41.html) |
 
-We found the question, choices, and answers are all presented in the domain `www.crackap.com/`, which indicates a high risk that this example is contaminated.
+It will hightlight the overlapping part of the benchmark and internet pages.
 
 **Check more comtamination examples of MMLU [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
 
@@ -63,49 +102,26 @@ Results for some benchmarks:
 - `C-Eval`: 35 out of 100 have high risk of contamination.
 - `Winograde`: only 1 out of 100 have high risk of contamination.
 
-## `perplexity.py`
+## Run Memorization Behavior Examination
 
-We also propose to analyze contamination by measure how much a model **exhibits memorizations** on a certain benchmark - we compare the perplexity of a benchmark against two tailored baselines: the memorized and clean baseline.
-
-- The memorized baseline contains samples model already learned during training. 
-- The clean baseline consists of materials the model has never seen before. 
-
-Comparing the perplexity of benchmark against the two baselines, we could quantify too what extent the model memorized the benchmark.
-
-Let's take XSum as an example:
-
-![](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png)
-
-XSum is comprised from BBC News articles. So the memorized baseline here contains BBC News published during the period of training data construction (Aug 2022 for LLaMA, Sep 2019 for GPT-3). The clean baseline is collected from latest BBC News published after June 2023.
-
-We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated.
-
-simply run:
+simply run to view the perplexity comparison:
 
 ```
 python perplexity.py
 ```
 
-to view the perplexity comparison.
+You could specify models and benchmarks to test. It will write the results under `/reports/`.
 
-**Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**
-
-**Important:** you should choose apporiate data source for the memorised and clean baselinse. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines.
-Check more details about this method in this paper: [Estimating Contamination via Perplexity: Quantifying Memorisation in Language Model Evaluation](https://arxiv.org/abs/2309.10677).
-
-## Visualization tools
-
-You could generate visualization report to better understand data contaminatioin.
-
-try:
+Then you could generate the figure with:
 
 ```
 python visualize_search.py
 ```
 
-This onnly works after you run `python search.py`.
+**Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**
 
-Will add visualization for `perplexity.py` shortly.
+**Important:** you should choose apporiate data source for the memorised and clean baselinse. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines.
+Check more details about this method in this paper: [Estimating Contamination via Perplexity: Quantifying Memorisation in Language Model Evaluation](https://arxiv.org/abs/2309.10677).
 
 ## Issues
 
