@@ -93,9 +93,9 @@ python visualize_search.py
 
 It will hightlight the overlapping part of the benchmark and internet pages.
 
-**Check more comtamination examples of MMLU [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
+**Check more contamination examples of MMLU [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
 
-**Check comtamination examples of C-Eval [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
+**Check contamination examples of C-Eval [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
 Results for some benchmarks:
 - `MMLU`: 29 out of 100 have high risk of contamination.
