@@ -1,0 +1,370 @@
+{
+  "dataset_name": "commonsense_qa",
+  "matches": [
+    [
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "bank A revolving door is convenient for two direction travel also serves as a security measure bank bank",
+        "score": 0.7418154761904762,
+        "score_label": 1.0,
+        "name": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for ...",
+        "url": "https://cs.stanford.edu/~myasu/files/QA-GNN_slides_NAACL21.pdf",
+        "snippet": "<b>bank</b> <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what? A. <b>bank</b>* B. library C. department store D. mall E. new york Some entities are irrelevant to the given QA context Off-topic - e.g. holiday Polysemy - e.g. river_<b>bank</b> Generic - e.g. human, place"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure bank also",
+        "score": 0.8319370958259846,
+        "score_label": 1.0,
+        "name": "Relational Graph Reasoning for Knowledge-Augmented Question Answering",
+        "url": "https://shanzhenren.github.io/csci-699-replnlp-2019fall/reports/Jun_Yan.pdf",
+        "snippet": "<b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? A.<b>bank</b> B.library C.department store D.mall E.new york Meanwhile, we <b>also</b> have a knowledge graph G = (V;E) serving as the knowledge source, where V is the node set and Eis the edge set. Each node is a concept and each directed edge in-"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure",
+        "score": 0.8042511122095898,
+        "score_label": 0.0,
+        "name": "Albert + KCR(knowledge chosen by relations) - <b>GitHub</b>",
+        "url": "https://github.com/jessionlin/csqa/blob/master/Model_details.md",
+        "snippet": "And the input schema will be [CLS] stem [SEP] choice_concept relation object [SEP]. For example : [CLS] <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? [SEP] library PartOf house [SEP] \\n \\n \\n"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "Revolving door is convenient for two direction travel but it also serves as a security measure revolving door bank security bank Two",
+        "score": 0.7673422310100511,
+        "score_label": 1.0,
+        "name": "Xin Guan, Biwei Cao, Qingqing Gao, Zheng Yin, Bo Liu, Jiuxin Cao Abstract",
+        "url": "https://arxiv.org/pdf/2305.05936.pdf",
+        "snippet": "<b>Revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? RelateTo <b>revolving</b> <b>door</b> department store New York mall <b>bank</b> <b>security</b> A.<b>bank</b> B. library C. department store D. mall E. New York Figure 1: Example of multi-hop commonsense reason-ing. <b>Two</b>-hops path of knowledge is required to reason"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure Bank",
+        "score": 0.8479570840681951,
+        "score_label": 1.0,
+        "name": "Towards Generalizable Neuro-Symbolic Systems for Commonsense Question ...",
+        "url": "https://aclanthology.org/D19-6003.pdf",
+        "snippet": "Question: <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? Answer choices: A. <b>Bank</b>*; B. Library; C. Department Store; D. Mall; E. New York"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel also serves as a security measure",
+        "score": 0.701058201058201,
+        "score_label": 0.0,
+        "name": "Reasoning with Language Models and Knowledge Graphs for Question ...",
+        "url": "https://ai.stanford.edu/blog/qagnn/",
+        "snippet": "Let’s consider an example question in the figure: “<b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what?”."
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "bank bank bank A revolving door is convenient for two direction travel also serves as a security measure bank",
+        "score": 0.7418154761904762,
+        "score_label": 1.0,
+        "name": "(PDF) QA-<b>GNN: Reasoning with Language Models</b> and ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/350853116_QA-GNN_Reasoning_with_Language_Models_and_Knowledge_Graphs_for_Question_Answering",
+        "snippet": "<b>bank</b>. <b>bank</b>. holiday. river. <b>bank</b>. <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what? A. <b>bank</b> * B. library C. department store . D. mall E. new ..."
+      }
+    ],
+    [
+      {
+        "query": "James was looking for a good place to buy farmland.  Where might he look? midwest",
+        "match_string": "James was looking for a good place to buy farmland Where might he look midwest farmland midwest farmland place place place farm buy",
+        "score": 0.9491851851851851,
+        "score_label": 1.0,
+        "name": "Improving Commonsense Question Answering by Graph-based Iterative ...",
+        "url": "https://aclanthology.org/2020.coling-main.232.pdf",
+        "snippet": "<b>James</b> <b>was looking</b> <b>for a good</b> <b>place</b> <b>to buy</b> <b>farmland</b>. <b>Where might</b> <b>he</b> <b>look</b>? Choices A: <b>midwest</b> B: countryside C: estate D: farming areas E: illinois Evidences from different knowledge sources ConceptNet <b>farmland</b> AtLocation <b>midwest</b> <b>farmland</b> AtLocation countryside countryside IsA <b>place</b>, estate RelatedTo <b>place</b> countryside <b>place</b> RelatedTo <b>farm</b> <b>buy</b> ..."
+      },
+      {
+        "query": "James was looking for a good place to buy farmland.  Where might he look? midwest",
+        "match_string": "James was looking for a good place to buy farmland he might look place midwest",
+        "score": 0.875,
+        "score_label": 1.0,
+        "name": "(PDF) Improving Commonsense Question Answering by Graph ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/345351483_Improving_Commonsense_Question_Answering_by_Graph-based_Iterative_Retrieval_over_Multiple_Knowledge_Sources",
+        "snippet": "back to the example, <b>James</b> <b>was looking</b> <b>for a good</b> <b>place</b> <b>to buy</b> <b>farmland</b>. It means that <b>he</b> <b>might</b> <b>look</b> for such a <b>place</b> in the <b>midwest</b> rather than the countryside."
+      }
+    ],
+    [
+      {
+        "query": "What island country is ferret popular? great britain",
+        "match_string": "What island country is ferret popular Great Britain ferret Great Britain Great Britain country Great Britain island ferret",
+        "score": 0.6650390625,
+        "score_label": 1.0,
+        "name": "<b>Winnowing Knowledge for Multi</b>-choice Question Answering - ACL Anthology",
+        "url": "https://aclanthology.org/2021.findings-emnlp.100.pdf",
+        "snippet": "Question <b>What island</b> <b>country</b> <b>is ferret</b> <b>popular</b>? Answer <b>Great</b> <b>Britain</b> Attention Knowledge 1 = 0.949 You are likely to ﬁnd a <b>ferret</b> in <b>Great</b> <b>Britain</b> 2 = 0.017 <b>Great</b> <b>Britain</b> is a <b>country</b> 3 = 0.017 <b>Great</b> <b>Britain</b> is a large <b>island</b> 4 = 0.017 A <b>ferret</b> is an animal. Table 1: An example that attention pooling helps to"
+      }
+    ],
+    [
+      {
+        "query": "In what Spanish speaking North American country can you get a great cup of coffee? mexico",
+        "match_string": "American country can you get a great cup of coffee mexico coffee mexico",
+        "score": 0.6854338842975208,
+        "score_label": 1.0,
+        "name": "arXiv:2203.11364v1 [cs.CL] 21 Mar 2022",
+        "url": "https://arxiv.org/pdf/2203.11364.pdf",
+        "snippet": "<b>American</b> <b>country</b> <b>can</b> <b>you</b> <b>get</b> <b>a great</b> <b>cup</b> <b>of coffee</b>? , <b>mexico</b>, mildred s <b>coffee</b> shop, diner, kitchen, canteen , -&gt; <b>mexico</b> ... case, the <b>language</b> model <b>can</b> “give” an answer by assigning probability to tokens that begin giving each of these answers (invariant to lexical varia-"
+      }
+    ],
+    [
+      {
+        "query": "What do people typically do while playing guitar? singing",
+        "match_string": "What do people typically do while playing guitar singing",
+        "score": 0.9993141289437586,
+        "score_label": 1.0,
+        "name": "Relation-aware Bidirectional Path Reasoning for Commonsense Question ...",
+        "url": "https://aclanthology.org/2021.conll-1.35.pdf",
+        "snippet": "Q:<b>What do</b> <b>people</b> <b>typically</b> <b>do</b> <b>while</b> <b>playing</b> <b>guitar</b>? cry hear sounds <b>singing</b> anthritis making music Figure 1: An example of CommonsenseQA. Pre-trained language models (PTLMs) with dis- tributed representations, such as BERT, RoBERTa, XLNet and ELECTRA(Devlin et al., 2019; Liu et al., 2019; Yang et al., 2019; Clark et al., 2020),"
+      }
+    ],
+    [
+      {
+        "query": "Where do adults use glue sticks? office",
+        "match_string": "Where do adults use glue sticks office office",
+        "score": 0.9883381924198251,
+        "score_label": 1.0,
+        "name": "New test reveals AI still lacks common sense - Tech Xplore",
+        "url": "https://techxplore.com/news/2020-11-reveals-ai-lacks-common.html",
+        "snippet": "For instance, a typical setting for discriminative common-sense testing is a multiple-choice question answering task, for example: &quot;<b>Where do</b> <b>adults</b> <b>use</b> <b>glue</b> <b>sticks</b>?&quot; A: classroom B: <b>office</b> C: desk drawer. The answer here, of course, is &quot;B: <b>office</b>.&quot; Even computers can figure this out without much trouble."
+      },
+      {
+        "query": "Where do adults use glue sticks? office",
+        "match_string": "use glue sticks Where do adult use glue stick",
+        "score": 0.8412698412698413,
+        "score_label": 1.0,
+        "name": "(PDF) PathReasoner: Explainable reasoning paths for commonsense ...",
+        "url": "https://www.researchgate.net/publication/355738156_PathReasoner_Explainable_reasoning_paths_for_commonsense_question_answering",
+        "snippet": "<b>office</b>. <b>adults</b>. <b>glue</b> . ... <b>use</b> <b>glue</b> <b>sticks</b>? ” is reduced to “ <b>Where do</b> <b>adult</b> <b>use</b> <b>glue</b> <b>stick</b>? ”. Then the n-grams in the reduced question sequence. are compared to the knowledge graph entities."
+      }
+    ],
+    [
+      {
+        "query": "Blue read material outside of his comfort zone because he wanted to gain what? new perspective",
+        "match_string": "Blue read material outside of his comfort zone because he wanted to gain new perspective",
+        "score": 0.9363888888888889,
+        "score_label": 1.0,
+        "name": "GNN C REVISITING GNN FOR QUESTION ANSWERING - OpenReview",
+        "url": "https://openreview.net/pdf?id=hzmQ4wOnSb",
+        "snippet": "In Step 2, graph modeling is carried <b>out</b> via an elaborately designed graph-based neural module. For instance,Lin et al.(2019) uses GCN-LSTM-HPA which combines ... <b>Blue</b> <b>read</b> <b>material</b> <b>outside</b> <b>of his</b> <b>comfort</b> <b>zone</b> <b>because</b> <b>he</b> <b>wanted</b> <b>to gain</b> what? A. <b>new</b> <b>perspective</b> B. understanding C. entertained D. hunger E. tired eyes"
+      }
+    ],
+    [
+      {
+        "query": "A human wants to submerge himself in water, what should he use? whirlpool bath",
+        "match_string": "A human wants himself in water what should he use Whirlpool bath Whirlpool bath",
+        "score": 0.8504464285714285,
+        "score_label": 1.0,
+        "name": "arXiv:2104.08315v9 [cs.CL] 20 Nov 2022",
+        "url": "https://arxiv.org/pdf/2104.08315",
+        "snippet": "Specifically, consider the example question (shown in Figure 1): “<b>A human</b> <b>wants</b> to sub- merge <b>himself</b> <b>in water</b>, <b>what should</b> <b>he</b> <b>use</b>?” with multiple choice options “Coffee cup”, “<b>Whirlpool</b> <b>bath</b>”, “Cup”, and “Puddle.” From the given op- tions, “<b>Whirlpool</b> <b>bath</b>” is the only one that makes sense."
+      }
+    ],
+    [
+      {
+        "query": "What continent has the most castles? europe",
+        "match_string": "Europe castles Continent&#39;s the most castles has",
+        "score": 0.7301587301587301,
+        "score_label": 1.0,
+        "name": "List of 10 Biggest <b>Castles</b> in <b>Europe</b> - History Lists",
+        "url": "https://historylists.org/architecture/list-of-10-biggest-castles-in-europe.html",
+        "snippet": "<b>Europe</b>&#39;s <b>castles</b> offer the best insight into the Old <b>Continent&#39;s</b> history, at least that related to its powerful kings and nobles who used to live in these fortified structures which were built to impress as well as intimidate the potential attackers. It is nearly impossible to make a list of <b>the most</b> spectacular <b>castles</b> as each of them <b>has</b> a ..."
+      }
+    ],
+    [
+      {
+        "query": "James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what? universe",
+        "match_string": "James looked up and saw the start twinkling in the black yonder He marveled the sheer number of them and the size universe",
+        "score": 0.9175803402646503,
+        "score_label": 1.0,
+        "name": "commonsense_qa · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/commonsense_qa/viewer/default/validation?p=1",
+        "snippet": "&quot;<b>James</b> <b>looked</b> <b>up</b> <b>and saw</b> <b>the start</b> <b>twinkling</b> <b>in the black</b> <b>yonder</b>. <b>He</b> <b>marveled</b> <b>the sheer</b> <b>number</b> <b>of them</b> <b>and the size</b> of what?&quot; { &quot;label&quot;: [ &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, &quot;D&quot;, &quot;E&quot; ], &quot;text&quot;: [ &quot;<b>universe</b>&quot;, &quot;orbit&quot;, &quot;night sky&quot;, &quot;outer space&quot;, &quot;his wallet&quot; ] } &quot;5ac83e9e6fa9851ad3cccb0d57c1d88f&quot; &quot;What would encourage someone to continue playing tennis?&quot;"
+      }
+    ],
+    [
+      {
+        "query": "A gentleman is carrying equipment for golf, what is he likely to have? club",
+        "match_string": "A gentleman is carrying equipment for golf what is he likely to have club",
+        "score": 0.9998177842565598,
+        "score_label": 1.0,
+        "name": "Center for Research in Computer Vision – UCF CRCV",
+        "url": "https://www.crcv.ucf.edu/wp-content/uploads/2018/11/Week-3-Nathan.pptx",
+        "snippet": "“<b>A gentleman</b> <b>is carrying</b> <b>equipment</b> <b>for golf</b>, <b>what is he</b> <b>likely</b> <b>to have</b>? (a) <b>club</b> (b) assembly hall (c) meditation center (d) meeting (e) church . ... The <b>gentleman</b> is <b>likely</b> <b>carrying</b> <b>equipment</b> <b>for golf</b>, which includes a <b>golf</b> <b>club</b>. The image shows him holding a <b>golf</b> <b>club</b>, and this is a common piece of <b>equipment</b> used in the sport of <b>golf</b>."
+      }
+    ],
+    [
+      {
+        "query": "Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what? fall asleep",
+        "match_string": "Dan was ditting quietly on the couch with a book in his hand Laurie thought that he was just focused on what he was doing but he actually did fall asleep",
+        "score": 0.9677094172736733,
+        "score_label": 1.0,
+        "name": "natural-instructions/task073_commonsenseqa_answer_generation ... - <b>GitHub</b>",
+        "url": "https://github.com/allenai/natural-instructions/blob/master/tasks/task073_commonsenseqa_answer_generation.json",
+        "snippet": "&quot;input&quot;: &quot;<b>Dan</b> <b>was ditting</b> <b>quietly</b> <b>on the couch</b> <b>with a book</b> <b>in his</b> <b>hand</b>. <b>Laurie</b> <b>thought</b> <b>that he</b> <b>was just</b> <b>focused</b> <b>on what he</b> <b>was doing</b>, <b>but he</b> <b>actually</b> <b>did</b> what?\\n(A)eat (B)think (C)reading (D)meditate (E)<b>fall</b> <b>asleep</b>&quot;,"
+      },
+      {
+        "query": "Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what? fall asleep",
+        "match_string": "Dan was ditting quietly on the couch with a book in his hand Laurie thought that he was just focused on what he was doing but he actually did",
+        "score": 0.9057483650416172,
+        "score_label": 0.0,
+        "name": "commonsense_qa · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/commonsense_qa/viewer/default/validation?p=1",
+        "snippet": "&quot;<b>Dan</b> <b>was ditting</b> <b>quietly</b> <b>on the couch</b> <b>with a book</b> <b>in his</b> <b>hand</b>. <b>Laurie</b> <b>thought</b> <b>that he</b> <b>was just</b> <b>focused</b> <b>on what he</b> <b>was doing</b>, <b>but he</b> <b>actually</b> <b>did</b> what?&quot;"
+      }
+    ],
+    [
+      {
+        "query": "Where would you buy food? store",
+        "match_string": "you buy food stores",
+        "score": 0.6614583333333333,
+        "score_label": 1.0,
+        "name": "SHOP NOW: <b>Places Other Than the Grocery Store</b> Where <b>You</b> Can <b>Buy</b> <b>Food</b> at ...",
+        "url": "https://www.theorganicprepper.com/places-to-buy-food/",
+        "snippet": "Here are some places <b>you</b> may be able to <b>buy</b> <b>food</b> when there&#39;s none in the grocery <b>stores</b>, as well as some unusual ideas for sold-out necessities. ... ‘Ditto on the feed <b>stores</b>. <b>You</b> can always <b>buy</b> a cheap bag of oats, get the feed oats, and not the seed oats as the feed oats will be for feeding to animals and not coated, and the seed oats will ..."
+      }
+    ],
+    [
+      {
+        "query": "Where could a personal ficus live? front yard",
+        "match_string": "Where could a personal ficus live front yard",
+        "score": 0.9990234375,
+        "score_label": 1.0,
+        "name": "A arXiv:2110.03192v1 [cs.AI] 7 Oct 2021",
+        "url": "https://arxiv.org/pdf/2110.03192v1",
+        "snippet": "<b>Where could</b> <b>a personal</b> <b>ficus</b> <b>live</b> ? A. <b>front</b> <b>yard</b> B. cabin in the woods C. california D. conservatory E. tropical forest Essential, Efficient, Effective Effective Efficient Interpretable 1 Figure 1: We analyze state-of-the-art GNN modules for the task of KG-powered question answering,"
+      }
+    ],
+    [
+      {
+        "query": "Where is a teacher likely to keep her clavichord? music room",
+        "match_string": "Where is a teacher likely to keep her clavichord clavichord room music music room",
+        "score": 0.9898572501878287,
+        "score_label": 1.0,
+        "name": "commonsense_qa · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/commonsense_qa/viewer/default/validation?p=6",
+        "snippet": "&quot;<b>Where is a teacher</b> <b>likely</b> <b>to keep</b> <b>her</b> <b>clavichord</b>?&quot; &quot;<b>clavichord</b>&quot; { &quot;label&quot;: [ &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, &quot;D&quot;, &quot;E&quot; ], &quot;text&quot;: [ &quot;living <b>room</b>&quot;, &quot;parlor&quot;, &quot;<b>music</b> hall&quot;, &quot;<b>music</b> <b>room</b>&quot;, &quot;museum&quot; ] } &quot;0aa23ad1ba9f28bc3e0185237a7ce1cc&quot;"
+      }
+    ],
+    [
+      {
+        "query": "Where is a well used toy car likely to be found? child's room",
+        "match_string": "Where is a well used toy car likely to be found likely well used toy car child&#39;s",
+        "score": 0.8261408730158729,
+        "score_label": 0.3333333333333333,
+        "name": "Nintil - Images and Words: AI in 2026",
+        "url": "https://nintil.com/interesting-ai-models/",
+        "snippet": "<b>Where is a well</b> <b>used</b> <b>toy</b> <b>car</b> <b>likely</b> <b>to be found</b>? The most <b>likely</b> place to find a <b>well</b> <b>used</b> <b>toy</b> <b>car</b> is in a <b>child&#39;s</b> bedroom. Explain the joke &quot;What do you call a polar bear without ears? Polar B.&quot;. Why Polar B.? The joke is a play on words. &quot;Polar B&quot; sounds like &quot;Polar Bear&quot;, but without the &quot;ear&quot; sound at the end."
+      }
+    ],
+    [
+      {
+        "query": "Where does a child likely sit at a desk? schoolroom",
+        "match_string": "Where does a child likely sit at a desk Schoolroom Child Sit Desk Schoolroom",
+        "score": 0.892,
+        "score_label": 1.0,
+        "name": "Learning to Deceive Knowledge Sungchul Kim, Ryan Rossi, Handong ... - ICLR",
+        "url": "https://iclr.cc/media/iclr-2021/Slides/2769.pdf",
+        "snippet": "<b>Where does</b> <b>a child</b> <b>likely</b> <b>sit</b> <b>at a desk</b>? A. <b>Schoolroom</b> B. Furniture store C. Patio D. Office building E. Library 3 Figure Credit: Feng, et al., 2020. Raman et al., Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation, ICLR 2021 KG-Augmented Commonsense QA <b>Child</b> Learn <b>Sit</b> <b>Desk</b> <b>Schoolroom</b> Classroom CapableOf"
+      }
+    ],
+    [
+      {
+        "query": "A weasel has a thin body and short legs to easier burrow after prey in a what? rabbit warren",
+        "match_string": "A weasel has a thin body and short legs to easier burrow after prey has to easier burrow after",
+        "score": 0.6907894736842105,
+        "score_label": 0.0,
+        "name": "(PDF) GreaseLM: Graph REASoning Enhanced Language Models ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/358144631_GreaseLM_Graph_REASoning_Enhanced_Language_Models_for_Question_Answering",
+        "snippet": "For example, the CommonsenseQA question in T able 1, “ <b>A weasel</b> <b>has</b> <b>a thin</b> <b>body</b> <b>and short</b> <b>legs</b> <b>to easier</b> <b>burrow</b> <b>after</b> <b>prey</b> in a what?” <b>has</b> three prepositional phrases: <b>to easier</b> <b>burrow</b> , <b>after</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "The man working in the attic swatted away a bee, but soon the single bee was an entire what? swarm",
+        "match_string": "The man working in the attic swatted away a bee but soon the single bee was an entire swarm swarm",
+        "score": 0.9494459833795015,
+        "score_label": 1.0,
+        "name": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think ...",
+        "url": "https://arxiv.org/pdf/2306.14050.pdf",
+        "snippet": "CommonsenseQA: Q: <b>The man</b> <b>working</b> <b>in the attic</b> <b>swatted</b> <b>away</b> <b>a bee</b>, <b>but soon</b> <b>the single</b> <b>bee</b> <b>was an entire</b> what? (a)<b>swarm</b>; (b) pack; (c) countryside; (d) soft drink; (e) field of flowers GPT-3: The answer must be related to bees, but also connected with being numerous. Of the above answers, only <b>swarm</b> fits the scenario. So the answer is:(a)"
+      }
+    ],
+    [
+      {
+        "query": "If a storey contained a panoramic view, what kind of structure would it be in? tall building",
+        "match_string": "tall building If a storey contained a panoramic view what kind of structure",
+        "score": 0.7633136094674555,
+        "score_label": 1.0,
+        "name": "coastalcph/fair-rationales · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/coastalcph/fair-rationales",
+        "snippet": "<b>If a storey</b> <b>contained</b> <b>a panoramic</b> <b>view</b> , <b>what kind</b> <b>of structure</b> would it be in ? 2. 3 D. <b>storey</b>. 3 ... <b>tall</b> <b>building</b>. 2 WO. QID111. 51. <b>If a storey</b> <b>contained</b> <b>a panoramic</b> <b>view</b> , <b>what kind</b> <b>of structure</b> would it be in ? ... <b>storey</b>,<b>contained</b>,<b>panoramic</b>,<b>view</b>,<b>what,kind</b>,<b>of,structure</b>,would,it,be,in."
+      }
+    ],
+    [
+      {
+        "query": "What is unlikely to get bugs on its windshield due to bugs' inability to reach it when it is moving? airplane",
+        "match_string": "What is unlikely to get bugs on its windshield due to bugs inability to reach it when it is moving",
+        "score": 0.9523214285714285,
+        "score_label": 0.0,
+        "name": "(PDF) GreaseLM: Graph REASoning Enhanced Language Models ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/358144631_GreaseLM_Graph_REASoning_Enhanced_Language_Models_for_Question_Answering",
+        "snippet": "<b>What is unlikely</b> <b>to get</b> <b>bugs</b> <b>on its</b> <b>windshield</b> <b>due</b> <b>to bugs</b> &#39; <b>inability</b> <b>to reach</b> <b>it when it is moving</b>? ... <b>What is unlikely</b> <b>to get</b> <b>bugs</b> <b>on its</b> <b>windshield</b> <b>due</b> <b>to bugs</b> &#39; <b>inability</b> <b>to reach</b> it when it ..."
+      }
+    ],
+    [
+      {
+        "query": "Where would you find people standing in a line outside? bus depot",
+        "match_string": "People Standing In A Line Outside People Standing In A Line Outside Find you find",
+        "score": 0.6614583333333333,
+        "score_label": 0.0,
+        "name": "<b>People</b> <b>Standing</b> <b>In A Line</b> <b>Outside</b> Pictures, Images and Stock Photos",
+        "url": "https://www.istockphoto.com/photos/people-standing-in-a-line-outside",
+        "snippet": "<b>People</b> <b>Standing</b> <b>In A Line</b> <b>Outside</b> Stock Photos, Pictures &amp; Royalty-Free Images - iStock Search from <b>People</b> <b>Standing</b> <b>In A Line</b> <b>Outside</b> stock photos, pictures and royalty-free images from iStock. <b>Find</b> high-quality stock photos that <b>you</b> won&#39;t <b>find</b> anywhere else. Video Trending searches Mental health Hiring Paper texture Meditation Fitness Computer"
+      }
+    ],
+    [
+      {
+        "query": "What is the opposite of a little of something? lot of",
+        "match_string": "What is the opposite of &quot;a little What is the opposite of a little Opposite of something Opposite of something Opposite of something lot",
+        "score": 0.8711495116453795,
+        "score_label": 1.0,
+        "name": "<b>What is the opposite of &quot;a little</b>&quot;? - WordHippo",
+        "url": "https://www.wordhippo.com/what-is/the-opposite-of/a_little.html",
+        "snippet": "<b>What is the opposite of &quot;a little</b>&quot;? <b>What is the opposite of a little</b>? that you can use instead. Contexts Determiner <b>Opposite</b> of a small, unspecified amount <b>of something</b> (uncountable) <b>Opposite</b> of an unspecified amount <b>of something</b> uncountable Adverb … more Determiner <b>Opposite</b> of a small, unspecified amount <b>of something</b> (uncountable) a <b>lot</b>"
+      }
+    ],
+    [
+      {
+        "query": "James decided that competing was the right choice.   Not competing has a defined outcome, but if he competes then what could happen? might win",
+        "match_string": "James decided that competing was the right choice Not competing has a defined outcome but if he competes then what could happen",
+        "score": 0.9166236225895317,
+        "score_label": 0.0,
+        "name": "coastalcph/fair-rationales · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/coastalcph/fair-rationales/viewer?p=6",
+        "snippet": "<b>James</b> <b>decided</b> <b>that competing</b> <b>was the right</b> <b>choice</b> . <b>Not</b> <b>competing</b> <b>has</b> <b>a defined</b> <b>outcome</b> , <b>but if he</b> <b>competes</b> <b>then</b> <b>what could</b> <b>happen</b> ?"
+      }
+    ],
+    [
+      {
+        "query": "David watched some nesting birds using his binoculars while on vacation.  Where might David be?. forest",
+        "match_string": "David watched some nest birds using his binoculars while on vacation Wheremight David forest",
+        "score": 0.8075073964497042,
+        "score_label": 1.0,
+        "name": "Common senseqa q if there is a pond with trees around - Course Hero",
+        "url": "https://www.coursehero.com/file/p3il7k6k/Common-senseQA-Q-If-there-is-a-pond-with-trees-around-it-where-is-it-likely-lo/",
+        "snippet": "Therefore, among A through E, the answer is C. X Q: <b>David</b> <b>watched</b> <b>some</b> <b>nest</b>- ing <b>birds</b> <b>using</b> <b>his</b> <b>binoculars</b> <b>while</b> <b>on vacation</b>. <b>Wheremight</b> <b>David</b> be?. Answer Choices: (A) sky (B) vacca-tion (C) <b>forest</b> (D) countryside (E) roof A: Let’s think step by step. First, we need to understand what the word &quot;binoc- ulars&quot; means."
+      },
+      {
+        "query": "David watched some nesting birds using his binoculars while on vacation.  Where might David be?. forest",
+        "match_string": "David watched some nesting birds using his binoculars while on vacation Where might David vacation forest binoculars Binoculars",
+        "score": 0.9075,
+        "score_label": 1.0,
+        "name": "A discussion of the paper, &quot;Large Language Models are Zero-Shot ...",
+        "url": "https://www.lesswrong.com/posts/ABnN5kCKmWYihtHQF/a-discussion-of-the-paper-large-language-models-are-zero",
+        "snippet": "Example 4) Q: <b>David</b> <b>watched</b> <b>some</b> <b>nesting</b> <b>birds</b> <b>using</b> <b>his</b> <b>binoculars</b> <b>while</b> <b>on vacation</b>. <b>Where might</b> <b>David</b> be?. Answer Choices: (A) sky (B) <b>vacation</b> (C) <b>forest</b> (D) countryside (E) roof A: Let’s think step by step. First, we need to understand what the word &quot;<b>binoculars</b>&quot; means. <b>Binoculars</b> are two telescopes that are joined together and allow a ..."
+      }
+    ]
+  ]
+}

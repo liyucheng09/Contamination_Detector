@@ -1,0 +1,2778 @@
+{
+  "winogrande_xs val 0": [
+    "input-and-label contamination",
+    0.9224489795918368
+  ],
+  "winogrande_xs val 1": [
+    "clean",
+    0.1962962962962963
+  ],
+  "winogrande_xs val 3": [
+    "clean",
+    0.2664930555555556
+  ],
+  "winogrande_xs val 4": [
+    "clean",
+    0.336734693877551
+  ],
+  "winogrande_xs val 5": [
+    "clean",
+    0.11904761904761904
+  ],
+  "winogrande_xs val 7": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 8": [
+    "clean",
+    0.2477777777777778
+  ],
+  "winogrande_xs val 9": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 10": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 11": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 12": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 13": [
+    "clean",
+    0.1784
+  ],
+  "winogrande_xs val 14": [
+    "clean",
+    0.12139423076923078
+  ],
+  "winogrande_xs val 16": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 17": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 19": [
+    "clean",
+    0.10000000000000002
+  ],
+  "winogrande_xs val 20": [
+    "clean",
+    0.20855379188712525
+  ],
+  "winogrande_xs val 21": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 22": [
+    "clean",
+    0.248
+  ],
+  "winogrande_xs val 24": [
+    "clean",
+    0.29924852388620504
+  ],
+  "winogrande_xs val 26": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 27": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 28": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 33": [
+    "clean",
+    0.1690909090909091
+  ],
+  "winogrande_xs val 34": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 35": [
+    "clean",
+    0.21296296296296297
+  ],
+  "winogrande_xs val 36": [
+    "clean",
+    0.2688888888888889
+  ],
+  "winogrande_xs val 37": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 38": [
+    "clean",
+    0.1171875
+  ],
+  "winogrande_xs val 40": [
+    "clean",
+    0.3180272108843537
+  ],
+  "winogrande_xs val 42": [
+    "clean",
+    0.09126984126984126
+  ],
+  "winogrande_xs val 46": [
+    "clean",
+    0.2222222222222222
+  ],
+  "winogrande_xs val 47": [
+    "clean",
+    0.18039772727272727
+  ],
+  "winogrande_xs val 50": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 52": [
+    "clean",
+    0.12827586206896552
+  ],
+  "winogrande_xs val 53": [
+    "clean",
+    0.13722826086956522
+  ],
+  "winogrande_xs val 55": [
+    "clean",
+    0.05
+  ],
+  "winogrande_xs val 57": [
+    "clean",
+    0.15
+  ],
+  "winogrande_xs val 60": [
+    "clean",
+    0.32266666666666666
+  ],
+  "winogrande_xs val 61": [
+    "clean",
+    0.17857142857142855
+  ],
+  "winogrande_xs val 62": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 64": [
+    "clean",
+    0.07142857142857142
+  ],
+  "winogrande_xs val 66": [
+    "clean",
+    0.15625
+  ],
+  "winogrande_xs val 68": [
+    "clean",
+    0.20272727272727273
+  ],
+  "winogrande_xs val 74": [
+    "clean",
+    0.21319444444444444
+  ],
+  "winogrande_xs val 75": [
+    "clean",
+    0.21799628942486085
+  ],
+  "winogrande_xs val 77": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 79": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 80": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 82": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 85": [
+    "clean",
+    0.2847058823529412
+  ],
+  "winogrande_xs val 87": [
+    "clean",
+    0.07142857142857142
+  ],
+  "winogrande_xs val 88": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 89": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 90": [
+    "clean",
+    0.21281250000000002
+  ],
+  "winogrande_xs val 91": [
+    "clean",
+    0.35778061224489793
+  ],
+  "winogrande_xs val 92": [
+    "clean",
+    0.1690909090909091
+  ],
+  "winogrande_xs val 93": [
+    "clean",
+    0.16909090909090907
+  ],
+  "winogrande_xs val 94": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 95": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 97": [
+    "clean",
+    0.14705882352941177
+  ],
+  "winogrande_xs val 98": [
+    "clean",
+    0.14705882352941177
+  ],
+  "winogrande_xs val 102": [
+    "clean",
+    0.07692307692307693
+  ],
+  "winogrande_xs val 103": [
+    "clean",
+    0.23473684210526316
+  ],
+  "winogrande_xs val 104": [
+    "clean",
+    0.26785714285714285
+  ],
+  "winogrande_xs val 106": [
+    "clean",
+    0.15497076023391812
+  ],
+  "winogrande_xs val 108": [
+    "clean",
+    0.17128279883381925
+  ],
+  "winogrande_xs val 110": [
+    "clean",
+    0.05
+  ],
+  "winogrande_xs val 112": [
+    "clean",
+    0.1875
+  ],
+  "winogrande_xs val 114": [
+    "clean",
+    0.234375
+  ],
+  "winogrande_xs val 116": [
+    "clean",
+    0.08522727272727273
+  ],
+  "winogrande_xs val 117": [
+    "clean",
+    0.1617391304347826
+  ],
+  "winogrande_xs val 119": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 121": [
+    "clean",
+    0.06521739130434782
+  ],
+  "winogrande_xs val 122": [
+    "clean",
+    0.045454545454545456
+  ],
+  "winogrande_xs val 125": [
+    "clean",
+    0.3025
+  ],
+  "winogrande_xs val 126": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 127": [
+    "clean",
+    0.12139423076923078
+  ],
+  "winogrande_xs val 129": [
+    "clean",
+    0.15217391304347827
+  ],
+  "winogrande_xs val 130": [
+    "clean",
+    0.2623529411764706
+  ],
+  "winogrande_xs val 131": [
+    "clean",
+    0.19736842105263158
+  ],
+  "winogrande_xs val 132": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 133": [
+    "clean",
+    0.2725947521865889
+  ],
+  "winogrande_xs val 134": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 137": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 138": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 139": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 140": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 142": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 143": [
+    "clean",
+    0.234375
+  ],
+  "winogrande_xs val 144": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 145": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 146": [
+    "clean",
+    0.12777777777777777
+  ],
+  "winogrande_xs val 149": [
+    "clean",
+    0.29733333333333334
+  ],
+  "winogrande_xs val 150": [
+    "clean",
+    0.05555555555555555
+  ],
+  "winogrande_xs val 151": [
+    "clean",
+    0.06818181818181818
+  ],
+  "winogrande_xs val 152": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 153": [
+    "clean",
+    0.2847058823529412
+  ],
+  "winogrande_xs val 154": [
+    "clean",
+    0.075
+  ],
+  "winogrande_xs val 156": [
+    "clean",
+    0.14285714285714285
+  ],
+  "winogrande_xs val 157": [
+    "input-and-label contamination",
+    0.8750682935712986
+  ],
+  "winogrande_xs val 159": [
+    "clean",
+    0.10000000000000002
+  ],
+  "winogrande_xs val 160": [
+    "clean",
+    0.058823529411764705
+  ],
+  "winogrande_xs val 161": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 165": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 166": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 169": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 171": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 172": [
+    "clean",
+    0.23358024691358031
+  ],
+  "winogrande_xs val 176": [
+    "clean",
+    0.2508169934640523
+  ],
+  "winogrande_xs val 180": [
+    "clean",
+    0.17055555555555552
+  ],
+  "winogrande_xs val 183": [
+    "clean",
+    0.2664399092970522
+  ],
+  "winogrande_xs val 186": [
+    "clean",
+    0.12777777777777777
+  ],
+  "winogrande_xs val 187": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 189": [
+    "clean",
+    0.2
+  ],
+  "winogrande_xs val 190": [
+    "clean",
+    0.07894736842105263
+  ],
+  "winogrande_xs val 191": [
+    "clean",
+    0.280016447368421
+  ],
+  "winogrande_xs val 193": [
+    "input-and-label contamination",
+    0.9268152573529411
+  ],
+  "winogrande_xs val 195": [
+    "clean",
+    0.3407407407407408
+  ],
+  "winogrande_xs val 197": [
+    "clean",
+    0.19047619047619047
+  ],
+  "winogrande_xs val 200": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 201": [
+    "clean",
+    0.14705882352941177
+  ],
+  "winogrande_xs val 202": [
+    "clean",
+    0.32266666666666666
+  ],
+  "winogrande_xs val 204": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 205": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 206": [
+    "clean",
+    0.4231292517006803
+  ],
+  "winogrande_xs val 207": [
+    "clean",
+    0.11616161616161616
+  ],
+  "winogrande_xs val 213": [
+    "clean",
+    0.09090909090909091
+  ],
+  "winogrande_xs val 215": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 216": [
+    "clean",
+    0.25555555555555554
+  ],
+  "winogrande_xs val 217": [
+    "clean",
+    0.30994152046783624
+  ],
+  "winogrande_xs val 219": [
+    "clean",
+    0.15625
+  ],
+  "winogrande_xs val 223": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 224": [
+    "clean",
+    0.29197530864197535
+  ],
+  "winogrande_xs val 225": [
+    "clean",
+    0.045454545454545456
+  ],
+  "winogrande_xs val 227": [
+    "clean",
+    0.2222222222222222
+  ],
+  "winogrande_xs val 228": [
+    "clean",
+    0.1962962962962963
+  ],
+  "winogrande_xs val 229": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 230": [
+    "clean",
+    0.21999999999999997
+  ],
+  "winogrande_xs val 232": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 234": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 235": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 238": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 241": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 242": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 245": [
+    "clean",
+    0.11616161616161616
+  ],
+  "winogrande_xs val 246": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 248": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 249": [
+    "clean",
+    0.21319444444444444
+  ],
+  "winogrande_xs val 252": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 253": [
+    "clean",
+    0.12777777777777777
+  ],
+  "winogrande_xs val 255": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 257": [
+    "clean",
+    0.124
+  ],
+  "winogrande_xs val 258": [
+    "clean",
+    0.12
+  ],
+  "winogrande_xs val 260": [
+    "clean",
+    0.4048656499636892
+  ],
+  "winogrande_xs val 262": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 263": [
+    "clean",
+    0.2623529411764706
+  ],
+  "winogrande_xs val 264": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 267": [
+    "clean",
+    0.15379310344827588
+  ],
+  "winogrande_xs val 268": [
+    "clean",
+    0.283737760749255
+  ],
+  "winogrande_xs val 269": [
+    "clean",
+    0.18181818181818182
+  ],
+  "winogrande_xs val 276": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 278": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 279": [
+    "clean",
+    0.2368827160493827
+  ],
+  "winogrande_xs val 280": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 283": [
+    "clean",
+    0.186
+  ],
+  "winogrande_xs val 284": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 288": [
+    "clean",
+    0.13450292397660818
+  ],
+  "winogrande_xs val 293": [
+    "clean",
+    0.35778061224489793
+  ],
+  "winogrande_xs val 295": [
+    "clean",
+    0.25
+  ],
+  "winogrande_xs val 301": [
+    "clean",
+    0.3180272108843537
+  ],
+  "winogrande_xs val 302": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 304": [
+    "clean",
+    0.14705882352941177
+  ],
+  "winogrande_xs val 313": [
+    "clean",
+    0.3571428571428571
+  ],
+  "winogrande_xs val 314": [
+    "clean",
+    0.25334821428571425
+  ],
+  "winogrande_xs val 315": [
+    "clean",
+    0.14285714285714285
+  ],
+  "winogrande_xs val 317": [
+    "clean",
+    0.10869565217391303
+  ],
+  "winogrande_xs val 319": [
+    "input-and-label contamination",
+    0.8483275663206458
+  ],
+  "winogrande_xs val 320": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 323": [
+    "clean",
+    0.20588235294117646
+  ],
+  "winogrande_xs val 325": [
+    "clean",
+    0.11363636363636363
+  ],
+  "winogrande_xs val 328": [
+    "clean",
+    0.3539205155746509
+  ],
+  "winogrande_xs val 330": [
+    "clean",
+    0.18421052631578946
+  ],
+  "winogrande_xs val 333": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 335": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 336": [
+    "clean",
+    0.12169312169312169
+  ],
+  "winogrande_xs val 337": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 338": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 340": [
+    "clean",
+    0.09523809523809523
+  ],
+  "winogrande_xs val 343": [
+    "clean",
+    0.11904761904761904
+  ],
+  "winogrande_xs val 345": [
+    "clean",
+    0.2477777777777778
+  ],
+  "winogrande_xs val 347": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 349": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 355": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 356": [
+    "clean",
+    0.18421052631578946
+  ],
+  "winogrande_xs val 357": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 359": [
+    "clean",
+    0.2508169934640523
+  ],
+  "winogrande_xs val 362": [
+    "clean",
+    0.2508169934640523
+  ],
+  "winogrande_xs val 364": [
+    "input-and-label contamination",
+    0.7972282608695652
+  ],
+  "winogrande_xs val 369": [
+    "clean",
+    0.11029411764705882
+  ],
+  "winogrande_xs val 372": [
+    "clean",
+    0.3515625
+  ],
+  "winogrande_xs val 373": [
+    "input-and-label contamination",
+    0.9287414965986395
+  ],
+  "winogrande_xs val 375": [
+    "clean",
+    0.248
+  ],
+  "winogrande_xs val 378": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 379": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 384": [
+    "clean",
+    0.24594907407407415
+  ],
+  "winogrande_xs val 385": [
+    "clean",
+    0.17647058823529413
+  ],
+  "winogrande_xs val 386": [
+    "input-and-label contamination",
+    0.7720588235294117
+  ],
+  "winogrande_xs val 387": [
+    "clean",
+    0.3194444444444444
+  ],
+  "winogrande_xs val 388": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 389": [
+    "clean",
+    0.1617391304347826
+  ],
+  "winogrande_xs val 390": [
+    "clean",
+    0.06666666666666667
+  ],
+  "winogrande_xs val 391": [
+    "clean",
+    0.16666666666666666
+  ],
+  "winogrande_xs val 392": [
+    "clean",
+    0.27875
+  ],
+  "winogrande_xs val 395": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 396": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 397": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 399": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 400": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 401": [
+    "clean",
+    0.12169312169312169
+  ],
+  "winogrande_xs val 402": [
+    "clean",
+    0.07142857142857142
+  ],
+  "winogrande_xs val 403": [
+    "clean",
+    0.13754480286738352
+  ],
+  "winogrande_xs val 404": [
+    "clean",
+    0.16537649542575653
+  ],
+  "winogrande_xs val 406": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 407": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 412": [
+    "clean",
+    0.10648148148148148
+  ],
+  "winogrande_xs val 417": [
+    "clean",
+    0.2222222222222222
+  ],
+  "winogrande_xs val 418": [
+    "clean",
+    0.23232323232323232
+  ],
+  "winogrande_xs val 419": [
+    "clean",
+    0.20833333333333331
+  ],
+  "winogrande_xs val 421": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 424": [
+    "clean",
+    0.155
+  ],
+  "winogrande_xs val 431": [
+    "clean",
+    0.07692307692307693
+  ],
+  "winogrande_xs val 434": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 437": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 441": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 443": [
+    "clean",
+    0.11029411764705882
+  ],
+  "winogrande_xs val 444": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 446": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 448": [
+    "input-and-label contamination",
+    0.8152173913043478
+  ],
+  "winogrande_xs val 449": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 452": [
+    "clean",
+    0.12827586206896552
+  ],
+  "winogrande_xs val 454": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 455": [
+    "clean",
+    0.4048656499636892
+  ],
+  "winogrande_xs val 456": [
+    "clean",
+    0.2368827160493827
+  ],
+  "winogrande_xs val 459": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 460": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 463": [
+    "clean",
+    0.11272321428571427
+  ],
+  "winogrande_xs val 466": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 467": [
+    "clean",
+    0.24338624338624337
+  ],
+  "winogrande_xs val 469": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 470": [
+    "clean",
+    0.21319444444444444
+  ],
+  "winogrande_xs val 472": [
+    "clean",
+    0.07407407407407407
+  ],
+  "winogrande_xs val 473": [
+    "clean",
+    0.13777777777777778
+  ],
+  "winogrande_xs val 474": [
+    "clean",
+    0.17647058823529413
+  ],
+  "winogrande_xs val 475": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 476": [
+    "clean",
+    0.25
+  ],
+  "winogrande_xs val 477": [
+    "clean",
+    0.33404940923737914
+  ],
+  "winogrande_xs val 484": [
+    "clean",
+    0.3577563070316694
+  ],
+  "winogrande_xs val 487": [
+    "clean",
+    0.07894736842105263
+  ],
+  "winogrande_xs val 488": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 489": [
+    "clean",
+    0.25241675617615467
+  ],
+  "winogrande_xs val 491": [
+    "clean",
+    0.2477777777777778
+  ],
+  "winogrande_xs val 492": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 496": [
+    "clean",
+    0.10000000000000002
+  ],
+  "winogrande_xs val 498": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 499": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 501": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 502": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 503": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 504": [
+    "clean",
+    0.17714285714285713
+  ],
+  "winogrande_xs val 508": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 509": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 510": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 511": [
+    "input-and-label contamination",
+    0.9075
+  ],
+  "winogrande_xs val 512": [
+    "clean",
+    0.10648148148148148
+  ],
+  "winogrande_xs val 515": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 516": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 517": [
+    "clean",
+    0.25555555555555554
+  ],
+  "winogrande_xs val 520": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 521": [
+    "clean",
+    0.16909090909090907
+  ],
+  "winogrande_xs val 523": [
+    "clean",
+    0.14705882352941177
+  ],
+  "winogrande_xs val 524": [
+    "clean",
+    0.40350877192982454
+  ],
+  "winogrande_xs val 525": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 531": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 533": [
+    "clean",
+    0.14814814814814814
+  ],
+  "winogrande_xs val 536": [
+    "clean",
+    0.3128507295173962
+  ],
+  "winogrande_xs val 537": [
+    "clean",
+    0.173202614379085
+  ],
+  "winogrande_xs val 539": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 540": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 541": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 542": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 545": [
+    "clean",
+    0.16666666666666666
+  ],
+  "winogrande_xs val 546": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 547": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 549": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 550": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 553": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 556": [
+    "clean",
+    0.37334933973589435
+  ],
+  "winogrande_xs val 558": [
+    "clean",
+    0.28211284513805523
+  ],
+  "winogrande_xs val 559": [
+    "clean",
+    0.34170375079465987
+  ],
+  "winogrande_xs val 562": [
+    "clean",
+    0.3878260869565217
+  ],
+  "winogrande_xs val 563": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 564": [
+    "clean",
+    0.11764705882352941
+  ],
+  "winogrande_xs val 565": [
+    "clean",
+    0.13450292397660818
+  ],
+  "winogrande_xs val 568": [
+    "clean",
+    0.10416666666666666
+  ],
+  "winogrande_xs val 569": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 573": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 574": [
+    "clean",
+    0.045454545454545456
+  ],
+  "winogrande_xs val 577": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 578": [
+    "clean",
+    0.1900111607142857
+  ],
+  "winogrande_xs val 580": [
+    "input-and-label contamination",
+    0.7157024793388429
+  ],
+  "winogrande_xs val 586": [
+    "clean",
+    0.17391304347826086
+  ],
+  "winogrande_xs val 587": [
+    "clean",
+    0.20851818988464954
+  ],
+  "winogrande_xs val 592": [
+    "clean",
+    0.12169312169312169
+  ],
+  "winogrande_xs val 594": [
+    "clean",
+    0.19391304347826085
+  ],
+  "winogrande_xs val 595": [
+    "clean",
+    0.07894736842105263
+  ],
+  "winogrande_xs val 597": [
+    "input-and-label contamination",
+    0.8016911539638811
+  ],
+  "winogrande_xs val 600": [
+    "clean",
+    0.35778061224489793
+  ],
+  "winogrande_xs val 603": [
+    "clean",
+    0.14285714285714285
+  ],
+  "winogrande_xs val 604": [
+    "clean",
+    0.234375
+  ],
+  "winogrande_xs val 606": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 608": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 612": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 615": [
+    "clean",
+    0.3197278911564626
+  ],
+  "winogrande_xs val 616": [
+    "clean",
+    0.24331275720164613
+  ],
+  "winogrande_xs val 622": [
+    "clean",
+    0.10222222222222221
+  ],
+  "winogrande_xs val 623": [
+    "clean",
+    0.15875
+  ],
+  "winogrande_xs val 624": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 625": [
+    "clean",
+    0.27875
+  ],
+  "winogrande_xs val 626": [
+    "clean",
+    0.1875
+  ],
+  "winogrande_xs val 627": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 632": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 633": [
+    "clean",
+    0.2664399092970522
+  ],
+  "winogrande_xs val 635": [
+    "clean",
+    0.33223684210526316
+  ],
+  "winogrande_xs val 638": [
+    "clean",
+    0.260204081632653
+  ],
+  "winogrande_xs val 639": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 640": [
+    "clean",
+    0.248
+  ],
+  "winogrande_xs val 641": [
+    "clean",
+    0.18421052631578946
+  ],
+  "winogrande_xs val 642": [
+    "clean",
+    0.3901909722222222
+  ],
+  "winogrande_xs val 644": [
+    "clean",
+    0.15789473684210525
+  ],
+  "winogrande_xs val 645": [
+    "clean",
+    0.15625
+  ],
+  "winogrande_xs val 646": [
+    "clean",
+    0.075
+  ],
+  "winogrande_xs val 647": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 648": [
+    "clean",
+    0.15625
+  ],
+  "winogrande_xs val 652": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 653": [
+    "clean",
+    0.17055555555555554
+  ],
+  "winogrande_xs val 655": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 656": [
+    "clean",
+    0.15029761904761904
+  ],
+  "winogrande_xs val 657": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 658": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 659": [
+    "clean",
+    0.1900111607142857
+  ],
+  "winogrande_xs val 661": [
+    "clean",
+    0.3068518518518518
+  ],
+  "winogrande_xs val 662": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 663": [
+    "clean",
+    0.23333333333333334
+  ],
+  "winogrande_xs val 664": [
+    "clean",
+    0.35778061224489793
+  ],
+  "winogrande_xs val 665": [
+    "clean",
+    0.09523809523809523
+  ],
+  "winogrande_xs val 666": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 667": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 671": [
+    "clean",
+    0.14307692307692307
+  ],
+  "winogrande_xs val 673": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 675": [
+    "clean",
+    0.1206896551724138
+  ],
+  "winogrande_xs val 676": [
+    "clean",
+    0.058823529411764705
+  ],
+  "winogrande_xs val 681": [
+    "clean",
+    0.2664930555555556
+  ],
+  "winogrande_xs val 682": [
+    "clean",
+    0.11904761904761904
+  ],
+  "winogrande_xs val 683": [
+    "clean",
+    0.0982905982905983
+  ],
+  "winogrande_xs val 684": [
+    "clean",
+    0.2525
+  ],
+  "winogrande_xs val 685": [
+    "clean",
+    0.2725947521865889
+  ],
+  "winogrande_xs val 686": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 687": [
+    "clean",
+    0.14705882352941177
+  ],
+  "winogrande_xs val 688": [
+    "clean",
+    0.10000000000000002
+  ],
+  "winogrande_xs val 689": [
+    "clean",
+    0.16666666666666666
+  ],
+  "winogrande_xs val 690": [
+    "clean",
+    0.25
+  ],
+  "winogrande_xs val 691": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 696": [
+    "clean",
+    0.11029411764705882
+  ],
+  "winogrande_xs val 697": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 698": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 699": [
+    "clean",
+    0.2664930555555556
+  ],
+  "winogrande_xs val 702": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 703": [
+    "clean",
+    0.23473684210526316
+  ],
+  "winogrande_xs val 708": [
+    "clean",
+    0.10222222222222221
+  ],
+  "winogrande_xs val 709": [
+    "clean",
+    0.11616161616161616
+  ],
+  "winogrande_xs val 711": [
+    "clean",
+    0.1579218106995885
+  ],
+  "winogrande_xs val 713": [
+    "clean",
+    0.10648148148148148
+  ],
+  "winogrande_xs val 714": [
+    "clean",
+    0.045454545454545456
+  ],
+  "winogrande_xs val 716": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 717": [
+    "clean",
+    0.18583333333333332
+  ],
+  "winogrande_xs val 718": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 719": [
+    "clean",
+    0.2222222222222222
+  ],
+  "winogrande_xs val 723": [
+    "clean",
+    0.23232323232323232
+  ],
+  "winogrande_xs val 724": [
+    "clean",
+    0.2869318181818182
+  ],
+  "winogrande_xs val 725": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 726": [
+    "clean",
+    0.186
+  ],
+  "winogrande_xs val 728": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 729": [
+    "clean",
+    0.11904761904761904
+  ],
+  "winogrande_xs val 731": [
+    "clean",
+    0.2839506172839506
+  ],
+  "winogrande_xs val 732": [
+    "clean",
+    0.15781250000000002
+  ],
+  "winogrande_xs val 734": [
+    "input-and-label contamination",
+    0.9224489795918368
+  ],
+  "winogrande_xs val 735": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 737": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 738": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 739": [
+    "clean",
+    0.24338624338624337
+  ],
+  "winogrande_xs val 740": [
+    "clean",
+    0.09523809523809523
+  ],
+  "winogrande_xs val 742": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 747": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 748": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 749": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 750": [
+    "clean",
+    0.2623529411764706
+  ],
+  "winogrande_xs val 751": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 753": [
+    "clean",
+    0.3271604938271605
+  ],
+  "winogrande_xs val 754": [
+    "clean",
+    0.2477777777777778
+  ],
+  "winogrande_xs val 758": [
+    "clean",
+    0.234375
+  ],
+  "winogrande_xs val 760": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 761": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 762": [
+    "clean",
+    0.19736842105263158
+  ],
+  "winogrande_xs val 763": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 766": [
+    "clean",
+    0.25555555555555554
+  ],
+  "winogrande_xs val 768": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 769": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 770": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 773": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 775": [
+    "clean",
+    0.19739619985925405
+  ],
+  "winogrande_xs val 776": [
+    "clean",
+    0.40888888888888886
+  ],
+  "winogrande_xs val 779": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 783": [
+    "clean",
+    0.17766203703703703
+  ],
+  "winogrande_xs val 784": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 789": [
+    "clean",
+    0.07142857142857142
+  ],
+  "winogrande_xs val 790": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 791": [
+    "clean",
+    0.31775
+  ],
+  "winogrande_xs val 793": [
+    "clean",
+    0.10000000000000002
+  ],
+  "winogrande_xs val 794": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 795": [
+    "clean",
+    0.1171875
+  ],
+  "winogrande_xs val 796": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 797": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 799": [
+    "clean",
+    0.20833333333333331
+  ],
+  "winogrande_xs val 800": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 801": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 803": [
+    "clean",
+    0.10153256704980843
+  ],
+  "winogrande_xs val 804": [
+    "clean",
+    0.09465020576131687
+  ],
+  "winogrande_xs val 805": [
+    "clean",
+    0.27807172251616696
+  ],
+  "winogrande_xs val 811": [
+    "clean",
+    0.3901909722222222
+  ],
+  "winogrande_xs val 814": [
+    "clean",
+    0.11764705882352941
+  ],
+  "winogrande_xs val 815": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 820": [
+    "clean",
+    0.2477777777777778
+  ],
+  "winogrande_xs val 821": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 822": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 823": [
+    "clean",
+    0.09615384615384616
+  ],
+  "winogrande_xs val 825": [
+    "clean",
+    0.11272321428571427
+  ],
+  "winogrande_xs val 826": [
+    "clean",
+    0.23473684210526316
+  ],
+  "winogrande_xs val 827": [
+    "clean",
+    0.37382352941176467
+  ],
+  "winogrande_xs val 828": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 830": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 831": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 833": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 835": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 837": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 840": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 842": [
+    "clean",
+    0.19736842105263158
+  ],
+  "winogrande_xs val 843": [
+    "clean",
+    0.15029761904761904
+  ],
+  "winogrande_xs val 844": [
+    "clean",
+    0.21238095238095236
+  ],
+  "winogrande_xs val 846": [
+    "clean",
+    0.13151041666666666
+  ],
+  "winogrande_xs val 847": [
+    "clean",
+    0.14285714285714285
+  ],
+  "winogrande_xs val 848": [
+    "clean",
+    0.22837706511175898
+  ],
+  "winogrande_xs val 850": [
+    "clean",
+    0.36965460526315785
+  ],
+  "winogrande_xs val 851": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 852": [
+    "clean",
+    0.2842592592592593
+  ],
+  "winogrande_xs val 853": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 854": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 856": [
+    "clean",
+    0.25241675617615467
+  ],
+  "winogrande_xs val 858": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 860": [
+    "clean",
+    0.07142857142857142
+  ],
+  "winogrande_xs val 863": [
+    "clean",
+    0.13450292397660818
+  ],
+  "winogrande_xs val 864": [
+    "clean",
+    0.186
+  ],
+  "winogrande_xs val 866": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 868": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 870": [
+    "clean",
+    0.19391304347826085
+  ],
+  "winogrande_xs val 871": [
+    "clean",
+    0.33251953125
+  ],
+  "winogrande_xs val 872": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 875": [
+    "clean",
+    0.04
+  ],
+  "winogrande_xs val 876": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 877": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 878": [
+    "clean",
+    0.22441520467836257
+  ],
+  "winogrande_xs val 880": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 882": [
+    "clean",
+    0.15217391304347827
+  ],
+  "winogrande_xs val 883": [
+    "clean",
+    0.18583333333333335
+  ],
+  "winogrande_xs val 884": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 885": [
+    "clean",
+    0.2368827160493827
+  ],
+  "winogrande_xs val 887": [
+    "clean",
+    0.05
+  ],
+  "winogrande_xs val 890": [
+    "clean",
+    0.23537037037037034
+  ],
+  "winogrande_xs val 891": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 894": [
+    "clean",
+    0.06666666666666667
+  ],
+  "winogrande_xs val 895": [
+    "clean",
+    0.08
+  ],
+  "winogrande_xs val 896": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 897": [
+    "clean",
+    0.2525
+  ],
+  "winogrande_xs val 898": [
+    "clean",
+    0.1957894736842105
+  ],
+  "winogrande_xs val 899": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 901": [
+    "clean",
+    0.29733333333333334
+  ],
+  "winogrande_xs val 902": [
+    "clean",
+    0.25241675617615467
+  ],
+  "winogrande_xs val 908": [
+    "input-and-label contamination",
+    0.9057829759584145
+  ],
+  "winogrande_xs val 910": [
+    "clean",
+    0.2623529411764706
+  ],
+  "winogrande_xs val 911": [
+    "clean",
+    0.2508169934640523
+  ],
+  "winogrande_xs val 912": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 913": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 917": [
+    "clean",
+    0.2842592592592593
+  ],
+  "winogrande_xs val 918": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 919": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 920": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 922": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 924": [
+    "clean",
+    0.12169312169312169
+  ],
+  "winogrande_xs val 927": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 928": [
+    "clean",
+    0.25
+  ],
+  "winogrande_xs val 929": [
+    "clean",
+    0.13285714285714287
+  ],
+  "winogrande_xs val 933": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 934": [
+    "clean",
+    0.19920000000000002
+  ],
+  "winogrande_xs val 935": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 945": [
+    "clean",
+    0.13157894736842105
+  ],
+  "winogrande_xs val 946": [
+    "clean",
+    0.29733333333333334
+  ],
+  "winogrande_xs val 947": [
+    "clean",
+    0.08695652173913043
+  ],
+  "winogrande_xs val 950": [
+    "clean",
+    0.3025
+  ],
+  "winogrande_xs val 951": [
+    "clean",
+    0.2
+  ],
+  "winogrande_xs val 953": [
+    "clean",
+    0.13636363636363635
+  ],
+  "winogrande_xs val 954": [
+    "clean",
+    0.28211284513805523
+  ],
+  "winogrande_xs val 955": [
+    "clean",
+    0.1597222222222222
+  ],
+  "winogrande_xs val 956": [
+    "clean",
+    0.20666666666666667
+  ],
+  "winogrande_xs val 957": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 958": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 959": [
+    "clean",
+    0.11363636363636362
+  ],
+  "winogrande_xs val 960": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 961": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 967": [
+    "clean",
+    0.22058823529411764
+  ],
+  "winogrande_xs val 969": [
+    "clean",
+    0.20888157894736842
+  ],
+  "winogrande_xs val 970": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 971": [
+    "clean",
+    0.155
+  ],
+  "winogrande_xs val 972": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 975": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 977": [
+    "clean",
+    0.13450292397660818
+  ],
+  "winogrande_xs val 980": [
+    "clean",
+    0.20304232804232802
+  ],
+  "winogrande_xs val 981": [
+    "clean",
+    0.26785714285714285
+  ],
+  "winogrande_xs val 983": [
+    "clean",
+    0.11363636363636363
+  ],
+  "winogrande_xs val 984": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 989": [
+    "clean",
+    0.27666666666666667
+  ],
+  "winogrande_xs val 991": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 992": [
+    "clean",
+    0.07894736842105263
+  ],
+  "winogrande_xs val 995": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 996": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 1002": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 1003": [
+    "clean",
+    0.13636363636363635
+  ],
+  "winogrande_xs val 1006": [
+    "clean",
+    0.31562500000000004
+  ],
+  "winogrande_xs val 1007": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 1008": [
+    "clean",
+    0.20304232804232802
+  ],
+  "winogrande_xs val 1011": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 1012": [
+    "clean",
+    0.11904761904761904
+  ],
+  "winogrande_xs val 1014": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 1015": [
+    "clean",
+    0.1617391304347826
+  ],
+  "winogrande_xs val 1016": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 1017": [
+    "clean",
+    0.09375
+  ],
+  "winogrande_xs val 1019": [
+    "clean",
+    0.06521739130434782
+  ],
+  "winogrande_xs val 1020": [
+    "clean",
+    0.1
+  ],
+  "winogrande_xs val 1021": [
+    "clean",
+    0.15792181069958847
+  ],
+  "winogrande_xs val 1024": [
+    "clean",
+    0.16666666666666666
+  ],
+  "winogrande_xs val 1025": [
+    "clean",
+    0.10000000000000002
+  ],
+  "winogrande_xs val 1026": [
+    "clean",
+    0.09523809523809523
+  ],
+  "winogrande_xs val 1028": [
+    "clean",
+    0.13151041666666666
+  ],
+  "winogrande_xs val 1030": [
+    "clean",
+    0.25
+  ],
+  "winogrande_xs val 1031": [
+    "clean",
+    0.3526077097505669
+  ],
+  "winogrande_xs val 1032": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 1035": [
+    "clean",
+    0.173202614379085
+  ],
+  "winogrande_xs val 1038": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 1039": [
+    "clean",
+    0.19736842105263158
+  ],
+  "winogrande_xs val 1042": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 1044": [
+    "clean",
+    0.17714285714285713
+  ],
+  "winogrande_xs val 1045": [
+    "clean",
+    0.12777777777777777
+  ],
+  "winogrande_xs val 1046": [
+    "clean",
+    0.20304232804232802
+  ],
+  "winogrande_xs val 1048": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 1049": [
+    "clean",
+    0.3022351797862002
+  ],
+  "winogrande_xs val 1051": [
+    "clean",
+    0.13333333333333333
+  ],
+  "winogrande_xs val 1056": [
+    "clean",
+    0.2313179347826087
+  ],
+  "winogrande_xs val 1059": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 1060": [
+    "clean",
+    0.1280193236714976
+  ],
+  "winogrande_xs val 1062": [
+    "clean",
+    0.1690909090909091
+  ],
+  "winogrande_xs val 1063": [
+    "clean",
+    0.3180272108843537
+  ],
+  "winogrande_xs val 1064": [
+    "clean",
+    0.21041666666666667
+  ],
+  "winogrande_xs val 1065": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 1066": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 1069": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 1070": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 1071": [
+    "clean",
+    0.1617391304347826
+  ],
+  "winogrande_xs val 1072": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 1074": [
+    "clean",
+    0.11363636363636362
+  ],
+  "winogrande_xs val 1076": [
+    "clean",
+    0.06666666666666667
+  ],
+  "winogrande_xs val 1077": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 1079": [
+    "clean",
+    0.2623529411764706
+  ],
+  "winogrande_xs val 1081": [
+    "clean",
+    0.16909090909090907
+  ],
+  "winogrande_xs val 1082": [
+    "clean",
+    0.1434659090909091
+  ],
+  "winogrande_xs val 1086": [
+    "clean",
+    0.35778061224489793
+  ],
+  "winogrande_xs val 1088": [
+    "clean",
+    0.2289795918367347
+  ],
+  "winogrande_xs val 1092": [
+    "clean",
+    0.037037037037037035
+  ],
+  "winogrande_xs val 1093": [
+    "clean",
+    0.06521739130434782
+  ],
+  "winogrande_xs val 1095": [
+    "clean",
+    0.1784
+  ],
+  "winogrande_xs val 1096": [
+    "clean",
+    0.16666666666666666
+  ],
+  "winogrande_xs val 1097": [
+    "clean",
+    0.3407407407407408
+  ],
+  "winogrande_xs val 1098": [
+    "clean",
+    0.075
+  ],
+  "winogrande_xs val 1099": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 1101": [
+    "clean",
+    0.19391304347826085
+  ],
+  "winogrande_xs val 1104": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 1108": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 1109": [
+    "clean",
+    0.11616161616161616
+  ],
+  "winogrande_xs val 1115": [
+    "clean",
+    0.13383838383838384
+  ],
+  "winogrande_xs val 1118": [
+    "clean",
+    0.075
+  ],
+  "winogrande_xs val 1119": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 1120": [
+    "clean",
+    0.10526315789473684
+  ],
+  "winogrande_xs val 1122": [
+    "clean",
+    0.19444444444444445
+  ],
+  "winogrande_xs val 1123": [
+    "clean",
+    0.19444444444444445
+  ],
+  "winogrande_xs val 1126": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 1127": [
+    "clean",
+    0.06666666666666667
+  ],
+  "winogrande_xs val 1129": [
+    "clean",
+    0.11764705882352941
+  ],
+  "winogrande_xs val 1130": [
+    "clean",
+    0.1690909090909091
+  ],
+  "winogrande_xs val 1135": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 1136": [
+    "clean",
+    0.125
+  ],
+  "winogrande_xs val 1139": [
+    "clean",
+    0.05263157894736842
+  ],
+  "winogrande_xs val 1140": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 1141": [
+    "clean",
+    0.2664930555555556
+  ],
+  "winogrande_xs val 1142": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 1143": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 1144": [
+    "clean",
+    0.1419753086419753
+  ],
+  "winogrande_xs val 1145": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 1147": [
+    "clean",
+    0.37334933973589435
+  ],
+  "winogrande_xs val 1148": [
+    "clean",
+    0.18566176470588236
+  ],
+  "winogrande_xs val 1149": [
+    "clean",
+    0.15625
+  ],
+  "winogrande_xs val 1150": [
+    "clean",
+    0.08823529411764706
+  ],
+  "winogrande_xs val 1152": [
+    "clean",
+    0.19444444444444445
+  ],
+  "winogrande_xs val 1153": [
+    "clean",
+    0.20833333333333331
+  ],
+  "winogrande_xs val 1154": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 1155": [
+    "clean",
+    0.11616161616161616
+  ],
+  "winogrande_xs val 1156": [
+    "clean",
+    0.11363636363636363
+  ],
+  "winogrande_xs val 1157": [
+    "clean",
+    0.20272727272727273
+  ],
+  "winogrande_xs val 1158": [
+    "clean",
+    0.23232323232323232
+  ],
+  "winogrande_xs val 1160": [
+    "clean",
+    0.2368827160493827
+  ],
+  "winogrande_xs val 1162": [
+    "clean",
+    0.173202614379085
+  ],
+  "winogrande_xs val 1166": [
+    "clean",
+    0.14
+  ],
+  "winogrande_xs val 1167": [
+    "clean",
+    0.10648148148148148
+  ],
+  "winogrande_xs val 1168": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 1169": [
+    "clean",
+    0.11764705882352941
+  ],
+  "winogrande_xs val 1171": [
+    "clean",
+    0.2477777777777778
+  ],
+  "winogrande_xs val 1172": [
+    "clean",
+    0.2368827160493827
+  ],
+  "winogrande_xs val 1174": [
+    "clean",
+    0.07142857142857142
+  ],
+  "winogrande_xs val 1180": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 1182": [
+    "clean",
+    0.260204081632653
+  ],
+  "winogrande_xs val 1183": [
+    "clean",
+    0.18181818181818182
+  ],
+  "winogrande_xs val 1184": [
+    "clean",
+    0.21882352941176472
+  ],
+  "winogrande_xs val 1186": [
+    "clean",
+    0.12777777777777777
+  ],
+  "winogrande_xs val 1188": [
+    "clean",
+    0.17857142857142855
+  ],
+  "winogrande_xs val 1191": [
+    "clean",
+    0.19629629629629633
+  ],
+  "winogrande_xs val 1194": [
+    "clean",
+    0.15029761904761907
+  ],
+  "winogrande_xs val 1195": [
+    "clean",
+    0.31972789115646266
+  ],
+  "winogrande_xs val 1197": [
+    "clean",
+    0.10416666666666666
+  ],
+  "winogrande_xs val 1199": [
+    "clean",
+    0.2664930555555556
+  ],
+  "winogrande_xs val 1201": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 1202": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 1203": [
+    "clean",
+    0.0625
+  ],
+  "winogrande_xs val 1205": [
+    "input-and-label contamination",
+    0.8588429752066116
+  ],
+  "winogrande_xs val 1206": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 1207": [
+    "clean",
+    0.3713235294117647
+  ],
+  "winogrande_xs val 1209": [
+    "clean",
+    0.16611842105263158
+  ],
+  "winogrande_xs val 1212": [
+    "clean",
+    0.15497076023391812
+  ],
+  "winogrande_xs val 1213": [
+    "clean",
+    0.08812260536398467
+  ],
+  "winogrande_xs val 1214": [
+    "clean",
+    0.3546875
+  ],
+  "winogrande_xs val 1215": [
+    "clean",
+    0.20304232804232802
+  ],
+  "winogrande_xs val 1217": [
+    "clean",
+    0.29733333333333334
+  ],
+  "winogrande_xs val 1218": [
+    "clean",
+    0.06896551724137931
+  ],
+  "winogrande_xs val 1219": [
+    "clean",
+    0.1938131313131313
+  ],
+  "winogrande_xs val 1224": [
+    "clean",
+    0.17055555555555552
+  ],
+  "winogrande_xs val 1227": [
+    "clean",
+    0.23249999999999998
+  ],
+  "winogrande_xs val 1230": [
+    "clean",
+    0.038461538461538464
+  ],
+  "winogrande_xs val 1233": [
+    "clean",
+    0.1753472222222222
+  ],
+  "winogrande_xs val 1235": [
+    "clean",
+    0.15032679738562094
+  ],
+  "winogrande_xs val 1236": [
+    "clean",
+    0.1111111111111111
+  ],
+  "winogrande_xs val 1238": [
+    "clean",
+    0.1875
+  ],
+  "winogrande_xs val 1239": [
+    "clean",
+    0.1171875
+  ],
+  "winogrande_xs val 1240": [
+    "clean",
+    0.11029411764705882
+  ],
+  "winogrande_xs val 1241": [
+    "clean",
+    0.13450292397660818
+  ],
+  "winogrande_xs val 1243": [
+    "clean",
+    0.197265625
+  ],
+  "winogrande_xs val 1246": [
+    "clean",
+    0.2839506172839506
+  ],
+  "winogrande_xs val 1248": [
+    "clean",
+    0.17714285714285713
+  ],
+  "winogrande_xs val 1250": [
+    "clean",
+    0.1703703703703704
+  ],
+  "winogrande_xs val 1252": [
+    "clean",
+    0.3577806122448979
+  ],
+  "winogrande_xs val 1253": [
+    "clean",
+    0.173202614379085
+  ],
+  "winogrande_xs val 1254": [
+    "clean",
+    0.173202614379085
+  ],
+  "winogrande_xs val 1256": [
+    "clean",
+    0.234375
+  ],
+  "winogrande_xs val 1257": [
+    "clean",
+    0.2204861111111111
+  ],
+  "winogrande_xs val 1260": [
+    "clean",
+    0.08333333333333333
+  ],
+  "winogrande_xs val 1262": [
+    "clean",
+    0.17714285714285713
+  ],
+  "winogrande_xs val 1264": [
+    "clean",
+    0.14722222222222223
+  ],
+  "winogrande_xs val 1265": [
+    "clean",
+    0.2664399092970522
+  ],
+  "winogrande_xs val 1266": [
+    "clean",
+    0.08823529411764706
+  ]
+}

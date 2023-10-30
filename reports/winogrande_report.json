@@ -1,0 +1,159 @@
+{
+  "dataset_name": "winogrande",
+  "matches": [
+    [
+      {
+        "query": "Sarah was a much better surgeon than Maria so Maria always got the easier cases.",
+        "match_string": "Sarah was a much better surgeon than Maria so always got the easier cases",
+        "score": 0.9224489795918368,
+        "score_label": 1.0,
+        "name": "2023 - GPT-4 - GitHub",
+        "url": "https://github.com/swyxio/ai-notes/blob/main/Resources/BENCHMARKS.md",
+        "snippet": "<b>Sarah</b> <b>was a much</b> <b>better</b> <b>surgeon</b> <b>than</b> <b>Maria</b> <b>so</b> _ <b>always</b> <b>got</b> <b>the easier</b> <b>cases</b>. \\n; Jen made charcoal to use as a mask and as toothpaste, but using the _ made her skin very black.\\tmask\\ttoothpaste \\n \\n \\n; Roberta - 0.70s \\n; T5 - 0.85s \\n; GPT4 - 87.5 \\n \\n \\n \\n \\n; Swag: A large-scale adversarial dataset for grounded commonsense inference. \\n ..."
+      }
+    ],
+    [
+      {
+        "query": "Patricia decided to buy Felicia dinner because they had been through a lot and Patricia just inherited some money.",
+        "match_string": "Patricia decided to buy Felicia dinner because they had been through a lot just some money Felicia Patricia",
+        "score": 0.8750682935712986,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/tasksource--winodict",
+        "snippet": "&quot;<b>Patricia</b> <b>decided</b> <b>to buy</b> <b>Felicia</b> <b>dinner</b> <b>because</b> <b>they</b> <b>had</b> <b>been</b> <b>through</b> <b>a lot</b> and _ <b>just</b> rieguird <b>some</b> <b>money</b>.&quot; &quot;<b>Felicia</b>&quot; &quot;<b>Patricia</b>&quot; 1 &quot;39I4RL8QGJFYRTRY035902X7QMUH4O-2&quot; &quot;lose&quot; ... cease to have, either physically or in an abstract sense.&quot; &quot;<b>Patricia</b> <b>decided</b> <b>to buy</b> <b>Felicia</b> <b>dinner</b> <b>because</b> <b>they</b> <b>had</b> <b>been</b> <b>through</b> <b>a lot</b> and _ <b>just</b> rieguird <b>some</b> <b>money</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "The maid took away a cozy blanket from Lawrence but not Nick because Nick was very cold.",
+        "match_string": "cold The maid took away a cozy blanket from Lawrence but not Nick because was very",
+        "score": 0.9268152573529411,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "<b>The maid</b> <b>took</b> <b>away</b> <b>a cozy</b> <b>blanket</b> <b>from Lawrence</b> <b>but not</b> <b>Nick</b> <b>because</b> _ <b>was very</b> mumbranny. ... meaning of mumbranny is having a low or inadequate temperature or feeling a sensation of coldness or having been made <b>cold</b> by e.g. ice or refrigeration. <b>The maid</b> <b>took</b> <b>away</b> <b>a cozy</b> <b>blanket</b> <b>from Lawrence</b> <b>but not</b> <b>Nick</b> <b>because</b> _ <b>was very</b> mumbranny ..."
+      }
+    ],
+    [
+      {
+        "query": "Matt wanted to change either the plain bathroom or the colorful bedroom, but the bedroom was already colorful.",
+        "match_string": "Matt wanted to change either the plain bathroom or the colorful bedroom was already bathroom bedroom plain Matt wanted to change either the plain bathroom or the colorful bedroom",
+        "score": 0.8483275663206458,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "<b>Matt</b> <b>wanted</b> <b>to change</b> <b>either</b> <b>the plain</b> <b>bathroom</b> <b>or the colorful</b> <b>bedroom</b>, but the _ <b>was already</b> aphaftow. <b>bathroom</b>. <b>bedroom</b>. 1. 368IUKXGA564JXT0246T69JC81ZP65-2. <b>plain</b>. aphaftow. ADJ. JJ _ The meaning of aphaftow is lacking embellishment or ornamentation. <b>Matt</b> <b>wanted</b> <b>to change</b> <b>either</b> <b>the plain</b> <b>bathroom</b> <b>or the colorful</b> <b>bedroom</b>, but the _ was ..."
+      }
+    ],
+    [
+      {
+        "query": "John painted the pole red close to the color of the wall and painted the frame white and now the pole is similar.",
+        "match_string": "similar John painted the pole red close to the color of the wall and painted the frame white and now",
+        "score": 0.7972282608695652,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "<b>John</b> <b>painted</b> <b>the pole</b> <b>red</b> <b>close</b> <b>to the color</b> <b>of the wall</b> <b>and painted</b> <b>the frame</b> <b>white</b> <b>and now</b> the _ is awyatering. ... 33N1S8XHHOZIK4TG354EU9II0OYZ1J-2. <b>similar</b>. awyatery. ADJ. JJ _ The meaning of awyatery is marked by correspondence or resemblance. <b>John</b> <b>painted</b> <b>the pole</b> <b>red</b> <b>close</b> <b>to the color</b> <b>of the wall</b> <b>and painted</b> <b>the frame</b> <b>white</b> <b>and now</b> the ..."
+      }
+    ],
+    [
+      {
+        "query": "Logan ended the one-side relationship they were having with Robert, which made Logan feel relieved.",
+        "match_string": "Logan ended the one-side relationship they were having with Robert which made feel relieved",
+        "score": 0.9287414965986395,
+        "score_label": 1.0,
+        "name": "(PDF) Few-Shot Out-of-Domain Transfer Learning of ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/357013473_Few-Shot_Out-of-Domain_Transfer_Learning_of_Natural_Language_Explanations",
+        "snippet": "<b>Logan</b> <b>ended</b> <b>the one-side</b> <b>relationship</b> <b>they</b> <b>were</b> <b>having</b> <b>with Robert</b>, <b>which made</b>. <b>feel</b> <b>relieved</b>. Answer: ... <b>with Robert</b>, <b>which made</b> <b>Logan</b> <b>feel</b> <b>relieved</b>. (CT, eCT50) Prediction: <b>Logan</b>."
+      }
+    ],
+    [
+      {
+        "query": "The woman avoided the hole but easily stepped over the pit, because the pit was very shallow.",
+        "match_string": "The woman avoided the hole but easily stepped over the pit because was very",
+        "score": 0.7720588235294117,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "Going to a restaurant is something that Patricia does <b>very</b> often but Carrie rarely goes to one <b>because</b> _ is a <b>very</b> nnegally cook. Carrie. Patricia. 1. 33NKDW9FFXGY8N4SYMTDMMXP168CXW-2. ... <b>The woman</b> <b>avoided</b> <b>the hole</b> <b>but easily</b> <b>stepped</b> <b>over</b> <b>the pit</b>, <b>because</b> the _ <b>was very</b> powerified. ... <b>The woman</b> <b>avoided</b> <b>the hole</b> <b>but easily</b> <b>stepped</b> <b>over</b> <b>the pit</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "Caroline works in the catering and food wholesale industries, but enjoys food preparation more, so she prefers her work in the catering industry.",
+        "match_string": "Caroline works in the catering and food wholesale industries but enjoys food more so she prefers her work industry catering food wholesale",
+        "score": 0.8152173913043478,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "<b>Caroline</b> <b>works</b> <b>in the catering</b> <b>and food</b> <b>wholesale</b> <b>industries</b>, <b>but enjoys</b> <b>food</b> plogyrines <b>more</b>, <b>so</b> <b>she</b> <b>prefers</b> <b>her</b> <b>work</b> in the _ <b>industry</b>. <b>catering</b> <b>food</b> <b>wholesale</b>"
+      }
+    ],
+    [
+      {
+        "query": "Carrie kept written records of their expenses but not Laura because Laura had a sharp memory.",
+        "match_string": "Carrie kept written records of their expenses but not Laura because had memory Laura Carrie sharp",
+        "score": 0.9075,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/tasksource--winodict",
+        "snippet": "&quot;<b>Carrie</b> <b>kept</b> <b>written</b> <b>records</b> <b>of their</b> <b>expenses</b> <b>but not</b> <b>Laura</b> <b>because</b> _ <b>had</b> a nschilly <b>memory</b>.&quot; &quot;<b>Laura</b>&quot; &quot;<b>Carrie</b>&quot; 1 &quot;37NXA7GVSVKE1RSAVIXUTIEZ8B2LVW-2&quot; &quot;<b>sharp</b>&quot; &quot;nschilly&quot; &quot;ADJ&quot; &quot;JJ&quot; &quot;_&quot; &quot;The meaning of nschilly is having or demonstrating ability to recognize or draw fine distinctions.&quot;"
+      }
+    ],
+    [
+      {
+        "query": "James passport was kept inside the purse. He never knew the passport is that small.",
+        "match_string": "James passport was kept inside the purse He never knew passport",
+        "score": 0.7157024793388429,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "The meaning of ensierty is of relatively <b>small</b> extent from one surface to the opposite or in cross section. ... <b>James</b> <b>passport</b> <b>was kept</b> <b>inside</b> <b>the purse</b>. <b>He</b> <b>never</b> <b>knew</b> the _ is that guliblety. <b>passport</b>. ... <b>James</b> <b>passport</b> <b>was kept</b> <b>inside</b> <b>the purse</b>. <b>He</b> <b>never</b> <b>knew</b> the _ is that guliblety. <b>passport</b>. <b>purse</b>. 1."
+      }
+    ],
+    [
+      {
+        "query": "We didn't get the biscuits this morning before school, so I ordered an omelet instead of a hash brown as the omelet would make me full.",
+        "match_string": "We didn&#39;t get the biscuits this morning before school so I ordered an omelet instead of a hash brown would make me hash brown omelet",
+        "score": 0.8016911539638811,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "<b>We</b> <b>didn&#39;t</b> <b>get</b> <b>the biscuits</b> <b>this morning</b> <b>before</b> <b>school</b>, <b>so</b> <b>I ordered</b> <b>an omelet</b> <b>instead</b> <b>of a hash</b> <b>brown</b> as the _ <b>would make</b> <b>me</b> etheematic. <b>hash</b> <b>brown</b>. <b>omelet</b>. 1. ... feeling a need or desire to eat food. <b>We</b> <b>didn&#39;t</b> <b>get</b> <b>the biscuits</b> <b>this morning</b> <b>before</b> <b>school</b>, <b>so</b> <b>I ordered</b> <b>an omelet</b> <b>instead</b> <b>of a hash</b> <b>brown</b> as the _ <b>would make</b> <b>me</b> etheematic. <b>hash</b> <b>brown</b>."
+      }
+    ],
+    [
+      {
+        "query": "Jennifer got about with a seeing-eye dog but Mary did not because Mary was sighted.",
+        "match_string": "Jennifer got about with a seeing-eye dog but Mary did not because Jennifer Mary sighted see Jennifer got about with a seeing-eye dog but Mary did not because Jennifer Mary",
+        "score": 0.9224489795918368,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/default",
+        "snippet": "<b>Jennifer</b> <b>got</b> <b>about with a seeing-eye</b> <b>dog</b> <b>but Mary</b> <b>did</b> <b>not</b> <b>because</b> _ was sifferanty. <b>Jennifer</b>. <b>Mary</b>. 0. 386659BNTLF6OUOJFDFMWCRNN1H10J-2. <b>sighted</b>. sifferanty. ADJ. JJ _ The meaning of sifferanty is able to <b>see</b>. <b>Jennifer</b> <b>got</b> <b>about with a seeing-eye</b> <b>dog</b> <b>but Mary</b> <b>did</b> <b>not</b> <b>because</b> _ was sifferanty. <b>Jennifer</b>. <b>Mary</b>. 1."
+      }
+    ],
+    [
+      {
+        "query": "The store had 80 platters but only 2 bowls left in stock because the bowls were in high demand.",
+        "match_string": "two 2 The store had 80 platters but only 2 bowls left in stock because were in high demand platters 2 bowls",
+        "score": 0.9057829759584145,
+        "score_label": 1.0,
+        "name": "Prompt Examples - GitHub",
+        "url": "https://github.com/persimmon-ai-labs/adept-inference/blob/main/prompts.md",
+        "snippet": "You are a bot that is responsible for answering fill-in-the-blank questions. You are provided with a sentence and <b>two</b> possible fill-in-the-blank options. Your task is to return 1 or <b>2</b> as the answer.\\nQ: <b>The store</b> <b>had</b> <b>80</b> <b>platters</b> <b>but only</b> <b>2</b> <b>bowls</b> <b>left</b> <b>in stock</b> <b>because</b> the _ <b>were</b> <b>in high</b> <b>demand</b>.. 1 = <b>platters</b> and <b>2</b> = <b>bowls</b>. Answer:\\n2 \\n"
+      }
+    ],
+    [
+      {
+        "query": "The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the cars were racing.",
+        "match_string": "The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time However were",
+        "score": 0.8588429752066116,
+        "score_label": 1.0,
+        "name": "tasksource/winodict · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/tasksource/winodict/viewer/tasksource--winodict",
+        "snippet": "&quot;<b>The shoddy</b> <b>bridge</b> <b>held</b> <b>secure</b> <b>for when the cars</b> <b>were</b> <b>getting</b> <b>passengers</b> <b>across</b> <b>the town</b> <b>to their</b> <b>destinations</b> <b>on time</b>. <b>However</b> the _ <b>were</b> dirroatery.&quot; ... &quot;VBG&quot; &quot;_&quot; &quot;The verb to dirroatery means to move fast.&quot; &quot;<b>The shoddy</b> <b>bridge</b> <b>held</b> <b>secure</b> <b>for when the cars</b> <b>were</b> <b>getting</b> <b>passengers</b> <b>across</b> <b>the town</b> <b>to their</b> <b>destinations</b> <b>on time</b>. <b>However</b> the ..."
+      }
+    ]
+  ]
+}
