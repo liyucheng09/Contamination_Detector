@@ -96,7 +96,7 @@ Reports for six popular multi-choice QA benchmarks are ready to access under `/r
 You could visualize contamination examples via:
 
 ```
-python visualize_search.py
+python pics/visualize_search.py
 ```
 
 This will highlight the matched part of benchmark samples.
@@ -113,7 +113,7 @@ This will highlight the matched part of benchmark samples.
 
 It will hightlight the overlapping part of the benchmark and internet pages.
 
-**Check more comtamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
+**Check more contamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
 If you cannot accessing Huggingface Hub for the benchmarks, download as json file [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0).
 
@@ -157,7 +157,7 @@ Read this paper first to get the basic idea of perplexity test: [Estimating Cont
 Run this to conduct the perplexity comparison:
 
 ```
-python perplexity.py
+python perplexity/perplexity.py
 ```
 
 You could specify models and benchmarks to test. It will write the results under `reports/`.
@@ -165,7 +165,7 @@ You could specify models and benchmarks to test. It will write the results under
 Then you could generate the figure to visualize the results via:
 
 ```
-python visualize_search.py
+python pics/visualize_perplexity.py
 ```
 
 **Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**
