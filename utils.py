@@ -37,9 +37,11 @@ Recall_threshold_for_dataset = {
     'commonsense_qa': 0.7,
 }
 
+from typing import Any
 import numpy as np
 from datasets import load_dataset
 import re
+import json
 
 np.random.seed(42)
 from nltk.tokenize import word_tokenize
@@ -126,3 +128,55 @@ def prepare_dataset(dataset_names, n = 500):
             ds = random_sample_ds(ds, n = n)
         dses[dataset_name] = ds
     return dses
+
+class CommonCrawlPresenceChecker:
+
+    def __init__(self, time_range = ('2017-01-01', '2021-01-01')) -> None:
+        import requests
+        self.requests = requests
+        self.all_dumps(time_range = time_range)
+
+    def all_dumps(self, time_range):
+        from datetime import datetime
+        start_date, end_date = datetime.strptime(time_range[0], '%Y-%m-%d'), datetime.strptime(time_range[1], '%Y-%m-%d')
+        response = self.requests.get('http://index.commoncrawl.org/collinfo.json')
+        dumps = response.json()
+        self.dumps_in_range = []
+        for dump in dumps:
+            year, week = dump['id'].split('-')[2], dump['id'].split('-')[3]
+            dump_date = datetime.fromisocalendar(year, week, 1)
+            if start_date <= dump_date <= end_date:
+                self.dumps_in_range.append(dump)
+        return self.dumps_in_range
+    
+    def check_presence(self, url):
+        presences_in_dumps = []
+        for dump in self.dumps_in_range:
+            api = f"https://index.commoncrawl.org/{dump['id']}-index?url={url}&output=json"
+            response = self.requests.get(api)
+            try:
+                pages = [json.loads(x) for x in response.content.strip().split('\n')]
+            except:
+                presences_in_dumps.append(False)
+                continue
+            if pages:
+                presences_in_dumps.append(True)
+            else:
+                presences_in_dumps.append(False)
+        
+        return any(presences_in_dumps)
+
+    def check_presence_by_wayback(self, url):
+        api_url = f"https://web.archive.org/cdx/search/cdx?url={url}"
+        response = self.requests.get(api_url)
+        results = response.text
+        if results:
+            return True
+        else:
+            return False
+    
+    def __call__(self, url):
+        # The Common Crawl API is almost broken, so we use Wayback Machine instead
+        # return self.check_presence(url)
+        
+        return self.check_presence_by_wayback(url)

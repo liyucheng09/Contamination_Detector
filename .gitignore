@@ -6,9 +6,9 @@ bing_search_bp2/
 mmlu/
 model_predictions/
 benchmarks/
-*.png
 reports/.DS_Store
 reports/*.html
 __pycache__/
 .DS_Store
 .vscode/
+perplexity/pics

@@ -3,10 +3,8 @@ from sklearn.metrics import accuracy_score
 from glob import glob
 import matplotlib.pyplot as plt
 
-def contaminated_examples():
-    pass
-
 def load_model_predictions():
+    # all the model predictions in json files
     models = glob('model_predictions/*.json')
 
     model_predictions = {}
@@ -19,9 +17,11 @@ def load_model_predictions():
 
 if __name__ == '__main__':
 
-    # benchmarks = ['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa']
+    # we not consider 'winogrande', 'ceval' as they are very little contamination percentage
     benchmarks = ['mmlu', 'hellaswag', 'ARC', 'commonsense_qa']
     model_predictions = load_model_predictions()
+
+    # here we analyse the tendency of the model performance by the recall score
     recall_gold_by_benchmark = {(0.2*i, benchmark):[] for i in range(1, 6) for benchmark in benchmarks}
     recall_pred_by_benchmark = {(0.2*i, benchmark):[] for i in range(1, 6) for benchmark in benchmarks}
     recall_gold_by_model = {(0.2*i, model): [] for i in range(1, 6) for model in model_predictions}
@@ -50,9 +50,8 @@ if __name__ == '__main__':
                 goldens[model].append(gold)
                 preds[model].append(pred)
                 types[model].append(case)
-                # gold and pred to different recall buckets
-                if model != 'llama_2_70b':
-                    continue   
+
+                # gold and pred to different recall buckets 
                 for i in range(1, 6):
                     if recall <= 0.2*i:
                         recall_gold_by_benchmark[(0.2*i, benchmark)].append(str(gold))
@@ -87,15 +86,7 @@ if __name__ == '__main__':
         'commonsense_qa': 'CommonsenseQA',
         'ARC': 'ARC',
     }
-    # recall
-    # for i in range(1, 6):
-    #     print(f'recall for {i*0.2}:')
-    #     print('=====================')
-    #     for benchmark in benchmarks:
-    #         print(f'{benchmark}: {len(recall_gold_by_benchmark[(0.2*i, benchmark)])}')
-    #         acc = accuracy_score(recall_gold_by_benchmark[(0.2*i, benchmark)], recall_pred_by_benchmark[(0.2*i, benchmark)])
-    #         print(acc)
-    #     print('=====================')
+
     fig, ax = plt.subplots(figsize=(7, 4.5), dpi=130)
     import seaborn as sns
     colors = sns.color_palette("colorblind", len(benchmarks))
@@ -119,10 +110,5 @@ if __name__ == '__main__':
     ax.legend(fontsize=12, loc='upper center', bbox_to_anchor=(0.5, 1.13), ncol=4, shadow=False)
     ax.set_xlabel('Recall', fontsize=12)
     ax.set_ylabel('Accuracy', fontsize=12)
-    # ax.axvspan(0.4, 0.6, color='gray', alpha=0.2)  
-    # plt.grid(True, linestyle='--', axis='y', which='major')
     plt.tight_layout()
     plt.show()
-        # for model in model_predictions:
-        #     print(f'{model}:')
-        #     print(accuracy_score(recall_gold_by_model[(0.2*i, model)], recall_pred_by_model[(0.2*i, model)]))
