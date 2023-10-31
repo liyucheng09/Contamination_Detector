@@ -146,7 +146,7 @@ if __name__ == "__main__":
     memorised_time = '2022-8'
     num_token = 200
     num_samples = 300
-    model_names = ['gpt2']
+    model_names = ['gpt2', 'TheBloke/Llama-2-13B-GPTQ', 'facebook/opt-6.7b']
     evaluation_datasets = ['quac', 'boolq', 'squad_v2']
     output_file = f'reports/perplexity_{evaluation_base}.json'
 

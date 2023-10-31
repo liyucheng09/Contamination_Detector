@@ -4,48 +4,46 @@
 
 # Contamination Detector for LLMs Evaluation
 
-In the realm of Large Language Models (LLMs), Data Contamination is a ubiquitous issue. **Contamination Detector** aids in identifying and analyzing such potential contamination without requiring access to the LLMs' training data, enabling even small teams and individuals to conduct robust evaluation.
+Data Contamination is a real crisis for Large Language Models (LLMs) evaluation. **Contamination Detector** aids in identifying and analyzing such potential contamination without requiring access to the LLMs' training data, enabling even small teams and individuals to conduct robust evaluation.
+
+**Updates!**
+
+- Check out our latest [open source data contamination report for llama series models](https://arxiv.org/abs/2310.17589)!
+
+# Methods
 
 - **Internet Presence Verification**:
 
-Contamination Detector goes through the benchmark and verify whether test examples (both inputs and labels) are present on the internet.
+Contamination Detector goes through the benchmark and verify whether test examples (both inputs and labels) are present on the internet via **Bing search** and **Common Crawl index**.
 
-An example of contamination from **MMLU**:
+<figure>
+<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/links.png" width=400>
+<figcaption>The source of contamination for the MMLU benchmark.</figcaption>
+</figure>
 
-```
-[
-  {
-    "input": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
-    "match_string": "The economy is in a deep recession. Given this economic situation, which of the following statements about monetary policy is accurate policy recession policy",
-    "score": 0.900540825748582,
-    "name": "<b>AP Macroeconomics Question 445: Answer and Explanation</b> - CrackAP.com",
-    "contaminated_url": "https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html",
-  },
-  {
-    "input": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
-    "match_string": "Given this economic situation which of the following statements about monetary policy is accurate policy recession policy",
-    "score": 0.615243730628346,
-    "name": "<b>AP Macroeconomics Practice Test 21</b> - CrackAP.com",
-    "contaminated_url": "https://www.crackap.com/ap/macroeconomics/test41.html",
-  }
-]
-```
+<figure>
+<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=400>
+<figcaption>Contamination in popular multi-choice QA benchmarks tested on Llama models</figcaption>
+</figure>
 
-The results show this example including the question, choices, and answer is accessible on the internet and thus has high risk of containation.
+Check the [contamination report of llama](https://arxiv.org/abs/2310.17589) for more details.
 
-- **Memorization Behavior Examination**:
+- **Test Memorization via Perplexity**:
 
-Contamination Detector also audit the entire benchmark on a specific LLM, to verify whether the model exhibits memorization behaviors on test benchmarks. This is done by comparing the perplexity of the benchmark against memorised and fresh data.
+Contamination Detector also audit the entire benchmark on a specific LLM, to verify whether the model exhibits **memorization** behaviors on test benchmarks. This is done by comparing the perplexity of the benchmark against memorised and fresh data.
 
-![](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png)
+<figure>
+<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png" width = 500>
+<figcaption>The extent of contamination of XSum test set.</figcaption>
+</figure>
 
-This is an contamination illustration from **XSum**. We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated.
+We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated.
 
 ## Why Choose Contamination Detector
 
 Traditional methods for analyzing contamination often depend on identifying overlaps between training and test data. However, many modern LLMs utilize closed-source training data, restricting analysis largely to internal reports from big tech companies or research groups.
 
-Contamination Detector uses a novel approach by directly auditing models and benchmarks, thereby **avoiding the need for access to the training data.** This provides opportunities for small teams and individuals to conduct their own contamination analyses.
+Contamination Detector uses a novel approach by directly auditing models and benchmarks, thereby **avoiding the need for access to the training data.** And there is no need for the massive storage demands for hosting the entire training data as well. This provides opportunities for small teams and individuals to conduct their own contamination analyses.
 
 ## 0.To start
 
@@ -71,15 +69,32 @@ Simply run this to produce a report for a benchmark:
 python search.py
 ```
 
-To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api).
+To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api). A free access key allow 1000 calls monthly.
 
-It will generate a report under `reports/`.
+Set the key via `export Bing_Key = [YOUR API KEY]` in terminal.
 
-After you have the report for example `mmlu.json`, you could try this to visualize several samples:
+It will generate a report under `reports/` that highlight all matches online, for example:
+```
+[
+  {
+    "input": "The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?",
+    "match_string": "The economy is in a deep recession. Given this economic situation, which of the following statements about monetary policy is accurate policy recession policy",
+    "score": 0.900540825748582,
+    "name": "<b>AP Macroeconomics Question 445: Answer and Explanation</b> - CrackAP.com",
+    "contaminated_url": "https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html",
+  },
+...
+```
+
+Reports for six popular multi-choice QA benchmarks are ready to access under `/reports`.
+
+You could visualize contamination examples via:
 
 ```
 python visualize_search.py
 ```
+
+This will highlight the matched part of benchmark samples.
 
 **`MMLU` - An example of contamination visualization**
 
@@ -102,17 +117,52 @@ Results for some benchmarks:
 - `C-Eval`: 35 out of 100 have high risk of contamination.
 - `Winograde`: only 1 out of 100 have high risk of contamination.
 
-## Run Memorization Behavior Examination
+## Compare Model Performance on Clean and Dirty test set
 
-simply run to view the perplexity comparison:
+This will generate the comparison of accuracy between the clean and dirty benchmark subsets for various models.
+
+But first you need prepare:
+1. the model predictions on these benchmarks.
+2. get the benchmark reports ready (the internet presence reports).
+
+Download predictions of all Llama series models on these benchmark at [here](). Unzip and put them under `model_predictions/`.
+
+Then run:
+```
+python clean_dirty_comparison.py
+```
+
+See how contamination affect the evaluation of Llama-2 70B, more results in the report.
+
+| Dataset   | Condition          | Llama-2 70B |
+|-----------|--------------------|--------------|
+| MMLU      | Clean              | .6763       |
+| MMLU      | All Dirty          | .6667 ↓      |
+| MMLU      | Input-label Dirty  | .7093 ↑      |
+| Hellaswag | Clean              | .7726       |
+| Hellaswag | All Dirty          | .8348 ↑      |
+| Hellaswag | Input-label Dirty  | .8455 ↑      |
+| ARC       | Clean              | .4555       |
+| ARC       | All Dirty          | .5632 ↑      |
+| ARC       | Input-label Dirty  | .5667 ↑      |
+| Average   | Clean              | .6348       |
+| Average   | All Dirty          | .6882 ↑      |
+| Average   | Input-label Dirty  | .7072 ↑      |
+
+
+## Test Memorization via Perplexity
+
+Read this paper first to get the basic idea of perplexity test: [Estimating Contamination via Perplexity](https://arxiv.org/abs/2309.10677)!
+
+Run this to conduct the perplexity comparison:
 
 ```
 python perplexity.py
 ```
 
-You could specify models and benchmarks to test. It will write the results under `/reports/`.
+You could specify models and benchmarks to test. It will write the results under `reports/`.
 
-Then you could generate the figure with:
+Then you could generate the figure to visualize the results via:
 
 ```
 python visualize_search.py
@@ -120,8 +170,9 @@ python visualize_search.py
 
 **Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**
 
-**Important:** you should choose apporiate data source for the memorised and clean baselinse. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines.
-Check more details about this method in this paper: [Estimating Contamination via Perplexity: Quantifying Memorisation in Language Model Evaluation](https://arxiv.org/abs/2309.10677).
+**Important:** you should choose apporiate data source for the memorised and clean baselinse. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines. 
+
+Again, read [this paper](https://arxiv.org/abs/2309.10677) before you start.
 
 ## Issues
 
