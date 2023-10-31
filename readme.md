@@ -26,18 +26,19 @@ Contamination Detector goes through the benchmark and verify whether test exampl
 <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=700>
 </figure>
 
-*Contamination in popular multi-choice QA benchmarks tested on Llama models*
+*Contamination percentage of popular multi-choice QA benchmarks tested on Llama models*
 
-Check out more details in the [contamination report of llama](https://arxiv.org/abs/2310.17589).
+Check out more analysis in the [contamination report of llama](https://arxiv.org/abs/2310.17589).
 
 - **Test Memorization via Perplexity**:
 
 Contamination Detector also audit the entire benchmark on a specific LLM, to verify whether the model exhibits **memorization** behaviors on test benchmarks. This is done by comparing the perplexity of the benchmark against memorised and fresh data.
 
 <figure>
-<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png" width = 500>
-<figcaption>The extent of contamination of XSum test set.</figcaption>
+<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png" width = 700>
 </figure>
+
+*The extent of contamination of XSum test set.*
 
 We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated.
 
