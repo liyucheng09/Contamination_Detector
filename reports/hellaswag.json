@@ -1,0 +1,529 @@
+{
+  "dataset_name": "hellaswag",
+  "matches": [
+    [
+      {
+        "query": "[header] How to make a bracelet out of safety pins [title] Open up a safety pin and slide seed beads onto the pin. [step] Leave enough space on the top of the pin so that you can close it. You can use any color of seed bead you want, but avoid using ones that are too small, or you won't fit them onto the pin. A size \" 10/0 \" would be ideal. [substeps] This design will create a thick cuff-like bracelet that is covered with seed beads.",
+        "match_string": "Open up a safety pin and slide seed beads onto the pin Leave enough space on the top of the pin so that you can close it. You can use any color of seed bead you want but avoid using ones that are too small or you won&#39;t fit them onto the pin A size 10/0 would be ideal This design will create a thick cuff-like bracelet that is covered",
+        "score": 0.7098991591907617,
+        "score_label": 0.76,
+        "name": "3 Ways to <b>Make</b> <b>a Bracelet</b> <b>out</b> <b>of Safety</b> <b>Pins</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Make-a-Bracelet-out-of-Safety-Pins",
+        "snippet": "<b>Open</b> <b>up</b> <b>a safety</b> <b>pin</b> <b>and slide</b> <b>seed</b> <b>beads</b> <b>onto</b> <b>the pin</b>. <b>Leave</b> <b>enough</b> <b>space</b> <b>on the top</b> <b>of the pin</b> <b>so</b> <b>that you</b> <b>can</b> <b>close</b> <b>it. You</b> <b>can</b> <b>use</b> <b>any</b> <b>color</b> <b>of seed</b> <b>bead</b> <b>you</b> <b>want</b>, <b>but avoid</b> <b>using</b> <b>ones</b> <b>that are too</b> <b>small</b>, <b>or you</b> <b>won&#39;t</b> <b>fit</b> <b>them</b> <b>onto</b> <b>the pin</b>. <b>A size</b> &quot;<b>10/0</b>&quot; <b>would be ideal</b>. <b>This design</b> <b>will create</b> <b>a thick</b> <b>cuff-like</b> <b>bracelet</b> <b>that is covered</b> with ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to apply eyeliner that stays all day [title] Remove excess oil. [step] Oily lids are one of the main reasons why eyeliner can smudge. Before you apply your eyeliner, make sure your lids are not oily. Take an oil-free makeup remover, apply several drops to a cotton ball, and pat the cotton ball on your eyelid. This should remove the excess oil from your lids.",
+        "match_string": "Remove excess oil Oily lids are one of the main reasons why eyeliner can smudge Before you apply your eyeliner make sure your lids are not oily Take an oil-free makeup remover apply several drops to a cotton ball and pat the cotton ball on your eyelid This should remove the excess oil from your lids",
+        "score": 0.7671058149287111,
+        "score_label": 1.0,
+        "name": "5 Ways <b>to Apply Eyeliner That Stays All Day</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Apply-Eyeliner-That-Stays-All-Day",
+        "snippet": "1. <b>Remove</b> <b>excess</b> <b>oil</b>. <b>Oily</b> <b>lids</b> <b>are one</b> <b>of the main</b> <b>reasons</b> <b>why</b> <b>eyeliner</b> <b>can</b> <b>smudge</b>. <b>Before</b> <b>you</b> <b>apply</b> <b>your</b> <b>eyeliner</b>, <b>make</b> <b>sure</b> <b>your</b> <b>lids</b> <b>are not</b> <b>oily</b>. <b>Take</b> <b>an oil-free</b> <b>makeup</b> <b>remover</b>, <b>apply</b> <b>several</b> <b>drops</b> <b>to a cotton</b> <b>ball</b>, <b>and pat</b> <b>the cotton</b> <b>ball</b> <b>on your</b> <b>eyelid</b>. <b>This should</b> <b>remove</b> <b>the excess</b> <b>oil</b> <b>from your</b> <b>lids</b>. [1] 2."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to fix a scratched dvd [title] Assess the damage. [step] Decide whether your dvd can be fixed, or whether it has irreparable damage. [substeps] As mentioned above, disks with scratches that go deep will not be able to be mended. To assess the damage, hold the disk up in the sunlight. If sunlight shines through the scratch, the dvd is unlikely to be mended.",
+        "match_string": "Decide whether your DVD can be fixed or whether it has irreparable damage As mentioned above disks with scratches that go deep will not be able to be mended To assess the damage hold the disk up in the sunlight If sunlight shines through the scratch the DVD is unlikely to be mended Scratches",
+        "score": 0.7294400882363845,
+        "score_label": 1.0,
+        "name": "<b>How to Fix a Scratched DVD</b>: 13 Steps (with Pictures) - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Fix-a-Scratched-DVD",
+        "snippet": "<b>Decide</b> <b>whether</b> <b>your</b> <b>DVD</b> <b>can</b> <b>be fixed</b>, <b>or whether</b> <b>it has</b> <b>irreparable</b> <b>damage</b>. <b>As mentioned</b> <b>above</b>, <b>disks</b> <b>with scratches</b> <b>that go</b> <b>deep</b> <b>will not</b> <b>be able</b> <b>to be mended</b>. <b>To assess</b> <b>the damage</b>, <b>hold</b> <b>the disk</b> <b>up</b> <b>in the sunlight</b>. <b>If sunlight</b> <b>shines</b> <b>through</b> <b>the scratch</b>, <b>the DVD</b> <b>is unlikely</b> <b>to be mended</b>. <b>Scratches</b> that are circular, around the laser track ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to style your hair for a workout [title] Try a simple high or low ponytail. [step] A staple of gym style is a simple ponytail. It keeps the hair out of your face during a vigorous workout. Simply pull all your hair back and secure it using a hair tie. You can have your ponytail rest near the nape of your neck for a low ponytail or have it near the top of your head for a high ponytail.",
+        "match_string": "Try a simple high or low ponytail A staple of gym style is a simple ponytail It keeps the hair out of your face during a vigorous workout Simply pull all your hair back and secure it using a hair tie You can have your ponytail rest near the nape of your neck for a low ponytail or have it near the top of your head for a high ponytail",
+        "score": 0.8045883180858551,
+        "score_label": 1.0,
+        "name": "3 Ways <b>to Style Your Hair for a Workout</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Style-Your-Hair-for-a-Workout",
+        "snippet": "<b>Try</b> <b>a simple</b> <b>high</b> <b>or low</b> <b>ponytail</b>. <b>A staple</b> <b>of gym</b> <b>style</b> <b>is a simple</b> <b>ponytail</b>. <b>It keeps</b> <b>the hair</b> <b>out</b> <b>of your</b> <b>face</b> <b>during</b> <b>a vigorous</b> <b>workout</b>. <b>Simply</b> <b>pull</b> <b>all</b> <b>your</b> <b>hair</b> <b>back</b> <b>and secure</b> <b>it using</b> <b>a hair</b> <b>tie</b>. <b>You</b> <b>can</b> <b>have</b> <b>your</b> <b>ponytail</b> <b>rest</b> <b>near</b> <b>the nape</b> <b>of your</b> <b>neck</b> <b>for a low</b> <b>ponytail</b> <b>or have</b> <b>it near</b> <b>the top</b> <b>of your</b> <b>head</b> <b>for a high</b> <b>ponytail</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to use a cuticle cutter [title] Wash your cuticle clipper. [step] Use warm water and antibacterial soap to gently swab down your cuticle clipper. You can apply the soap with your hands or use something like a cotton ball to the clean the clipper. [substeps] If you use your hands to clean the clipper, wash them thoroughly first. [title] Sanitize the tips of the clipper.",
+        "match_string": "Wash your cuticle clipper Use warm water and antibacterial soap to gently swab down your cuticle clipper You can apply the soap with your hands or use something like a cotton ball to the clean the clipper If you use your hands to clean the clipper wash them thoroughly first Sanitize the tips of the clipper Use",
+        "score": 0.7382611233026746,
+        "score_label": 0.7599999999999999,
+        "name": "<b>Use</b> <b>a Cuticle</b> <b>Cutter</b> - Kipkis",
+        "url": "https://kipkis.com/Use_a_Cuticle_Cutter",
+        "snippet": "<b>Wash</b> <b>your</b> <b>cuticle</b> <b>clipper</b>. <b>Use</b> <b>warm</b> <b>water</b> <b>and antibacterial</b> <b>soap</b> <b>to gently</b> <b>swab</b> <b>down</b> <b>your</b> <b>cuticle</b> <b>clipper</b>. <b>You</b> <b>can</b> <b>apply</b> <b>the soap</b> <b>with your</b> <b>hands</b> <b>or use</b> <b>something</b> <b>like</b> <b>a cotton</b> <b>ball</b> <b>to the clean</b> <b>the clipper</b>. <b>If you</b> <b>use</b> <b>your</b> <b>hands</b> <b>to clean</b> <b>the clipper</b>, <b>wash</b> <b>them</b> <b>thoroughly</b> <b>first</b>. <b>Sanitize</b> <b>the tips</b> <b>of the clipper</b>. <b>Use</b> rubbing alcohol or an iodine ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to sex tortoises [title] Pick up the tortoise. [step] Hold the tortoise in both hands, being careful not to drop it. Hold the tortoise up high enough to be able to see underneath it. Do not flip the tortoise on its back. This is very stressful for the animal.",
+        "match_string": "Pick up the tortoise Hold the tortoise in both hands being careful not to drop it. Hold the tortoise up high enough to be able to see underneath it. Do not flip the tortoise on its back This is very stressful for the animal the tortoise",
+        "score": 0.7799566818280269,
+        "score_label": 1.0,
+        "name": "3 Ways <b>to Sex Tortoises</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Sex-Tortoises",
+        "snippet": "<b>Pick</b> <b>up</b> <b>the tortoise</b>. <b>Hold</b> <b>the tortoise</b> <b>in both</b> <b>hands</b>, <b>being</b> <b>careful</b> <b>not</b> <b>to drop</b> <b>it. Hold</b> <b>the tortoise</b> <b>up</b> <b>high</b> <b>enough</b> <b>to be able</b> <b>to see</b> <b>underneath</b> <b>it. Do</b> <b>not</b> <b>flip</b> <b>the tortoise</b> <b>on its</b> <b>back</b>. <b>This is very</b> <b>stressful</b> <b>for the animal</b>. If <b>the tortoise</b> is too big to lift above your head, try lifting it just slightly off the ground."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to apply lip paint [title] Exfoliate and moisturize your lips. [step] Lip paint can dry out lips, so take some preventative measures before applying it. Use a lip scrub to gently exfoliate your lips. Then, add a thin layer of lip moisturizer. Not only will this prevent drying, it will leave your lips looking smoother before you apply your lip paint.",
+        "match_string": "Exfoliate and moisturize your lips Lip paint can dry out lips so take some preventative measures before applying it. Use a lip scrub to gently exfoliate your lips Then add a thin layer of lip moisturizer Not only will this prevent drying it will leave your lips looking smoother before you apply your lip paint",
+        "score": 0.7970822853036292,
+        "score_label": 1.0,
+        "name": "<b>How to Apply</b> <b>Lip</b> <b>Paint</b>: 9 Steps (with Pictures) - wikiHow Life",
+        "url": "https://www.wikihow.life/Apply-Lip-Paint",
+        "snippet": "<b>Exfoliate</b> <b>and moisturize</b> <b>your</b> <b>lips</b>. <b>Lip</b> <b>paint</b> <b>can</b> <b>dry</b> <b>out</b> <b>lips</b>, <b>so</b> <b>take</b> <b>some</b> <b>preventative</b> <b>measures</b> <b>before</b> <b>applying</b> <b>it. Use</b> <b>a lip</b> <b>scrub</b> <b>to gently</b> <b>exfoliate</b> <b>your</b> <b>lips</b>. <b>Then</b>, <b>add</b> <b>a thin</b> <b>layer</b> <b>of lip</b> <b>moisturizer</b>. <b>Not</b> <b>only</b> <b>will this prevent</b> <b>drying</b>, <b>it will leave</b> <b>your</b> <b>lips</b> <b>looking</b> <b>smoother</b> <b>before</b> <b>you</b> <b>apply</b> <b>your</b> <b>lip</b> <b>paint</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to control teenage hormones [title] Learn to handle mood swings. [step] Having your emotions fluctuate during puberty is completely normal. Many young people will experience mood swings at some time during puberty. There are, however, ways to keep your emotions in check. For example, you can : [substeps] Take a moment to calm yourself.",
+        "match_string": "Learn to handle mood swings Having your emotions fluctuate during puberty is completely normal Many young people will experience mood swings at some time during puberty There are, however ways to keep your emotions in check For example you can Take a moment to calm yourself your",
+        "score": 0.7288722357247877,
+        "score_label": 0.8695652173913043,
+        "name": "<b>How to Control Teenage Hormones</b> (with Pictures) - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Control-Teenage-Hormones",
+        "snippet": "<b>Learn</b> <b>to handle</b> <b>mood</b> <b>swings</b>. <b>Having</b> <b>your</b> <b>emotions</b> <b>fluctuate</b> <b>during</b> <b>puberty</b> <b>is completely</b> <b>normal</b>. <b>Many</b> <b>young</b> <b>people</b> <b>will experience</b> <b>mood</b> <b>swings</b> <b>at some</b> <b>time</b> <b>during</b> <b>puberty</b>. <b>There</b> <b>are, however</b>, <b>ways</b> <b>to keep</b> <b>your</b> <b>emotions</b> <b>in check</b>. <b>For example</b>, <b>you</b> <b>can</b>: <b>Take</b> <b>a moment</b> <b>to calm</b> <b>yourself</b>. Try taking a few deep breaths and letting out <b>your</b> air slowly."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to cook buttercup squash [title] Preheat the oven to 400 degrees f (204 degrees c). [step] Coat a baking dish with non-stick cooking spray or olive oil. Lay the squash wedges in a single layer on the baking dish. [title] Mix together the agave nectar and balsamic vinegar in a small bowl. [step] Use a basting brush to coat each piece of squash with the mixture.",
+        "match_string": "Preheat the oven to 400 degrees F 204 degrees C Coat a baking dish with non-stick cooking spray or olive oil Lay the squash wedges in a single layer on the baking dish Mix together the agave nectar and balsamic vinegar in a small bowl Use a basting brush to coat each piece of squash with the mixture",
+        "score": 0.7247677615933412,
+        "score_label": 0.8064516129032258,
+        "name": "<b>How to Cook</b> <b>Buttercup</b> <b>Squash</b>: 10 Steps (with Pictures) - wikiHow Life",
+        "url": "https://www.wikihow.life/Cook-Buttercup-Squash",
+        "snippet": "1. <b>Preheat</b> <b>the oven</b> <b>to 400</b> <b>degrees</b> <b>F</b> (<b>204</b> <b>degrees</b> <b>C</b>). <b>Coat</b> <b>a baking</b> <b>dish</b> <b>with non-stick</b> <b>cooking</b> <b>spray</b> <b>or olive</b> <b>oil</b>. <b>Lay</b> <b>the squash</b> <b>wedges</b> <b>in a single</b> <b>layer</b> <b>on the baking</b> <b>dish</b>. 2. <b>Mix</b> <b>together</b> <b>the agave</b> <b>nectar</b> <b>and balsamic</b> <b>vinegar</b> <b>in a small</b> <b>bowl</b>. <b>Use</b> <b>a basting</b> <b>brush</b> <b>to coat</b> <b>each</b> <b>piece</b> <b>of squash</b> <b>with the mixture</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to remove iron on patches [title] Check to see if your item can take the heat. [step] Unless you added the patch yourself, you will first need to make sure your item won't be damaged by ironing it. Not all \" iron on \" patches are actually applied with heat. [substeps] Pick a small, inconspicuous part of the item not easily visible during normal use. Place wax paper or a thin dish towel on top of the area.",
+        "match_string": "Check to see if your item can take the heat Unless you added the patch yourself you will first need to make sure your item won&#39;t be damaged by ironing it. Not all iron on&quot; patches are actually applied with heat Pick a small inconspicuous part of the item not easily visible during normal use Place wax paper or a thin dish towel on top",
+        "score": 0.7167310393258427,
+        "score_label": 0.8333333333333335,
+        "name": "3 Ways <b>to Remove Iron On Patches</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Remove-Iron-On-Patches",
+        "snippet": "<b>Check</b> <b>to see</b> <b>if your</b> <b>item</b> <b>can</b> <b>take</b> <b>the heat</b>. <b>Unless</b> <b>you</b> <b>added</b> <b>the patch</b> <b>yourself</b>, <b>you</b> <b>will first</b> <b>need</b> <b>to make</b> <b>sure</b> <b>your</b> <b>item</b> <b>won&#39;t</b> <b>be damaged</b> <b>by ironing</b> <b>it. Not</b> <b>all</b> &quot;<b>iron on&quot; patches</b> <b>are actually</b> <b>applied</b> <b>with heat</b>. <b>Pick</b> <b>a small</b>, <b>inconspicuous</b> <b>part</b> <b>of the item</b> <b>not</b> <b>easily</b> <b>visible</b> <b>during</b> <b>normal</b> <b>use</b>. <b>Place</b> <b>wax</b> <b>paper</b> <b>or a thin</b> <b>dish</b> <b>towel</b> <b>on top</b> of ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to style greasy hair [title] Create a deep side part. [step] This look is great for concealing your roots but embracing the texture. Use a comb to part your hair to 1 side of your head. You can choose to part it to the left or right. Make sure to part from 1 far side of your head so that you make a deep part.",
+        "match_string": "Create a deep side part This look is great for concealing your roots but embracing the texture Use a comb to part your hair to 1 side of your head You can choose to part it to the left or right Make sure to part from 1 far side of your head so that you make a deep part style your hair",
+        "score": 0.8315723789083065,
+        "score_label": 1.0,
+        "name": "3 Ways to <b>Style</b> <b>Greasy</b> <b>Hair</b> - wikiHow Life",
+        "url": "https://www.wikihow.life/Style-Greasy-Hair",
+        "snippet": "<b>Create</b> <b>a deep</b> <b>side</b> <b>part</b>. <b>This look</b> <b>is great</b> <b>for concealing</b> <b>your</b> <b>roots</b> <b>but embracing</b> <b>the texture</b>. <b>Use</b> <b>a comb</b> <b>to part</b> <b>your</b> <b>hair</b> <b>to 1</b> <b>side</b> <b>of your</b> <b>head</b>. <b>You</b> <b>can</b> <b>choose</b> <b>to part</b> <b>it to the left</b> <b>or right</b>. <b>Make</b> <b>sure</b> <b>to part</b> <b>from 1</b> <b>far</b> <b>side</b> <b>of your</b> <b>head</b> <b>so</b> <b>that you</b> <b>make</b> <b>a deep</b> <b>part</b>. This <b>style</b> still works if <b>your</b> <b>hair</b> is long on top but shaved on the ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to make overnight refrigerator rolls [title] Combine the water and yeast. [step] Add 1 packet of active dry yeast and 1 ¼ (294 ml) cups of warm water to a large bowl. Stir the mixture until the yeast dissolves. [substeps] The water should be approximately 105 to 115 degrees fahrenheit (40 to 46 degrees celsius). Use thermometer to make sure that it's warm enough to activate the yeast.",
+        "match_string": "Combine the water and yeast Add 1 packet of active dry yeast and 1 ¼ 294 ml cups of warm water to a large bowl Stir the mixture until the yeast dissolves The water should be approximately 105 to 115 degrees Fahrenheit 40 to 46 degrees Celsius Use thermometer to make sure that it&#39;s warm enough to activate the yeast",
+        "score": 0.7220348058902276,
+        "score_label": 0.8235294117647058,
+        "name": "<b>How to Make</b> <b>Overnight</b> <b>Refrigerator</b> <b>Rolls</b> - wikiHow Life",
+        "url": "https://www.wikihow.life/Make-Overnight-Refrigerator-Rolls",
+        "snippet": "<b>Combine</b> <b>the water</b> <b>and yeast</b>. <b>Add</b> <b>1</b> <b>packet</b> <b>of active</b> <b>dry</b> <b>yeast</b> <b>and 1</b> <b>¼</b> (<b>294</b> <b>ml</b>) <b>cups</b> <b>of warm</b> <b>water</b> <b>to a large</b> <b>bowl</b>. <b>Stir</b> <b>the mixture</b> <b>until</b> <b>the yeast</b> <b>dissolves</b>. <b>The water</b> <b>should</b> <b>be approximately</b> <b>105</b> <b>to 115</b> <b>degrees</b> <b>Fahrenheit</b> (<b>40</b> <b>to 46</b> <b>degrees</b> <b>Celsius</b>). <b>Use</b> <b>thermometer</b> <b>to make</b> <b>sure</b> <b>that it&#39;s</b> <b>warm</b> <b>enough</b> <b>to activate</b> <b>the yeast</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to look younger at 50 [title] Exercise. [step] Exercise is important at all ages, but it can be especially helpful once you reach your 50s. Include both cardiovascular and strength exercises in your routine. Cardiovascular exercise gets your blood pumping and strength exercises can tone flabby skin associated with age. [substeps] Improved circulation supplies more nutrients and oxygen to your skin.",
+        "match_string": "Exercise is important at all ages but it can be especially helpful once you reach your 50s Include both cardiovascular and strength exercises in your routine Cardiovascular exercise gets your blood pumping and strength exercises can tone flabby skin associated with age Improved circulation supplies more nutrients and oxygen to your skin",
+        "score": 0.732373531127594,
+        "score_label": 0.896551724137931,
+        "name": "5 Ways <b>to Look Younger at 50</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Look-Younger-at-50",
+        "snippet": "<b>Exercise</b> <b>is important</b> <b>at all</b> <b>ages</b>, <b>but it can</b> <b>be especially</b> <b>helpful</b> <b>once</b> <b>you</b> <b>reach</b> <b>your</b> <b>50s</b>. <b>Include</b> <b>both</b> <b>cardiovascular</b> <b>and strength</b> <b>exercises</b> <b>in your</b> <b>routine</b>. <b>Cardiovascular</b> <b>exercise</b> <b>gets</b> <b>your</b> <b>blood</b> <b>pumping</b> <b>and strength</b> <b>exercises</b> <b>can</b> <b>tone</b> <b>flabby</b> <b>skin</b> <b>associated</b> <b>with age</b>. <b>Improved</b> <b>circulation</b> <b>supplies</b> <b>more</b> <b>nutrients</b> <b>and oxygen</b> <b>to your</b> <b>skin</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to be a successful muslim husband [title] Talk with your spouse. [step] Ask about their feelings, and share yours with as well. Be honest and open about your joys and fears. Listen to what they have to say, and ask follow-up questions when they are telling you something. [substeps] Make time for conversations even on busy days.",
+        "match_string": "Talk with your spouse Ask about their feelings and share yours with as well Be honest and open about your joys and fears Listen to what they have to say and ask follow-up questions when they are telling you something Make time for conversations even on busy days",
+        "score": 0.7163304570895522,
+        "score_label": 0.8928571428571429,
+        "name": "<b>How to Be a Successful Muslim Husband</b>: 14 Steps (with Pictures) - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Be-a-Successful-Muslim-Husband",
+        "snippet": "1. <b>Talk</b> <b>with your</b> <b>spouse</b>. <b>Ask</b> <b>about their</b> <b>feelings</b>, <b>and share</b> <b>yours</b> <b>with as well</b>. <b>Be honest</b> <b>and open</b> <b>about your</b> <b>joys</b> <b>and fears</b>. <b>Listen</b> <b>to what they</b> <b>have</b> <b>to say</b>, <b>and ask</b> <b>follow-up</b> <b>questions</b> <b>when they</b> <b>are telling</b> <b>you</b> <b>something</b>. [1] <b>Make</b> <b>time</b> <b>for conversations</b> <b>even</b> <b>on busy</b> <b>days</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to set boundaries for your kids [title] Set clear rules and boundaries. [step] Make sure your kids know what the rules and boundaries are and that you will enforce rules you set. [substeps] Start giving kids rules at a young age. Have a clear bedtime that is non-negotiable when they are young. Once they can understand rules, make it clear that your rules must be obeyed.",
+        "match_string": "Set clear rules and boundaries Make sure your kids know what the rules and boundaries are and that you will enforce rules you set Start giving kids rules at a young age Have a clear bedtime that is non-negotiable when they are young Once they can understand rules make it clear that your rules must be obeyed",
+        "score": 0.7499453273071877,
+        "score_label": 1.0,
+        "name": "4 Ways to <b>Set</b> <b>Boundaries</b> <b>for Your</b> <b>Kids</b> - wikiHow Life",
+        "url": "https://www.wikihow.life/Set-Boundaries-for-Your-Kids",
+        "snippet": "1. <b>Set</b> <b>clear</b> <b>rules</b> <b>and boundaries</b>. [1] <b>Make</b> <b>sure</b> <b>your</b> <b>kids</b> <b>know</b> <b>what the rules</b> <b>and boundaries</b> <b>are and that you</b> <b>will enforce</b> <b>rules</b> <b>you</b> <b>set</b>. <b>Start</b> <b>giving</b> <b>kids</b> <b>rules</b> <b>at a young</b> <b>age</b>. <b>Have</b> <b>a clear</b> <b>bedtime</b> <b>that is non-negotiable</b> <b>when they</b> <b>are young</b>. <b>Once</b> <b>they</b> <b>can</b> <b>understand</b> <b>rules</b>, <b>make</b> <b>it clear</b> <b>that your</b> <b>rules</b> <b>must</b> <b>be obeyed</b>."
+      }
+    ],
+    [
+      {
+        "query": "We see a person holding face wash then putting it on their face. They rinse the face and add the face wash with a brush. we see an illustration on how to add the wash using a brush.",
+        "match_string": "We see a person holding face wash then putting it on their face They rinse the face and add the face wash with a brush we We see a person holding face wash then putting it on their face They rinse the face and add the face wash with a brush we see see see an illustration",
+        "score": 0.7903651987110635,
+        "score_label": 0.75,
+        "name": "Rowan/hellaswag · Datasets at Hugging <b>Face</b>",
+        "url": "https://huggingface.co/datasets/hellaswag/viewer/default/validation",
+        "snippet": "<b>We</b> <b>see</b> <b>a person</b> <b>holding</b> <b>face</b> <b>wash</b> <b>then</b> <b>putting</b> <b>it on their</b> <b>face</b>. <b>They</b> <b>rinse</b> <b>the face</b> <b>and add</b> <b>the face</b> <b>wash</b> <b>with a brush</b>. <b>we</b>. <b>We</b> <b>see</b> <b>a person</b> <b>holding</b> <b>face</b> <b>wash</b> <b>then</b> <b>putting</b> <b>it on their</b> <b>face</b>. <b>They</b> <b>rinse</b> <b>the face</b> <b>and add</b> <b>the face</b> <b>wash</b> <b>with a brush</b>. <b>we</b> [ &quot;<b>see</b> a closing title screen.&quot;, &quot;<b>see</b> a black screen with the credits.&quot;, &quot;<b>see</b> <b>an illustration</b> on ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to fix soggy rice [title] Let the water evaporate if there is water sitting in the pan. [step] Take the cover off of the pan to let the steam escape. Set the heat to low and continue to cook the rice for about 5 minutes. The water should be cooked off by the end. [title] Drain the extra water with a fine mesh sieve or colander.",
+        "match_string": "Let the water evaporate if there is water sitting in the pan Take the cover off of the pan to let the steam escape Set the heat to low and continue to cook the rice for about 5 minutes The water should be cooked off by the end Drain the extra water with a fine mesh sieve or colander",
+        "score": 0.7762647605799906,
+        "score_label": 0.8695652173913042,
+        "name": "4 Ways <b>to Fix Soggy Rice</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Fix-Soggy-Rice",
+        "snippet": "1. <b>Let</b> <b>the water</b> <b>evaporate</b> <b>if there</b> <b>is water</b> <b>sitting</b> <b>in the pan</b>. <b>Take</b> <b>the cover</b> <b>off</b> <b>of the pan</b> <b>to let</b> <b>the steam</b> <b>escape</b>. [1] <b>Set</b> <b>the heat</b> <b>to low</b> <b>and continue</b> <b>to cook</b> <b>the rice</b> <b>for about 5</b> <b>minutes</b>. <b>The water</b> <b>should</b> <b>be cooked</b> <b>off</b> <b>by the end</b>. [2] 2. <b>Drain</b> <b>the extra</b> <b>water</b> <b>with a fine</b> <b>mesh</b> <b>sieve</b> <b>or colander</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to clean keds [title] Remove laces and inserts. [step] Before you clean your keds, you should take out both the laces and any inserts inside of the shoe. The laces can be cleaned in the washing machine, by hand in the sink, or simply replaced. You should set aside the inserts until you are finished cleaning. If they are smelly or dirty, you may want to replace them.",
+        "match_string": "Remove laces and inserts Before you clean your Keds you should take out both the laces and any inserts inside of the shoe The laces can be cleaned in the washing machine by hand in the sink or simply replaced You should set aside the inserts until you are finished cleaning If they are smelly or dirty you may want to replace them",
+        "score": 0.8289341077561629,
+        "score_label": 1.0,
+        "name": "3 Ways to <b>Clean Keds</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Clean-Keds",
+        "snippet": "1 <b>Remove</b> <b>laces</b> <b>and inserts</b>. <b>Before</b> <b>you</b> <b>clean</b> <b>your</b> <b>Keds</b>, <b>you</b> <b>should</b> <b>take</b> <b>out</b> <b>both</b> <b>the laces</b> <b>and any</b> <b>inserts</b> <b>inside</b> <b>of the shoe</b>. <b>The laces</b> <b>can</b> <b>be cleaned</b> <b>in the washing</b> <b>machine</b>, <b>by hand</b> <b>in the sink</b>, <b>or simply</b> <b>replaced</b>. <b>You</b> <b>should</b> <b>set</b> <b>aside</b> <b>the inserts</b> <b>until</b> <b>you</b> <b>are finished</b> <b>cleaning</b>. <b>If they</b> <b>are smelly</b> <b>or dirty</b>, <b>you</b> <b>may</b> <b>want</b> <b>to replace</b> <b>them</b>. 2"
+      }
+    ],
+    [
+      {
+        "query": "[header] How to deal with your brother in law's jealous wife [title] Stand up for yourself. [step] You are a part of the family now. Your husband chose you to be his wife. You have every right to be included as a part of this new family. Building a relationship with your in-laws is very important so do make the effort to visit often and get to know them and allow them the opportunity to get to know you.",
+        "match_string": "Stand up for yourself You are a part of the family now Your husband chose you to be his wife You have every right to be included as a part of this new family Building a relationship with your in-laws is very important so do make the effort to visit often and get to know them and allow them the opportunity to get to know you",
+        "score": 0.7674311828645868,
+        "score_label": 1.0,
+        "name": "<b>Deal</b> <b>With Your</b> <b>Brother</b> <b>In Law&#39;s</b> <b>Jealous</b> <b>Wife</b> - Kipkis",
+        "url": "https://kipkis.com/Deal_With_Your_Brother_In_Law%27s_Jealous_Wife",
+        "snippet": "<b>Stand</b> <b>up</b> <b>for yourself</b>. <b>You</b> <b>are a part</b> <b>of the family</b> <b>now</b>. <b>Your</b> <b>husband</b> <b>chose</b> <b>you</b> <b>to be his</b> <b>wife</b>. <b>You</b> <b>have</b> <b>every</b> <b>right</b> <b>to be included</b> <b>as a part</b> <b>of this new</b> <b>family</b>. <b>Building</b> <b>a relationship</b> <b>with your</b> <b>in-laws</b> <b>is very</b> <b>important</b> <b>so</b> <b>do</b> <b>make</b> <b>the effort</b> <b>to visit</b> <b>often</b> <b>and get</b> <b>to know</b> <b>them</b> <b>and allow</b> <b>them</b> <b>the opportunity</b> <b>to get</b> <b>to know</b> <b>you</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to clean rusty tools [title] Wash away dirt and grease. [step] Mix grease-cutting dish detergent into warm water until you get suds. Place the tools into the soapy water. While the tools are submerged, scrub them using a sponge or rag until the oil and dirt are gone, then remove the tools from the water. [substeps] The soap and water should mix more easily if you pour the detergent into the bowl before adding the water.",
+        "match_string": "Wash away dirt and grease Mix grease-cutting dish detergent into warm water until you get suds Place the tools into the soapy water While the tools are submerged scrub them using a sponge or rag until the oil and dirt are gone then remove the tools from the water The soap and water should mix more easily if you pour the detergent into the bowl before adding the water",
+        "score": 0.8022926100145075,
+        "score_label": 0.9387755102040817,
+        "name": "3 Ways <b>to Clean Rusty Tools</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Clean-Rusty-Tools",
+        "snippet": "<b>Wash</b> <b>away</b> <b>dirt</b> <b>and grease</b>. <b>Mix</b> <b>grease-cutting</b> <b>dish</b> <b>detergent</b> <b>into</b> <b>warm</b> <b>water</b> <b>until</b> <b>you</b> <b>get</b> <b>suds</b>. <b>Place</b> <b>the tools</b> <b>into</b> <b>the soapy</b> <b>water</b>. <b>While</b> <b>the tools</b> <b>are submerged</b>, <b>scrub</b> <b>them</b> <b>using</b> <b>a sponge</b> <b>or rag</b> <b>until</b> <b>the oil</b> <b>and dirt</b> <b>are gone</b>, <b>then</b> <b>remove</b> <b>the tools</b> <b>from the water</b>. <b>The soap</b> <b>and water</b> <b>should</b> <b>mix</b> <b>more</b> <b>easily</b> <b>if you</b> <b>pour</b> <b>the detergent</b> <b>into</b> <b>the bowl</b> <b>before</b> <b>adding</b> <b>the water</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to care for a weave [title] Shampoo your hair every 7 to 14 days. [step] Wet your hair with lukewarm water. Pour a dime-sized amount of shampoo into your palm, then massage it into your scalp and through your extension. Be as gentle as possible, since your weave can tangle easily while shampooing. [substeps] If you work out or sweat a lot, shampoo every 7 days.",
+        "match_string": "Shampoo your hair every 7 to 14 days Wet your hair with lukewarm water Pour a dime-sized amount of shampoo into your palm then massage it into your scalp and through your extension Be as gentle as possible since your weave can tangle easily while shampooing If you work out or sweat a lot shampoo every 7 days",
+        "score": 0.7631050910570124,
+        "score_label": 0.8928571428571429,
+        "name": "<b>How to Care for a Weave</b>: Expert Tips - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Care-for-a-Weave",
+        "snippet": "1. <b>Shampoo</b> <b>your</b> <b>hair</b> <b>every</b> <b>7</b> <b>to 14</b> <b>days</b>. <b>Wet</b> <b>your</b> <b>hair</b> <b>with lukewarm</b> <b>water</b>. <b>Pour</b> <b>a dime-sized</b> <b>amount</b> <b>of shampoo</b> <b>into</b> <b>your</b> <b>palm</b>, <b>then</b> <b>massage</b> <b>it into</b> <b>your</b> <b>scalp</b> <b>and through</b> <b>your</b> <b>extension</b>. <b>Be as gentle</b> <b>as possible</b>, <b>since</b> <b>your</b> <b>weave</b> <b>can</b> <b>tangle</b> <b>easily</b> <b>while</b> <b>shampooing</b>. <b>If you</b> <b>work</b> <b>out</b> <b>or sweat</b> <b>a lot</b>, <b>shampoo</b> <b>every</b> <b>7</b> <b>days</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to recharge salik [title] Scratch off the film located on the back of your salik recharge card. [step] This will expose your card's unique 12-digit number. [title] Call salik customer service at 1-800-salik, or 1-800-72545. [title] Select your preferred language when prompted to by the automated system. [title] Select option one and follow the instructions to refill, or recharge your salik account.",
+        "match_string": "Scratch off the film located on the back of your Salik Recharge Card This will expose your card’s unique 12-digit number Call Salik customer service at 1-800-SALIK or 1-800-72545 Select your preferred language when prompted to by the automated system Select option one and follow the instructions to refill or recharge your Salik account",
+        "score": 0.7008177008177009,
+        "score_label": 0.8064516129032258,
+        "name": "<b>Recharge</b> <b>Salik</b> - Kipkis",
+        "url": "https://kipkis.com/Recharge_Salik",
+        "snippet": "<b>Scratch</b> <b>off</b> <b>the film</b> <b>located</b> <b>on the back</b> <b>of your</b> <b>Salik</b> <b>Recharge</b> <b>Card</b>. <b>This will expose</b> <b>your</b> <b>card’s</b> <b>unique</b> <b>12-digit</b> <b>number</b>. <b>Call</b> <b>Salik</b> <b>customer</b> <b>service</b> <b>at 1-800-SALIK</b>, <b>or 1-800-72545</b>. <b>Select</b> <b>your</b> <b>preferred</b> <b>language</b> <b>when prompted</b> <b>to by the automated</b> <b>system</b>. <b>Select</b> <b>option</b> <b>one</b> <b>and follow</b> <b>the instructions</b> <b>to refill</b>, <b>or recharge</b> <b>your</b> <b>Salik</b> <b>account</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to plan a romantic evening [title] Start early. [step] Get an early start by looking ahead and planning in advance. People get busy and schedules get filled up, so it is best to start planning at least a month ahead of time. This is especially important if the romantic evening is for an anniversary or other special occasion. Begin considering activities and thinking about special moments that your partner will enjoy.",
+        "match_string": "Get an early start by looking ahead and planning in advance People get busy and schedules get filled up so it is best to start planning at least a month ahead of time This is especially important if the romantic evening is for an anniversary or other special occasion Begin considering activities and thinking about special moments that your",
+        "score": 0.746833624849545,
+        "score_label": 0.896551724137931,
+        "name": "3 Ways to <b>Plan a Romantic Evening</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Plan-a-Romantic-Evening",
+        "snippet": "<b>Get</b> <b>an early</b> <b>start</b> <b>by looking</b> <b>ahead</b> <b>and planning</b> <b>in advance</b>. <b>People</b> <b>get</b> <b>busy</b> <b>and schedules</b> <b>get</b> <b>filled</b> <b>up</b>, <b>so</b> <b>it is best</b> <b>to start</b> <b>planning</b> <b>at least</b> <b>a month</b> <b>ahead</b> <b>of time</b>. <b>This is especially</b> <b>important</b> <b>if the romantic</b> <b>evening</b> <b>is for an anniversary</b> <b>or other</b> <b>special</b> <b>occasion</b>. <b>Begin</b> <b>considering</b> <b>activities</b> <b>and thinking</b> <b>about special</b> <b>moments</b> <b>that your</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to tell the difference between a frog and a toad [title] Look at the hind legs. [step] You can tell the difference between a frog and a toad by the length of its legs. If you can get close enough, get a good look at the back legs specifically. [substeps] A frog's hind legs are very long, as frogs hop more frequently than toads. A frog's hind legs will be bigger than its head and body.",
+        "match_string": "Look at the hind legs You can tell the difference between a frog and a toad by the length of its legs If you can get close enough get a good look at the back legs specifically A frog&#39;s hind legs are very long as frogs hop more frequently than toads A frog&#39;s hind legs will be bigger than its head and body",
+        "score": 0.7157301472777664,
+        "score_label": 0.838709677419355,
+        "name": "<b>How to Tell</b> <b>the Difference Between a Frog and a Toad</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Tell-the-Difference-Between-a-Frog-and-a-Toad",
+        "snippet": "1. <b>Look</b> <b>at the hind</b> <b>legs</b>. <b>You</b> <b>can</b> <b>tell</b> <b>the difference between a frog and a toad</b> <b>by the length</b> <b>of its</b> <b>legs</b>. <b>If you</b> <b>can</b> <b>get</b> <b>close</b> <b>enough</b>, <b>get</b> <b>a good</b> <b>look</b> <b>at the back</b> <b>legs</b> <b>specifically</b>. [1] <b>A frog&#39;s</b> <b>hind</b> <b>legs</b> <b>are very</b> <b>long</b>, <b>as frogs</b> <b>hop</b> <b>more</b> <b>frequently</b> <b>than</b> <b>toads</b>. <b>A frog&#39;s</b> <b>hind</b> <b>legs</b> <b>will be bigger</b> <b>than</b> <b>its</b> <b>head</b> <b>and body</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to clean a stone fireplace [title] Clean the fireplace regularly. [step] The outside of the fireplace should be cleaned at least once a month. The inside of the fireplace should be cleaned anytime ¼\"or more of soot buildup occurs. For some, this could mean cleaning once a year. The fireplace may need to be cleaned a few times a year if it is used often.",
+        "match_string": "Clean the fireplace regularly The outside of the fireplace should be cleaned at least once a month The inside of the fireplace should be cleaned anytime or more of soot buildup occurs For some this could mean cleaning once a year The fireplace may need to be cleaned a few times a year if it is used often",
+        "score": 0.7732798256044391,
+        "score_label": 1.0,
+        "name": "<b>How to Clean a Stone Fireplace</b>: 12 Steps (with Pictures ... - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Clean-a-Stone-Fireplace",
+        "snippet": "<b>Clean</b> <b>the fireplace</b> <b>regularly</b>. <b>The outside</b> <b>of the fireplace</b> <b>should</b> <b>be cleaned</b> <b>at least</b> <b>once</b> <b>a month</b>. <b>The inside</b> <b>of the fireplace</b> <b>should</b> <b>be cleaned</b> <b>anytime</b> 1 ⁄ 4 in (0.64 cm) <b>or more</b> <b>of soot</b> <b>buildup</b> <b>occurs</b>. <b>For some</b>, <b>this could</b> <b>mean</b> <b>cleaning</b> <b>once</b> <b>a year</b>. <b>The fireplace</b> <b>may</b> <b>need</b> <b>to be cleaned</b> <b>a few</b> <b>times</b> <b>a year</b> <b>if it is used</b> <b>often</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to choose a skin moisturizer [title] Observe your skin conditions. [step] Dry skin is often rough, with red patches in certain areas. Pores are small and the skin may feel tight. People with dry skin also tend to have flakiness on the face and body. [substeps] Dry skin may become more irritated from cold weather, harsh soaps, prolonged time on your feet, and after water activities like swimming.",
+        "match_string": "Observe your skin conditions Dry skin is often rough with red patches in certain areas Pores are small and the skin may feel tight People with dry skin also tend to have flakiness on the face and body Dry skin may become more irritated from cold weather harsh soaps prolonged time on your feet and after water activities like swimming",
+        "score": 0.7691826923076924,
+        "score_label": 0.9230769230769231,
+        "name": "3 Ways to <b>Choose</b> <b>a Skin</b> <b>Moisturizer</b> - wikiHow Life",
+        "url": "https://www.wikihow.life/Choose-a-Skin-Moisturizer",
+        "snippet": "<b>Observe</b> <b>your</b> <b>skin</b> <b>conditions</b>. <b>Dry</b> <b>skin</b> <b>is often</b> <b>rough</b>, <b>with red</b> <b>patches</b> <b>in certain</b> <b>areas</b>. <b>Pores</b> <b>are small</b> <b>and the skin</b> <b>may</b> <b>feel</b> <b>tight</b>. <b>People</b> <b>with dry</b> <b>skin</b> <b>also</b> <b>tend</b> <b>to have</b> <b>flakiness</b> <b>on the face</b> <b>and body</b>. <b>Dry</b> <b>skin</b> <b>may</b> <b>become</b> <b>more</b> <b>irritated</b> <b>from cold</b> <b>weather</b>, <b>harsh</b> <b>soaps</b>, <b>prolonged</b> <b>time</b> <b>on your</b> <b>feet</b>, <b>and after</b> <b>water</b> <b>activities</b> <b>like</b> <b>swimming</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to choose nail polish colour that suits you [title] Go for nude shades if you have a light or medium skin tone. [step] Nudes tend to work best for light-coloured or medium-coloured skin. Lighter skins benefit from a pinkish nude. Avoid beige if you have pale skin, as it could create a yellow undertone. If you have medium-coloured skin, you can go for either beige nudes or nudes with a pinkish undertone.",
+        "match_string": "Go for nude shades if you have a light or medium skin tone Nudes tend to work best for light-coloured or medium-coloured skin Lighter skins benefit from a pinkish nude Avoid beige if you have pale skin as it could create a yellow undertone If you have medium-coloured skin you can go for either beige nudes or nudes with a pinkish undertone",
+        "score": 0.774986992715921,
+        "score_label": 1.0,
+        "name": "3 Ways to <b>Choose Nail Polish Colour That Suits You</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Choose-Nail-Polish-Colour-That-Suits-You",
+        "snippet": "<b>Go</b> <b>for nude</b> <b>shades</b> <b>if you</b> <b>have</b> <b>a light</b> <b>or medium</b> <b>skin</b> <b>tone</b>. <b>Nudes</b> <b>tend</b> <b>to work</b> <b>best</b> <b>for light-coloured</b> <b>or medium-coloured</b> <b>skin</b>. <b>Lighter</b> <b>skins</b> <b>benefit</b> <b>from a pinkish</b> <b>nude</b>. <b>Avoid</b> <b>beige</b> <b>if you</b> <b>have</b> <b>pale</b> <b>skin</b>, <b>as it could</b> <b>create</b> <b>a yellow</b> <b>undertone</b>. <b>If you</b> <b>have</b> <b>medium-coloured</b> <b>skin</b>, <b>you</b> <b>can</b> <b>go</b> <b>for either</b> <b>beige</b> <b>nudes</b> <b>or nudes</b> <b>with a pinkish</b> <b>undertone</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to teach your cat to do tricks [title] Get a supply of treats. [step] Cats need to be constantly rewarded with tasty treats in order to learn tricks. Keep plenty of your cat's favorite bite-sized treats on hand when trying to train it. Give your cat frequent treats when training it in short sessions. You can also vary treats frequently to keep your cat interested.",
+        "match_string": "Get a supply of treats Cats need to be constantly rewarded with tasty treats to learn tricks Keep plenty of your cat&#39;s favorite bite-sized treats on hand when trying to train it. Give your cat frequent treats when training it in short sessions You can also vary treats frequently to keep your cat interested",
+        "score": 0.7295814332851369,
+        "score_label": 1.0,
+        "name": "3 Ways to <b>Teach</b> <b>Your</b> <b>Cat</b> <b>to Do</b> <b>Tricks</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Teach-Your-Cat-to-Do-Tricks",
+        "snippet": "<b>Get</b> <b>a supply</b> <b>of treats</b>. <b>Cats</b> <b>need</b> <b>to be constantly</b> <b>rewarded</b> <b>with tasty</b> <b>treats</b> <b>to learn</b> <b>tricks</b>. <b>Keep</b> <b>plenty</b> <b>of your</b> <b>cat&#39;s</b> <b>favorite</b> <b>bite-sized</b> <b>treats</b> <b>on hand</b> <b>when trying</b> <b>to train</b> <b>it. Give</b> <b>your</b> <b>cat</b> <b>frequent</b> <b>treats</b> <b>when training</b> <b>it in short</b> <b>sessions</b>. <b>You</b> <b>can</b> <b>also</b> <b>vary</b> <b>treats</b> <b>frequently</b> <b>to keep</b> <b>your</b> <b>cat</b> <b>interested</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to paint sand dollars [title] Submerge the sand dollars in fresh water to clean them. [step] Place the sand dollars in a container filled with fresh water. As the sand dollar sits, the water should start to get brown. When the water gets to be a murky brown, replace it with fresh water and submerge the sand dollars again. Keep swapping out the water and submerging the dollars in fresh water until it stops turning brown.",
+        "match_string": "Submerge the sand dollars in fresh water to clean them Place the sand dollars in a container filled with fresh water As the sand dollar sits the water should start to get brown When the water gets to be a murky brown replace it with fresh water and submerge the sand dollars again Keep swapping out the water and submerging the dollars",
+        "score": 0.7139001412219415,
+        "score_label": 0.918918918918919,
+        "name": "<b>Paint</b> <b>Sand</b> <b>Dollars</b> | iwiki-how.com",
+        "url": "https://www.iwiki-how.com/wiki/7589/paint-sand-dollars",
+        "snippet": "<b>Submerge</b> <b>the sand</b> <b>dollars</b> <b>in fresh</b> <b>water</b> <b>to clean</b> <b>them</b>. <b>Place</b> <b>the sand</b> <b>dollars</b> <b>in a container</b> <b>filled</b> <b>with fresh</b> <b>water</b>. <b>As the sand</b> <b>dollar</b> <b>sits</b>, <b>the water</b> <b>should</b> <b>start</b> <b>to get</b> <b>brown</b>. <b>When the water</b> <b>gets</b> <b>to be a murky</b> <b>brown</b>, <b>replace</b> <b>it with fresh</b> <b>water</b> <b>and submerge</b> <b>the sand</b> <b>dollars</b> <b>again</b>. <b>Keep</b> <b>swapping</b> <b>out</b> <b>the water</b> <b>and submerging</b> <b>the dollars</b> in ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to wear purple eyeshadow [title] Put eye primer or concealer on eyelid using fingers or a brush. [step] A primer really helps eyeshadow to blend better and stay longer. When applying make sure to fully blend it out. [title] If using a concealer to prime, put a light eyeshadow over it to help blending later. [step] A light seashell color works best.",
+        "match_string": "Put eye primer or concealer on eyelid using fingers or a brush A primer really helps eyeshadow to blend better and stay longer When applying make sure to fully blend it out If using a concealer to prime put a light eyeshadow over it to help blending later A light seashell color works best",
+        "score": 0.7295814332851369,
+        "score_label": 0.7857142857142857,
+        "name": "3 Ways to <b>Wear</b> <b>Purple</b> <b>Eyeshadow</b> - wikiHow Life",
+        "url": "https://www.wikihow.life/Wear-Purple-Eyeshadow",
+        "snippet": "1. <b>Put</b> <b>eye</b> <b>primer</b> <b>or concealer</b> <b>on eyelid</b> <b>using</b> <b>fingers</b> <b>or a brush</b>. <b>A primer</b> <b>really</b> <b>helps</b> <b>eyeshadow</b> <b>to blend</b> <b>better</b> <b>and stay</b> <b>longer</b>. <b>When applying</b> <b>make</b> <b>sure</b> <b>to fully</b> <b>blend</b> <b>it out</b>. 2. <b>If using</b> <b>a concealer</b> <b>to prime</b>, <b>put</b> <b>a light</b> <b>eyeshadow</b> <b>over</b> <b>it to help</b> <b>blending</b> <b>later</b>. <b>A light</b> <b>seashell</b> <b>color</b> <b>works</b> <b>best</b>. 3."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to straighten your hair [title] Wash and blow-dry your hair. [step] Straightening your hair works best on freshly washed or day-old hair. When washing your hair, tailor your shampoo and conditioning products to your hair type. For thick, frizzy hair, use a smoothing shampoo and conditioner. For thin, flat hair, use volumizing products.",
+        "match_string": "Wash and blow-dry your hair Straightening your hair works best on freshly washed or day-old hair When washing your hair tailor your shampoo and conditioning products to your hair type For thick frizzy hair use a smoothing shampoo and conditioner For thin flat hair use volumizing products",
+        "score": 0.7704621184572797,
+        "score_label": 1.0,
+        "name": "3 Ways to <b>Straighten Your Hair</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Straighten-Your-Hair",
+        "snippet": "<b>Wash</b> <b>and blow-dry</b> <b>your</b> <b>hair</b>. <b>Straightening</b> <b>your</b> <b>hair</b> <b>works</b> <b>best</b> <b>on freshly</b> <b>washed</b> <b>or day-old</b> <b>hair</b>. <b>When washing</b> <b>your</b> <b>hair</b>, <b>tailor</b> <b>your</b> <b>shampoo</b> <b>and conditioning</b> <b>products</b> <b>to your</b> <b>hair</b> <b>type</b>. <b>For thick</b>, <b>frizzy</b> <b>hair</b>, <b>use</b> <b>a smoothing</b> <b>shampoo</b> <b>and conditioner</b>. <b>For thin</b>, <b>flat</b> <b>hair</b>, <b>use</b> <b>volumizing</b> <b>products</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to calculate federal income tax [title] Calculate wages earned. [step] Look at your pay stub from your employer under \" gross amount. \" this is before any other deductions are taken out. Do the same for your spouse's wages and add it to your amount if you are married and plan to file jointly. [substeps] Multiply the monthly wages by 12 to get the annual amount.",
+        "match_string": "Calculate wages earned Look at your pay stub from your employer under gross amount This is before any other deductions are taken out Do the same for your spouse&#39;s wages and add it to your amount if you are married and plan to file jointly Multiply the monthly wages by 12 to get the annual amount",
+        "score": 0.7138220457228721,
+        "score_label": 0.8918918918918919,
+        "name": "<b>How to Calculate Federal Income Tax</b>: 11 Steps (with Pictures) - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Calculate-Federal-Income-Tax",
+        "snippet": "<b>Calculate</b> <b>wages</b> <b>earned</b>. <b>Look</b> <b>at your</b> <b>pay</b> <b>stub</b> <b>from your</b> <b>employer</b> <b>under</b> &quot;<b>gross amount</b>.&quot; <b>This is before</b> <b>any</b> <b>other</b> <b>deductions</b> <b>are taken</b> <b>out</b>. <b>Do</b> <b>the same</b> <b>for your</b> <b>spouse&#39;s</b> <b>wages</b> <b>and add</b> <b>it to your</b> <b>amount</b> <b>if you</b> <b>are married</b> <b>and plan</b> <b>to file</b> <b>jointly</b>. <b>Multiply</b> <b>the monthly</b> <b>wages</b> <b>by 12</b> <b>to get</b> <b>the annual</b> <b>amount</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to perform a baseball slide [title] Sit on the ground and make a figure-4 with your legs. [step] Sit with your legs straight out in front of you. Fold one leg under the opposite knee, so you're forming a figure-4 with your legs. Keep the toes of your forward foot pointing upwards. To choose which leg to bend, try both out and see which one feels most comfortable to you.",
+        "match_string": "Sit on the ground and make a figure-4 with your legs Sit with your legs straight out in front of you Fold one leg under the opposite knee so you’re forming a figure-4 with your legs Keep the toes of your forward foot pointing upwards To choose which leg to bend try both out and see which one feels most comfortable to you",
+        "score": 0.7974252992336175,
+        "score_label": 1.0,
+        "name": "<b>How to Perform a Baseball Slide</b> (with Pictures) - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Perform-a-Baseball-Slide",
+        "snippet": "<b>Sit</b> <b>on the ground</b> <b>and make</b> <b>a figure-4</b> <b>with your</b> <b>legs</b>. <b>Sit</b> <b>with your</b> <b>legs</b> <b>straight</b> <b>out</b> <b>in front</b> <b>of you</b>. <b>Fold</b> <b>one</b> <b>leg</b> <b>under</b> <b>the opposite</b> <b>knee</b>, <b>so</b> <b>you’re</b> <b>forming</b> <b>a figure-4</b> <b>with your</b> <b>legs</b>. <b>Keep</b> <b>the toes</b> <b>of your</b> <b>forward</b> <b>foot</b> <b>pointing</b> <b>upwards</b>. <b>To choose</b> <b>which leg</b> <b>to bend</b>, <b>try</b> <b>both</b> <b>out</b> <b>and see</b> <b>which one</b> <b>feels</b> <b>most</b> <b>comfortable</b> <b>to you</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to stop picking your scabs [title] Disinfect the wound. [step] Open wounds and sores can develop infections. Always wash a new wound thoroughly with soap and water as soon as you obtain it. Then clean it up with an antiseptic wipe or a bit of neosporin and apply a bandage to protect it while it heals. You can also try using betadine or peroxide on the wound to clean and remove unwanted bacteria.",
+        "match_string": "Open wounds and sores can develop infections Always wash a new wound thoroughly with soap and water as soon as you obtain it. Then clean it up with an antiseptic wipe or a bit of Neosporin and apply a bandage to protect it while it heals You can also try using betadine or peroxide on the wound to clean and remove unwanted bacteria",
+        "score": 0.7777762225146118,
+        "score_label": 1.0,
+        "name": "3 Ways <b>to Stop Picking Your Scabs</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Stop-Picking-Your-Scabs",
+        "snippet": "<b>Open</b> <b>wounds</b> <b>and sores</b> <b>can</b> <b>develop</b> <b>infections</b>. <b>Always</b> <b>wash</b> <b>a new</b> <b>wound</b> <b>thoroughly</b> <b>with soap</b> <b>and water</b> <b>as soon</b> <b>as you</b> <b>obtain</b> <b>it. Then</b> <b>clean</b> <b>it up</b> <b>with an antiseptic</b> <b>wipe</b> <b>or a bit</b> <b>of Neosporin</b> <b>and apply</b> <b>a bandage</b> <b>to protect</b> <b>it while</b> <b>it heals</b>. <b>You</b> <b>can</b> <b>also</b> <b>try</b> <b>using</b> <b>betadine</b> <b>or peroxide</b> <b>on the wound</b> <b>to clean</b> <b>and remove</b> <b>unwanted</b> <b>bacteria</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to act and dress like emma ross [title] Hair. [step] Emma has gorgeous, shiny blonde hair which she brushes and styles well every day. This means to take very good care of your hair. Emma enjoys keeping her hair in mostly ponytails. Sometimes, she has hair-grips or bobby pins to keep her side bangs back.",
+        "match_string": "Hair Emma has gorgeous shiny blonde hair which she brushes and styles well every day This means to take very good care of your hair Emma enjoys keeping her hair in mostly ponytails Sometimes she has hair-grips or bobby pins to keep her side bangs back Emma her hair",
+        "score": 0.73617308701057,
+        "score_label": 1.0,
+        "name": "<b>Act</b> <b>and Dress</b> <b>Like</b> <b>Emma</b> <b>Ross</b> - Kipkis",
+        "url": "https://kipkis.com/Act_and_Dress_Like_Emma_Ross",
+        "snippet": "<b>Hair</b>. <b>Emma</b> <b>has</b> <b>gorgeous</b>, <b>shiny</b> <b>blonde</b> <b>hair</b> <b>which she</b> <b>brushes</b> <b>and styles</b> <b>well</b> <b>every</b> <b>day</b>. <b>This means</b> <b>to take</b> <b>very</b> <b>good</b> <b>care</b> <b>of your</b> <b>hair</b>. <b>Emma</b> <b>enjoys</b> <b>keeping</b> <b>her</b> <b>hair</b> <b>in mostly</b> <b>ponytails</b>. <b>Sometimes</b>, <b>she</b> <b>has</b> <b>hair-grips</b> <b>or bobby</b> <b>pins</b> <b>to keep</b> <b>her</b> <b>side</b> <b>bangs</b> <b>back</b>. <b>Emma</b> also wears <b>her</b> <b>hair</b> in a half ponytail (half-up, half-down) on certain days."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to get your dad to stop picking on you [title] Ignore it. [step] Sometimes, the best way to deal with someone messing with you is to ignore it. Your dad may thrive off the response he gets from you. He may think it's amusing to see you annoyed, so try to not indulge him. [substeps] When your dad starts picking on you, just pretend you do not hear him.",
+        "match_string": "Sometimes the best way to deal with someone messing with you is to ignore it. Your dad may thrive off the response he gets from you He may think it&#39;s amusing to see you annoyed so try to not indulge him When your dad starts picking on you just pretend you do not hear him he picking on you",
+        "score": 0.7122566141498216,
+        "score_label": 0.8787878787878788,
+        "name": "3 Ways to <b>Get</b> <b>Your Dad to Stop Picking on You</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Get-Your-Dad-to-Stop-Picking-on-You",
+        "snippet": "<b>Sometimes</b>, <b>the best</b> <b>way</b> <b>to deal</b> <b>with someone</b> <b>messing</b> <b>with you</b> <b>is to ignore</b> <b>it. Your</b> <b>dad</b> <b>may</b> <b>thrive</b> <b>off</b> <b>the response</b> <b>he</b> <b>gets</b> <b>from you</b>. <b>He</b> <b>may</b> <b>think</b> <b>it&#39;s</b> <b>amusing</b> <b>to see</b> <b>you</b> <b>annoyed</b>, <b>so</b> <b>try</b> <b>to not</b> <b>indulge</b> <b>him</b>. <b>When your</b> <b>dad</b> <b>starts</b> <b>picking</b> <b>on you</b>, <b>just</b> <b>pretend</b> <b>you</b> <b>do</b> <b>not</b> <b>hear</b> <b>him</b>. If <b>he</b> persists in <b>picking</b> <b>on you</b>, simply walk away."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to get rid of tattoo scarring and blowouts [title] Add background shading to the tattoo. [step] Ask an experienced tattoo artist to add some additional shading to the tattoo in order to cover up the scarring or blowout. Typically, a blowout is visible on the outermost edge of a tattoo. To cover this up, you can expand on or add to the tattoo. Alternatively, you could add some background shading to cover the blowout.",
+        "match_string": "Ask an experienced tattoo artist to add some additional shading to the tattoo in order to cover up the scarring or blowout Typically a blowout is visible on the outermost edge of a tattoo To cover this up you can expand on or add to the tattoo Alternatively you could add some background shading to cover the blowout",
+        "score": 0.7073152605782894,
+        "score_label": 1.0,
+        "name": "4 Ways to <b>Get</b> <b>Rid</b> <b>of Tattoo Scarring and Blowouts</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Get-Rid-of-Tattoo-Scarring-and-Blowouts",
+        "snippet": "<b>Ask</b> <b>an experienced</b> <b>tattoo</b> <b>artist</b> <b>to add</b> <b>some</b> <b>additional</b> <b>shading</b> <b>to the tattoo</b> <b>in order</b> <b>to cover</b> <b>up</b> <b>the scarring</b> <b>or blowout</b>. <b>Typically</b>, <b>a blowout</b> <b>is visible</b> <b>on the outermost</b> <b>edge</b> <b>of a tattoo</b>. <b>To cover</b> <b>this up</b>, <b>you</b> <b>can</b> <b>expand</b> <b>on or add</b> <b>to the tattoo</b>. <b>Alternatively</b>, <b>you</b> <b>could</b> <b>add</b> <b>some</b> <b>background</b> <b>shading</b> <b>to cover</b> <b>the blowout</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to recognize a fake ralph lauren [title] Check the logo. [step] Ralph lauren shirts often contain a small stitched on graphic of a polo player riding a horse. On a fake ralph lauren, the mallet the rider holds will be more circular than rectangular. The tail will be difficult to see and the horse's right back leg will be bent. On a genuine product, the horse's tail is clearly visible and the right back leg is straight.",
+        "match_string": "Check the logo Ralph Lauren shirts often contain a small stitched on graphic of a polo player riding a horse On a fake Ralph Lauren the mallet the rider holds will be more circular than rectangular The tail will be difficult to see and the horse&#39;s right back leg will be bent On a genuine product the horse&#39;s tail is clearly visible",
+        "score": 0.7006829571686581,
+        "score_label": 0.7714285714285715,
+        "name": "3 Ways to <b>Recognize a Fake Ralph Lauren</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Recognize-a-Fake-Ralph-Lauren",
+        "snippet": "1. <b>Check</b> <b>the logo</b>. <b>Ralph</b> <b>Lauren</b> <b>shirts</b> <b>often</b> <b>contain</b> <b>a small</b> <b>stitched</b> <b>on graphic</b> <b>of a polo</b> <b>player</b> <b>riding</b> <b>a horse</b>. <b>On a fake</b> <b>Ralph</b> <b>Lauren</b>, <b>the mallet</b> <b>the rider</b> <b>holds</b> <b>will be more</b> <b>circular</b> <b>than</b> <b>rectangular</b>. <b>The tail</b> <b>will be difficult</b> <b>to see</b> <b>and the horse&#39;s</b> <b>right</b> <b>back</b> <b>leg</b> <b>will be bent</b>. <b>On a genuine</b> <b>product</b>, <b>the horse&#39;s</b> <b>tail</b> <b>is clearly</b> <b>visible</b> and ..."
+      },
+      {
+        "query": "[header] How to recognize a fake ralph lauren [title] Check the logo. [step] Ralph lauren shirts often contain a small stitched on graphic of a polo player riding a horse. On a fake ralph lauren, the mallet the rider holds will be more circular than rectangular. The tail will be difficult to see and the horse's right back leg will be bent. On a genuine product, the horse's tail is clearly visible and the right back leg is straight.",
+        "match_string": "Ralph Lauren shirts often contain a small stitched on graphic of a polo player riding a horse On a fake Ralph Lauren the mallet the rider holds will be more circular than rectangular The tail will be difficult to see and the horse&#39;s right back leg will be bent On a genuine product the horse&#39;s tail is clearly visible and the right back leg",
+        "score": 0.7354567955280172,
+        "score_label": 0.8857142857142858,
+        "name": "<b>Recognize</b> <b>a Fake</b> <b>Ralph</b> <b>Lauren</b> | iwiki-how.com",
+        "url": "https://www.iwiki-how.com/wiki/10037/recognize-a-fake-ralph-lauren",
+        "snippet": "<b>Ralph</b> <b>Lauren</b> <b>shirts</b> <b>often</b> <b>contain</b> <b>a small</b> <b>stitched</b> <b>on graphic</b> <b>of a polo</b> <b>player</b> <b>riding</b> <b>a horse</b>. <b>On a fake</b> <b>Ralph</b> <b>Lauren</b>, <b>the mallet</b> <b>the rider</b> <b>holds</b> <b>will be more</b> <b>circular</b> <b>than</b> <b>rectangular</b>. <b>The tail</b> <b>will be difficult</b> <b>to see</b> <b>and the horse&#39;s</b> <b>right</b> <b>back</b> <b>leg</b> <b>will be bent</b>. <b>On a genuine</b> <b>product</b>, <b>the horse&#39;s</b> <b>tail</b> <b>is clearly</b> <b>visible</b> <b>and the right</b> <b>back</b> <b>leg</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to make carrot top pesto [title] Trim and measure the carrot tops. [step] Get out a few bunches of fresh carrots with bright, green tops. Wash the carrots and tops thoroughly. Cut off the tops and dry them completely on a kitchen towel or in a salad spinner. Roughly chop the tops in order to get 2 cups (50 g) of carrot tops.",
+        "match_string": "Trim and measure the carrot tops Get out a few bunches of fresh carrots with bright green tops Wash the carrots and tops thoroughly Cut off the tops and dry them completely on a kitchen towel or in a salad spinner Roughly chop the tops in order to get 2 cups 50 g of carrot tops",
+        "score": 0.7669835057310594,
+        "score_label": 0.9411764705882353,
+        "name": "3 Ways to <b>Make</b> <b>Carrot</b> <b>Top</b> <b>Pesto</b> - wikiHow Life",
+        "url": "https://www.wikihow.life/Make-Carrot-Top-Pesto",
+        "snippet": "1. <b>Trim</b> <b>and measure</b> <b>the carrot</b> <b>tops</b>. <b>Get</b> <b>out</b> <b>a few</b> <b>bunches</b> <b>of fresh</b> <b>carrots</b> <b>with bright</b>, <b>green</b> <b>tops</b>. <b>Wash</b> <b>the carrots</b> <b>and tops</b> <b>thoroughly</b>. <b>Cut</b> <b>off</b> <b>the tops</b> <b>and dry</b> <b>them</b> <b>completely</b> <b>on a kitchen</b> <b>towel</b> <b>or in a salad</b> <b>spinner</b>. <b>Roughly</b> <b>chop</b> <b>the tops</b> <b>in order</b> <b>to get</b> <b>2</b> <b>cups</b> (<b>50</b> <b>g</b>) <b>of carrot</b> <b>tops</b>. [1]"
+      }
+    ],
+    [
+      {
+        "query": "[header] How to act perky [title] Seek out positive people. [step] If you want to be perky, a positive attitude is key. Seek to surround yourself with positive, happy people. You'll end up feeling happier and, as a result, acting perkier. [substeps] Make plans with people who have positive attitudes.",
+        "match_string": "Seek out positive people If you want to be perky a positive attitude is key Seek to surround yourself with positive happy people You&#39;ll end up feeling happier and, as a result acting perkier Make plans with people who have positive attitudes Make plans",
+        "score": 0.7112638840847073,
+        "score_label": 0.8260869565217392,
+        "name": "<b>How to Act</b> <b>Perky</b> (with Pictures) - wikiHow Health",
+        "url": "https://www.wikihow.health/Act-Perky",
+        "snippet": "1 <b>Seek</b> <b>out</b> <b>positive</b> <b>people</b>. <b>If you</b> <b>want</b> <b>to be perky</b>, <b>a positive</b> <b>attitude</b> <b>is key</b>. <b>Seek</b> <b>to surround</b> <b>yourself</b> <b>with positive</b>, <b>happy</b> <b>people</b>. <b>You&#39;ll</b> <b>end</b> <b>up</b> <b>feeling</b> <b>happier</b> <b>and, as a result</b>, <b>acting</b> <b>perkier</b>. [1] <b>Make</b> <b>plans</b> <b>with people</b> <b>who have</b> <b>positive</b> <b>attitudes</b>. <b>Make</b> <b>plans</b> with the co-worker who always brings in muffins on a Wednesday."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to throw a knife without it spinning [title] Take the proper grip. [step] Sticking a knife with no rotation is made possible by modifying the standard throwing grip. Wrap your hand loosely around the handle of the knife. Pinch the handle between your thumb and the length of your middle finger. Place your index finger flat against the spine of the blade at the knife's center of balance.",
+        "match_string": "Take the proper grip Sticking a knife with no rotation is made possible by modifying the standard throwing grip Wrap your hand loosely around the handle of the knife Pinch the handle between your thumb and the length of your middle finger Place your index finger flat against the spine of the blade at the knife’s center of balance",
+        "score": 0.7661834000529778,
+        "score_label": 0.967741935483871,
+        "name": "3 Ways to <b>Throw a Knife Without It Spinning</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Throw-a-Knife-Without-It-Spinning",
+        "snippet": "<b>Take</b> <b>the proper</b> <b>grip</b>. <b>Sticking</b> <b>a knife</b> <b>with no</b> <b>rotation</b> <b>is made</b> <b>possible</b> <b>by modifying</b> <b>the standard</b> <b>throwing</b> <b>grip</b>. <b>Wrap</b> <b>your</b> <b>hand</b> <b>loosely</b> <b>around</b> <b>the handle</b> <b>of the knife</b>. <b>Pinch</b> <b>the handle</b> <b>between</b> <b>your</b> <b>thumb</b> <b>and the length</b> <b>of your</b> <b>middle</b> <b>finger</b>. <b>Place</b> <b>your</b> <b>index</b> <b>finger</b> <b>flat</b> <b>against</b> <b>the spine</b> <b>of the blade</b> <b>at the knife’s</b> <b>center</b> <b>of balance</b>."
+      },
+      {
+        "query": "[header] How to throw a knife without it spinning [title] Take the proper grip. [step] Sticking a knife with no rotation is made possible by modifying the standard throwing grip. Wrap your hand loosely around the handle of the knife. Pinch the handle between your thumb and the length of your middle finger. Place your index finger flat against the spine of the blade at the knife's center of balance.",
+        "match_string": "Take the proper grip Sticking a knife with no rotation is made possible by modifying the standard throwing grip Wrap your hand loosely around the handle of the knife Pinch the handle between your thumb and the length of your middle finger Place your index finger flat against the spine of the blade at the knife’s center of balance",
+        "score": 0.7661834000529778,
+        "score_label": 0.967741935483871,
+        "name": "<b>Throw</b> <b>a Knife</b> <b>Without</b> <b>It Spinning</b> - Kipkis",
+        "url": "https://kipkis.com/Throw_a_Knife_Without_It_Spinning",
+        "snippet": "<b>Take</b> <b>the proper</b> <b>grip</b>. <b>Sticking</b> <b>a knife</b> <b>with no</b> <b>rotation</b> <b>is made</b> <b>possible</b> <b>by modifying</b> <b>the standard</b> <b>throwing</b> <b>grip</b>. <b>Wrap</b> <b>your</b> <b>hand</b> <b>loosely</b> <b>around</b> <b>the handle</b> <b>of the knife</b>. <b>Pinch</b> <b>the handle</b> <b>between</b> <b>your</b> <b>thumb</b> <b>and the length</b> <b>of your</b> <b>middle</b> <b>finger</b>. <b>Place</b> <b>your</b> <b>index</b> <b>finger</b> <b>flat</b> <b>against</b> <b>the spine</b> <b>of the blade</b> <b>at the knife’s</b> <b>center</b> <b>of balance</b>. This is ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to keep celery crisp [title] Wrap the celery tightly in aluminum foil. [step] Celery often goes bad fast because it releases ethylene, a ripening hormone. When wrapped in foil, foil allow the ethylene to escape. If celery is stored in a loose plastic bag, ethylene is trapped, which will cause the celery to get limp. Aluminum foil prevents celery from becoming overripe and losing crispness.",
+        "match_string": "Celery often goes bad fast because it releases ethylene a ripening hormone When wrapped in foil foil allow the ethylene to escape If celery is stored in a loose plastic bag ethylene is trapped which will cause the celery to get limp Aluminum foil prevents celery from becoming overripe and losing crispness",
+        "score": 0.712326234092567,
+        "score_label": 1.0,
+        "name": "3 Ways to <b>Keep Celery Crisp</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Keep-Celery-Crisp",
+        "snippet": "<b>Celery</b> <b>often</b> <b>goes</b> <b>bad</b> <b>fast</b> <b>because</b> <b>it releases</b> <b>ethylene</b>, <b>a ripening</b> <b>hormone</b>. <b>When wrapped</b> <b>in foil</b>, <b>foil</b> <b>allow</b> <b>the ethylene</b> <b>to escape</b>. <b>If celery</b> <b>is stored</b> <b>in a loose</b> <b>plastic</b> <b>bag</b>, <b>ethylene</b> <b>is trapped</b>, <b>which will cause</b> <b>the celery</b> <b>to get</b> <b>limp</b>. <b>Aluminum</b> <b>foil</b> <b>prevents</b> <b>celery</b> <b>from becoming</b> <b>overripe</b> <b>and losing</b> <b>crispness</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to straight lace shoes [title] Insert shoelace into the first eyelets of your first shoe. [step] Point the toe of the shoe away from you. The holes farthest from you will be called the first eyelets, and will successively count up from there. With the shoelace on the outside of the shoe, insert the ends down into the first eyelets on both sides. [title] Make sure the shoelace ends are even.",
+        "match_string": "Insert shoelace into the first eyelets of your first shoe Point the toe of the shoe away from you The holes farthest from you will be called the first eyelets and will successively count up from there With the shoelace on the outside of the shoe insert the ends down into the first eyelets on both sides Make sure the shoelace ends are even",
+        "score": 0.7900827666859568,
+        "score_label": 0.9,
+        "name": "<b>Straight</b> <b>Lace</b> <b>Shoes</b> - Kipkis",
+        "url": "https://kipkis.com/Straight_Lace_Shoes",
+        "snippet": "<b>Insert</b> <b>shoelace</b> <b>into</b> <b>the first</b> <b>eyelets</b> <b>of your</b> <b>first</b> <b>shoe</b>. <b>Point</b> <b>the toe</b> <b>of the shoe</b> <b>away</b> <b>from you</b>. <b>The holes</b> <b>farthest</b> <b>from you</b> <b>will be called</b> <b>the first</b> <b>eyelets</b>, <b>and will successively</b> <b>count</b> <b>up</b> <b>from there</b>. <b>With the shoelace</b> <b>on the outside</b> <b>of the shoe</b>, <b>insert</b> <b>the ends</b> <b>down</b> <b>into</b> <b>the first</b> <b>eyelets</b> <b>on both</b> <b>sides</b>. <b>Make</b> <b>sure</b> <b>the shoelace</b> <b>ends</b> <b>are even</b> ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to keep a single ferret happy [title] Set aside play time every day. [step] Ferrets need a lot of attention, and they should receive a considerable amount of out of cage time every day. Make sure you have at least an hour to play one-on-one with your ferret on a daily basis, as too much cage time can lead to stress and illness. [substeps] Ferrets are very intelligent and active, so you need to be engaged in play. This is especially important for single ferrets, who can get bored without a companion.",
+        "match_string": "Set aside play time every day Ferrets need a lot of attention and they should receive a considerable amount of out of cage time every day Make sure you have at least an hour to play one-on-one with your ferret on a daily basis as too much cage time can lead to stress and illness Ferrets are very intelligent and active so you need to be engaged in play This is especially important",
+        "score": 0.7136653310226324,
+        "score_label": 0.7096774193548387,
+        "name": "<b>How to Keep a Single Ferret Happy</b>: 12 Steps (with Pictures) - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Keep-a-Single-Ferret-Happy",
+        "snippet": "<b>Set</b> <b>aside</b> <b>play</b> <b>time</b> <b>every</b> <b>day</b>. <b>Ferrets</b> <b>need</b> <b>a lot</b> <b>of attention</b>, <b>and they</b> <b>should</b> <b>receive</b> <b>a considerable</b> <b>amount</b> <b>of out</b> <b>of cage</b> <b>time</b> <b>every</b> <b>day</b>. <b>Make</b> <b>sure</b> <b>you</b> <b>have</b> <b>at least</b> <b>an hour</b> <b>to play</b> <b>one-on-one</b> <b>with your</b> <b>ferret</b> <b>on a daily</b> <b>basis</b>, <b>as too</b> <b>much</b> <b>cage</b> <b>time</b> <b>can</b> <b>lead</b> <b>to stress</b> <b>and illness</b>. <b>Ferrets</b> <b>are very</b> <b>intelligent</b> <b>and active</b>, <b>so</b> <b>you</b> <b>need</b> <b>to be engaged</b> <b>in play</b>. <b>This is especially</b> <b>important</b> for ..."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to make a honey face mask [title] Make a simple mask with honey and almond oil. [step] In a small dish, mix together 1 tablespoon of honey and ½ tablespoon of sweet almond oil. Apply the mask to your face, avoiding the eye area. Wait 30 to 40 minutes, then rinse it off with warm water. [substeps] Almond oil absorbs easily into your skin.",
+        "match_string": "1 Make a simple mask with honey and almond oil In a small dish mix together 1 tablespoon of honey and ½ tablespoon of sweet almond oil Apply the mask to your face avoiding the eye area Wait 30 to 40 minutes then rinse it off with warm water Almond oil absorbs easily into your skin",
+        "score": 0.7431829350011168,
+        "score_label": 0.8636363636363635,
+        "name": "3 Ways <b>to Make a Honey Face Mask</b> - <b>wikiHow</b>",
+        "url": "https://www.wikihow.com/Make-a-Honey-Face-Mask",
+        "snippet": "<b>1</b>. <b>Make</b> <b>a simple</b> <b>mask</b> <b>with honey</b> <b>and almond</b> <b>oil</b>. [2] <b>In a small</b> <b>dish</b>, <b>mix</b> <b>together</b> <b>1</b> <b>tablespoon</b> <b>of honey</b> <b>and ½</b> <b>tablespoon</b> <b>of sweet</b> <b>almond</b> <b>oil</b>. <b>Apply</b> <b>the mask</b> <b>to your</b> <b>face</b>, <b>avoiding</b> <b>the eye</b> <b>area</b>. <b>Wait</b> <b>30</b> <b>to 40</b> <b>minutes</b>, <b>then</b> <b>rinse</b> <b>it off</b> <b>with warm</b> <b>water</b>. [3] <b>Almond</b> <b>oil</b> <b>absorbs</b> <b>easily</b> <b>into</b> <b>your</b> <b>skin</b>."
+      }
+    ],
+    [
+      {
+        "query": "[header] How to prevent keloid and hypertrophic scars [title] Identify the risk factors for keloid scar formation. [step] Keloid scars are more commonly found on the arms, upper chest, and upper back. They grow beyond the borders of the original abrasion and appear as red, raised nodules. Keloids are the result of an overgrowth of dense fibrous tissue that usually develops after healing of a skin injury. You can also develop a keloid scar from a cut, a piercing, or acne.",
+        "match_string": "Keloid scars are more commonly found on the arms upper chest and upper back They grow beyond the borders of the original abrasion and appear as red raised nodules Keloids are the result of an overgrowth of dense fibrous tissue that usually develops after healing of a skin injury You can also develop a keloid scar from a cut a piercing",
+        "score": 0.701147880776086,
+        "score_label": 0.9411764705882353,
+        "name": "3 Ways to <b>Prevent</b> <b>Keloid</b> <b>and Hypertrophic</b> <b>Scars</b> - wikiHow Health",
+        "url": "https://www.wikihow.health/Prevent-Keloid-and-Hypertrophic-Scars",
+        "snippet": "<b>Keloid</b> <b>scars</b> <b>are more</b> <b>commonly</b> <b>found</b> <b>on the arms</b>, <b>upper</b> <b>chest</b>, <b>and upper</b> <b>back</b>. <b>They</b> <b>grow</b> <b>beyond</b> <b>the borders</b> <b>of the original</b> <b>abrasion</b> <b>and appear</b> <b>as red</b>, <b>raised</b> <b>nodules</b>. <b>Keloids</b> <b>are the result</b> <b>of an overgrowth</b> <b>of dense</b> <b>fibrous</b> <b>tissue</b> <b>that usually</b> <b>develops</b> <b>after</b> <b>healing</b> <b>of a skin</b> <b>injury</b>. <b>You</b> <b>can</b> <b>also</b> <b>develop</b> <b>a keloid</b> <b>scar</b> <b>from a cut</b>, <b>a piercing</b> ..."
+      }
+    ]
+  ]
+}

@@ -18,16 +18,17 @@ Contamination Detector goes through the benchmark and verify whether test exampl
 
 <figure>
   <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/links.png" width="400"/>
-  <figcaption style="text-align: center; font-style: italic; padding-top: 8px;">The source of contamination for the MMLU benchmark.</figcaption>
 </figure>
 
+*The source of contamination for the MMLU benchmark.*
 
 <figure>
-<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=600>
-<figcaption style="text-align: center; font-style: italic; padding-top: 8px;">Contamination in popular multi-choice QA benchmarks tested on Llama models</figcaption>
+<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=700>
 </figure>
 
-Check the [contamination report of llama](https://arxiv.org/abs/2310.17589) for more details.
+*Contamination in popular multi-choice QA benchmarks tested on Llama models*
+
+Check out more details in the [contamination report of llama](https://arxiv.org/abs/2310.17589).
 
 - **Test Memorization via Perplexity**:
 

@@ -1,0 +1,221 @@
+{
+  "dataset_name": "commonsense_qa",
+  "matches": [
+    [
+      {
+        "query": "Blue read material outside of his comfort zone because he wanted to gain what? new perspective",
+        "match_string": "Blue read material outside of his comfort zone because he wanted to gain new perspective",
+        "score": 0.9363888888888889,
+        "score_label": 1.0,
+        "name": "GNN C REVISITING GNN FOR QUESTION ANSWERING - OpenReview",
+        "url": "https://openreview.net/pdf?id=hzmQ4wOnSb",
+        "snippet": "In Step 2, graph modeling is carried <b>out</b> via an elaborately designed graph-based neural module. For instance,Lin et al.(2019) uses GCN-LSTM-HPA which combines ... <b>Blue</b> <b>read</b> <b>material</b> <b>outside</b> <b>of his</b> <b>comfort</b> <b>zone</b> <b>because</b> <b>he</b> <b>wanted</b> <b>to gain</b> what? A. <b>new</b> <b>perspective</b> B. understanding C. entertained D. hunger E. tired eyes"
+      }
+    ],
+    [
+      {
+        "query": "Where is a teacher likely to keep her clavichord? music room",
+        "match_string": "Where is a teacher likely to keep her clavichord clavichord room music music room",
+        "score": 0.9898572501878287,
+        "score_label": 1.0,
+        "name": "commonsense_qa · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/commonsense_qa/viewer/default/validation?p=6",
+        "snippet": "&quot;<b>Where is a teacher</b> <b>likely</b> <b>to keep</b> <b>her</b> <b>clavichord</b>?&quot; &quot;<b>clavichord</b>&quot; { &quot;label&quot;: [ &quot;A&quot;, &quot;B&quot;, &quot;C&quot;, &quot;D&quot;, &quot;E&quot; ], &quot;text&quot;: [ &quot;living <b>room</b>&quot;, &quot;parlor&quot;, &quot;<b>music</b> hall&quot;, &quot;<b>music</b> <b>room</b>&quot;, &quot;museum&quot; ] } &quot;0aa23ad1ba9f28bc3e0185237a7ce1cc&quot;"
+      }
+    ],
+    [
+      {
+        "query": "The man working in the attic swatted away a bee, but soon the single bee was an entire what? swarm",
+        "match_string": "The man working in the attic swatted away a bee but soon the single bee was an entire swarm swarm",
+        "score": 0.9494459833795015,
+        "score_label": 1.0,
+        "name": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think ...",
+        "url": "https://arxiv.org/pdf/2306.14050.pdf",
+        "snippet": "CommonsenseQA: Q: <b>The man</b> <b>working</b> <b>in the attic</b> <b>swatted</b> <b>away</b> <b>a bee</b>, <b>but soon</b> <b>the single</b> <b>bee</b> <b>was an entire</b> what? (a)<b>swarm</b>; (b) pack; (c) countryside; (d) soft drink; (e) field of flowers GPT-3: The answer must be related to bees, but also connected with being numerous. Of the above answers, only <b>swarm</b> fits the scenario. So the answer is:(a)"
+      }
+    ],
+    [
+      {
+        "query": "A gentleman is carrying equipment for golf, what is he likely to have? club",
+        "match_string": "A gentleman is carrying equipment for golf what is he likely to have club",
+        "score": 0.9998177842565598,
+        "score_label": 1.0,
+        "name": "Center for Research in Computer Vision – UCF CRCV",
+        "url": "https://www.crcv.ucf.edu/wp-content/uploads/2018/11/Week-3-Nathan.pptx",
+        "snippet": "“<b>A gentleman</b> <b>is carrying</b> <b>equipment</b> <b>for golf</b>, <b>what is he</b> <b>likely</b> <b>to have</b>? (a) <b>club</b> (b) assembly hall (c) meditation center (d) meeting (e) church . ... The <b>gentleman</b> is <b>likely</b> <b>carrying</b> <b>equipment</b> <b>for golf</b>, which includes a <b>golf</b> <b>club</b>. The image shows him holding a <b>golf</b> <b>club</b>, and this is a common piece of <b>equipment</b> used in the sport of <b>golf</b>."
+      }
+    ],
+    [
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "bank A revolving door is convenient for two direction travel also serves as a security measure bank bank",
+        "score": 0.7418154761904762,
+        "score_label": 1.0,
+        "name": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for ...",
+        "url": "https://cs.stanford.edu/~myasu/files/QA-GNN_slides_NAACL21.pdf",
+        "snippet": "<b>bank</b> <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what? A. <b>bank</b>* B. library C. department store D. mall E. new york Some entities are irrelevant to the given QA context Off-topic - e.g. holiday Polysemy - e.g. river_<b>bank</b> Generic - e.g. human, place"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure bank also",
+        "score": 0.8319370958259846,
+        "score_label": 1.0,
+        "name": "Relational Graph Reasoning for Knowledge-Augmented Question Answering",
+        "url": "https://shanzhenren.github.io/csci-699-replnlp-2019fall/reports/Jun_Yan.pdf",
+        "snippet": "<b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? A.<b>bank</b> B.library C.department store D.mall E.new york Meanwhile, we <b>also</b> have a knowledge graph G = (V;E) serving as the knowledge source, where V is the node set and Eis the edge set. Each node is a concept and each directed edge in-"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure",
+        "score": 0.8042511122095898,
+        "score_label": 0.0,
+        "name": "Albert + KCR(knowledge chosen by relations) - <b>GitHub</b>",
+        "url": "https://github.com/jessionlin/csqa/blob/master/Model_details.md",
+        "snippet": "And the input schema will be [CLS] stem [SEP] choice_concept relation object [SEP]. For example : [CLS] <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? [SEP] library PartOf house [SEP] \\n \\n \\n"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "Revolving door is convenient for two direction travel but it also serves as a security measure revolving door bank security bank Two",
+        "score": 0.7673422310100511,
+        "score_label": 1.0,
+        "name": "Xin Guan, Biwei Cao, Qingqing Gao, Zheng Yin, Bo Liu, Jiuxin Cao Abstract",
+        "url": "https://arxiv.org/pdf/2305.05936.pdf",
+        "snippet": "<b>Revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? RelateTo <b>revolving</b> <b>door</b> department store New York mall <b>bank</b> <b>security</b> A.<b>bank</b> B. library C. department store D. mall E. New York Figure 1: Example of multi-hop commonsense reason-ing. <b>Two</b>-hops path of knowledge is required to reason"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure Bank",
+        "score": 0.8479570840681951,
+        "score_label": 1.0,
+        "name": "Towards Generalizable Neuro-Symbolic Systems for Commonsense Question ...",
+        "url": "https://aclanthology.org/D19-6003.pdf",
+        "snippet": "Question: <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? Answer choices: A. <b>Bank</b>*; B. Library; C. Department Store; D. Mall; E. New York"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel also serves as a security measure",
+        "score": 0.701058201058201,
+        "score_label": 0.0,
+        "name": "Reasoning with Language Models and Knowledge Graphs for Question ...",
+        "url": "https://ai.stanford.edu/blog/qagnn/",
+        "snippet": "Let’s consider an example question in the figure: “<b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what?”."
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "bank bank bank A revolving door is convenient for two direction travel also serves as a security measure bank",
+        "score": 0.7418154761904762,
+        "score_label": 1.0,
+        "name": "(PDF) QA-<b>GNN: Reasoning with Language Models</b> and ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/350853116_QA-GNN_Reasoning_with_Language_Models_and_Knowledge_Graphs_for_Question_Answering",
+        "snippet": "<b>bank</b>. <b>bank</b>. holiday. river. <b>bank</b>. <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what? A. <b>bank</b> * B. library C. department store . D. mall E. new ..."
+      }
+    ],
+    [
+      {
+        "query": "The man working in the attic swatted away a bee, but soon the single bee was an entire what? swarm",
+        "match_string": "The man working in the attic swatted away a bee but soon the single bee was an entire swarm swarm",
+        "score": 0.9494459833795015,
+        "score_label": 1.0,
+        "name": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think ...",
+        "url": "https://arxiv.org/pdf/2306.14050.pdf",
+        "snippet": "CommonsenseQA: Q: <b>The man</b> <b>working</b> <b>in the attic</b> <b>swatted</b> <b>away</b> <b>a bee</b>, <b>but soon</b> <b>the single</b> <b>bee</b> <b>was an entire</b> what? (a)<b>swarm</b>; (b) pack; (c) countryside; (d) soft drink; (e) field of flowers GPT-3: The answer must be related to bees, but also connected with being numerous. Of the above answers, only <b>swarm</b> fits the scenario. So the answer is:(a)"
+      }
+    ],
+    [
+      {
+        "query": "Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what? fall asleep",
+        "match_string": "Dan was ditting quietly on the couch with a book in his hand Laurie thought that he was just focused on what he was doing but he actually did fall asleep",
+        "score": 0.9677094172736733,
+        "score_label": 1.0,
+        "name": "natural-instructions/task073_commonsenseqa_answer_generation ... - <b>GitHub</b>",
+        "url": "https://github.com/allenai/natural-instructions/blob/master/tasks/task073_commonsenseqa_answer_generation.json",
+        "snippet": "&quot;input&quot;: &quot;<b>Dan</b> <b>was ditting</b> <b>quietly</b> <b>on the couch</b> <b>with a book</b> <b>in his</b> <b>hand</b>. <b>Laurie</b> <b>thought</b> <b>that he</b> <b>was just</b> <b>focused</b> <b>on what he</b> <b>was doing</b>, <b>but he</b> <b>actually</b> <b>did</b> what?\\n(A)eat (B)think (C)reading (D)meditate (E)<b>fall</b> <b>asleep</b>&quot;,"
+      },
+      {
+        "query": "Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what? fall asleep",
+        "match_string": "Dan was ditting quietly on the couch with a book in his hand Laurie thought that he was just focused on what he was doing but he actually did",
+        "score": 0.9057483650416172,
+        "score_label": 0.0,
+        "name": "commonsense_qa · Datasets at Hugging Face",
+        "url": "https://huggingface.co/datasets/commonsense_qa/viewer/default/validation?p=1",
+        "snippet": "&quot;<b>Dan</b> <b>was ditting</b> <b>quietly</b> <b>on the couch</b> <b>with a book</b> <b>in his</b> <b>hand</b>. <b>Laurie</b> <b>thought</b> <b>that he</b> <b>was just</b> <b>focused</b> <b>on what he</b> <b>was doing</b>, <b>but he</b> <b>actually</b> <b>did</b> what?&quot;"
+      }
+    ],
+    [
+      {
+        "query": "The man working in the attic swatted away a bee, but soon the single bee was an entire what? swarm",
+        "match_string": "The man working in the attic swatted away a bee but soon the single bee was an entire swarm swarm",
+        "score": 0.9494459833795015,
+        "score_label": 1.0,
+        "name": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think ...",
+        "url": "https://arxiv.org/pdf/2306.14050.pdf",
+        "snippet": "CommonsenseQA: Q: <b>The man</b> <b>working</b> <b>in the attic</b> <b>swatted</b> <b>away</b> <b>a bee</b>, <b>but soon</b> <b>the single</b> <b>bee</b> <b>was an entire</b> what? (a)<b>swarm</b>; (b) pack; (c) countryside; (d) soft drink; (e) field of flowers GPT-3: The answer must be related to bees, but also connected with being numerous. Of the above answers, only <b>swarm</b> fits the scenario. So the answer is:(a)"
+      }
+    ],
+    [
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "bank A revolving door is convenient for two direction travel also serves as a security measure bank bank",
+        "score": 0.7418154761904762,
+        "score_label": 1.0,
+        "name": "QA-GNN: Reasoning with Language Models and Knowledge Graphs for ...",
+        "url": "https://cs.stanford.edu/~myasu/files/QA-GNN_slides_NAACL21.pdf",
+        "snippet": "<b>bank</b> <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what? A. <b>bank</b>* B. library C. department store D. mall E. new york Some entities are irrelevant to the given QA context Off-topic - e.g. holiday Polysemy - e.g. river_<b>bank</b> Generic - e.g. human, place"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure bank also",
+        "score": 0.8319370958259846,
+        "score_label": 1.0,
+        "name": "Relational Graph Reasoning for Knowledge-Augmented Question Answering",
+        "url": "https://shanzhenren.github.io/csci-699-replnlp-2019fall/reports/Jun_Yan.pdf",
+        "snippet": "<b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? A.<b>bank</b> B.library C.department store D.mall E.new york Meanwhile, we <b>also</b> have a knowledge graph G = (V;E) serving as the knowledge source, where V is the node set and Eis the edge set. Each node is a concept and each directed edge in-"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure",
+        "score": 0.8042511122095898,
+        "score_label": 0.0,
+        "name": "Albert + KCR(knowledge chosen by relations) - <b>GitHub</b>",
+        "url": "https://github.com/jessionlin/csqa/blob/master/Model_details.md",
+        "snippet": "And the input schema will be [CLS] stem [SEP] choice_concept relation object [SEP]. For example : [CLS] <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? [SEP] library PartOf house [SEP] \\n \\n \\n"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "Revolving door is convenient for two direction travel but it also serves as a security measure revolving door bank security bank Two",
+        "score": 0.7673422310100511,
+        "score_label": 1.0,
+        "name": "Xin Guan, Biwei Cao, Qingqing Gao, Zheng Yin, Bo Liu, Jiuxin Cao Abstract",
+        "url": "https://arxiv.org/pdf/2305.05936.pdf",
+        "snippet": "<b>Revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? RelateTo <b>revolving</b> <b>door</b> department store New York mall <b>bank</b> <b>security</b> A.<b>bank</b> B. library C. department store D. mall E. New York Figure 1: Example of multi-hop commonsense reason-ing. <b>Two</b>-hops path of knowledge is required to reason"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel but it also serves as a security measure Bank",
+        "score": 0.8479570840681951,
+        "score_label": 1.0,
+        "name": "Towards Generalizable Neuro-Symbolic Systems for Commonsense Question ...",
+        "url": "https://aclanthology.org/D19-6003.pdf",
+        "snippet": "Question: <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, <b>but it also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at a what? Answer choices: A. <b>Bank</b>*; B. Library; C. Department Store; D. Mall; E. New York"
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "A revolving door is convenient for two direction travel also serves as a security measure",
+        "score": 0.701058201058201,
+        "score_label": 0.0,
+        "name": "Reasoning with Language Models and Knowledge Graphs for Question ...",
+        "url": "https://ai.stanford.edu/blog/qagnn/",
+        "snippet": "Let’s consider an example question in the figure: “<b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what?”."
+      },
+      {
+        "query": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what? bank",
+        "match_string": "bank bank bank A revolving door is convenient for two direction travel also serves as a security measure bank",
+        "score": 0.7418154761904762,
+        "score_label": 1.0,
+        "name": "(PDF) QA-<b>GNN: Reasoning with Language Models</b> and ... - ResearchGate",
+        "url": "https://www.researchgate.net/publication/350853116_QA-GNN_Reasoning_with_Language_Models_and_Knowledge_Graphs_for_Question_Answering",
+        "snippet": "<b>bank</b>. <b>bank</b>. holiday. river. <b>bank</b>. <b>A revolving</b> <b>door</b> <b>is convenient</b> <b>for two</b> <b>direction</b> <b>travel</b>, but <b>also</b> <b>serves</b> <b>as a security</b> <b>measure</b> at what? A. <b>bank</b> * B. library C. department store . D. mall E. new ..."
+      }
+    ]
+  ]
+}

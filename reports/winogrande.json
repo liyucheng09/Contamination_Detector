@@ -1,23 +1,4 @@
 {
   "dataset_name": "winogrande",
-  "matches": [
-    [
-      {
-        "query": "Sarah was a much better surgeon than Maria so _ always got the easier cases.",
-        "match_string": "Sarah was a much better surgeon than Maria so _ always got the easier cases",
-        "score": 0.9331632653061225,
-        "name": "2023 - GPT-4 - GitHub",
-        "url": "https://github.com/swyxio/ai-notes/blob/main/Resources/BENCHMARKS.md",
-        "snippet": "<b>Sarah was a much better surgeon than Maria so _ always got the easier cases</b>. \\n; Jen made charcoal to use as a mask and as toothpaste, but using the _ made her skin very black.\\tmask\\ttoothpaste \\n \\n \\n; Roberta - 0.70s \\n; T5 - 0.85s \\n; GPT4 - 87.5 \\n \\n \\n \\n \\n; Swag: A large-scale adversarial dataset for grounded commonsense inference. \\n ..."
-      },
-      {
-        "query": "Sarah was a much better surgeon than Maria so _ always got the easier cases.",
-        "match_string": "Sarah was a much better surgeon than Maria so _ always got the easier cases",
-        "score": 0.9331632653061225,
-        "name": "bigscience/P3 · How do you use `is_correct` = False examples from ...",
-        "url": "https://huggingface.co/datasets/bigscience/P3/discussions/5",
-        "snippet": "Thanks for making the P3 dataset <b>so</b> <b>easy</b> to use! ... 6538, 58], dtype=int32)&gt;, &#39;inputs_pretokenized&#39;: &lt;tf.Tensor: shape=(), dtype=string, numpy=b&#39;<b>Sarah was a much better surgeon than Maria so _ always got the easier cases</b>.\\nWhat does the _ in the above sentence refer ... <b>Sarah</b> or <b>Maria</b>? &#39;&gt;, &#39;is_correct&#39;: &lt;tf.Tensor: shape ..."
-      }
-    ]
-  ]
+  "matches": []
 }
