@@ -17,13 +17,14 @@ Data Contamination is a real crisis for Large Language Models (LLMs) evaluation.
 Contamination Detector goes through the benchmark and verify whether test examples (both inputs and labels) are present on the internet via **Bing search** and **Common Crawl index**.
 
 <figure>
-<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/links.png" width=400>
-<figcaption>The source of contamination for the MMLU benchmark.</figcaption>
+  <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/links.png" width="400"/>
+  <figcaption style="text-align: center; font-style: italic; padding-top: 8px;">The source of contamination for the MMLU benchmark.</figcaption>
 </figure>
 
+
 <figure>
-<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=400>
-<figcaption>Contamination in popular multi-choice QA benchmarks tested on Llama models</figcaption>
+<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=600>
+<figcaption style="text-align: center; font-style: italic; padding-top: 8px;">Contamination in popular multi-choice QA benchmarks tested on Llama models</figcaption>
 </figure>
 
 Check the [contamination report of llama](https://arxiv.org/abs/2310.17589) for more details.
@@ -73,6 +74,8 @@ To run this script, you will need a free access token for Bing search API. You c
 
 Set the key via `export Bing_Key = [YOUR API KEY]` in terminal.
 
+Or, you can directly download my search results [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0), so you don't have to pay for accessing Bing.
+
 It will generate a report under `reports/` that highlight all matches online, for example:
 ```
 [
@@ -108,14 +111,9 @@ This will highlight the matched part of benchmark samples.
 
 It will hightlight the overlapping part of the benchmark and internet pages.
 
-**Check more comtamination examples of MMLU [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html)**
+**Check more comtamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
-**Check comtamination examples of C-Eval [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
-
-Results for some benchmarks:
-- `MMLU`: 29 out of 100 have high risk of contamination.
-- `C-Eval`: 35 out of 100 have high risk of contamination.
-- `Winograde`: only 1 out of 100 have high risk of contamination.
+If you cannot accessing Huggingface Hub for the benchmarks, download as json file [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0).
 
 ## Compare Model Performance on Clean and Dirty test set
 
@@ -125,7 +123,7 @@ But first you need prepare:
 1. the model predictions on these benchmarks.
 2. get the benchmark reports ready (the internet presence reports).
 
-Download predictions of all Llama series models on these benchmark at [here](). Unzip and put them under `model_predictions/`.
+Download predictions of all Llama series models on these benchmark at [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0). Unzip and put them under `model_predictions/`.
 
 Then run:
 ```
