@@ -1,987 +1,703 @@
 {
   "business_ethics 5": [
-    "clean",
-    0.14105642256902762
+    "input-and-label contamination",
+    0.9084593254575504
   ],
   "business_ethics 6": [
-    "clean",
-    0.1938131313131313
+    "input contamination",
+    0.8619365399143792
   ],
   "business_ethics 10": [
+    "input-and-label contamination",
+    0.9999745973682873
+  ],
+  "business_ethics 55": [
     "clean",
-    0.30475537265660724
+    0.25
   ],
   "business_ethics 56": [
     "clean",
-    0.26571428571428574
+    0.25083705357142855
   ],
-  "business_ethics 65": [
+  "business_ethics 61": [
     "clean",
-    0.16518518518518518
+    0.08333333333333333
+  ],
+  "business_ethics 75": [
+    "input-and-label contamination",
+    0.7683402705515089
   ],
   "business_ethics 78": [
-    "clean",
-    0.3433884297520661
+    "input-and-label contamination",
+    0.9983125
   ],
   "business_ethics 95": [
-    "clean",
-    0.1840277777777778
-  ],
-  "business_ethics 99": [
     "input-and-label contamination",
-    0.7341826923076924
+    0.8152220507544582
   ],
   "security_studies 19": [
     "clean",
-    0.07007927137797268
+    0.08701814058956915
   ],
   "security_studies 27": [
     "clean",
-    0.09538461538461537
+    0.10933048433048434
   ],
   "security_studies 28": [
-    "clean",
-    0.07914893617021276
+    "input-and-label contamination",
+    0.9571105857630681
   ],
-  "security_studies 35": [
+  "security_studies 32": [
     "clean",
-    0.22544642857142855
+    0.09017478813559322
   ],
-  "security_studies 39": [
+  "security_studies 55": [
     "clean",
-    0.09283088235294118
+    0.08642934196332254
   ],
   "security_studies 56": [
     "clean",
-    0.08944515306122448
-  ],
-  "security_studies 63": [
-    "clean",
-    0.10152116402116401
-  ],
-  "security_studies 91": [
-    "clean",
-    0.12625
+    0.23859212802768165
   ],
   "security_studies 92": [
     "clean",
-    0.09421641791044776
-  ],
-  "security_studies 99": [
-    "clean",
-    0.10874704491725767
-  ],
-  "security_studies 104": [
-    "clean",
-    0.3194444444444444
-  ],
-  "security_studies 108": [
-    "clean",
-    0.0973774563518153
+    0.07158087115443192
   ],
   "security_studies 126": [
     "clean",
-    0.015151515151515152
-  ],
-  "security_studies 127": [
-    "clean",
-    0.18699186991869918
+    0.6360887789459218
   ],
   "security_studies 134": [
     "clean",
-    0.10425909494232477
+    0.06521739130434782
   ],
   "security_studies 137": [
     "clean",
-    0.1598639455782313
-  ],
-  "security_studies 151": [
-    "clean",
-    0.2869318181818182
-  ],
-  "security_studies 157": [
-    "clean",
-    0.12139423076923078
+    0.6303785780240074
   ],
   "security_studies 162": [
-    "clean",
-    0.05319148936170213
+    "input-and-label contamination",
+    0.9785876603788762
   ],
-  "security_studies 164": [
+  "security_studies 173": [
     "clean",
-    0.1496101364522417
+    0.12930449122126295
   ],
   "security_studies 203": [
     "clean",
-    0.21041666666666667
+    0.6738292011019283
   ],
   "security_studies 204": [
     "clean",
-    0.09375
+    0.09991496598639457
+  ],
+  "security_studies 231": [
+    "input-and-label contamination",
+    0.7167525052900546
+  ],
+  "security_studies 240": [
+    "clean",
+    0.06310418904403867
+  ],
+  "security_studies 243": [
+    "input-and-label contamination",
+    0.999898229187869
   ],
   "high_school_us_history 22": [
     "clean",
-    0.021052631578947368
-  ],
-  "high_school_us_history 53": [
-    "clean",
-    0
-  ],
-  "high_school_us_history 70": [
-    "clean",
-    0
-  ],
-  "high_school_us_history 75": [
-    "clean",
-    0.10239357480714899
-  ],
-  "high_school_us_history 124": [
-    "clean",
-    0
-  ],
-  "high_school_us_history 181": [
-    "clean",
-    0
+    0.4144736842105263
   ],
   "high_school_us_history 195": [
     "clean",
     0
   ],
   "moral_disputes 14": [
-    "clean",
-    0.1171875
+    "input-and-label contamination",
+    0.9581298828125
   ],
   "moral_disputes 24": [
     "input contamination",
-    0.5625
+    0.8833333333333334
   ],
   "moral_disputes 29": [
     "clean",
-    0.08266666666666667
+    0.1
   ],
   "moral_disputes 35": [
-    "clean",
-    0.3526077097505669
+    "input-and-label contamination",
+    0.9945130315500685
   ],
   "moral_disputes 55": [
-    "clean",
-    0.27875
+    "input-and-label contamination",
+    0.9967041015625
   ],
   "moral_disputes 61": [
-    "clean",
-    0.11844135802469136
+    "input-and-label contamination",
+    0.8323456790123457
+  ],
+  "moral_disputes 69": [
+    "input-and-label contamination",
+    0.9999530428249437
   ],
   "moral_disputes 90": [
-    "clean",
-    0.18035714285714285
+    "input-and-label contamination",
+    0.8249023271615425
   ],
   "moral_disputes 93": [
-    "clean",
-    0.1434659090909091
+    "input-and-label contamination",
+    0.9541331684188828
   ],
-  "moral_disputes 114": [
+  "moral_disputes 100": [
     "clean",
-    0.14423076923076925
-  ],
-  "moral_disputes 118": [
-    "clean",
-    0.10416666666666667
-  ],
-  "moral_disputes 121": [
-    "clean",
-    0.13641826923076922
-  ],
-  "moral_disputes 122": [
-    "clean",
-    0.1965811965811966
-  ],
-  "moral_disputes 126": [
-    "clean",
-    0.23187895847994372
+    0.07692307692307693
   ],
   "moral_disputes 143": [
-    "clean",
-    0.05102040816326531
-  ],
-  "moral_disputes 153": [
-    "clean",
-    0.17762660619803478
+    "input-and-label contamination",
+    0.9590589517835201
   ],
   "moral_disputes 154": [
     "input-and-label contamination",
     0.8136924803591469
   ],
-  "moral_disputes 171": [
-    "clean",
-    0.13450292397660818
-  ],
-  "moral_disputes 172": [
-    "clean",
-    0.15638348362600857
-  ],
-  "moral_disputes 183": [
-    "clean",
-    0.2036290322580645
-  ],
-  "moral_disputes 215": [
-    "clean",
-    0.05714285714285714
-  ],
-  "moral_disputes 224": [
-    "clean",
-    0.16611842105263158
-  ],
-  "moral_disputes 225": [
-    "clean",
-    0.2839506172839506
-  ],
-  "moral_disputes 230": [
-    "clean",
-    0.22544642857142855
-  ],
-  "moral_disputes 239": [
-    "clean",
-    0.08333333333333333
-  ],
-  "moral_disputes 248": [
-    "clean",
-    0.12625
-  ],
-  "moral_disputes 269": [
-    "clean",
-    0.12182539682539681
-  ],
-  "moral_disputes 278": [
-    "clean",
-    0.07692307692307693
-  ],
-  "moral_disputes 280": [
-    "clean",
-    0.038461538461538464
-  ],
-  "moral_disputes 282": [
-    "clean",
-    0.3716666666666667
-  ],
-  "moral_disputes 285": [
-    "clean",
-    0.21183333333333332
-  ],
-  "moral_disputes 301": [
-    "clean",
-    0.13151041666666666
-  ],
-  "moral_disputes 306": [
-    "clean",
-    0.16666666666666666
-  ],
-  "moral_disputes 308": [
-    "clean",
-    0.1965811965811966
-  ],
-  "moral_disputes 309": [
-    "clean",
-    0.08243727598566308
-  ],
-  "moral_disputes 315": [
-    "clean",
-    0.22649572649572652
-  ],
-  "moral_disputes 318": [
-    "clean",
-    0.42063492063492064
-  ],
-  "moral_disputes 331": [
-    "clean",
-    0.18566176470588236
-  ],
-  "moral_disputes 333": [
-    "clean",
-    0.2368827160493827
-  ],
-  "philosophy 28": [
-    "clean",
-    0.0125
-  ],
-  "philosophy 32": [
-    "input contamination",
-    0.576923076923077
-  ],
-  "philosophy 34": [
-    "clean",
-    0.1753472222222222
-  ],
-  "philosophy 38": [
-    "clean",
-    0.18253968253968253
-  ],
-  "philosophy 60": [
-    "clean",
-    0.140625
-  ],
-  "philosophy 63": [
-    "clean",
-    0.041666666666666664
-  ],
-  "philosophy 66": [
-    "clean",
-    0.17045454545454547
-  ],
-  "philosophy 76": [
-    "clean",
-    0.23537037037037034
-  ],
-  "philosophy 90": [
-    "clean",
-    0.18253968253968253
-  ],
-  "philosophy 94": [
-    "clean",
-    0.2222222222222222
-  ],
-  "philosophy 105": [
-    "clean",
-    0.1597222222222222
-  ],
-  "philosophy 125": [
-    "input-and-label contamination",
-    0.9519047619047619
-  ],
-  "philosophy 126": [
-    "clean",
-    0.1
-  ],
-  "philosophy 131": [
-    "clean",
-    0.10250400888121376
-  ],
-  "philosophy 138": [
-    "clean",
-    0.06521739130434782
-  ],
-  "philosophy 155": [
-    "clean",
-    0.225
-  ],
-  "philosophy 169": [
-    "clean",
-    0.31125
-  ],
-  "philosophy 170": [
-    "clean",
-    0.12777777777777777
-  ],
-  "philosophy 172": [
-    "input-and-label contamination",
-    0.840561224489796
-  ],
-  "philosophy 173": [
-    "clean",
-    0.12827586206896552
-  ],
-  "philosophy 175": [
-    "clean",
-    0.16611842105263158
-  ],
-  "philosophy 176": [
-    "clean",
-    0.1875
-  ],
-  "philosophy 179": [
-    "input-and-label contamination",
-    0.9113515333292526
-  ],
-  "philosophy 187": [
-    "clean",
-    0.24278846153846156
-  ],
-  "philosophy 191": [
-    "clean",
-    0.18253968253968253
-  ],
-  "philosophy 230": [
+  "moral_disputes 223": [
     "clean",
     0.10714285714285714
   ],
-  "philosophy 232": [
+  "moral_disputes 239": [
     "clean",
-    0.3308823529411765
+    0.234375
+  ],
+  "moral_disputes 248": [
+    "input-and-label contamination",
+    0.9175803402646503
+  ],
+  "moral_disputes 259": [
+    "input-and-label contamination",
+    0.996
+  ],
+  "moral_disputes 269": [
+    "clean",
+    0.27053571428571427
+  ],
+  "moral_disputes 277": [
+    "input-and-label contamination",
+    0.9518133784125896
+  ],
+  "moral_disputes 282": [
+    "clean",
+    0.3428497942386831
+  ],
+  "moral_disputes 285": [
+    "input-and-label contamination",
+    0.8125
+  ],
+  "moral_disputes 287": [
+    "input-and-label contamination",
+    0.9999530428249437
+  ],
+  "moral_disputes 301": [
+    "input-and-label contamination",
+    0.7495960295475531
+  ],
+  "moral_disputes 308": [
+    "clean",
+    0.11538461538461539
+  ],
+  "moral_disputes 331": [
+    "input-and-label contamination",
+    0.999898229187869
+  ],
+  "philosophy 28": [
+    "input-and-label contamination",
+    0.864795918367347
+  ],
+  "philosophy 30": [
+    "input-and-label contamination",
+    0.8035714285714285
+  ],
+  "philosophy 32": [
+    "input-and-label contamination",
+    0.998179335457442
+  ],
+  "philosophy 53": [
+    "clean",
+    0.11640285754307327
+  ],
+  "philosophy 60": [
+    "clean",
+    0.19859374999999999
+  ],
+  "philosophy 61": [
+    "clean",
+    0.654320987654321
+  ],
+  "philosophy 76": [
+    "input contamination",
+    0.926501205347359
+  ],
+  "philosophy 90": [
+    "clean",
+    0.36507936507936506
+  ],
+  "philosophy 94": [
+    "input-and-label contamination",
+    0.9993141289437586
+  ],
+  "philosophy 170": [
+    "clean",
+    0.25555555555555554
+  ],
+  "philosophy 172": [
+    "input-and-label contamination",
+    0.9375
+  ],
+  "philosophy 173": [
+    "input-and-label contamination",
+    0.9974373693058346
+  ],
+  "philosophy 175": [
+    "input-and-label contamination",
+    0.9195094217024042
+  ],
+  "philosophy 191": [
+    "clean",
+    0.45335276967930027
+  ],
+  "philosophy 230": [
+    "clean",
+    0.49162257495590833
   ],
   "philosophy 258": [
-    "clean",
-    0.11904761904761904
+    "input-and-label contamination",
+    0.9507738095238095
   ],
   "philosophy 260": [
-    "clean",
-    0.2065716911764706
-  ],
-  "philosophy 264": [
-    "clean",
-    0.280187074829932
-  ],
-  "philosophy 277": [
-    "clean",
-    0.26479166666666665
+    "input-and-label contamination",
+    0.9956365764298799
   ],
   "philosophy 294": [
     "input-and-label contamination",
-    0.8946280991735536
-  ],
-  "philosophy 301": [
-    "clean",
-    0.21319444444444444
+    0.9139118457300276
   ],
   "public_relations 2": [
     "clean",
-    0.09523809523809523
+    0.24338624338624337
   ],
   "public_relations 5": [
     "input-and-label contamination",
-    0.9995680812007343
+    0.9723571968469927
   ],
-  "public_relations 14": [
+  "public_relations 40": [
     "clean",
-    0.05555555555555555
-  ],
-  "public_relations 18": [
-    "clean",
-    0.28622448979591836
+    0.14307692307692307
   ],
   "public_relations 48": [
     "clean",
-    0.13636363636363635
+    0.09090909090909091
   ],
   "public_relations 52": [
     "clean",
-    0.24278846153846156
-  ],
-  "public_relations 56": [
-    "clean",
-    0.3966836734693877
-  ],
-  "public_relations 67": [
-    "clean",
-    0.39453125
+    0.327991452991453
   ],
   "public_relations 76": [
-    "clean",
-    0.21296296296296297
+    "input-and-label contamination",
+    0.9997106481481481
   ],
-  "public_relations 91": [
+  "public_relations 79": [
     "clean",
-    0.07894736842105263
+    0.2725947521865889
   ],
   "public_relations 96": [
     "clean",
     0.28615384615384615
   ],
-  "public_relations 106": [
-    "clean",
-    0.3966836734693877
-  ],
-  "high_school_microeconomics 15": [
-    "clean",
-    0.0425531914893617
-  ],
-  "high_school_microeconomics 22": [
-    "clean",
-    0.139375
-  ],
-  "high_school_microeconomics 33": [
-    "clean",
-    0.14423076923076925
-  ],
-  "high_school_microeconomics 44": [
-    "clean",
-    0.15497076023391812
-  ],
-  "high_school_microeconomics 56": [
-    "clean",
-    0.3526077097505669
-  ],
-  "high_school_microeconomics 100": [
-    "clean",
-    0.44034536891679743
-  ],
-  "high_school_microeconomics 151": [
-    "clean",
-    0.3309591642924976
-  ],
-  "high_school_microeconomics 175": [
-    "clean",
-    0.33072916666666663
-  ],
-  "high_school_microeconomics 186": [
-    "clean",
-    0.10878048780487805
-  ],
-  "high_school_microeconomics 219": [
-    "clean",
-    0.023809523809523808
-  ],
-  "high_school_microeconomics 222": [
-    "clean",
-    0.3194444444444444
-  ],
-  "high_school_microeconomics 231": [
-    "clean",
-    0.3605769230769231
-  ],
-  "high_school_microeconomics 233": [
-    "clean",
-    0.14593806921675773
-  ],
-  "human_sexuality 25": [
-    "input-and-label contamination",
-    0.782267115600449
-  ],
-  "human_sexuality 35": [
-    "clean",
-    0.3945238095238095
-  ],
-  "human_sexuality 39": [
+  "public_relations 101": [
     "clean",
     0.16666666666666666
   ],
+  "public_relations 104": [
+    "input-and-label contamination",
+    0.8254320987654321
+  ],
+  "public_relations 108": [
+    "clean",
+    0.13157894736842105
+  ],
+  "high_school_microeconomics 24": [
+    "input-and-label contamination",
+    0.9992319071461083
+  ],
+  "high_school_microeconomics 32": [
+    "input-and-label contamination",
+    0.8953203831577968
+  ],
+  "high_school_microeconomics 33": [
+    "clean",
+    0.4092548076923077
+  ],
+  "high_school_microeconomics 77": [
+    "clean",
+    0.3430769230769231
+  ],
+  "high_school_microeconomics 78": [
+    "input-and-label contamination",
+    0.9999375
+  ],
+  "high_school_microeconomics 100": [
+    "input-and-label contamination",
+    0.998179335457442
+  ],
+  "high_school_microeconomics 151": [
+    "input-and-label contamination",
+    0.9992319071461083
+  ],
+  "high_school_microeconomics 157": [
+    "input-and-label contamination",
+    0.9969947407963937
+  ],
+  "high_school_microeconomics 172": [
+    "input-and-label contamination",
+    0.9998177842565598
+  ],
+  "high_school_microeconomics 191": [
+    "input-and-label contamination",
+    0.7595947396672035
+  ],
+  "high_school_microeconomics 212": [
+    "clean",
+    0.20851818988464954
+  ],
+  "high_school_microeconomics 215": [
+    "input-and-label contamination",
+    0.8557668093679174
+  ],
+  "high_school_microeconomics 222": [
+    "input-and-label contamination",
+    0.9736328125
+  ],
+  "human_sexuality 9": [
+    "clean",
+    0.605
+  ],
   "human_sexuality 58": [
     "clean",
-    0.11435897435897435
+    0.08092948717948718
   ],
   "human_sexuality 59": [
     "clean",
-    0.12777777777777777
+    0.28622448979591836
   ],
   "human_sexuality 73": [
     "clean",
-    0.2664930555555556
+    0.3966836734693877
+  ],
+  "human_sexuality 76": [
+    "input-and-label contamination",
+    0.9484650971137457
   ],
   "human_sexuality 79": [
-    "clean",
-    0.24278846153846156
+    "input contamination",
+    0.8458359821996185
   ],
-  "human_sexuality 87": [
+  "human_sexuality 93": [
     "clean",
-    0.5289115646258503
-  ],
-  "human_sexuality 90": [
-    "clean",
-    0.06666666666666667
+    0.11764705882352941
   ],
   "human_sexuality 99": [
     "clean",
-    0.09375
+    0.31125
   ],
   "human_sexuality 100": [
     "clean",
-    0.4737654320987654
-  ],
-  "human_sexuality 102": [
-    "clean",
-    0.49074074074074076
-  ],
-  "human_sexuality 117": [
-    "clean",
-    0.1332465277777778
+    0.6360544217687074
   ],
   "human_sexuality 118": [
     "clean",
     0.14285714285714285
   ],
-  "professional_accounting 2": [
-    "clean",
-    0.2289795918367347
-  ],
-  "professional_accounting 3": [
-    "clean",
-    0.5168047337278107
-  ],
-  "professional_accounting 9": [
-    "clean",
-    0.10597883597883598
-  ],
   "professional_accounting 10": [
     "clean",
-    0.0625
-  ],
-  "professional_accounting 11": [
-    "clean",
-    0.16908163265306123
+    0.13151041666666666
   ],
   "professional_accounting 17": [
-    "input contamination",
-    0.6085686296607744
-  ],
-  "professional_accounting 31": [
     "clean",
-    0.2222222222222222
+    0.5384501910601618
   ],
   "professional_accounting 57": [
+    "clean",
+    0.521546118447379
+  ],
+  "professional_accounting 74": [
     "input contamination",
-    0.6026905673512007
+    0.7110327743902439
   ],
-  "professional_accounting 58": [
-    "clean",
-    0.03814262023217247
-  ],
-  "professional_accounting 81": [
-    "clean",
-    0.37479801477377656
+  "professional_accounting 83": [
+    "input contamination",
+    0.7817291011054627
   ],
   "professional_accounting 85": [
     "clean",
-    0.4455279193530235
+    0.6258325799848291
+  ],
+  "professional_accounting 86": [
+    "input contamination",
+    0.9308373917748917
+  ],
+  "professional_accounting 95": [
+    "clean",
+    0.6817774836499534
   ],
   "professional_accounting 116": [
-    "clean",
-    0.14666666666666667
-  ],
-  "professional_accounting 126": [
-    "clean",
-    0.21882352941176472
-  ],
-  "professional_accounting 134": [
-    "input contamination",
-    0.9372287326388888
+    "input-and-label contamination",
+    0.9646218039772727
   ],
   "professional_accounting 140": [
-    "clean",
-    0.10648148148148148
+    "input-and-label contamination",
+    0.9875940393518519
   ],
   "professional_accounting 152": [
-    "input contamination",
-    0.5653595202874049
-  ],
-  "professional_accounting 162": [
     "clean",
-    0.2676767676767677
+    0.6338891820193759
   ],
   "professional_accounting 165": [
     "clean",
-    0.08581149193548387
-  ],
-  "professional_accounting 167": [
-    "clean",
-    0.2887698106353027
-  ],
-  "professional_accounting 176": [
-    "clean",
-    0.2048103411739775
-  ],
-  "professional_accounting 177": [
-    "clean",
-    0.15986394557823133
+    0.6481261154074955
   ],
   "professional_accounting 178": [
     "clean",
-    0.07732915651467685
+    0.5432492195629551
   ],
   "professional_accounting 189": [
-    "input contamination",
-    0.9013006367700854
-  ],
-  "professional_accounting 211": [
-    "clean",
-    0.4092548076923077
+    "input-and-label contamination",
+    0.9999977971724505
   ],
   "professional_accounting 219": [
-    "clean",
-    0.18583333333333335
-  ],
-  "professional_accounting 223": [
-    "clean",
-    0.18566176470588236
+    "input-and-label contamination",
+    0.9990234375
   ],
   "professional_accounting 230": [
-    "clean",
-    0.20038578201843507
+    "input contamination",
+    0.7792063492063492
   ],
   "professional_accounting 232": [
-    "input-and-label contamination",
-    0.6833274125976921
+    "input contamination",
+    0.8227124183006537
   ],
   "professional_accounting 241": [
     "clean",
-    0.4608232676414494
-  ],
-  "professional_accounting 254": [
-    "clean",
-    0.16245098039215686
+    0.4662261044544041
   ],
   "professional_accounting 255": [
-    "clean",
-    0.36507936507936506
-  ],
-  "high_school_government_and_politics 2": [
-    "clean",
-    0.26601562500000003
+    "input-and-label contamination",
+    0.9985422740524781
   ],
   "high_school_government_and_politics 13": [
     "clean",
-    0.16304347826086957
+    0.5706521739130435
   ],
   "high_school_government_and_politics 19": [
-    "clean",
-    0.10883620689655173
-  ],
-  "high_school_government_and_politics 29": [
-    "clean",
-    0.20833333333333331
+    "input-and-label contamination",
+    0.9542575650950036
   ],
   "high_school_government_and_politics 33": [
-    "clean",
-    0.48130657221566314
+    "input-and-label contamination",
+    0.9519047619047619
   ],
   "high_school_government_and_politics 37": [
     "clean",
-    0.06944444444444445
+    0.642554012345679
   ],
   "high_school_government_and_politics 40": [
-    "clean",
-    0.33223684210526316
-  ],
-  "high_school_government_and_politics 41": [
-    "clean",
-    0.4626388888888888
-  ],
-  "high_school_government_and_politics 43": [
-    "clean",
-    0.17085187539732993
+    "input-and-label contamination",
+    0.9953345968800117
   ],
   "high_school_government_and_politics 69": [
     "clean",
-    0.16611842105263158
+    0.1957894736842105
   ],
-  "high_school_government_and_politics 70": [
-    "clean",
-    0.06521739130434782
-  ],
-  "high_school_government_and_politics 90": [
-    "clean",
-    0.3173469387755102
+  "high_school_government_and_politics 75": [
+    "input-and-label contamination",
+    0.9998779296875
   ],
   "high_school_government_and_politics 91": [
-    "clean",
-    0.21913793103448276
+    "input-and-label contamination",
+    0.9999794989544467
   ],
-  "high_school_government_and_politics 92": [
+  "high_school_government_and_politics 94": [
     "clean",
-    0.12777777777777777
+    0.6694812710437711
   ],
   "high_school_government_and_politics 103": [
     "clean",
-    0.372
+    0.3689236111111111
   ],
-  "high_school_government_and_politics 105": [
+  "high_school_government_and_politics 108": [
     "clean",
-    0.5086292423928568
+    0.3033682294037323
   ],
-  "high_school_government_and_politics 125": [
+  "high_school_government_and_politics 117": [
     "clean",
-    0.37230769230769234
+    0.5443419197744457
   ],
-  "high_school_government_and_politics 148": [
+  "high_school_government_and_politics 122": [
+    "input-and-label contamination",
+    0.9995
+  ],
+  "high_school_government_and_politics 149": [
     "clean",
-    0.2630208333333333
+    0.41573183760683763
   ],
   "high_school_government_and_politics 159": [
+    "input-and-label contamination",
+    0.8179012345679013
+  ],
+  "high_school_government_and_politics 163": [
     "clean",
-    0.3735827664399093
+    0.16355685131195336
   ],
   "high_school_government_and_politics 168": [
     "clean",
-    0.40350877192982454
+    0.36965460526315785
   ],
   "high_school_government_and_politics 179": [
-    "clean",
-    0.1875
-  ],
-  "high_school_government_and_politics 184": [
-    "clean",
-    0.21041666666666667
+    "input-and-label contamination",
+    0.9580182734719597
   ],
   "high_school_government_and_politics 186": [
-    "clean",
-    0.21885995777621392
-  ],
-  "sociology 7": [
-    "clean",
-    0.11029411764705882
-  ],
-  "sociology 31": [
-    "clean",
-    0.2385204081632653
+    "input-and-label contamination",
+    0.9295208362896741
   ],
   "sociology 41": [
-    "clean",
-    0.27445652173913043
+    "input-and-label contamination",
+    0.9561624146604384
   ],
   "sociology 43": [
     "clean",
-    0.19658119658119658
+    0.30528846153846156
   ],
-  "sociology 44": [
+  "sociology 49": [
     "clean",
-    0.21281250000000002
-  ],
-  "sociology 51": [
-    "clean",
-    0.248046875
+    0.23473684210526316
   ],
   "sociology 55": [
     "clean",
-    0.1597222222222222
-  ],
-  "sociology 56": [
-    "clean",
-    0.1753472222222222
+    0.234375
   ],
   "sociology 70": [
-    "clean",
-    0.26785714285714285
+    "input-and-label contamination",
+    0.9950801749271136
   ],
   "sociology 94": [
-    "clean",
-    0.12169312169312169
+    "input-and-label contamination",
+    0.9485714285714285
   ],
-  "sociology 106": [
+  "sociology 173": [
     "clean",
-    0.27875
+    0.605
   ],
   "sociology 178": [
-    "clean",
-    0.22441520467836257
+    "input contamination",
+    0.7078410311493017
   ],
   "sociology 187": [
     "clean",
-    0.17128279883381925
+    0.20444606413994168
+  ],
+  "sociology 194": [
+    "input-and-label contamination",
+    0.9494459833795014
   ],
   "conceptual_physics 19": [
     "input-and-label contamination",
     0.9883381924198251
   ],
   "conceptual_physics 22": [
-    "clean",
-    0.3430769230769231
-  ],
-  "conceptual_physics 36": [
-    "clean",
-    0.3129595588235294
-  ],
-  "conceptual_physics 44": [
     "input-and-label contamination",
-    0.5625
+    0.9997724169321802
   ],
-  "conceptual_physics 78": [
-    "clean",
-    0.5111111111111111
+  "conceptual_physics 70": [
+    "input-and-label contamination",
+    0.9938552571688667
   ],
-  "conceptual_physics 84": [
-    "clean",
-    0.5476190476190477
+  "conceptual_physics 72": [
+    "input-and-label contamination",
+    0.75
   ],
   "conceptual_physics 94": [
     "input-and-label contamination",
-    0.6371428571428571
-  ],
-  "conceptual_physics 105": [
-    "clean",
-    0.4527272727272727
+    0.9268808114961962
   ],
   "conceptual_physics 123": [
-    "clean",
-    0.3005952380952381
+    "input-and-label contamination",
+    0.9507738095238095
   ],
-  "conceptual_physics 130": [
+  "conceptual_physics 133": [
     "clean",
-    0.48557692307692313
-  ],
-  "conceptual_physics 140": [
-    "input contamination",
-    0.5769944341372912
+    0.6552169421487604
   ],
   "conceptual_physics 142": [
     "input-and-label contamination",
-    0.9324298346789696
+    0.9382929642445215
   ],
-  "conceptual_physics 153": [
-    "clean",
-    0.17714285714285713
+  "conceptual_physics 189": [
+    "input-and-label contamination",
+    0.8833333333333334
   ],
-  "conceptual_physics 155": [
-    "clean",
-    0.16862962962962963
-  ],
-  "conceptual_physics 162": [
-    "input contamination",
-    0.7821871612670119
-  ],
-  "conceptual_physics 190": [
-    "clean",
-    0.3381818181818182
+  "conceptual_physics 192": [
+    "input-and-label contamination",
+    0.75
   ],
   "conceptual_physics 202": [
     "clean",
-    0.5357142857142857
-  ],
-  "conceptual_physics 208": [
-    "clean",
-    0.28425925925925927
-  ],
-  "conceptual_physics 209": [
-    "clean",
-    0.23537037037037034
+    0.6371428571428571
   ],
   "conceptual_physics 211": [
     "clean",
-    0.3381818181818182
+    0.46464646464646464
   ],
-  "conceptual_physics 219": [
-    "input contamination",
-    0.6619183285849952
+  "conceptual_physics 224": [
+    "input-and-label contamination",
+    0.9998177842565598
   ],
   "human_aging 7": [
     "clean",
-    0.0625
+    0.11624999999999999
   ],
-  "human_aging 10": [
+  "human_aging 16": [
     "clean",
-    0.1957894736842105
-  ],
-  "human_aging 29": [
-    "clean",
-    0.17714285714285713
+    0.21634615384615383
   ],
   "human_aging 52": [
     "clean",
-    0.21041666666666667
+    0.29733333333333334
   ],
   "human_aging 62": [
     "clean",
-    0.24338624338624337
+    0.15029761904761907
+  ],
+  "human_aging 84": [
+    "clean",
+    0.42592592592592593
   ],
   "human_aging 91": [
     "clean",
-    0.19736842105263158
+    0.1957894736842105
+  ],
+  "human_aging 96": [
+    "clean",
+    0.2847058823529412
   ],
   "human_aging 98": [
     "clean",
-    0.08243727598566307
-  ],
-  "human_aging 110": [
-    "clean",
-    0.21999999999999997
-  ],
-  "human_aging 112": [
-    "clean",
-    0.34090909090909094
-  ],
-  "human_aging 120": [
-    "clean",
-    0.37334933973589435
+    0.1814516129032258
   ],
   "human_aging 125": [
     "clean",
     0.31857142857142856
+  ],
+  "human_aging 128": [
+    "clean",
+    0.26601562500000003
   ],
   "human_aging 129": [
     "clean",
@@ -991,425 +707,293 @@
     "clean",
     0.22441520467836257
   ],
-  "human_aging 148": [
+  "human_aging 134": [
     "clean",
-    0.39687500000000003
+    0.6724489795918367
   ],
   "human_aging 150": [
     "clean",
-    0.22667638483965014
-  ],
-  "human_aging 151": [
-    "input contamination",
-    0.560374149659864
-  ],
-  "human_aging 155": [
-    "clean",
-    0.3068518518518518
+    0.3422373081463991
   ],
   "human_aging 156": [
     "clean",
-    0.09523809523809523
+    0.04761904761904762
   ],
-  "human_aging 161": [
-    "clean",
-    0.09564393939393939
-  ],
-  "human_aging 162": [
-    "clean",
-    0.16
-  ],
-  "human_aging 164": [
-    "clean",
-    0.2477777777777778
-  ],
-  "human_aging 196": [
-    "clean",
-    0.42757936507936506
-  ],
-  "human_aging 199": [
-    "clean",
-    0.24278846153846156
-  ],
-  "human_aging 203": [
-    "clean",
-    0.30994152046783624
-  ],
-  "human_aging 207": [
-    "clean",
-    0.2664930555555556
-  ],
-  "human_aging 214": [
-    "clean",
-    0.375
-  ],
-  "high_school_psychology 1": [
-    "clean",
-    0.25
-  ],
-  "high_school_psychology 6": [
-    "clean",
-    0.16611842105263158
-  ],
-  "high_school_psychology 9": [
-    "clean",
-    0.19982993197278914
-  ],
-  "high_school_psychology 19": [
-    "clean",
-    0.223
-  ],
-  "high_school_psychology 27": [
-    "clean",
-    0.12625
-  ],
-  "high_school_psychology 33": [
-    "clean",
-    0.05844155844155843
-  ],
-  "high_school_psychology 34": [
-    "clean",
-    0.2222222222222222
-  ],
-  "high_school_psychology 44": [
-    "clean",
-    0.08199786324786325
-  ],
-  "high_school_psychology 64": [
-    "clean",
-    0.07692307692307693
-  ],
-  "high_school_psychology 66": [
-    "clean",
-    0.1419753086419753
-  ],
-  "high_school_psychology 67": [
-    "clean",
-    0.21238095238095236
-  ],
-  "high_school_psychology 73": [
-    "clean",
-    0.1703703703703704
-  ],
-  "high_school_psychology 86": [
-    "clean",
-    0.375
-  ],
-  "high_school_psychology 93": [
-    "clean",
-    0.09615384615384616
-  ],
-  "high_school_psychology 106": [
-    "clean",
-    0.0956439393939394
-  ],
-  "high_school_psychology 109": [
-    "clean",
-    0.3515625
-  ],
-  "high_school_psychology 118": [
-    "clean",
-    0.5113636363636364
-  ],
-  "high_school_psychology 126": [
-    "clean",
-    0.3430769230769231
-  ],
-  "high_school_psychology 145": [
-    "clean",
-    0.10659722222222222
-  ],
-  "high_school_psychology 156": [
-    "input contamination",
-    0.9814551112165921
-  ],
-  "high_school_psychology 162": [
-    "clean",
-    0.17647058823529413
-  ],
-  "high_school_psychology 170": [
-    "clean",
-    0.26479166666666665
-  ],
-  "high_school_psychology 171": [
-    "clean",
-    0.19834183673469385
-  ],
-  "high_school_psychology 200": [
-    "clean",
-    0.09283088235294117
-  ],
-  "high_school_psychology 204": [
-    "clean",
-    0.1639957264957265
-  ],
-  "high_school_psychology 225": [
-    "clean",
-    0.1875
-  ],
-  "high_school_psychology 246": [
-    "input contamination",
-    0.9564768235716853
-  ],
-  "high_school_psychology 267": [
-    "clean",
-    0.48822605965463106
-  ],
-  "high_school_psychology 268": [
-    "clean",
-    0.051666666666666666
-  ],
-  "high_school_psychology 281": [
-    "clean",
-    0.11748315425241304
-  ],
-  "high_school_psychology 294": [
-    "clean",
-    0.22544642857142855
-  ],
-  "high_school_psychology 299": [
-    "clean",
-    0.17346938775510204
-  ],
-  "high_school_psychology 303": [
+  "human_aging 185": [
     "clean",
     0.18566176470588236
   ],
+  "human_aging 214": [
+    "clean",
+    0.23979591836734693
+  ],
+  "high_school_psychology 1": [
+    "clean",
+    0.5
+  ],
+  "high_school_psychology 19": [
+    "input-and-label contamination",
+    0.9999375
+  ],
+  "high_school_psychology 27": [
+    "input-and-label contamination",
+    0.9597222222222221
+  ],
+  "high_school_psychology 33": [
+    "input contamination",
+    0.8421101974948129
+  ],
+  "high_school_psychology 61": [
+    "clean",
+    0.3457142857142857
+  ],
+  "high_school_psychology 67": [
+    "input-and-label contamination",
+    0.9999460101500918
+  ],
+  "high_school_psychology 86": [
+    "clean",
+    0.2842592592592593
+  ],
+  "high_school_psychology 93": [
+    "input-and-label contamination",
+    0.8660026174203869
+  ],
+  "high_school_psychology 145": [
+    "input-and-label contamination",
+    0.9999921875
+  ],
+  "high_school_psychology 164": [
+    "input contamination",
+    0.8315723789083065
+  ],
+  "high_school_psychology 170": [
+    "input contamination",
+    0.8749527588813303
+  ],
+  "high_school_psychology 178": [
+    "input-and-label contamination",
+    0.9564768235716853
+  ],
+  "high_school_psychology 199": [
+    "input-and-label contamination",
+    0.9561624146604384
+  ],
+  "high_school_psychology 204": [
+    "input-and-label contamination",
+    0.9997724169321802
+  ],
+  "high_school_psychology 223": [
+    "clean",
+    0.16245098039215686
+  ],
+  "high_school_psychology 225": [
+    "input-and-label contamination",
+    0.9921875
+  ],
+  "high_school_psychology 237": [
+    "input-and-label contamination",
+    0.9696838556851312
+  ],
+  "high_school_psychology 246": [
+    "input-and-label contamination",
+    0.999958905235473
+  ],
+  "high_school_psychology 249": [
+    "input contamination",
+    0.8233469472160471
+  ],
+  "high_school_psychology 262": [
+    "clean",
+    0.2024328249818446
+  ],
+  "high_school_psychology 267": [
+    "clean",
+    0.3430769230769231
+  ],
+  "high_school_psychology 281": [
+    "clean",
+    0.6668440984394601
+  ],
   "high_school_psychology 319": [
-    "clean",
-    0.12196721311475409
-  ],
-  "high_school_psychology 336": [
-    "clean",
-    0.2865902426019728
-  ],
-  "high_school_psychology 342": [
-    "clean",
-    0.20272727272727273
-  ],
-  "high_school_psychology 347": [
-    "clean",
-    0.15202702702702703
+    "input contamination",
+    0.8359804866980545
   ],
   "high_school_psychology 352": [
-    "clean",
-    0.31
+    "input-and-label contamination",
+    0.9997106481481481
   ],
   "high_school_psychology 365": [
-    "clean",
-    0.30666666666666664
+    "input-and-label contamination",
+    0.959722222222222
   ],
   "high_school_psychology 372": [
-    "clean",
-    0.15781250000000002
+    "input-and-label contamination",
+    0.9999375
+  ],
+  "high_school_psychology 381": [
+    "input-and-label contamination",
+    0.9997106481481481
+  ],
+  "high_school_psychology 418": [
+    "input-and-label contamination",
+    0.8848701131687242
   ],
   "high_school_psychology 423": [
-    "clean",
-    0.25555555555555554
+    "input-and-label contamination",
+    0.9413434903047091
   ],
-  "high_school_psychology 437": [
+  "high_school_psychology 436": [
     "clean",
-    0.1784
+    0.32266666666666666
   ],
-  "high_school_psychology 461": [
-    "clean",
-    0.07600446428571428
+  "high_school_psychology 489": [
+    "input contamination",
+    0.7192627317281056
   ],
-  "high_school_psychology 462": [
-    "clean",
-    0.09221311475409835
+  "high_school_psychology 495": [
+    "input-and-label contamination",
+    0.9999715521165226
   ],
-  "high_school_psychology 499": [
-    "clean",
-    0.4409722222222222
-  ],
-  "high_school_psychology 519": [
-    "clean",
-    0.15032679738562094
+  "high_school_psychology 505": [
+    "input-and-label contamination",
+    0.9998177842565598
   ],
   "high_school_psychology 522": [
-    "clean",
-    0.15379310344827588
-  ],
-  "high_school_psychology 525": [
     "input-and-label contamination",
-    0.6329534662867996
+    0.8267780172413793
+  ],
+  "high_school_psychology 530": [
+    "clean",
+    0.3716666666666667
   ],
   "high_school_psychology 538": [
-    "clean",
-    0.124
+    "input-and-label contamination",
+    0.996
   ],
   "high_school_psychology 540": [
-    "clean",
-    0.05555555555555555
-  ],
-  "jurisprudence 5": [
-    "clean",
-    0.05555555555555555
+    "input-and-label contamination",
+    0.9999892832647462
   ],
   "jurisprudence 19": [
     "input-and-label contamination",
-    0.7812499999999999
-  ],
-  "jurisprudence 24": [
-    "clean",
-    0.17060810810810811
-  ],
-  "jurisprudence 25": [
-    "clean",
-    0.03846153846153847
-  ],
-  "jurisprudence 27": [
-    "clean",
-    0.20304232804232802
-  ],
-  "jurisprudence 36": [
-    "clean",
-    0.43896484375
+    0.9375
   ],
   "jurisprudence 42": [
-    "clean",
-    0.37230769230769234
+    "input-and-label contamination",
+    0.9997724169321802
   ],
   "jurisprudence 45": [
-    "clean",
-    0.21319444444444444
+    "input-and-label contamination",
+    0.8313148788927335
   ],
   "jurisprudence 68": [
     "clean",
-    0.15228174603174602
-  ],
-  "jurisprudence 70": [
-    "clean",
-    0.40545454545454546
+    0.14174107142857142
   ],
   "jurisprudence 71": [
     "input-and-label contamination",
-    0.6166747690811862
+    0.7271145144448312
+  ],
+  "jurisprudence 81": [
+    "input-and-label contamination",
+    0.9595386806925267
   ],
   "jurisprudence 83": [
     "clean",
-    0.14285714285714285
+    0.48130657221566314
   ],
-  "jurisprudence 87": [
+  "jurisprudence 102": [
     "clean",
-    0.4988425925925926
+    0.33780020884093276
   ],
-  "jurisprudence 91": [
+  "jurisprudence 103": [
     "clean",
-    0.2809375
+    0.1753472222222222
   ],
-  "jurisprudence 95": [
+  "moral_scenarios 6": [
     "clean",
-    0.2269642857142857
-  ],
-  "jurisprudence 97": [
-    "clean",
-    0.06465517241379311
-  ],
-  "moral_scenarios 16": [
-    "clean",
-    0.03125
+    0.021739130434782608
   ],
   "moral_scenarios 20": [
     "clean",
-    0.04794520547945206
-  ],
-  "moral_scenarios 30": [
-    "clean",
-    0.04545454545454545
+    0.0136986301369863
   ],
   "moral_scenarios 34": [
     "clean",
     0.028985507246376812
   ],
-  "moral_scenarios 50": [
-    "clean",
-    0.00641025641025641
-  ],
   "moral_scenarios 51": [
     "clean",
     0.03125
   ],
-  "moral_scenarios 54": [
+  "moral_scenarios 55": [
     "clean",
-    0.046153846153846156
+    0
   ],
   "moral_scenarios 61": [
     "clean",
-    0.036231884057971016
+    0.021739130434782608
   ],
   "moral_scenarios 74": [
     "clean",
-    0
+    0.022727272727272724
   ],
   "moral_scenarios 75": [
     "clean",
-    0
+    0.017241379310344827
   ],
-  "moral_scenarios 100": [
+  "moral_scenarios 93": [
     "clean",
-    0.04285714285714286
+    0.008333333333333333
   ],
   "moral_scenarios 105": [
     "clean",
-    0.06164383561643835
+    0.0136986301369863
   ],
   "moral_scenarios 116": [
     "clean",
-    0.027777777777777776
+    0.020833333333333332
   ],
-  "moral_scenarios 123": [
-    "clean",
-    0.015873015873015872
-  ],
-  "moral_scenarios 125": [
+  "moral_scenarios 138": [
     "clean",
     0
-  ],
-  "moral_scenarios 128": [
-    "clean",
-    0.017241379310344827
   ],
   "moral_scenarios 140": [
     "clean",
-    0.03125
+    0.016666666666666666
   ],
   "moral_scenarios 144": [
     "clean",
-    0.03024193548387097
+    0.024193548387096774
   ],
-  "moral_scenarios 171": [
+  "moral_scenarios 173": [
     "clean",
-    0
+    0.03278688524590164
   ],
-  "moral_scenarios 180": [
+  "moral_scenarios 184": [
     "clean",
-    0.04838709677419355
-  ],
-  "moral_scenarios 188": [
-    "clean",
-    0
+    0.03125
   ],
   "moral_scenarios 216": [
     "clean",
-    0.007936507936507936
+    0.031746031746031744
+  ],
+  "moral_scenarios 219": [
+    "clean",
+    0.016129032258064516
   ],
   "moral_scenarios 231": [
     "clean",
-    0.029411764705882353
+    0.007352941176470588
   ],
-  "moral_scenarios 240": [
+  "moral_scenarios 239": [
     "clean",
-    0.06877240143369176
+    0.0496
   ],
   "moral_scenarios 245": [
     "clean",
-    0.058124999999999996
-  ],
-  "moral_scenarios 253": [
-    "clean",
-    0
+    0.07493622448979592
   ],
   "moral_scenarios 263": [
     "clean",
@@ -1423,169 +1007,101 @@
     "clean",
     0.03508771929824561
   ],
-  "moral_scenarios 292": [
-    "clean",
-    0.050907258064516125
-  ],
   "moral_scenarios 300": [
     "clean",
     0.025423728813559324
-  ],
-  "moral_scenarios 307": [
-    "clean",
-    0.01639344262295082
-  ],
-  "moral_scenarios 310": [
-    "clean",
-    0.04929577464788732
   ],
   "moral_scenarios 313": [
     "clean",
     0.07351532567049808
   ],
-  "moral_scenarios 319": [
-    "clean",
-    0.022727272727272728
-  ],
   "moral_scenarios 341": [
     "clean",
-    0
+    0.03205128205128205
+  ],
+  "moral_scenarios 354": [
+    "clean",
+    0.015873015873015872
   ],
   "moral_scenarios 356": [
     "clean",
-    0.04929577464788732
+    0.014084507042253521
   ],
-  "moral_scenarios 362": [
-    "clean",
-    0.039316239316239315
-  ],
-  "moral_scenarios 384": [
-    "clean",
-    0.02640845070422535
-  ],
-  "moral_scenarios 387": [
-    "clean",
-    0.029850746268656716
-  ],
-  "moral_scenarios 398": [
-    "clean",
-    0.024193548387096774
-  ],
-  "moral_scenarios 407": [
-    "clean",
-    0.03073770491803279
-  ],
-  "moral_scenarios 420": [
-    "clean",
-    0
-  ],
-  "moral_scenarios 434": [
-    "clean",
-    0.050099206349206345
-  ],
-  "moral_scenarios 444": [
-    "clean",
-    0.07752525252525252
-  ],
-  "moral_scenarios 457": [
-    "clean",
-    0.038461538461538464
-  ],
-  "moral_scenarios 469": [
-    "clean",
-    0.02459016393442623
-  ],
-  "moral_scenarios 487": [
-    "clean",
-    0.05921052631578948
-  ],
-  "moral_scenarios 518": [
-    "clean",
-    0.04285714285714285
-  ],
-  "moral_scenarios 531": [
-    "clean",
-    0.05636160714285714
-  ],
-  "moral_scenarios 544": [
-    "clean",
-    0.029850746268656716
-  ],
-  "moral_scenarios 558": [
-    "clean",
-    0.007246376811594203
-  ],
-  "moral_scenarios 562": [
-    "clean",
-    0.02857142857142857
-  ],
-  "moral_scenarios 565": [
-    "clean",
-    0.02459016393442623
-  ],
-  "moral_scenarios 577": [
-    "clean",
-    0.014492753623188406
-  ],
-  "moral_scenarios 605": [
-    "clean",
-    0.027985074626865673
-  ],
-  "moral_scenarios 614": [
-    "clean",
-    0.0410958904109589
-  ],
-  "moral_scenarios 623": [
-    "clean",
-    0.03676470588235294
-  ],
-  "moral_scenarios 651": [
-    "clean",
-    0
-  ],
-  "moral_scenarios 686": [
-    "clean",
-    0.01694915254237288
-  ],
-  "moral_scenarios 687": [
-    "clean",
-    0.03333333333333333
-  ],
-  "moral_scenarios 690": [
-    "clean",
-    0.03508771929824561
-  ],
-  "moral_scenarios 702": [
-    "clean",
-    0.037037037037037035
-  ],
-  "moral_scenarios 708": [
-    "clean",
-    0
-  ],
-  "moral_scenarios 715": [
-    "clean",
-    0.04032258064516129
-  ],
-  "moral_scenarios 719": [
+  "moral_scenarios 394": [
     "clean",
     0.01639344262295082
   ],
-  "moral_scenarios 722": [
+  "moral_scenarios 398": [
     "clean",
-    0.029411764705882353
+    0.03225806451612903
   ],
-  "moral_scenarios 730": [
+  "moral_scenarios 407": [
     "clean",
-    0.050907258064516125
+    0.040983606557377046
   ],
-  "moral_scenarios 732": [
+  "moral_scenarios 420": [
     "clean",
-    0.024193548387096774
+    0.02857142857142857
   ],
-  "moral_scenarios 743": [
+  "moral_scenarios 537": [
     "clean",
-    0.05260416666666667
+    0.015384615384615385
+  ],
+  "moral_scenarios 558": [
+    "clean",
+    0.028985507246376812
+  ],
+  "moral_scenarios 562": [
+    "clean",
+    0.05314285714285714
+  ],
+  "moral_scenarios 565": [
+    "clean",
+    0.03278688524590164
+  ],
+  "moral_scenarios 577": [
+    "clean",
+    0.028985507246376812
+  ],
+  "moral_scenarios 614": [
+    "clean",
+    0.04794520547945205
+  ],
+  "moral_scenarios 634": [
+    "clean",
+    0.017241379310344827
+  ],
+  "moral_scenarios 651": [
+    "clean",
+    0.007936507936507936
+  ],
+  "moral_scenarios 668": [
+    "clean",
+    0.0078125
+  ],
+  "moral_scenarios 686": [
+    "clean",
+    0.0
+  ],
+  "moral_scenarios 690": [
+    "clean",
+    0.05537280701754386
+  ],
+  "moral_scenarios 694": [
+    "clean",
+    0.023076923076923078
+  ],
+  "moral_scenarios 721": [
+    "clean",
+    0.02112676056338028
+  ],
+  "moral_scenarios 741": [
+    "clean",
+    0.015625
+  ],
+  "moral_scenarios 747": [
+    "clean",
+    0.03389830508474576
   ],
   "moral_scenarios 750": [
     "clean",
@@ -1593,171 +1109,103 @@
   ],
   "moral_scenarios 752": [
     "clean",
-    0.008333333333333333
+    0.03333333333333333
   ],
   "moral_scenarios 756": [
     "clean",
-    0
+    0.023809523809523808
   ],
-  "moral_scenarios 762": [
-    "clean",
-    0.031746031746031744
-  ],
-  "moral_scenarios 769": [
-    "clean",
-    0.023076923076923078
-  ],
-  "moral_scenarios 771": [
-    "clean",
-    0.03787878787878788
-  ],
-  "moral_scenarios 778": [
-    "clean",
-    0.04838709677419354
-  ],
-  "moral_scenarios 787": [
-    "clean",
-    0
-  ],
-  "moral_scenarios 793": [
-    "clean",
-    0
-  ],
-  "moral_scenarios 805": [
-    "clean",
-    0
-  ],
-  "moral_scenarios 812": [
+  "moral_scenarios 767": [
     "clean",
     0.028846153846153848
   ],
-  "moral_scenarios 826": [
+  "moral_scenarios 769": [
+    "clean",
+    0.05723076923076923
+  ],
+  "moral_scenarios 771": [
+    "clean",
+    0.045454545454545456
+  ],
+  "moral_scenarios 776": [
     "clean",
     0.0234375
   ],
+  "moral_scenarios 778": [
+    "clean",
+    0.024193548387096774
+  ],
+  "moral_scenarios 786": [
+    "clean",
+    0.03508771929824561
+  ],
+  "moral_scenarios 787": [
+    "clean",
+    0.03125
+  ],
+  "moral_scenarios 807": [
+    "clean",
+    0.03389830508474576
+  ],
+  "moral_scenarios 822": [
+    "clean",
+    0.015625
+  ],
   "moral_scenarios 833": [
     "clean",
-    0
-  ],
-  "moral_scenarios 841": [
-    "clean",
-    0.0273972602739726
-  ],
-  "moral_scenarios 844": [
-    "clean",
-    0.03333333333333333
-  ],
-  "moral_scenarios 856": [
-    "clean",
-    0.03278688524590164
+    0.12480630165289254
   ],
   "moral_scenarios 868": [
     "clean",
     0
   ],
-  "moral_scenarios 874": [
+  "moral_scenarios 890": [
     "clean",
-    0.028735632183908046
+    0.02857142857142857
   ],
-  "college_medicine 10": [
+  "college_medicine 11": [
+    "input-and-label contamination",
+    0.9981318422239535
+  ],
+  "college_medicine 30": [
+    "input contamination",
+    0.9444408845600695
+  ],
+  "college_medicine 72": [
     "clean",
-    0.15986394557823133
+    0.6114130434782609
   ],
-  "college_medicine 13": [
+  "college_medicine 75": [
     "clean",
     0.2869318181818182
   ],
-  "college_medicine 30": [
+  "college_medicine 80": [
     "clean",
-    0.09465020576131687
+    0.4849897119341564
   ],
-  "college_medicine 39": [
-    "clean",
-    0.34090909090909094
-  ],
-  "college_medicine 63": [
+  "college_medicine 85": [
     "input-and-label contamination",
-    0.8064208518753974
-  ],
-  "college_medicine 76": [
-    "input-and-label contamination",
-    0.5636849781234807
-  ],
-  "college_medicine 82": [
-    "clean",
-    0.30913229864196756
-  ],
-  "college_medicine 83": [
-    "clean",
-    0.14880000000000002
+    0.7433333333333334
   ],
   "college_medicine 101": [
     "clean",
-    0.242
-  ],
-  "college_medicine 102": [
-    "input-and-label contamination",
-    0.560374149659864
+    0.125
   ],
   "college_medicine 115": [
     "clean",
     0.1690909090909091
   ],
-  "college_medicine 118": [
-    "clean",
-    0.3931623931623932
-  ],
-  "college_medicine 138": [
-    "clean",
-    0.25591216216216217
-  ],
   "college_medicine 141": [
     "clean",
-    0.0661764705882353
-  ],
-  "college_medicine 142": [
-    "clean",
-    0.0684931506849315
-  ],
-  "college_medicine 143": [
-    "clean",
-    0.21257142857142855
+    0.5061379916384843
   ],
   "college_medicine 145": [
     "clean",
-    0.13450292397660818
+    0.23473684210526316
   ],
-  "college_medicine 146": [
-    "clean",
-    0.3713235294117647
-  ],
-  "college_medicine 149": [
+  "college_medicine 147": [
     "input-and-label contamination",
-    0.654320987654321
-  ],
-  "high_school_world_history 26": [
-    "clean",
-    0
-  ],
-  "high_school_world_history 33": [
-    "clean",
-    0.03
-  ],
-  "high_school_world_history 89": [
-    "clean",
-    0.05095890410958904
-  ],
-  "high_school_world_history 114": [
-    "clean",
-    0.34518236142944936
-  ],
-  "high_school_world_history 115": [
-    "clean",
-    0.04819277108433735
-  ],
-  "high_school_world_history 215": [
-    "clean",
-    0
+    0.8736225895316805
   ],
   "high_school_world_history 230": [
     "clean",
@@ -1765,595 +1213,335 @@
   ],
   "high_school_world_history 235": [
     "clean",
-    0.01948051948051948
+    0.6580236372623915
   ],
   "virology 19": [
     "clean",
-    0.17045454545454547
+    0.21999999999999997
   ],
   "virology 22": [
     "clean",
-    0.3125
-  ],
-  "virology 26": [
-    "clean",
     0.3716666666666667
   ],
-  "virology 46": [
+  "virology 30": [
     "clean",
-    0.19736842105263158
+    0.21041666666666667
   ],
-  "virology 51": [
-    "clean",
-    0.197265625
+  "virology 48": [
+    "input-and-label contamination",
+    0.9945130315500685
   ],
   "virology 62": [
-    "clean",
-    0.219482421875
+    "input contamination",
+    0.9039276159334126
   ],
-  "virology 77": [
+  "virology 73": [
     "clean",
-    0.18253968253968253
+    0.23249999999999998
   ],
-  "virology 88": [
-    "clean",
-    0.19230769230769232
+  "virology 83": [
+    "input-and-label contamination",
+    0.9883381924198251
   ],
-  "virology 91": [
-    "clean",
-    0.1
-  ],
-  "virology 96": [
-    "clean",
-    0.25
-  ],
-  "virology 100": [
-    "clean",
-    0.13392857142857142
-  ],
-  "virology 101": [
-    "clean",
-    0.20444444444444443
+  "virology 95": [
+    "input-and-label contamination",
+    0.9905185185185185
   ],
   "virology 111": [
-    "clean",
-    0.11272321428571427
+    "input-and-label contamination",
+    0.9971528790087464
   ],
-  "virology 129": [
-    "clean",
-    0.15470704410796576
+  "virology 115": [
+    "input-and-label contamination",
+    0.9021555367709215
   ],
-  "virology 134": [
-    "clean",
-    0.2839506172839506
-  ],
-  "virology 135": [
-    "clean",
-    0.1597222222222222
-  ],
-  "virology 152": [
-    "clean",
-    0.25
-  ],
-  "virology 153": [
-    "clean",
-    0.042638888888888886
-  ],
-  "high_school_statistics 8": [
-    "clean",
-    0.1753472222222222
+  "high_school_statistics 3": [
+    "input-and-label contamination",
+    0.9163223140495868
   ],
   "high_school_statistics 21": [
     "clean",
-    0.21319444444444444
-  ],
-  "high_school_statistics 23": [
-    "clean",
-    0.09821428571428571
-  ],
-  "high_school_statistics 41": [
-    "clean",
-    0.09787588504789671
-  ],
-  "high_school_statistics 45": [
-    "clean",
-    0.052539817170860426
+    0.41565743944636674
   ],
   "high_school_statistics 48": [
     "clean",
-    0.046610169491525424
+    0.5100494544831987
   ],
-  "high_school_statistics 50": [
-    "clean",
-    0.061486132914704346
-  ],
-  "high_school_statistics 53": [
-    "clean",
-    0.08378870673952642
-  ],
-  "high_school_statistics 57": [
-    "clean",
-    0.12165637860082304
-  ],
-  "high_school_statistics 106": [
-    "clean",
-    0.06906906906906907
+  "high_school_statistics 82": [
+    "input-and-label contamination",
+    0.9963241598079561
   ],
   "high_school_statistics 108": [
     "clean",
-    0.16666666666666666
+    0.39453125
   ],
-  "high_school_statistics 128": [
-    "clean",
-    0.14864864864864866
+  "high_school_statistics 160": [
+    "input contamination",
+    0.8458359821996184
   ],
-  "high_school_statistics 129": [
-    "clean",
-    0.248
-  ],
-  "high_school_statistics 133": [
-    "clean",
-    0.269221136989732
-  ],
-  "high_school_statistics 140": [
-    "clean",
-    0.11229819563152897
-  ],
-  "high_school_statistics 150": [
-    "clean",
-    0.03206896551724138
+  "high_school_statistics 162": [
+    "input contamination",
+    0.9515943694340707
   ],
   "high_school_statistics 165": [
     "clean",
-    0.22102756530523884
-  ],
-  "high_school_statistics 181": [
-    "clean",
-    0.04950495049504951
+    0.3838720567136467
   ],
   "high_school_statistics 186": [
-    "clean",
-    0.11435897435897435
-  ],
-  "high_school_statistics 192": [
-    "clean",
-    0.05260416666666667
-  ],
-  "high_school_statistics 193": [
-    "clean",
-    0.2777509103322713
+    "input-and-label contamination",
+    0.9999915709974881
   ],
   "high_school_statistics 199": [
     "clean",
-    0.36891679748822603
-  ],
-  "high_school_statistics 201": [
-    "clean",
-    0.4592884948096886
+    0.5365839781520255
   ],
   "high_school_statistics 203": [
     "clean",
-    0.07288099315068493
+    0.1221917808219178
   ],
-  "high_school_statistics 211": [
-    "clean",
-    0.36134920634920636
+  "high_school_statistics 213": [
+    "input-and-label contamination",
+    0.9999962307106618
   ],
   "nutrition 4": [
     "input-and-label contamination",
-    0.625
-  ],
-  "nutrition 23": [
-    "clean",
-    0.125
-  ],
-  "nutrition 34": [
-    "clean",
-    0.1400082236842105
+    0.7361111111111112
   ],
   "nutrition 39": [
     "clean",
-    0.2477777777777778
+    0.3506944444444445
   ],
-  "nutrition 50": [
-    "input-and-label contamination",
-    0.5575
-  ],
-  "nutrition 53": [
+  "nutrition 44": [
     "clean",
-    0.31
+    0.20089285714285712
+  ],
+  "nutrition 69": [
+    "input-and-label contamination",
+    0.9948631544341251
   ],
   "nutrition 84": [
-    "clean",
-    0.28622448979591836
+    "input-and-label contamination",
+    0.9921875
   ],
   "nutrition 94": [
     "clean",
-    0.3068518518518518
+    0.23379629629629628
   ],
   "nutrition 99": [
-    "clean",
-    0.07
-  ],
-  "nutrition 102": [
-    "clean",
-    0.14307692307692307
-  ],
-  "nutrition 111": [
-    "clean",
-    0.2839506172839506
+    "input-and-label contamination",
+    0.999996
   ],
   "nutrition 118": [
     "clean",
-    0.46875
-  ],
-  "nutrition 120": [
-    "clean",
-    0.37440968122786306
-  ],
-  "nutrition 138": [
-    "clean",
-    0.35778061224489793
+    0.41425
   ],
   "nutrition 149": [
     "clean",
-    0.3180272108843537
-  ],
-  "nutrition 155": [
-    "clean",
-    0.46875
+    0.3735827664399093
   ],
   "nutrition 161": [
-    "clean",
-    0.40545454545454546
-  ],
-  "nutrition 163": [
-    "clean",
-    0.19658119658119658
-  ],
-  "nutrition 167": [
-    "clean",
-    0.45713305898491086
-  ],
-  "nutrition 173": [
-    "clean",
-    0.46875
+    "input-and-label contamination",
+    0.9530428249436514
   ],
   "nutrition 177": [
-    "clean",
-    0.10659722222222222
+    "input-and-label contamination",
+    0.9983125
   ],
-  "nutrition 182": [
-    "clean",
-    0.04807692307692308
-  ],
-  "nutrition 196": [
-    "clean",
-    0.31857142857142856
+  "nutrition 181": [
+    "input-and-label contamination",
+    0.9990234375
   ],
   "nutrition 204": [
-    "clean",
-    0.40889212827988336
-  ],
-  "nutrition 210": [
-    "clean",
-    0.22544642857142855
+    "input-and-label contamination",
+    0.9950801749271136
   ],
   "nutrition 235": [
     "clean",
-    0.31857142857142856
+    0.5357142857142857
   ],
   "nutrition 249": [
-    "clean",
-    0.22544642857142855
+    "input-and-label contamination",
+    0.9950801749271136
   ],
-  "nutrition 252": [
-    "clean",
-    0.16122159090909094
-  ],
-  "nutrition 255": [
-    "clean",
-    0.31562500000000004
+  "nutrition 254": [
+    "input-and-label contamination",
+    0.9434137291280149
   ],
   "nutrition 263": [
-    "clean",
-    0.3680555555555556
+    "input-and-label contamination",
+    0.744140625
   ],
   "nutrition 270": [
     "clean",
-    0.060606060606060615
+    0.11272727272727273
   ],
   "nutrition 277": [
-    "clean",
-    0.10606060606060606
-  ],
-  "nutrition 285": [
-    "clean",
-    0.2036290322580645
+    "input-and-label contamination",
+    0.9996243425995492
   ],
   "nutrition 304": [
-    "clean",
-    0.4409722222222222
-  ],
-  "abstract_algebra 6": [
-    "clean",
-    0.056818181818181816
-  ],
-  "abstract_algebra 7": [
-    "clean",
-    0.13754480286738352
-  ],
-  "abstract_algebra 20": [
-    "clean",
-    0.040816326530612235
+    "input-and-label contamination",
+    0.9976851851851852
   ],
   "abstract_algebra 25": [
-    "clean",
-    0.1579218106995885
+    "input contamination",
+    0.8518168452005882
   ],
-  "abstract_algebra 43": [
+  "abstract_algebra 32": [
     "clean",
-    0.2867798353909465
+    0.0375
   ],
-  "abstract_algebra 87": [
+  "abstract_algebra 47": [
     "clean",
-    0.248
-  ],
-  "abstract_algebra 91": [
-    "clean",
-    0.2884615384615385
-  ],
-  "abstract_algebra 92": [
-    "clean",
-    0.47542102867546654
-  ],
-  "abstract_algebra 93": [
-    "clean",
-    0.37500000000000006
-  ],
-  "abstract_algebra 96": [
-    "clean",
-    0.21043478260869564
-  ],
-  "abstract_algebra 98": [
-    "clean",
-    0.28615384615384615
+    0.40760869565217384
   ],
   "high_school_geography 18": [
-    "clean",
-    0.07142857142857142
-  ],
-  "high_school_geography 23": [
-    "clean",
-    0.31870141746684955
+    "input-and-label contamination",
+    0.9985422740524781
   ],
   "high_school_geography 25": [
     "clean",
-    0.3506944444444444
-  ],
-  "high_school_geography 27": [
-    "clean",
-    0.07407407407407407
-  ],
-  "high_school_geography 33": [
-    "clean",
-    0.058823529411764705
-  ],
-  "high_school_geography 36": [
-    "clean",
-    0.4359925788497217
-  ],
-  "high_school_geography 43": [
-    "clean",
-    0.13392857142857142
+    0.4955555555555556
   ],
   "high_school_geography 46": [
-    "clean",
-    0.27875
-  ],
-  "high_school_geography 50": [
-    "clean",
-    0.375
+    "input-and-label contamination",
+    0.9998779296875
   ],
   "high_school_geography 54": [
-    "clean",
-    0.2630208333333333
-  ],
-  "high_school_geography 58": [
-    "clean",
-    0.11689814814814814
-  ],
-  "high_school_geography 76": [
-    "clean",
-    0.19736842105263158
-  ],
-  "high_school_geography 80": [
-    "clean",
-    0.46875
-  ],
-  "high_school_geography 83": [
-    "clean",
-    0.2884615384615385
-  ],
-  "high_school_geography 102": [
-    "clean",
-    0.21634615384615385
-  ],
-  "high_school_geography 103": [
-    "clean",
-    0.1957894736842105
-  ],
-  "high_school_geography 133": [
-    "clean",
-    0.25473684210526315
-  ],
-  "high_school_geography 149": [
     "input-and-label contamination",
-    0.6388888888888888
+    0.9976851851851852
   ],
-  "high_school_geography 157": [
+  "high_school_geography 62": [
     "clean",
-    0.11616161616161616
+    0.3308823529411765
   ],
-  "high_school_geography 171": [
-    "clean",
-    0.1597222222222222
-  ],
-  "high_school_geography 184": [
-    "clean",
-    0.5377777777777778
-  ],
-  "high_school_geography 190": [
-    "clean",
-    0.3125
-  ],
-  "high_school_geography 192": [
-    "clean",
-    0.5113636363636364
-  ],
-  "econometrics 3": [
-    "clean",
-    0.2373350361856109
-  ],
-  "econometrics 6": [
-    "clean",
-    0.446
-  ],
-  "econometrics 11": [
-    "clean",
-    0.06814814814814815
-  ],
-  "econometrics 20": [
-    "clean",
-    0.1639957264957265
-  ],
-  "econometrics 26": [
-    "input-and-label contamination",
-    0.6490885416666666
-  ],
-  "econometrics 40": [
-    "input contamination",
-    0.7041330645161291
-  ],
-  "econometrics 49": [
-    "clean",
-    0.09465020576131687
-  ],
-  "econometrics 52": [
-    "clean",
-    0.16537649542575653
-  ],
-  "econometrics 62": [
-    "clean",
-    0.05199864498644986
-  ],
-  "econometrics 72": [
-    "clean",
-    0.13722826086956522
-  ],
-  "marketing 2": [
-    "clean",
-    0.26571428571428574
-  ],
-  "marketing 3": [
-    "clean",
-    0.13777777777777778
-  ],
-  "marketing 12": [
-    "clean",
-    0.124
-  ],
-  "marketing 18": [
-    "clean",
-    0.11616161616161616
-  ],
-  "marketing 26": [
-    "clean",
-    0.18566176470588236
-  ],
-  "marketing 29": [
-    "clean",
-    0.3901909722222222
-  ],
-  "marketing 40": [
-    "clean",
-    0.125
-  ],
-  "marketing 43": [
-    "clean",
-    0.12054054054054054
-  ],
-  "marketing 63": [
-    "clean",
-    0.14423076923076925
-  ],
-  "marketing 65": [
-    "clean",
-    0.3680555555555556
-  ],
-  "marketing 67": [
-    "clean",
-    0.10648148148148148
-  ],
-  "marketing 97": [
-    "clean",
-    0.21885995777621392
-  ],
-  "marketing 99": [
-    "clean",
-    0.2
-  ],
-  "marketing 107": [
-    "clean",
-    0.21238095238095236
-  ],
-  "marketing 114": [
-    "clean",
-    0.13271604938271608
-  ],
-  "marketing 119": [
-    "clean",
-    0.3202137998056365
-  ],
-  "marketing 123": [
-    "clean",
-    0.4450892857142857
-  ],
-  "marketing 125": [
-    "clean",
-    0.13450292397660818
-  ],
-  "marketing 132": [
-    "input-and-label contamination",
-    0.7471655328798186
-  ],
-  "marketing 134": [
-    "clean",
-    0.28125
-  ],
-  "marketing 136": [
+  "high_school_geography 77": [
     "clean",
     0.30456349206349204
   ],
-  "marketing 137": [
+  "high_school_geography 80": [
     "clean",
-    0.1419753086419753
+    0.39453125
   ],
-  "marketing 145": [
+  "high_school_geography 83": [
     "clean",
-    0.041666666666666664
+    0.5294396961063628
+  ],
+  "high_school_geography 149": [
+    "input-and-label contamination",
+    0.9375
+  ],
+  "high_school_geography 190": [
+    "input-and-label contamination",
+    0.9997106481481481
+  ],
+  "econometrics 3": [
+    "clean",
+    0.3947923997185081
+  ],
+  "econometrics 11": [
+    "clean",
+    0.321125925925926
+  ],
+  "econometrics 21": [
+    "input contamination",
+    0.8573673469387755
+  ],
+  "econometrics 26": [
+    "input-and-label contamination",
+    0.9007523148148148
+  ],
+  "econometrics 40": [
+    "input contamination",
+    0.8510174668978744
+  ],
+  "econometrics 49": [
+    "clean",
+    0.5649840136292562
+  ],
+  "econometrics 57": [
+    "clean",
+    0.3271604938271605
+  ],
+  "econometrics 58": [
+    "input-and-label contamination",
+    0.9854346836595357
+  ],
+  "econometrics 62": [
+    "clean",
+    0.3193834688346883
+  ],
+  "econometrics 72": [
+    "input-and-label contamination",
+    0.997369935070272
+  ],
+  "marketing 2": [
+    "clean",
+    0.5563616071428571
+  ],
+  "marketing 18": [
+    "clean",
+    0.24183238636363638
+  ],
+  "marketing 25": [
+    "input-and-label contamination",
+    0.943675509419454
+  ],
+  "marketing 43": [
+    "clean",
+    0.13813813813813813
+  ],
+  "marketing 61": [
+    "input-and-label contamination",
+    0.9203250547845143
+  ],
+  "marketing 67": [
+    "clean",
+    0.17766203703703703
+  ],
+  "marketing 89": [
+    "input-and-label contamination",
+    0.9905185185185185
+  ],
+  "marketing 97": [
+    "clean",
+    0.30758620689655175
+  ],
+  "marketing 99": [
+    "clean",
+    0.2289795918367347
+  ],
+  "marketing 102": [
+    "input-and-label contamination",
+    0.9934866680236109
+  ],
+  "marketing 107": [
+    "input-and-label contamination",
+    0.8565549676660787
+  ],
+  "marketing 114": [
+    "input contamination",
+    0.9318114217727542
+  ],
+  "marketing 123": [
+    "clean",
+    0.5991253644314868
+  ],
+  "marketing 132": [
+    "input-and-label contamination",
+    0.943675509419454
+  ],
+  "marketing 134": [
+    "clean",
+    0.21319444444444444
   ],
   "marketing 150": [
-    "clean",
-    0.280016447368421
+    "input-and-label contamination",
+    0.7894736842105263
   ],
-  "marketing 163": [
+  "marketing 164": [
     "clean",
-    0.09126984126984126
-  ],
-  "marketing 167": [
-    "clean",
-    0.1308108108108108
+    0.16611842105263158
   ],
   "marketing 172": [
     "input-and-label contamination",
@@ -2361,511 +1549,311 @@
   ],
   "marketing 176": [
     "clean",
-    0.3125
+    0.21296296296296297
   ],
-  "marketing 179": [
-    "clean",
-    0.25862068965517243
+  "marketing 183": [
+    "input-and-label contamination",
+    0.9995680812007343
   ],
   "marketing 186": [
     "clean",
-    0.4048656499636892
-  ],
-  "marketing 190": [
-    "clean",
-    0.3164767331433998
-  ],
-  "high_school_chemistry 5": [
-    "clean",
-    0.21153089334907516
+    0.336734693877551
   ],
   "high_school_chemistry 17": [
-    "clean",
-    0.14423076923076925
+    "input contamination",
+    0.9228098290598291
   ],
-  "high_school_chemistry 47": [
+  "high_school_chemistry 37": [
     "input-and-label contamination",
-    0.7687074829931974
+    0.9219047619047618
+  ],
+  "high_school_chemistry 51": [
+    "clean",
+    0.2759538598047915
+  ],
+  "high_school_chemistry 65": [
+    "clean",
+    0.3793845663265306
   ],
   "high_school_chemistry 81": [
     "clean",
-    0.28527154663518295
+    0.40889212827988336
   ],
   "high_school_chemistry 83": [
-    "clean",
-    0.31562500000000004
+    "input contamination",
+    0.8950617283950617
   ],
-  "high_school_chemistry 87": [
+  "high_school_chemistry 100": [
     "input-and-label contamination",
-    0.7052154195011338
+    0.8790711814261358
   ],
-  "high_school_chemistry 99": [
-    "input-and-label contamination",
-    0.9847412109375
-  ],
-  "high_school_chemistry 105": [
+  "high_school_chemistry 127": [
     "clean",
-    0.17624521072796934
-  ],
-  "high_school_chemistry 112": [
-    "clean",
-    0.11051378265261942
+    0.4077124183006535
   ],
   "high_school_chemistry 144": [
-    "clean",
-    0.49536306737227764
+    "input contamination",
+    0.7111822354681517
   ],
   "high_school_chemistry 148": [
     "clean",
-    0.078125
-  ],
-  "high_school_chemistry 150": [
-    "clean",
-    0.24278846153846156
-  ],
-  "high_school_chemistry 153": [
-    "clean",
-    0.13095238095238096
-  ],
-  "high_school_chemistry 156": [
-    "clean",
-    0.14027777777777778
-  ],
-  "high_school_chemistry 169": [
-    "clean",
-    0.1970486111111111
-  ],
-  "high_school_chemistry 180": [
-    "clean",
-    0.2664399092970522
-  ],
-  "high_school_chemistry 184": [
-    "clean",
-    0.42592592592592593
-  ],
-  "high_school_chemistry 193": [
-    "clean",
-    0.19736842105263158
+    0.673828125
   ],
   "high_school_chemistry 198": [
     "clean",
-    0.42063492063492064
-  ],
-  "high_school_chemistry 202": [
-    "clean",
-    0.11446153846153846
+    0.40178571428571425
   ],
   "prehistory 1": [
     "clean",
-    0.5262573964497042
+    0.4503761574074074
   ],
   "prehistory 6": [
     "clean",
-    0.21238095238095236
+    0.17857142857142858
   ],
-  "prehistory 8": [
+  "prehistory 18": [
     "clean",
-    0.14379222972972974
-  ],
-  "prehistory 16": [
-    "clean",
-    0.15497076023391812
-  ],
-  "prehistory 26": [
-    "clean",
-    0.125
+    0.21319444444444444
   ],
   "prehistory 29": [
-    "clean",
-    0.12625
+    "input-and-label contamination",
+    0.9597222222222221
   ],
   "prehistory 33": [
-    "clean",
-    0.1703703703703704
-  ],
-  "prehistory 40": [
-    "clean",
-    0.4131433823529412
-  ],
-  "prehistory 44": [
-    "clean",
-    0.29444444444444445
+    "input-and-label contamination",
+    0.9241481481481482
   ],
   "prehistory 72": [
-    "clean",
-    0.1683673469387755
+    "input-and-label contamination",
+    0.9999872786484836
   ],
   "prehistory 84": [
     "clean",
-    0.16358024691358025
-  ],
-  "prehistory 87": [
-    "clean",
-    0.346865889212828
-  ],
-  "prehistory 89": [
-    "clean",
-    0.2697845804988662
-  ],
-  "prehistory 109": [
-    "clean",
-    0.39473684210526316
+    0.3735827664399093
   ],
   "prehistory 126": [
     "clean",
-    0.11220760233918128
-  ],
-  "prehistory 133": [
-    "clean",
-    0.155
-  ],
-  "prehistory 152": [
-    "clean",
-    0.18566176470588236
+    0.09868421052631579
   ],
   "prehistory 169": [
-    "clean",
-    0.248
+    "input-and-label contamination",
+    0.996
   ],
   "prehistory 170": [
-    "clean",
-    0.17889030612244897
+    "input-and-label contamination",
+    0.811875924556213
   ],
   "prehistory 182": [
-    "clean",
-    0.1617391304347826
-  ],
-  "prehistory 197": [
-    "clean",
-    0.1548821548821549
+    "input-and-label contamination",
+    0.9536471433704636
   ],
   "prehistory 203": [
-    "clean",
-    0.3291358024691358
-  ],
-  "prehistory 206": [
     "input-and-label contamination",
-    0.715561224489796
+    0.8588429752066116
   ],
   "prehistory 219": [
     "clean",
-    0.19777911164465786
+    0.22549019607843138
   ],
   "prehistory 227": [
-    "clean",
-    0.19736842105263158
-  ],
-  "prehistory 241": [
-    "input contamination",
-    0.5736625514403292
-  ],
-  "prehistory 243": [
-    "clean",
-    0.06666666666666667
-  ],
-  "prehistory 254": [
-    "clean",
-    0.37230769230769234
-  ],
-  "prehistory 257": [
-    "clean",
-    0.21296296296296297
-  ],
-  "prehistory 259": [
-    "clean",
-    0.33444940476190477
+    "input-and-label contamination",
+    0.9908878845312727
   ],
   "prehistory 278": [
-    "clean",
-    0.06818181818181818
+    "input-and-label contamination",
+    0.9999530428249437
   ],
-  "prehistory 298": [
+  "prehistory 322": [
     "clean",
-    0.11616161616161616
+    0.19444444444444445
   ],
-  "prehistory 313": [
-    "clean",
-    0.18566176470588236
+  "college_physics 1": [
+    "input-and-label contamination",
+    0.8471470220741357
   ],
   "college_physics 3": [
     "clean",
-    0.25555555555555554
+    0.242
   ],
-  "college_physics 5": [
-    "clean",
-    0.27013221153846156
+  "college_physics 29": [
+    "input-and-label contamination",
+    0.954564351770586
   ],
-  "college_physics 6": [
-    "input contamination",
-    0.8879936890567208
-  ],
-  "college_physics 8": [
-    "clean",
-    0.2884615384615385
+  "college_physics 34": [
+    "input-and-label contamination",
+    0.9112861570247933
   ],
   "college_physics 44": [
     "input-and-label contamination",
-    0.9320240930102255
+    0.9554178339097819
   ],
-  "college_physics 54": [
-    "clean",
-    0.19076923076923075
+  "college_physics 56": [
+    "input contamination",
+    0.9156614207475657
   ],
-  "college_physics 57": [
-    "clean",
-    0.23232323232323232
-  ],
-  "college_physics 66": [
-    "clean",
-    0.10714285714285714
-  ],
-  "college_physics 83": [
-    "clean",
-    0.17337202655762216
+  "college_physics 93": [
+    "input-and-label contamination",
+    0.94536377084454
   ],
   "college_physics 98": [
-    "clean",
-    0.18736625514403293
+    "input contamination",
+    0.9443483275663207
   ],
-  "management 19": [
-    "clean",
-    0.2630208333333333
-  ],
-  "management 24": [
+  "management 10": [
     "input-and-label contamination",
     0.9997724169321802
   ],
+  "management 25": [
+    "input-and-label contamination",
+    0.9995
+  ],
   "management 26": [
     "clean",
-    0.39687500000000003
+    0.5111111111111111
   ],
-  "management 36": [
+  "management 54": [
     "clean",
-    0.0625
+    0.1703703703703704
   ],
   "management 55": [
     "input-and-label contamination",
-    0.9152741020793951
-  ],
-  "management 64": [
-    "clean",
-    0.23232323232323232
-  ],
-  "management 65": [
-    "clean",
-    0.17857142857142855
+    0.999136
   ],
   "management 71": [
     "clean",
-    0.29733333333333334
+    0.6453333333333333
   ],
   "management 87": [
-    "clean",
-    0.2839506172839506
-  ],
-  "management 89": [
-    "clean",
-    0.11029411764705882
-  ],
-  "management 94": [
-    "clean",
-    0.37166666666666665
+    "input contamination",
+    0.8753255208333333
   ],
   "management 97": [
-    "clean",
-    0.1962962962962963
+    "input-and-label contamination",
+    0.9988148148148148
   ],
   "college_biology 5": [
     "clean",
-    0.05000000000000001
+    0.06666666666666667
   ],
-  "college_biology 19": [
+  "college_biology 38": [
     "clean",
-    0.07142857142857142
-  ],
-  "college_biology 49": [
-    "clean",
-    0.16185897435897437
-  ],
-  "college_biology 59": [
-    "clean",
-    0.13151041666666666
-  ],
-  "college_biology 67": [
-    "clean",
-    0.27875
+    0.23979591836734693
   ],
   "college_biology 68": [
     "clean",
-    0.3430769230769231
+    0.4326923076923077
   ],
   "college_biology 77": [
     "clean",
     0.3506944444444444
   ],
-  "college_biology 78": [
-    "clean",
-    0.15470704410796576
-  ],
-  "college_biology 79": [
-    "clean",
-    0.11615065586419751
-  ],
   "college_biology 84": [
     "clean",
-    0.3506944444444444
-  ],
-  "college_biology 91": [
-    "clean",
-    0.2903831705484598
-  ],
-  "college_biology 96": [
-    "clean",
-    0.14212962962962963
-  ],
-  "college_biology 123": [
-    "clean",
-    0.11538461538461538
-  ],
-  "college_biology 124": [
-    "clean",
-    0.4409722222222222
+    0.4955555555555556
   ],
   "college_biology 127": [
     "clean",
-    0.260204081632653
+    0.35404829545454547
   ],
   "college_biology 129": [
     "clean",
-    0.11616161616161616
-  ],
-  "college_biology 130": [
-    "clean",
-    0.5325146198830409
+    0.21799628942486085
   ],
   "college_biology 135": [
     "clean",
-    0
+    0.009615384615384616
+  ],
+  "high_school_biology 3": [
+    "input-and-label contamination",
+    0.983616
   ],
   "high_school_biology 9": [
     "input contamination",
-    0.744140625
-  ],
-  "high_school_biology 13": [
-    "clean",
-    0.26785714285714285
+    0.7441406249999999
   ],
   "high_school_biology 14": [
     "clean",
-    0.2205882352941176
+    0.2623529411764706
   ],
   "high_school_biology 24": [
     "clean",
-    0.1965811965811966
+    0.599158653846154
   ],
   "high_school_biology 29": [
-    "clean",
-    0.15781250000000002
+    "input-and-label contamination",
+    0.9999375
   ],
   "high_school_biology 31": [
     "clean",
-    0.34090909090909094
-  ],
-  "high_school_biology 39": [
-    "clean",
-    0.20166666666666666
-  ],
-  "high_school_biology 45": [
-    "clean",
-    0.11272727272727273
+    0.40545454545454546
   ],
   "high_school_biology 47": [
-    "clean",
-    0.07340116279069768
+    "input-and-label contamination",
+    0.9999937112455507
   ],
-  "high_school_biology 65": [
+  "high_school_biology 52": [
     "clean",
-    0.23249999999999998
-  ],
-  "high_school_biology 69": [
-    "clean",
-    0.11844135802469136
+    0.5724489795918367
   ],
   "high_school_biology 70": [
-    "clean",
-    0.16518518518518518
-  ],
-  "high_school_biology 78": [
-    "clean",
-    0.2549154092363969
+    "input-and-label contamination",
+    0.9999745973682873
   ],
   "high_school_biology 84": [
-    "clean",
-    0.34090909090909094
+    "input-and-label contamination",
+    0.9996243425995492
   ],
-  "high_school_biology 86": [
-    "clean",
-    0.2759538598047915
-  ],
-  "high_school_biology 99": [
-    "clean",
-    0.223
+  "high_school_biology 112": [
+    "input contamination",
+    0.7263247759009696
   ],
   "high_school_biology 122": [
     "clean",
-    0.041666666666666664
+    0.3190335305719921
   ],
-  "high_school_biology 141": [
+  "high_school_biology 126": [
     "clean",
-    0.1857582164136075
+    0.2630208333333333
   ],
-  "high_school_biology 142": [
-    "clean",
-    0.18566176470588236
-  ],
-  "high_school_biology 145": [
-    "clean",
-    0.13151041666666666
+  "high_school_biology 144": [
+    "input contamination",
+    0.7161032990805841
   ],
   "high_school_biology 155": [
+    "clean",
+    0.5111111111111111
+  ],
+  "high_school_biology 162": [
     "input-and-label contamination",
-    0.6312500000000001
+    0.9086363636363637
   ],
-  "high_school_biology 157": [
-    "clean",
-    0.07317073170731707
+  "high_school_biology 167": [
+    "input-and-label contamination",
+    0.9997724169321802
   ],
-  "high_school_biology 168": [
-    "clean",
-    0.14387096774193547
+  "high_school_biology 169": [
+    "input-and-label contamination",
+    0.8950617283950617
   ],
-  "high_school_biology 183": [
-    "clean",
-    0.15228174603174602
+  "high_school_biology 181": [
+    "input-and-label contamination",
+    0.9999794989544467
+  ],
+  "high_school_biology 184": [
+    "input contamination",
+    0.9016175087927012
   ],
   "high_school_biology 190": [
-    "clean",
-    0.18566176470588236
+    "input-and-label contamination",
+    0.9996565235090576
   ],
-  "high_school_biology 201": [
-    "clean",
-    0.11845730027548208
-  ],
-  "high_school_biology 207": [
-    "clean",
-    0.18253968253968253
+  "high_school_biology 227": [
+    "input-and-label contamination",
+    0.9921875
   ],
   "high_school_biology 229": [
     "clean",
-    0.109375
-  ],
-  "high_school_biology 233": [
-    "clean",
-    0.13229166666666667
-  ],
-  "high_school_biology 235": [
-    "clean",
-    0.08571428571428572
+    0.166259765625
   ],
   "high_school_biology 239": [
     "clean",
@@ -2873,491 +1861,279 @@
   ],
   "high_school_biology 249": [
     "clean",
-    0.0661764705882353
+    0.09345588235294117
   ],
-  "high_school_biology 251": [
+  "high_school_biology 261": [
     "clean",
-    0.10810810810810811
+    0.28527154663518295
   ],
-  "high_school_biology 258": [
+  "high_school_biology 264": [
     "clean",
-    0.07514880952380952
+    0.11012645107794361
   ],
-  "high_school_biology 282": [
-    "clean",
-    0.40178571428571425
-  ],
-  "high_school_biology 283": [
+  "high_school_physics 45": [
     "input contamination",
-    0.9374948559670782
-  ],
-  "high_school_biology 284": [
-    "clean",
-    0.2842592592592593
-  ],
-  "high_school_biology 288": [
-    "input contamination",
-    0.7288119813802875
-  ],
-  "high_school_biology 296": [
-    "clean",
-    0.4873529411764706
-  ],
-  "high_school_biology 309": [
-    "clean",
-    0.21909927679158445
-  ],
-  "high_school_physics 4": [
-    "clean",
-    0.20492694119067745
-  ],
-  "high_school_physics 14": [
-    "clean",
-    0.21317767471613627
-  ],
-  "high_school_physics 46": [
-    "input-and-label contamination",
-    0.6992450142450143
+    0.8629264372854116
   ],
   "high_school_physics 60": [
-    "clean",
-    0.20799457994579945
-  ],
-  "high_school_physics 64": [
-    "clean",
-    0.08243727598566308
-  ],
-  "high_school_physics 73": [
-    "clean",
-    0.3068518518518518
+    "input-and-label contamination",
+    0.997511643766051
   ],
   "high_school_physics 77": [
-    "clean",
-    0.20408163265306123
+    "input-and-label contamination",
+    0.8838044847568657
   ],
-  "high_school_physics 84": [
-    "clean",
-    0.33849173553719014
-  ],
-  "high_school_physics 91": [
-    "input contamination",
-    0.6146384479717814
-  ],
-  "high_school_physics 119": [
-    "clean",
-    0.3231686274509804
-  ],
-  "high_school_physics 124": [
-    "clean",
-    0.28425925925925927
-  ],
-  "high_school_physics 126": [
-    "clean",
-    0.34171660055700903
-  ],
-  "high_school_physics 134": [
-    "clean",
-    0.25591216216216217
+  "high_school_physics 102": [
+    "input-and-label contamination",
+    0.9902423759672281
   ],
   "high_school_physics 138": [
     "clean",
-    0.17740885416666669
-  ],
-  "high_school_physics 142": [
-    "clean",
-    0.07748538011695906
-  ],
-  "high_school_physics 143": [
-    "clean",
-    0.22306597057427624
-  ],
-  "logical_fallacies 2": [
-    "clean",
-    0.09090909090909091
-  ],
-  "logical_fallacies 3": [
-    "clean",
-    0.19183673469387758
-  ],
-  "logical_fallacies 5": [
-    "clean",
-    0.39400565989194747
-  ],
-  "logical_fallacies 33": [
-    "clean",
-    0.3765909090909091
+    0.2420485850237916
   ],
   "logical_fallacies 39": [
     "clean",
-    0.12625
+    0.14880000000000002
   ],
-  "logical_fallacies 67": [
+  "logical_fallacies 63": [
     "clean",
-    0.078125
+    0.186
   ],
   "logical_fallacies 73": [
-    "input-and-label contamination",
-    0.8618482758620689
-  ],
-  "logical_fallacies 78": [
-    "clean",
-    0.125
+    "input contamination",
+    0.7890293983443062
   ],
   "logical_fallacies 93": [
     "clean",
-    0.26785714285714285
-  ],
-  "logical_fallacies 97": [
-    "clean",
-    0.14307692307692307
-  ],
-  "logical_fallacies 110": [
-    "clean",
-    0.1311764705882353
-  ],
-  "logical_fallacies 127": [
-    "clean",
-    0.1
+    0.5563616071428571
   ],
   "logical_fallacies 130": [
     "clean",
     0.10883620689655173
   ],
-  "logical_fallacies 138": [
-    "clean",
-    0.17766203703703703
-  ],
-  "logical_fallacies 139": [
-    "clean",
-    0.19077134986225897
-  ],
   "logical_fallacies 144": [
     "clean",
-    0.2795918367346939
+    0.10222222222222221
   ],
   "logical_fallacies 145": [
     "clean",
-    0.1453308596165739
+    0.09090909090909091
   ],
-  "logical_fallacies 154": [
+  "logical_fallacies 148": [
     "clean",
-    0.12961941533370105
-  ],
-  "logical_fallacies 158": [
-    "clean",
-    0.021739130434782608
-  ],
-  "logical_fallacies 159": [
-    "clean",
-    0.27013221153846156
-  ],
-  "logical_fallacies 160": [
-    "clean",
-    0.17045454545454547
+    0.12377450980392157
   ],
   "logical_fallacies 161": [
     "clean",
-    0.125
+    0.21156462585034014
   ],
-  "medical_genetics 9": [
+  "medical_genetics 39": [
     "clean",
-    0.3194444444444444
-  ],
-  "medical_genetics 51": [
-    "clean",
-    0.10628571428571428
+    0.3966836734693877
   ],
   "medical_genetics 63": [
     "clean",
     0.06666666666666667
   ],
-  "medical_genetics 70": [
+  "medical_genetics 65": [
     "input-and-label contamination",
-    0.5724489795918367
-  ],
-  "medical_genetics 73": [
-    "clean",
-    0.5329861111111112
+    0.9224489795918368
   ],
   "medical_genetics 89": [
     "clean",
     0.4791666666666667
   ],
-  "medical_genetics 90": [
-    "clean",
-    0.38163265306122446
-  ],
   "medical_genetics 95": [
     "clean",
-    0.40545454545454546
+    0.5353535353535354
+  ],
+  "medical_genetics 96": [
+    "clean",
+    0.5402644230769232
   ],
   "machine_learning 2": [
     "clean",
-    0.11479591836734694
+    0.3816496127536888
   ],
-  "machine_learning 6": [
-    "clean",
-    0.2517258382642998
-  ],
-  "machine_learning 10": [
-    "clean",
-    0.17996273712737126
-  ],
-  "machine_learning 37": [
-    "clean",
-    0.10231370192307693
-  ],
-  "machine_learning 44": [
-    "input contamination",
-    0.8627717391304348
-  ],
-  "machine_learning 46": [
-    "clean",
-    0.18667466986794717
-  ],
-  "machine_learning 53": [
-    "clean",
-    0.2847058823529412
-  ],
-  "machine_learning 57": [
-    "clean",
-    0.13793103448275862
-  ],
-  "machine_learning 100": [
+  "machine_learning 9": [
     "input-and-label contamination",
-    0.7433333333333335
+    0.9994168246100015
+  ],
+  "machine_learning 16": [
+    "clean",
+    0.6471717171717171
+  ],
+  "machine_learning 17": [
+    "input-and-label contamination",
+    0.9013255180031713
+  ],
+  "machine_learning 38": [
+    "input-and-label contamination",
+    0.9259259259259258
+  ],
+  "machine_learning 99": [
+    "input-and-label contamination",
+    0.7817752354018703
   ],
   "machine_learning 106": [
     "clean",
-    0.08408003479773814
+    0.09370760233918128
   ],
   "professional_law_1 1": [
     "clean",
-    0.029914529914529916
+    0.03644349477682811
   ],
   "professional_law_1 15": [
     "clean",
-    0.4464285714285714
+    0.46102347428105006
   ],
   "professional_law_1 16": [
     "clean",
-    0.11975356180207931
+    0.5075086638428956
   ],
   "professional_law_1 17": [
     "clean",
-    0.07300354924578527
-  ],
-  "professional_law_1 41": [
-    "clean",
-    0.031881313131313135
-  ],
-  "professional_law_1 69": [
-    "clean",
-    0.13668150031786394
-  ],
-  "professional_law_1 71": [
-    "clean",
-    0.0681457034592348
-  ],
-  "professional_law_1 80": [
-    "clean",
-    0.09252717391304348
-  ],
-  "professional_law_1 102": [
-    "clean",
-    0.06587921626984126
-  ],
-  "professional_law_1 103": [
-    "clean",
-    0.08588820758908734
-  ],
-  "professional_law_1 112": [
-    "clean",
-    0.06992087165465241
-  ],
-  "professional_law_1 127": [
-    "clean",
-    0.1434659090909091
-  ],
-  "professional_law_1 152": [
-    "clean",
-    0.09017478813559322
-  ],
-  "professional_law_1 167": [
-    "clean",
-    0.2289795918367347
+    0.05489130434782609
   ],
   "professional_law_1 184": [
     "clean",
-    0.03571428571428571
+    0.05633981403212172
   ],
-  "professional_law_1 200": [
+  "professional_law_1 191": [
     "clean",
-    0.13722826086956522
+    0.34099484964440324
   ],
   "professional_law_1 203": [
     "clean",
-    0.03937007874015748
+    0.3558677685950413
   ],
-  "professional_law_1 205": [
+  "professional_law_1 249": [
     "clean",
-    0
+    0.2036290322580645
   ],
-  "professional_law_1 207": [
+  "professional_law_1 252": [
     "clean",
-    0.0780896686159844
+    0.06090899158745766
   ],
-  "professional_law_1 213": [
+  "professional_law_1 255": [
     "clean",
-    0.4858564365730021
-  ],
-  "professional_law_1 217": [
-    "clean",
-    0.03331163194444445
-  ],
-  "professional_law_1 221": [
-    "clean",
-    0.08424908424908424
-  ],
-  "professional_law_1 261": [
-    "clean",
-    0.06241392956074398
-  ],
-  "professional_law_1 264": [
-    "clean",
-    0.0649312834847426
+    0.04611545138888889
   ],
   "professional_law_1 281": [
     "clean",
     0.03605769230769231
   ],
-  "professional_law_1 331": [
-    "clean",
-    0.013043478260869565
-  ],
   "professional_law_1 346": [
     "clean",
-    0.061887254901960786
+    0.09844529527787445
   ],
   "professional_law_1 361": [
     "clean",
-    0.04201083577582379
+    0.038275629496402876
   ],
   "professional_law_1 363": [
     "clean",
-    0.10699152542372882
-  ],
-  "professional_law_1 365": [
-    "clean",
-    0.32536963030585475
-  ],
-  "professional_law_1 366": [
-    "clean",
-    0
+    0.07559322033898305
   ],
   "professional_law_1 373": [
-    "clean",
-    0.15200892857142856
+    "input-and-label contamination",
+    0.9112723214285714
   ],
   "professional_law_1 384": [
     "clean",
-    0.04761904761904761
+    0.5649298941798941
   ],
-  "professional_law_1 386": [
+  "professional_law_1 401": [
     "clean",
-    0.03757225433526012
+    0.01692420897718911
   ],
-  "professional_law_1 419": [
-    "clean",
-    0.049957482993197286
+  "professional_law_1 441": [
+    "input contamination",
+    0.7016765285996055
   ],
-  "professional_law_1 517": [
+  "professional_law_1 443": [
     "clean",
-    0
+    0.04319351317636052
   ],
   "professional_law_1 519": [
     "clean",
-    0.04357840427492169
+    0.1073713067316479
   ],
   "professional_law_1 530": [
     "clean",
-    0.019736842105263157
+    0.03618421052631579
   ],
-  "professional_law_1 546": [
+  "professional_law_1 551": [
     "clean",
-    0.051094890510948905
+    0.06861413043478261
   ],
-  "professional_law_1 549": [
+  "professional_law_1 574": [
     "clean",
-    0.05555555555555555
+    0.10529150616961545
   ],
   "professional_law_1 600": [
     "clean",
-    0.0730541804180418
-  ],
-  "professional_law_1 603": [
-    "clean",
-    0.04616524028966424
+    0.10535272277227722
   ],
   "professional_law_1 604": [
     "clean",
-    0.05992486066878981
+    0.053473937345638885
+  ],
+  "professional_law_1 639": [
+    "clean",
+    0.09433042880073376
   ],
   "professional_law_1 645": [
     "clean",
     0.33900650157060414
   ],
-  "professional_law_1 683": [
+  "professional_law_1 688": [
     "clean",
-    0.10173183058087162
+    0.31340657487948276
   ],
-  "professional_law_1 738": [
+  "professional_law_1 713": [
     "clean",
-    0.2925998359724939
+    0.4427527883960831
   ],
-  "professional_law_1 740": [
-    "clean",
-    0.3421468331578155
-  ],
-  "professional_law_1 765": [
-    "clean",
-    0.03982300884955752
-  ],
-  "professional_psychology 12": [
-    "clean",
-    0.17128279883381925
-  ],
-  "professional_psychology 16": [
-    "clean",
-    0.11702127659574468
-  ],
-  "professional_psychology 22": [
-    "clean",
-    0.058333333333333334
-  ],
-  "professional_psychology 25": [
-    "clean",
-    0.1
-  ],
-  "professional_psychology 54": [
-    "clean",
-    0.09538461538461537
-  ],
-  "professional_psychology 92": [
-    "clean",
-    0.37440968122786306
-  ],
-  "professional_psychology 104": [
-    "clean",
-    0.223
-  ],
-  "professional_psychology 107": [
+  "professional_law_1 744": [
     "clean",
     0
   ],
-  "professional_psychology 111": [
+  "professional_law_1 765": [
     "clean",
-    0.186
+    0.40483316317316165
+  ],
+  "professional_psychology 12": [
+    "clean",
+    0.3154761904761906
+  ],
+  "professional_psychology 22": [
+    "clean",
+    0.09540816326530611
+  ],
+  "professional_psychology 37": [
+    "clean",
+    0.09090909090909091
+  ],
+  "professional_psychology 54": [
+    "input-and-label contamination",
+    0.9999915709974881
+  ],
+  "professional_psychology 78": [
+    "clean",
+    0.1597222222222222
+  ],
+  "professional_psychology 91": [
+    "clean",
+    0.6520030737704917
+  ],
+  "professional_psychology 104": [
+    "clean",
+    0.15781250000000002
+  ],
+  "professional_psychology 111": [
+    "input-and-label contamination",
+    0.9494459833795015
   ],
   "professional_psychology 114": [
     "clean",
@@ -3365,1962 +2141,1222 @@
   ],
   "professional_psychology 125": [
     "clean",
-    0.29760000000000003
+    0.3
   ],
   "professional_psychology 129": [
     "clean",
     0.3173469387755102
   ],
-  "professional_psychology 136": [
+  "professional_psychology 150": [
     "clean",
-    0.3308823529411765
-  ],
-  "professional_psychology 147": [
-    "clean",
-    0.022727272727272728
+    0.551907719609583
   ],
   "professional_psychology 161": [
     "clean",
     0.15901360544217685
   ],
   "professional_psychology 162": [
-    "clean",
-    0.197265625
-  ],
-  "professional_psychology 199": [
-    "clean",
-    0.21153089334907516
-  ],
-  "professional_psychology 200": [
-    "clean",
-    0.10648148148148148
+    "input-and-label contamination",
+    0.864795918367347
   ],
   "professional_psychology 211": [
     "clean",
     0.3716666666666667
   ],
-  "professional_psychology 232": [
-    "clean",
-    0.19658119658119658
-  ],
-  "professional_psychology 237": [
-    "clean",
-    0.15217391304347827
-  ],
   "professional_psychology 240": [
     "clean",
-    0.15638348362600857
+    0.1476032273374466
   ],
-  "professional_psychology 245": [
+  "professional_psychology 246": [
     "clean",
-    0.21882352941176472
+    0.33622448979591835
   ],
-  "professional_psychology 253": [
+  "professional_psychology 265": [
     "clean",
-    0.06906906906906907
-  ],
-  "professional_psychology 260": [
-    "clean",
-    0.3506944444444444
+    0.43557475582268973
   ],
   "professional_psychology 282": [
-    "clean",
-    0.2222222222222222
-  ],
-  "professional_psychology 283": [
-    "clean",
-    0.1453308596165739
-  ],
-  "professional_psychology 310": [
-    "clean",
-    0.13755370025127664
-  ],
-  "professional_psychology 312": [
-    "clean",
-    0.08196721311475409
+    "input-and-label contamination",
+    0.8660869565217391
   ],
   "professional_psychology 346": [
     "clean",
-    0.23505669805881224
+    0.13953488372093023
   ],
   "professional_psychology 350": [
-    "input-and-label contamination",
-    0.5769675925925926
+    "clean",
+    0.4240362811791383
+  ],
+  "professional_psychology 359": [
+    "clean",
+    0.40350877192982454
   ],
   "professional_psychology 360": [
     "clean",
-    0.3955582232893157
+    0.2847058823529412
   ],
-  "professional_psychology 369": [
+  "professional_psychology 375": [
     "clean",
-    0.12777777777777777
+    0.3381818181818182
   ],
   "professional_psychology 377": [
     "clean",
-    0.22544642857142855
+    0.49416909620991256
   ],
-  "professional_psychology 390": [
+  "professional_psychology 387": [
     "clean",
-    0.16518518518518518
+    0.3245442708333333
   ],
-  "professional_psychology 403": [
+  "professional_psychology 411": [
     "clean",
-    0.13636363636363635
-  ],
-  "professional_psychology 412": [
-    "clean",
-    0.17714285714285713
-  ],
-  "professional_psychology 434": [
-    "clean",
-    0.3925925925925926
+    0.1950954861111111
   ],
   "professional_psychology 441": [
     "clean",
-    0.390625
+    0.3125
   ],
-  "professional_psychology 452": [
-    "clean",
-    0.11538461538461539
+  "professional_psychology 450": [
+    "input contamination",
+    0.7707674619143432
   ],
-  "professional_psychology 507": [
+  "professional_psychology 463": [
     "clean",
-    0.20756773590781682
+    0.36507936507936506
   ],
   "professional_psychology 509": [
     "clean",
-    0.45335276967930027
-  ],
-  "professional_psychology 531": [
-    "clean",
-    0.22837706511175898
-  ],
-  "professional_psychology 532": [
-    "clean",
-    0.1102941176470588
-  ],
-  "professional_psychology 536": [
-    "clean",
-    0.3840579710144928
+    0.22544642857142855
   ],
   "professional_psychology 538": [
     "clean",
-    0.443359375
+    0.3716666666666667
+  ],
+  "professional_psychology 551": [
+    "clean",
+    0.1598639455782313
   ],
   "professional_psychology 556": [
+    "input-and-label contamination",
+    0.7982731554160126
+  ],
+  "professional_psychology 571": [
     "clean",
-    0.3430769230769231
+    0.010638297872340425
+  ],
+  "professional_psychology 575": [
+    "clean",
+    0.260204081632653
+  ],
+  "professional_psychology 583": [
+    "clean",
+    0.155
   ],
   "professional_psychology 591": [
     "clean",
     0.1419753086419753
   ],
-  "professional_psychology 596": [
-    "clean",
-    0.07018867924528302
-  ],
   "professional_psychology 608": [
     "clean",
-    0.26785714285714285
+    0.6146384479717814
   ],
-  "global_facts 1": [
+  "global_facts 15": [
     "clean",
-    0.29236912156166817
+    0.5694117647058824
   ],
   "global_facts 17": [
     "clean",
-    0.48822605965463106
+    0.5991586538461539
   ],
   "global_facts 18": [
     "clean",
-    0.29236912156166817
+    0.3577563070316694
   ],
   "global_facts 38": [
     "clean",
-    0.24889086069210292
-  ],
-  "global_facts 41": [
-    "clean",
-    0.155
-  ],
-  "global_facts 42": [
-    "clean",
-    0.2884615384615385
-  ],
-  "us_foreign_policy 3": [
-    "input-and-label contamination",
-    0.7170781893004115
-  ],
-  "us_foreign_policy 8": [
-    "clean",
-    0.27763429752066116
-  ],
-  "us_foreign_policy 9": [
-    "input-and-label contamination",
-    0.6818181818181819
+    0.2560386473429952
   ],
   "us_foreign_policy 45": [
     "clean",
     0.2630208333333333
   ],
+  "us_foreign_policy 58": [
+    "clean",
+    0.1111111111111111
+  ],
+  "us_foreign_policy 63": [
+    "clean",
+    0.19391304347826085
+  ],
   "us_foreign_policy 66": [
     "clean",
-    0.25
+    0.21041666666666667
   ],
   "us_foreign_policy 68": [
-    "clean",
-    0.15928571428571428
-  ],
-  "us_foreign_policy 72": [
-    "clean",
-    0.3265086206896552
-  ],
-  "us_foreign_policy 74": [
-    "clean",
-    0.3348214285714286
-  ],
-  "us_foreign_policy 82": [
-    "clean",
-    0.1703703703703704
-  ],
-  "us_foreign_policy 83": [
-    "clean",
-    0.197265625
+    "input-and-label contamination",
+    0.9950801749271136
   ],
   "us_foreign_policy 87": [
-    "clean",
-    0.24581128747795417
+    "input contamination",
+    0.8568948412698412
   ],
   "us_foreign_policy 93": [
     "clean",
-    0.2220230983671844
+    0.12
   ],
   "us_foreign_policy 96": [
     "clean",
-    0.125
+    0.234375
   ],
   "professional_law_0 33": [
     "clean",
-    0.36088231636988855
+    0.3618471258452091
   ],
-  "professional_law_0 45": [
+  "professional_law_0 90": [
     "clean",
-    0.2959951339002591
+    0.04526748971193416
   ],
-  "professional_law_0 103": [
+  "professional_law_0 139": [
     "clean",
-    0.02619718309859155
-  ],
-  "professional_law_0 110": [
-    "clean",
-    0.13052631578947368
+    0.4749742452745677
   ],
   "professional_law_0 140": [
     "clean",
-    0.3901909722222222
+    0.3506944444444444
   ],
   "professional_law_0 142": [
     "clean",
-    0.08682177506288177
+    0.585503054257995
   ],
   "professional_law_0 146": [
     "clean",
     0.06343283582089553
   ],
-  "professional_law_0 157": [
-    "clean",
-    0.06228465412138882
-  ],
   "professional_law_0 160": [
     "clean",
-    0.06644736842105263
-  ],
-  "professional_law_0 186": [
-    "clean",
-    0.05260816371927484
-  ],
-  "professional_law_0 191": [
-    "clean",
-    0.03571428571428571
+    0.5865118318505212
   ],
   "professional_law_0 197": [
     "clean",
-    0
-  ],
-  "professional_law_0 212": [
-    "clean",
-    0.27666666666666667
-  ],
-  "professional_law_0 216": [
-    "clean",
-    0.05921052631578947
-  ],
-  "professional_law_0 224": [
-    "clean",
-    0.04650483817150484
-  ],
-  "professional_law_0 306": [
-    "clean",
-    0.02403846153846154
-  ],
-  "professional_law_0 344": [
-    "clean",
-    0.044444444444444446
-  ],
-  "professional_law_0 355": [
-    "clean",
-    0.48575966183574876
-  ],
-  "professional_law_0 396": [
-    "clean",
-    0.350887423892785
-  ],
-  "professional_law_0 402": [
-    "clean",
-    0.051094890510948905
+    0.030674846625766874
   ],
   "professional_law_0 431": [
     "clean",
-    0.06521739130434782
+    0.04891304347826087
   ],
-  "professional_law_0 453": [
+  "professional_law_0 464": [
     "clean",
-    0.29233090953860846
-  ],
-  "professional_law_0 463": [
-    "clean",
-    0.02601156069364162
-  ],
-  "professional_law_0 496": [
-    "clean",
-    0.36393835465857627
+    0.06909496753246755
   ],
   "professional_law_0 501": [
     "clean",
-    0.06148760330578513
+    0.4294372574575817
   ],
   "professional_law_0 510": [
     "clean",
-    0.043206471777900345
-  ],
-  "professional_law_0 515": [
-    "clean",
-    0.05
-  ],
-  "professional_law_0 524": [
-    "clean",
-    0.029411764705882353
+    0.08475858671171171
   ],
   "professional_law_0 543": [
     "clean",
     0.28868198449196064
   ],
-  "professional_law_0 547": [
+  "professional_law_0 552": [
     "clean",
-    0.13690476190476195
+    0.09309382334905161
   ],
-  "professional_law_0 550": [
+  "professional_law_0 613": [
     "clean",
-    0.08657504464632347
+    0.07041035887189734
   ],
-  "professional_law_0 561": [
+  "professional_law_0 620": [
     "clean",
-    0.057823129251700675
-  ],
-  "professional_law_0 585": [
-    "clean",
-    0.30322552741215497
-  ],
-  "professional_law_0 622": [
-    "clean",
-    0.04814814814814815
+    0.057179487179487176
   ],
   "professional_law_0 638": [
     "clean",
     0.37276388072786965
   ],
-  "professional_law_0 652": [
-    "clean",
-    0.11083984375
-  ],
-  "professional_law_0 655": [
-    "clean",
-    0.29916503711486636
-  ],
   "professional_law_0 662": [
     "clean",
     0.4192949907235622
   ],
-  "professional_law_0 684": [
+  "professional_law_0 729": [
     "clean",
-    0.10238532110091744
-  ],
-  "professional_law_0 759": [
-    "clean",
-    0.08741034395838586
-  ],
-  "international_law 6": [
-    "clean",
-    0.27875
+    0.5069972826086957
   ],
   "international_law 17": [
-    "clean",
-    0.25083705357142855
-  ],
-  "international_law 20": [
-    "clean",
-    0.1311764705882353
-  ],
-  "international_law 30": [
-    "clean",
-    0.13285714285714287
+    "input-and-label contamination",
+    0.9999772230320699
   ],
   "international_law 31": [
     "clean",
-    0.26725806451612905
+    0.3916227781435154
   ],
   "international_law 37": [
     "clean",
-    0.13636363636363635
-  ],
-  "international_law 43": [
-    "clean",
-    0.13636363636363635
+    0.46464646464646464
   ],
   "international_law 44": [
     "clean",
-    0.1434659090909091
-  ],
-  "international_law 46": [
-    "clean",
-    0.06060606060606061
-  ],
-  "international_law 58": [
-    "clean",
-    0.19726190476190472
-  ],
-  "international_law 79": [
-    "clean",
-    0.2725947521865889
+    0.6354359925788496
   ],
   "international_law 97": [
     "clean",
-    0.1111111111111111
+    0.5925202546296297
   ],
   "international_law 100": [
-    "clean",
-    0.28485395965070764
+    "input-and-label contamination",
+    0.7569098658114608
   ],
   "international_law 101": [
     "clean",
-    0.18829545454545454
+    0.21799628942486085
   ],
-  "international_law 103": [
+  "international_law 120": [
     "clean",
-    0.17175675675675675
-  ],
-  "international_law 117": [
-    "clean",
-    0.44389655928117466
-  ],
-  "international_law 118": [
-    "clean",
-    0.27530864197530863
-  ],
-  "clinical_knowledge 3": [
-    "clean",
-    0.23232323232323232
+    0.6565798733286418
   ],
   "clinical_knowledge 7": [
-    "clean",
-    0.25083705357142855
-  ],
-  "clinical_knowledge 12": [
-    "clean",
-    0.22499999999999998
-  ],
-  "clinical_knowledge 17": [
-    "clean",
-    0.20304232804232802
-  ],
-  "clinical_knowledge 23": [
-    "clean",
-    0.13777777777777778
-  ],
-  "clinical_knowledge 64": [
-    "clean",
-    0.5113636363636364
-  ],
-  "clinical_knowledge 70": [
-    "clean",
-    0.2869318181818182
-  ],
-  "clinical_knowledge 92": [
-    "clean",
-    0.37230769230769234
-  ],
-  "clinical_knowledge 93": [
-    "clean",
-    0.25473684210526315
-  ],
-  "clinical_knowledge 94": [
-    "clean",
-    0.27875
-  ],
-  "clinical_knowledge 98": [
-    "clean",
-    0.3713235294117647
-  ],
-  "clinical_knowledge 100": [
-    "clean",
-    0.35532407407407407
-  ],
-  "clinical_knowledge 102": [
-    "clean",
-    0.15264423076923078
-  ],
-  "clinical_knowledge 107": [
-    "clean",
-    0.197265625
-  ],
-  "clinical_knowledge 130": [
-    "clean",
-    0.375
-  ],
-  "clinical_knowledge 145": [
-    "clean",
-    0.5172684458398744
-  ],
-  "clinical_knowledge 156": [
-    "clean",
-    0.17857142857142855
-  ],
-  "clinical_knowledge 179": [
-    "input-and-label contamination",
-    0.8706951530612245
-  ],
-  "clinical_knowledge 203": [
-    "clean",
-    0.36891679748822603
-  ],
-  "clinical_knowledge 207": [
-    "clean",
-    0.17045454545454547
-  ],
-  "clinical_knowledge 220": [
-    "clean",
-    0.15625
-  ],
-  "clinical_knowledge 228": [
-    "clean",
-    0.22544642857142855
-  ],
-  "clinical_knowledge 236": [
-    "clean",
-    0.5113636363636364
-  ],
-  "clinical_knowledge 238": [
-    "clean",
-    0.34090909090909094
-  ],
-  "clinical_knowledge 242": [
-    "input-and-label contamination",
-    0.8604938271604939
-  ],
-  "high_school_mathematics 2": [
-    "clean",
-    0.171875
-  ],
-  "high_school_mathematics 4": [
-    "clean",
-    0.25821461397058826
-  ],
-  "high_school_mathematics 21": [
-    "clean",
-    0.295837159473523
-  ],
-  "high_school_mathematics 27": [
-    "clean",
-    0.058333333333333334
-  ],
-  "high_school_mathematics 40": [
-    "clean",
-    0.3786008230452675
-  ],
-  "high_school_mathematics 41": [
-    "clean",
-    0.38330578512396696
-  ],
-  "high_school_mathematics 54": [
-    "clean",
-    0.06756756756756757
-  ],
-  "high_school_mathematics 64": [
-    "clean",
-    0.46464646464646464
-  ],
-  "high_school_mathematics 69": [
-    "input contamination",
-    0.8398418190805733
-  ],
-  "high_school_mathematics 75": [
-    "input contamination",
-    0.9722108843537415
-  ],
-  "high_school_mathematics 113": [
-    "clean",
-    0.42133778719243925
-  ],
-  "high_school_mathematics 122": [
-    "input contamination",
-    0.9767375942625112
-  ],
-  "high_school_mathematics 127": [
-    "clean",
-    0.2888636363636363
-  ],
-  "high_school_mathematics 133": [
-    "clean",
-    0.16586520947176683
-  ],
-  "high_school_mathematics 160": [
-    "input contamination",
-    0.7647070350774055
-  ],
-  "high_school_mathematics 163": [
-    "clean",
-    0.22727272727272727
-  ],
-  "high_school_mathematics 186": [
-    "clean",
-    0.16666666666666666
-  ],
-  "high_school_mathematics 202": [
-    "clean",
-    0.5074632352941177
-  ],
-  "high_school_mathematics 215": [
-    "clean",
-    0.44034536891679743
-  ],
-  "high_school_mathematics 224": [
-    "input-and-label contamination",
-    0.9342564535307429
-  ],
-  "high_school_mathematics 234": [
-    "clean",
-    0.05555555555555555
-  ],
-  "high_school_mathematics 241": [
-    "clean",
-    0.1419753086419753
-  ],
-  "high_school_mathematics 243": [
-    "input-and-label contamination",
-    0.7668240850059032
-  ],
-  "high_school_computer_science 2": [
-    "clean",
-    0.05999999999999999
-  ],
-  "high_school_computer_science 4": [
-    "input-and-label contamination",
-    0.8388350261618959
-  ],
-  "high_school_computer_science 6": [
-    "clean",
-    0.4580347826086956
-  ],
-  "high_school_computer_science 22": [
-    "clean",
-    0.4054545454545454
-  ],
-  "high_school_computer_science 25": [
-    "clean",
-    0.3518349520891728
-  ],
-  "high_school_computer_science 30": [
-    "clean",
-    0.37966637272192827
-  ],
-  "high_school_computer_science 34": [
-    "input-and-label contamination",
-    0.9985422740524781
-  ],
-  "high_school_computer_science 35": [
-    "clean",
-    0.18253968253968253
-  ],
-  "high_school_computer_science 69": [
-    "clean",
-    0.1424720366942947
-  ],
-  "high_school_computer_science 84": [
-    "clean",
-    0.16702470461868957
-  ],
-  "high_school_computer_science 99": [
-    "input-and-label contamination",
-    0.9572700063011973
-  ],
-  "college_computer_science 11": [
-    "clean",
-    0.16750655109856885
-  ],
-  "college_computer_science 19": [
-    "clean",
-    0.32942372687174204
-  ],
-  "college_computer_science 34": [
-    "input-and-label contamination",
-    0.7952547272070336
-  ],
-  "college_computer_science 39": [
     "input-and-label contamination",
     0.9993850218658892
   ],
+  "clinical_knowledge 17": [
+    "input-and-label contamination",
+    0.9995680812007343
+  ],
+  "clinical_knowledge 18": [
+    "input-and-label contamination",
+    0.8982291878689191
+  ],
+  "clinical_knowledge 23": [
+    "clean",
+    0.21201814058956914
+  ],
+  "clinical_knowledge 31": [
+    "clean",
+    0.16358024691358025
+  ],
+  "clinical_knowledge 64": [
+    "input-and-label contamination",
+    0.9759579263711495
+  ],
+  "clinical_knowledge 93": [
+    "input-and-label contamination",
+    0.9467186484730344
+  ],
+  "clinical_knowledge 98": [
+    "clean",
+    0.2647058823529412
+  ],
+  "clinical_knowledge 100": [
+    "clean",
+    0.31
+  ],
+  "clinical_knowledge 103": [
+    "input-and-label contamination",
+    0.8880208333333333
+  ],
+  "clinical_knowledge 117": [
+    "clean",
+    0.045454545454545456
+  ],
+  "clinical_knowledge 130": [
+    "input-and-label contamination",
+    0.7789062500000001
+  ],
+  "clinical_knowledge 145": [
+    "input-and-label contamination",
+    0.8375715193897013
+  ],
+  "clinical_knowledge 204": [
+    "clean",
+    0.4411764705882352
+  ],
+  "clinical_knowledge 207": [
+    "clean",
+    0.2676767676767677
+  ],
+  "clinical_knowledge 236": [
+    "clean",
+    0.5353535353535354
+  ],
+  "clinical_knowledge 242": [
+    "clean",
+    0.6312500000000001
+  ],
+  "high_school_mathematics 2": [
+    "input-and-label contamination",
+    0.8152220507544582
+  ],
+  "high_school_mathematics 10": [
+    "clean",
+    0.23249999999999998
+  ],
+  "high_school_mathematics 21": [
+    "clean",
+    0.29583715947352307
+  ],
+  "high_school_mathematics 27": [
+    "input-and-label contamination",
+    0.9833141817485397
+  ],
+  "high_school_mathematics 40": [
+    "input contamination",
+    0.8864888888888889
+  ],
+  "high_school_mathematics 54": [
+    "clean",
+    0.09491131756756757
+  ],
+  "high_school_mathematics 75": [
+    "clean",
+    0.3506944444444444
+  ],
+  "high_school_mathematics 102": [
+    "input-and-label contamination",
+    0.9854346836595357
+  ],
+  "high_school_mathematics 127": [
+    "clean",
+    0.335385101010101
+  ],
+  "high_school_mathematics 133": [
+    "clean",
+    0.15724322515891603
+  ],
+  "high_school_mathematics 139": [
+    "clean",
+    0.28425925925925927
+  ],
+  "high_school_mathematics 168": [
+    "clean",
+    0.5761904761904761
+  ],
+  "high_school_mathematics 215": [
+    "clean",
+    0.576923076923077
+  ],
+  "high_school_mathematics 241": [
+    "clean",
+    0.2368827160493827
+  ],
+  "high_school_computer_science 4": [
+    "input-and-label contamination",
+    0.9999945130315501
+  ],
+  "high_school_computer_science 6": [
+    "clean",
+    0.5744008189810912
+  ],
+  "high_school_computer_science 30": [
+    "input contamination",
+    0.8568948412698412
+  ],
+  "high_school_computer_science 35": [
+    "clean",
+    0.40889212827988336
+  ],
+  "high_school_computer_science 66": [
+    "clean",
+    0.35167162296116067
+  ],
+  "high_school_computer_science 69": [
+    "clean",
+    0.07985777436094561
+  ],
+  "college_computer_science 11": [
+    "clean",
+    0.17073170731707318
+  ],
+  "college_computer_science 19": [
+    "input contamination",
+    0.8147238849399344
+  ],
   "college_computer_science 40": [
     "clean",
-    0.12777777777777777
+    0.19166666666666668
   ],
-  "college_computer_science 45": [
-    "input-and-label contamination",
-    0.8721159648432376
-  ],
-  "college_computer_science 66": [
+  "college_computer_science 71": [
     "clean",
-    0.05921052631578947
+    0.6850708037310909
   ],
   "college_computer_science 72": [
     "clean",
-    0.1111111111111111
+    0.13043478260869565
   ],
   "college_computer_science 76": [
     "clean",
-    0.26291913214990137
+    0.47959183673469397
   ],
-  "college_computer_science 83": [
+  "college_computer_science 79": [
     "input contamination",
-    0.807299390344373
+    0.8908068607777062
   ],
   "college_computer_science 84": [
     "clean",
-    0.12324334319526625
+    0.27486249999999995
   ],
-  "college_computer_science 87": [
+  "electrical_engineering 17": [
     "clean",
-    0.08941701680672269
-  ],
-  "college_computer_science 89": [
-    "clean",
-    0.17128279883381925
-  ],
-  "college_computer_science 93": [
-    "clean",
-    0.25334821428571425
-  ],
-  "electrical_engineering 19": [
-    "clean",
-    0.2436764705882353
-  ],
-  "electrical_engineering 22": [
-    "clean",
-    0.26900584795321636
-  ],
-  "electrical_engineering 27": [
-    "clean",
-    0.125
-  ],
-  "electrical_engineering 35": [
-    "clean",
-    0.2759538598047915
-  ],
-  "electrical_engineering 42": [
-    "clean",
-    0.13285714285714287
+    0.5769944341372912
   ],
   "electrical_engineering 60": [
     "input-and-label contamination",
-    0.968
+    0.7937500000000001
   ],
   "electrical_engineering 64": [
     "clean",
-    0.375
+    0.446
+  ],
+  "electrical_engineering 65": [
+    "input-and-label contamination",
+    0.9736328125
   ],
   "electrical_engineering 72": [
     "clean",
-    0.3716666666666667
+    0.42592592592592593
   ],
   "electrical_engineering 81": [
     "clean",
-    0.5367768595041322
-  ],
-  "electrical_engineering 99": [
-    "input-and-label contamination",
-    0.7433333333333334
-  ],
-  "electrical_engineering 107": [
-    "input-and-label contamination",
-    0.625
+    0.28622448979591836
   ],
   "electrical_engineering 112": [
-    "clean",
-    0.16666666666666666
-  ],
-  "electrical_engineering 115": [
-    "clean",
-    0.3425655976676385
+    "input-and-label contamination",
+    0.9999460101500918
   ],
   "electrical_engineering 123": [
     "clean",
-    0.16611842105263158
+    0.29605263157894735
   ],
   "electrical_engineering 130": [
     "input-and-label contamination",
-    0.5520833333333334
+    0.9736328125
   ],
   "electrical_engineering 139": [
     "clean",
-    0.2630208333333333
+    0.21296296296296297
   ],
-  "electrical_engineering 144": [
+  "electrical_engineering 141": [
     "clean",
-    0.3194444444444444
+    0.41500000000000004
   ],
   "college_mathematics 1": [
-    "clean",
-    0.2265625
+    "input-and-label contamination",
+    0.8661887694145758
   ],
-  "college_mathematics 4": [
+  "college_mathematics 19": [
     "clean",
-    0.3441975308641975
-  ],
-  "college_mathematics 13": [
-    "input contamination",
-    0.7955645161290322
-  ],
-  "college_mathematics 22": [
-    "clean",
-    0.1519925978054057
+    0.06060606060606061
   ],
   "college_mathematics 24": [
     "clean",
     0.03125
   ],
-  "college_mathematics 25": [
-    "clean",
-    0.1564253647586981
-  ],
   "college_mathematics 31": [
-    "clean",
-    0.08333333333333333
-  ],
-  "college_mathematics 48": [
-    "clean",
-    0.22092423349056603
-  ],
-  "college_mathematics 59": [
-    "clean",
-    0
-  ],
-  "college_mathematics 65": [
-    "input-and-label contamination",
-    0.685041832825084
+    "input contamination",
+    0.8300000000000001
   ],
   "college_mathematics 71": [
     "clean",
-    0.11978305785123969
-  ],
-  "college_mathematics 85": [
-    "input-and-label contamination",
-    0.8148501622447032
-  ],
-  "college_mathematics 97": [
-    "input contamination",
-    0.7273598977200085
-  ],
-  "computer_security 4": [
-    "clean",
-    0.3271604938271605
+    0.36743079584775085
   ],
   "computer_security 21": [
     "clean",
-    0.10933048433048434
+    0.13641826923076922
   ],
   "computer_security 23": [
     "clean",
-    0.36891679748822603
+    0.48822605965463106
   ],
-  "computer_security 26": [
-    "clean",
-    0.06666666666666667
-  ],
-  "computer_security 27": [
-    "clean",
-    0.5402644230769231
-  ],
-  "computer_security 34": [
-    "clean",
-    0.2630208333333333
-  ],
-  "computer_security 35": [
-    "clean",
-    0.29197530864197535
-  ],
-  "computer_security 36": [
-    "clean",
-    0.4508928571428571
-  ],
-  "computer_security 54": [
-    "clean",
-    0.23473684210526316
-  ],
-  "computer_security 59": [
-    "clean",
-    0.1332465277777778
-  ],
-  "computer_security 71": [
-    "input-and-label contamination",
-    0.7429516185172295
-  ],
-  "computer_security 77": [
-    "clean",
-    0.05172413793103448
-  ],
-  "computer_security 84": [
+  "computer_security 24": [
     "clean",
     0.23232323232323232
   ],
-  "computer_security 85": [
+  "computer_security 35": [
     "clean",
-    0.21296296296296297
+    0.3173469387755102
+  ],
+  "computer_security 46": [
+    "clean",
+    0.4097589653145209
+  ],
+  "computer_security 77": [
+    "clean",
+    0.3265086206896552
+  ],
+  "computer_security 82": [
+    "input-and-label contamination",
+    0.9999901289163524
   ],
   "computer_security 87": [
     "input-and-label contamination",
-    0.6388888888888888
-  ],
-  "computer_security 89": [
-    "clean",
-    0.197265625
-  ],
-  "high_school_macroeconomics 4": [
-    "clean",
-    0.3430769230769231
-  ],
-  "high_school_macroeconomics 8": [
-    "clean",
-    0.5016741071428571
-  ],
-  "high_school_macroeconomics 14": [
-    "clean",
-    0.155
+    0.7155612244897958
   ],
   "high_school_macroeconomics 20": [
     "clean",
-    0.2839506172839506
+    0.20833333333333331
   ],
-  "high_school_macroeconomics 39": [
-    "clean",
-    0.2630208333333333
+  "high_school_macroeconomics 24": [
+    "input-and-label contamination",
+    0.998179335457442
   ],
   "high_school_macroeconomics 43": [
-    "clean",
-    0.13636363636363635
+    "input-and-label contamination",
+    0.9952277596905696
   ],
-  "high_school_macroeconomics 51": [
-    "clean",
-    0.12976371951219512
+  "high_school_macroeconomics 48": [
+    "input-and-label contamination",
+    0.7598601767576837
+  ],
+  "high_school_macroeconomics 58": [
+    "input-and-label contamination",
+    0.8228395061728395
   ],
   "high_school_macroeconomics 59": [
-    "clean",
-    0.10416666666666666
-  ],
-  "high_school_macroeconomics 70": [
-    "clean",
-    0.25241675617615467
+    "input-and-label contamination",
+    0.9993141289437586
   ],
   "high_school_macroeconomics 73": [
-    "clean",
-    0.23249999999999998
+    "input-and-label contamination",
+    0.920138888888889
   ],
-  "high_school_macroeconomics 87": [
+  "high_school_macroeconomics 80": [
     "clean",
-    0.33223684210526316
-  ],
-  "high_school_macroeconomics 90": [
-    "clean",
-    0.12054054054054054
+    0.2350718065003779
   ],
   "high_school_macroeconomics 96": [
-    "clean",
-    0.40545454545454546
-  ],
-  "high_school_macroeconomics 102": [
-    "clean",
-    0.21634615384615385
-  ],
-  "high_school_macroeconomics 104": [
-    "clean",
-    0.3271604938271605
-  ],
-  "high_school_macroeconomics 119": [
     "input-and-label contamination",
-    0.75
-  ],
-  "high_school_macroeconomics 123": [
-    "clean",
-    0.26785714285714285
+    0.8799999999999999
   ],
   "high_school_macroeconomics 129": [
     "clean",
-    0.13953488372093023
+    0.1237281976744186
   ],
-  "high_school_macroeconomics 134": [
+  "high_school_macroeconomics 148": [
     "clean",
-    0.2237112192833265
-  ],
-  "high_school_macroeconomics 140": [
-    "clean",
-    0.09911111111111111
-  ],
-  "high_school_macroeconomics 146": [
-    "clean",
-    0.33333333333333337
+    0.2869318181818182
   ],
   "high_school_macroeconomics 149": [
-    "clean",
-    0.05000000000000001
+    "input-and-label contamination",
+    0.9494459833795015
   ],
   "high_school_macroeconomics 151": [
     "clean",
-    0.31562500000000004
-  ],
-  "high_school_macroeconomics 152": [
-    "clean",
-    0.20888157894736842
+    0.351171875
   ],
   "high_school_macroeconomics 155": [
     "clean",
     0.30666666666666664
   ],
-  "high_school_macroeconomics 162": [
-    "clean",
-    0.1896551724137931
-  ],
-  "high_school_macroeconomics 169": [
-    "clean",
-    0.1690909090909091
-  ],
-  "high_school_macroeconomics 170": [
+  "high_school_macroeconomics 161": [
     "input-and-label contamination",
-    0.77890625
-  ],
-  "high_school_macroeconomics 182": [
-    "clean",
-    0.297277588721439
-  ],
-  "high_school_macroeconomics 192": [
-    "clean",
-    0.26785714285714285
+    0.9021555367709213
   ],
   "high_school_macroeconomics 193": [
-    "clean",
-    0.14880000000000002
+    "input-and-label contamination",
+    0.976672
   ],
-  "high_school_macroeconomics 210": [
-    "clean",
-    0.1434659090909091
+  "high_school_macroeconomics 227": [
+    "input-and-label contamination",
+    0.9972521880724609
   ],
-  "high_school_macroeconomics 216": [
-    "clean",
-    0.1434659090909091
-  ],
-  "high_school_macroeconomics 224": [
-    "clean",
-    0.26458333333333334
+  "high_school_macroeconomics 231": [
+    "input-and-label contamination",
+    0.8650887573964497
   ],
   "high_school_macroeconomics 235": [
     "clean",
     0.37758875739644965
   ],
-  "high_school_macroeconomics 237": [
-    "clean",
-    0.20444444444444443
+  "high_school_macroeconomics 244": [
+    "input-and-label contamination",
+    0.9298245614035088
   ],
-  "high_school_macroeconomics 265": [
-    "clean",
-    0.38163265306122446
+  "high_school_macroeconomics 257": [
+    "input-and-label contamination",
+    0.999744
   ],
   "high_school_macroeconomics 289": [
     "clean",
-    0.45098039215686275
+    0.5636849781234808
   ],
-  "high_school_macroeconomics 308": [
-    "clean",
-    0.45713305898491086
-  ],
-  "high_school_macroeconomics 312": [
-    "clean",
-    0.05
-  ],
-  "high_school_macroeconomics 313": [
-    "clean",
-    0.3407407407407408
+  "high_school_macroeconomics 298": [
+    "input-and-label contamination",
+    0.9558128544423441
   ],
   "high_school_macroeconomics 316": [
-    "clean",
-    0.07142857142857142
+    "input-and-label contamination",
+    0.9485714285714284
   ],
   "high_school_macroeconomics 317": [
     "clean",
-    0.21319444444444444
+    0.28125
   ],
-  "high_school_macroeconomics 325": [
+  "high_school_macroeconomics 340": [
     "clean",
-    0.13271604938271608
+    0.24338624338624337
   ],
-  "high_school_macroeconomics 329": [
-    "clean",
-    0.45299145299145305
-  ],
-  "high_school_macroeconomics 333": [
-    "clean",
-    0.07914893617021276
-  ],
-  "high_school_macroeconomics 342": [
-    "clean",
-    0.4183925049309664
-  ],
-  "high_school_macroeconomics 366": [
-    "clean",
-    0.186
+  "high_school_macroeconomics 363": [
+    "input-and-label contamination",
+    0.997369935070272
   ],
   "high_school_macroeconomics 370": [
     "clean",
-    0.32774838330393885
-  ],
-  "high_school_macroeconomics 380": [
-    "clean",
-    0.12424481218807461
+    0.3005952380952381
   ],
   "high_school_macroeconomics 382": [
-    "clean",
-    0.21238095238095236
+    "input-and-label contamination",
+    0.9932512687614728
   ],
-  "astronomy 1": [
+  "high_school_macroeconomics 389": [
     "clean",
-    0.21885995777621392
+    0.36079545454545453
   ],
   "astronomy 12": [
-    "input-and-label contamination",
-    0.6861538461538462
-  ],
-  "astronomy 25": [
     "clean",
-    0.4444444444444444
+    0.5991586538461539
+  ],
+  "astronomy 48": [
+    "input-and-label contamination",
+    0.9073837566813302
   ],
   "astronomy 56": [
     "clean",
-    0.1965811965811966
+    0.6834075015893197
   ],
-  "astronomy 61": [
-    "input-and-label contamination",
-    0.7968201458277072
+  "astronomy 66": [
+    "input contamination",
+    0.8404990748355262
   ],
   "astronomy 76": [
     "clean",
-    0.31891750783153494
+    0.24201161946259986
   ],
-  "astronomy 81": [
+  "astronomy 121": [
     "clean",
-    0.33404940923737914
-  ],
-  "astronomy 116": [
-    "clean",
-    0.28511469414893614
+    0.30721551176096623
   ],
   "astronomy 122": [
-    "input-and-label contamination",
-    0.5877425044091712
-  ],
-  "astronomy 124": [
     "clean",
-    0.26445578231292516
+    0.40889212827988336
+  ],
+  "astronomy 142": [
+    "input-and-label contamination",
+    0.9999142661179699
   ],
   "college_chemistry 3": [
     "clean",
     0.08108108108108109
   ],
   "college_chemistry 5": [
-    "clean",
-    0.17857142857142855
+    "input-and-label contamination",
+    0.922865595942519
   ],
   "college_chemistry 41": [
-    "clean",
-    0.336734693877551
-  ],
-  "college_chemistry 47": [
-    "clean",
-    0.1419753086419753
-  ],
-  "college_chemistry 51": [
     "input-and-label contamination",
-    0.999898229187869
+    0.9402573529411763
   ],
-  "college_chemistry 58": [
-    "clean",
-    0.13515151515151516
+  "college_chemistry 54": [
+    "input-and-label contamination",
+    0.7932387096774194
   ],
   "college_chemistry 64": [
     "clean",
-    0.21296296296296297
-  ],
-  "college_chemistry 71": [
-    "clean",
-    0.0798611111111111
-  ],
-  "college_chemistry 74": [
-    "clean",
-    0.14105642256902762
+    0.31
   ],
   "college_chemistry 90": [
-    "clean",
-    0.0982905982905983
-  ],
-  "high_school_european_history 1": [
-    "clean",
-    0.06290648127382821
-  ],
-  "high_school_european_history 6": [
-    "clean",
-    0
+    "input-and-label contamination",
+    0.920940170940171
   ],
   "high_school_european_history 79": [
     "clean",
     0.38260843337153894
   ],
-  "high_school_european_history 80": [
+  "high_school_european_history 82": [
     "clean",
-    0.36721856061812125
+    0.15753636047991978
   ],
-  "high_school_european_history 152": [
-    "clean",
-    0.28751523574528803
-  ],
-  "miscellaneous 17": [
-    "clean",
-    0.43999999999999995
-  ],
-  "miscellaneous 27": [
+  "miscellaneous 18": [
     "clean",
     0.23232323232323232
   ],
-  "miscellaneous 34": [
+  "miscellaneous 24": [
     "clean",
-    0.5111111111111111
+    0.5289115646258503
   ],
-  "miscellaneous 46": [
+  "miscellaneous 48": [
     "clean",
-    0.22441520467836257
+    0.351171875
   ],
-  "miscellaneous 56": [
-    "clean",
-    0.3430769230769231
-  ],
-  "miscellaneous 58": [
-    "clean",
-    0.41333333333333333
+  "miscellaneous 55": [
+    "input contamination",
+    0.7111926741556371
   ],
   "miscellaneous 72": [
     "clean",
-    0.28622448979591836
-  ],
-  "miscellaneous 79": [
-    "input contamination",
-    0.7641185172293768
+    0.23979591836734693
   ],
   "miscellaneous 92": [
     "clean",
-    0.4602777777777778
+    0.3823731138545953
   ],
-  "miscellaneous 94": [
+  "miscellaneous 117": [
     "clean",
-    0.41141975308641976
-  ],
-  "miscellaneous 107": [
-    "clean",
-    0.21257142857142855
-  ],
-  "miscellaneous 110": [
-    "clean",
-    0.23232323232323232
+    0.2664930555555556
   ],
   "miscellaneous 122": [
     "clean",
-    0.3506944444444444
+    0.2839506172839506
   ],
-  "miscellaneous 132": [
+  "miscellaneous 127": [
     "clean",
-    0.31857142857142856
+    0.4770408163265306
   ],
-  "miscellaneous 155": [
+  "miscellaneous 129": [
     "clean",
-    0.1703703703703704
-  ],
-  "miscellaneous 162": [
-    "clean",
-    0.17714285714285713
+    0.605
   ],
   "miscellaneous 171": [
     "clean",
-    0.4326923076923077
+    0.48557692307692313
+  ],
+  "miscellaneous 176": [
+    "clean",
+    0.6918367346938775
   ],
   "miscellaneous 180": [
-    "input contamination",
-    0.6123247853727917
-  ],
-  "miscellaneous 182": [
     "clean",
-    0.3125
+    0.5623849355639158
   ],
   "miscellaneous 185": [
-    "clean",
-    0.11956521739130435
+    "input-and-label contamination",
+    0.7077444659700829
   ],
   "miscellaneous 188": [
     "clean",
-    0.43896484375
+    0.35778061224489793
+  ],
+  "miscellaneous 189": [
+    "clean",
+    0.5111111111111111
   ],
   "miscellaneous 196": [
     "clean",
-    0.3506944444444444
+    0.2839506172839506
   ],
-  "miscellaneous 197": [
+  "miscellaneous 215": [
     "clean",
-    0.46875
-  ],
-  "miscellaneous 199": [
-    "clean",
-    0.26785714285714285
-  ],
-  "miscellaneous 201": [
-    "input-and-label contamination",
-    0.7433333333333334
-  ],
-  "miscellaneous 203": [
-    "input-and-label contamination",
-    0.6914285714285714
-  ],
-  "miscellaneous 211": [
-    "clean",
-    0.391578947368421
-  ],
-  "miscellaneous 221": [
-    "clean",
-    0.4076086956521739
+    0.2630208333333333
   ],
   "miscellaneous 223": [
     "clean",
-    0.37230769230769234
+    0.48822605965463106
   ],
   "miscellaneous 235": [
     "clean",
-    0.375
+    0.21041666666666667
   ],
-  "miscellaneous 250": [
-    "input contamination",
-    0.8604938271604939
-  ],
-  "miscellaneous 256": [
+  "miscellaneous 258": [
     "clean",
-    0.3689236111111111
+    0.48509883880615234
   ],
-  "miscellaneous 267": [
+  "miscellaneous 291": [
     "clean",
-    0.2839506172839506
+    0.43016975308641975
   ],
   "miscellaneous 341": [
     "clean",
-    0.18421052631578946
+    0.13450292397660818
   ],
-  "miscellaneous 350": [
+  "miscellaneous 342": [
     "clean",
-    0.18253968253968253
+    0.6818181818181819
   ],
-  "miscellaneous 363": [
+  "miscellaneous 354": [
     "clean",
-    0.37166666666666665
+    0.10054054054054054
   ],
   "miscellaneous 406": [
-    "input-and-label contamination",
-    0.7471655328798186
-  ],
-  "miscellaneous 409": [
     "clean",
-    0.25555555555555554
+    0.6360544217687074
+  ],
+  "miscellaneous 410": [
+    "clean",
+    0.09375
   ],
   "miscellaneous 429": [
     "clean",
     0.21882352941176472
   ],
+  "miscellaneous 473": [
+    "input contamination",
+    0.7971737874838044
+  ],
+  "miscellaneous 478": [
+    "input-and-label contamination",
+    0.9999772230320699
+  ],
   "miscellaneous 480": [
     "clean",
-    0.375
+    0.5111111111111111
   ],
   "miscellaneous 494": [
-    "clean",
-    0.10606060606060606
-  ],
-  "miscellaneous 520": [
-    "clean",
-    0.21296296296296297
-  ],
-  "miscellaneous 534": [
-    "clean",
-    0.24278846153846156
-  ],
-  "miscellaneous 539": [
-    "clean",
-    0.10883620689655173
-  ],
-  "miscellaneous 550": [
-    "clean",
-    0.3995069033530572
-  ],
-  "miscellaneous 558": [
-    "clean",
-    0.5289115646258503
-  ],
-  "miscellaneous 561": [
-    "clean",
-    0.11736842105263158
-  ],
-  "miscellaneous 579": [
-    "clean",
-    0.46875
-  ],
-  "miscellaneous 598": [
-    "clean",
-    0.31857142857142856
-  ],
-  "miscellaneous 607": [
-    "clean",
-    0.08587509077705158
-  ],
-  "miscellaneous 613": [
-    "clean",
-    0.2216796875
-  ],
-  "miscellaneous 616": [
     "input-and-label contamination",
-    0.7046428571428572
+    0.9999860867629463
   ],
-  "miscellaneous 630": [
-    "input-and-label contamination",
-    0.7046428571428572
+  "miscellaneous 524": [
+    "clean",
+    0.351171875
+  ],
+  "miscellaneous 525": [
+    "clean",
+    0.37875
+  ],
+  "miscellaneous 566": [
+    "clean",
+    0.4955555555555556
   ],
   "miscellaneous 634": [
     "clean",
-    0.3194444444444444
+    0.234375
   ],
-  "miscellaneous 636": [
+  "miscellaneous 637": [
     "clean",
-    0.3506944444444444
+    0.15789473684210525
   ],
   "miscellaneous 645": [
-    "input-and-label contamination",
-    0.6614583333333333
+    "clean",
+    0.625
   ],
   "miscellaneous 648": [
-    "clean",
-    0.33818181818181814
-  ],
-  "miscellaneous 657": [
     "clean",
     0.3381818181818182
   ],
   "miscellaneous 663": [
-    "input-and-label contamination",
-    0.7052154195011338
-  ],
-  "miscellaneous 678": [
     "clean",
-    0.4527272727272727
+    0.654320987654321
+  ],
+  "miscellaneous 681": [
+    "clean",
+    0.6384943181818182
   ],
   "miscellaneous 692": [
     "clean",
-    0.17714285714285713
-  ],
-  "miscellaneous 711": [
-    "clean",
-    0.25
+    0.17857142857142855
   ],
   "miscellaneous 719": [
     "clean",
-    0.3800223214285714
+    0.21428571428571427
   ],
-  "miscellaneous 724": [
-    "input-and-label contamination",
-    0.5533333333333333
-  ],
-  "miscellaneous 747": [
-    "input contamination",
-    0.6639999999999999
-  ],
-  "miscellaneous 764": [
+  "miscellaneous 748": [
     "clean",
-    0.2421875
+    0.10000000000000002
+  ],
+  "miscellaneous 753": [
+    "clean",
+    0.4803206997084548
   ],
   "miscellaneous 776": [
     "input-and-label contamination",
-    0.7080965909090909
+    0.7822671156004491
   ],
   "formal_logic 1": [
-    "clean",
-    0.17857142857142855
+    "input-and-label contamination",
+    0.9999460101500918
   ],
   "formal_logic 3": [
-    "clean",
-    0.20444444444444443
+    "input-and-label contamination",
+    0.8196192742415228
   ],
   "formal_logic 4": [
     "clean",
-    0.078125
-  ],
-  "formal_logic 6": [
-    "clean",
-    0.24052954515139394
+    0.6598213132747934
   ],
   "formal_logic 12": [
-    "clean",
-    0.07692307692307693
-  ],
-  "formal_logic 27": [
-    "clean",
-    0.15928571428571428
+    "input contamination",
+    0.7632211538461539
   ],
   "formal_logic 32": [
     "clean",
-    0.06084656084656084
-  ],
-  "formal_logic 37": [
-    "clean",
-    0.05263157894736842
+    0.4452578815459702
   ],
   "formal_logic 42": [
     "clean",
-    0.15063636363636365
-  ],
-  "formal_logic 62": [
-    "clean",
-    0.10640625000000001
-  ],
-  "formal_logic 63": [
-    "clean",
-    0.25
+    0.3830965909090909
   ],
   "formal_logic 68": [
     "clean",
-    0.1617391304347826
+    0.640096618357488
   ],
-  "formal_logic 81": [
-    "clean",
-    0.3066690962099125
+  "formal_logic 75": [
+    "input contamination",
+    0.9113515333292525
+  ],
+  "formal_logic 80": [
+    "input contamination",
+    0.765032261016794
   ],
   "formal_logic 82": [
     "clean",
-    0.16533333333333333
+    0.463517258755354
+  ],
+  "formal_logic 85": [
+    "clean",
+    0.49992592592592594
   ],
   "formal_logic 88": [
     "clean",
-    0.11077046121034391
+    0.16908824313516396
   ],
   "formal_logic 90": [
     "clean",
-    0.33217103409411103
+    0.6656948493683187
   ],
   "formal_logic 104": [
     "clean",
-    0.26813129623434073
+    0.685137169621947
+  ],
+  "formal_logic 105": [
+    "input-and-label contamination",
+    0.9298245614035088
+  ],
+  "formal_logic 109": [
+    "clean",
+    0.29145841343073176
   ],
   "elementary_mathematics 1": [
     "clean",
-    0.4263888888888889
+    0.6523749999999999
   ],
   "elementary_mathematics 12": [
-    "input-and-label contamination",
-    0.9264939128943759
+    "input contamination",
+    0.9722108843537415
   ],
   "elementary_mathematics 16": [
     "clean",
-    0.3197278911564626
+    0.16666666666666666
   ],
-  "elementary_mathematics 17": [
-    "input contamination",
-    0.6349939299340964
-  ],
-  "elementary_mathematics 33": [
-    "input-and-label contamination",
-    0.7493567251461988
-  ],
-  "elementary_mathematics 49": [
+  "elementary_mathematics 47": [
     "clean",
-    0.375
+    0.14285714285714285
+  ],
+  "elementary_mathematics 53": [
+    "clean",
+    0.305366847826087
   ],
   "elementary_mathematics 68": [
     "clean",
-    0.19658119658119658
-  ],
-  "elementary_mathematics 69": [
-    "clean",
-    0.45299145299145305
+    0.36891679748822603
   ],
   "elementary_mathematics 74": [
-    "clean",
-    0.0982905982905983
-  ],
-  "elementary_mathematics 82": [
-    "clean",
-    0.4326923076923077
+    "input-and-label contamination",
+    0.9999715521165226
   ],
   "elementary_mathematics 87": [
     "clean",
-    0.4955555555555556
+    0.41666666666666663
   ],
   "elementary_mathematics 91": [
     "input contamination",
-    0.9576923076923077
-  ],
-  "elementary_mathematics 106": [
-    "clean",
-    0.2613028682547399
-  ],
-  "elementary_mathematics 130": [
-    "input-and-label contamination",
-    0.6162053571428572
-  ],
-  "elementary_mathematics 134": [
-    "input-and-label contamination",
-    0.840561224489796
+    0.9615076923076923
   ],
   "elementary_mathematics 136": [
-    "clean",
-    0.13953488372093023
+    "input-and-label contamination",
+    0.9767375942625112
   ],
   "elementary_mathematics 150": [
     "input contamination",
-    0.972792418506318
+    0.9741260632282807
+  ],
+  "elementary_mathematics 158": [
+    "clean",
+    0.6317148760330579
   ],
   "elementary_mathematics 174": [
     "clean",
-    0.21296296296296297
+    0.125
   ],
-  "elementary_mathematics 182": [
+  "elementary_mathematics 187": [
     "clean",
-    0.37500000000000006
+    0.2763043478260869
   ],
   "elementary_mathematics 190": [
     "clean",
-    0.16684303350970017
+    0.2367142857142857
   ],
   "elementary_mathematics 192": [
-    "input-and-label contamination",
-    0.6855211220290586
+    "clean",
+    0.428369341563786
   ],
   "elementary_mathematics 200": [
-    "input-and-label contamination",
+    "input contamination",
     0.8504464285714285
   ],
   "elementary_mathematics 211": [
     "input-and-label contamination",
-    0.949820788530466
-  ],
-  "elementary_mathematics 226": [
-    "clean",
-    0.06976744186046512
-  ],
-  "elementary_mathematics 250": [
-    "clean",
-    0.075
+    0.9832164076398913
   ],
   "elementary_mathematics 256": [
     "clean",
-    0.2736868686868687
+    0.1815364387678437
   ],
-  "elementary_mathematics 262": [
+  "elementary_mathematics 293": [
     "clean",
-    0.2971576227390181
+    0.5569361434413339
   ],
-  "elementary_mathematics 285": [
+  "elementary_mathematics 316": [
     "clean",
-    0.29557291666666663
+    0.3194444444444444
   ],
-  "elementary_mathematics 289": [
-    "input-and-label contamination",
-    0.9196975425330813
-  ],
-  "elementary_mathematics 303": [
+  "elementary_mathematics 330": [
     "clean",
-    0.4231292517006803
-  ],
-  "elementary_mathematics 305": [
-    "clean",
-    0.4612244897959184
+    0.36507936507936506
   ],
   "elementary_mathematics 331": [
-    "clean",
-    0.16487455197132617
-  ],
-  "elementary_mathematics 333": [
     "input contamination",
-    0.560374149659864
-  ],
-  "elementary_mathematics 355": [
-    "clean",
-    0.2368827160493827
+    0.8695517500774371
   ],
   "elementary_mathematics 361": [
+    "input-and-label contamination",
+    0.9640728922378994
+  ],
+  "elementary_mathematics 366": [
     "clean",
-    0.2642478978511367
+    0.5917857142857144
   ],
   "elementary_mathematics 369": [
-    "input contamination",
-    0.807299390344373
+    "input-and-label contamination",
+    0.9999460101500918
   ],
   "elementary_mathematics 373": [
     "input-and-label contamination",
-    0.9458576944291229
+    0.9723056389723057
+  ],
+  "elementary_mathematics 375": [
+    "input-and-label contamination",
+    0.9999915709974881
   ],
   "world_religions 6": [
     "clean",
-    0.2839506172839506
-  ],
-  "world_religions 7": [
-    "clean",
-    0.31562500000000004
-  ],
-  "world_religions 17": [
-    "clean",
-    0.46875
+    0.16666666666666666
   ],
   "world_religions 18": [
     "clean",
-    0.19658119658119658
-  ],
-  "world_religions 29": [
-    "clean",
-    0.25555555555555554
-  ],
-  "world_religions 35": [
-    "clean",
-    0.25473684210526315
-  ],
-  "world_religions 43": [
-    "input-and-label contamination",
-    0.6225
-  ],
-  "world_religions 45": [
-    "clean",
-    0.11538461538461539
-  ],
-  "world_religions 49": [
-    "clean",
-    0.22544642857142855
-  ],
-  "world_religions 60": [
-    "clean",
-    0.46464646464646464
+    0.07692307692307693
   ],
   "world_religions 61": [
     "clean",
-    0.1171875
+    0.27875
   ],
-  "world_religions 68": [
-    "clean",
-    0.248
+  "world_religions 71": [
+    "input-and-label contamination",
+    0.9998177842565598
+  ],
+  "world_religions 78": [
+    "input contamination",
+    0.7114285714285714
   ],
   "world_religions 79": [
-    "clean",
-    0.28125
+    "input-and-label contamination",
+    0.7491111111111111
   ],
   "world_religions 89": [
     "clean",
-    0.31562500000000004
+    0.5111111111111111
   ],
   "world_religions 92": [
-    "clean",
-    0.08823529411764706
-  ],
-  "world_religions 104": [
-    "clean",
-    0.2869318181818182
-  ],
-  "world_religions 115": [
-    "clean",
-    0.46464646464646464
-  ],
-  "world_religions 117": [
-    "clean",
-    0.1111111111111111
+    "input contamination",
+    0.9410615808823529
   ],
   "world_religions 131": [
     "clean",
-    0.2630208333333333
+    0.3716666666666667
   ],
-  "world_religions 134": [
-    "clean",
-    0.2623529411764706
-  ],
-  "world_religions 139": [
-    "clean",
-    0.22544642857142855
-  ],
-  "world_religions 157": [
+  "world_religions 164": [
     "clean",
     0.16666666666666666
   ],
-  "professional_medicine 3": [
+  "professional_medicine 4": [
     "clean",
-    0
+    0.3117629033802547
   ],
-  "professional_medicine 19": [
+  "professional_medicine 10": [
     "clean",
-    0.09062130177514793
+    0.3933714746994605
   ],
   "professional_medicine 42": [
     "clean",
-    0.12007246376811595
+    0.16304347826086957
   ],
   "professional_medicine 54": [
     "clean",
-    0.06996173469387754
+    0.061487268518518524
   ],
-  "professional_medicine 78": [
-    "clean",
-    0.07304597701149425
-  ],
-  "professional_medicine 107": [
-    "clean",
-    0.05636160714285714
-  ],
-  "professional_medicine 115": [
-    "clean",
-    0.12396814960917524
-  ],
-  "professional_medicine 122": [
-    "clean",
-    0.11485207100591716
-  ],
-  "professional_medicine 123": [
-    "clean",
-    0.11370370370370371
-  ],
-  "professional_medicine 135": [
-    "clean",
-    0.0595038082437276
-  ],
-  "professional_medicine 137": [
-    "clean",
-    0.05339805825242719
-  ],
-  "professional_medicine 140": [
-    "clean",
-    0.04573170731707317
-  ],
-  "professional_medicine 165": [
-    "clean",
-    0.07476470588235294
-  ],
-  "professional_medicine 191": [
-    "clean",
-    0.041666666666666664
-  ],
-  "professional_medicine 192": [
-    "clean",
-    0.08478306878306878
-  ],
-  "professional_medicine 222": [
-    "clean",
-    0.036885245901639344
-  ],
-  "professional_medicine 226": [
-    "clean",
-    0.05574156746031746
-  ],
-  "professional_medicine 227": [
-    "clean",
-    0.05616759978327614
-  ],
-  "professional_medicine 241": [
+  "professional_medicine 90": [
     "clean",
     0
   ],
+  "professional_medicine 108": [
+    "clean",
+    0.12483920761512733
+  ],
+  "professional_medicine 122": [
+    "clean",
+    0.2915234375
+  ],
+  "professional_medicine 137": [
+    "clean",
+    0.5107663647015315
+  ],
+  "professional_medicine 140": [
+    "clean",
+    0.10399728997289973
+  ],
+  "professional_medicine 165": [
+    "input contamination",
+    0.7454591019839887
+  ],
+  "professional_medicine 227": [
+    "clean",
+    0.09500475389453668
+  ],
   "professional_medicine 248": [
-    "clean",
-    0.08662900188323917
+    "input contamination",
+    0.9830483282613515
   ],
-  "professional_medicine 262": [
+  "professional_medicine 268": [
     "clean",
-    0.06569751188146492
+    0.056881950821344764
   ],
-  "anatomy 25": [
-    "clean",
-    0.22544642857142855
+  "anatomy 7": [
+    "input-and-label contamination",
+    0.9017693014705882
+  ],
+  "anatomy 35": [
+    "input-and-label contamination",
+    0.9638310185185185
   ],
   "anatomy 65": [
-    "clean",
-    0.4992129083038174
+    "input-and-label contamination",
+    0.8813842997516467
   ],
   "anatomy 66": [
-    "clean",
-    0.3056586270871985
+    "input-and-label contamination",
+    0.9999530428249437
   ],
   "anatomy 67": [
     "clean",
-    0.2884615384615385
-  ],
-  "anatomy 70": [
-    "clean",
-    0.18253968253968253
-  ],
-  "anatomy 71": [
-    "clean",
-    0.3125
+    0.3931623931623932
   ],
   "anatomy 72": [
-    "input-and-label contamination",
-    0.7774952320406867
-  ],
-  "anatomy 79": [
     "clean",
-    0.18566176470588236
+    0.576923076923077
   ],
   "anatomy 94": [
-    "clean",
-    0.3901909722222222
-  ],
-  "anatomy 97": [
-    "clean",
-    0.17346938775510204
+    "input-and-label contamination",
+    0.8518518518518519
   ],
   "anatomy 104": [
     "input-and-label contamination",
-    0.6165625
-  ],
-  "anatomy 112": [
-    "clean",
-    0.2839506172839506
-  ],
-  "anatomy 118": [
-    "clean",
-    0.0
-  ],
-  "anatomy 119": [
-    "clean",
-    0.21882352941176472
-  ],
-  "anatomy 134": [
-    "clean",
-    0.2222222222222222
+    0.9363888888888889
   ]
 }

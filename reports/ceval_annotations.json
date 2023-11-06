@@ -12,11 +12,11 @@
     0.6453333333333333
   ],
   "computer_network-3": [
-    "input-and-label contamination",
+    "clean",
     0.6970646907950984
   ],
   "computer_network-4": [
-    "input-and-label contamination",
+    "input contamination",
     0.8659529988465973
   ],
   "computer_network-5": [
@@ -28,7 +28,7 @@
     0.5446959731411855
   ],
   "computer_network-7": [
-    "input-and-label contamination",
+    "clean",
     0.7396921297040203
   ],
   "computer_network-8": [
@@ -36,7 +36,7 @@
     0.9437939598372733
   ],
   "computer_network-9": [
-    "input-and-label contamination",
+    "input contamination",
     0.8035714285714286
   ],
   "computer_network-10": [
@@ -48,7 +48,7 @@
     0.9676097979948135
   ],
   "computer_network-12": [
-    "input contamination",
+    "clean",
     0.6663075818200472
   ],
   "computer_network-13": [
@@ -64,7 +64,7 @@
     0.6169690098261527
   ],
   "computer_network-16": [
-    "input-and-label contamination",
+    "clean",
     0.7531818181818181
   ],
   "computer_network-17": [
@@ -76,7 +76,7 @@
     0.9736328125
   ],
   "operating_system-0": [
-    "input-and-label contamination",
+    "clean",
     0.7936195286195286
   ],
   "operating_system-1": [
@@ -84,11 +84,11 @@
     0.6174976915974146
   ],
   "operating_system-2": [
-    "input-and-label contamination",
+    "clean",
     0.7166889648679451
   ],
   "operating_system-3": [
-    "input-and-label contamination",
+    "clean",
     0.7364293981481482
   ],
   "operating_system-4": [
@@ -108,7 +108,7 @@
     0.5476190476190477
   ],
   "operating_system-8": [
-    "input-and-label contamination",
+    "clean",
     0.6747885714285714
   ],
   "operating_system-9": [
@@ -128,7 +128,7 @@
     0.9074999999999999
   ],
   "operating_system-13": [
-    "input-and-label contamination",
+    "clean",
     0.6867192636423406
   ],
   "operating_system-14": [
@@ -136,15 +136,15 @@
     0.49462365591397855
   ],
   "operating_system-15": [
-    "input-and-label contamination",
+    "clean",
     0.6756004176818656
   ],
   "operating_system-16": [
-    "input-and-label contamination",
+    "clean",
     0.7136000000000001
   ],
   "operating_system-17": [
-    "input-and-label contamination",
+    "clean",
     0.7987901521555368
   ],
   "operating_system-18": [
@@ -164,7 +164,7 @@
     0.9744564764681383
   ],
   "computer_architecture-3": [
-    "input-and-label contamination",
+    "clean",
     0.7114903574598563
   ],
   "computer_architecture-4": [
@@ -172,7 +172,7 @@
     0.9748393021120294
   ],
   "computer_architecture-5": [
-    "input-and-label contamination",
+    "input contamination",
     0.934238785046729
   ],
   "computer_architecture-6": [
@@ -184,7 +184,7 @@
     0.8807479224376731
   ],
   "computer_architecture-8": [
-    "input contamination",
+    "clean",
     0.6907894736842105
   ],
   "computer_architecture-9": [
@@ -200,15 +200,15 @@
     0.9137847222222223
   ],
   "computer_architecture-12": [
-    "input-and-label contamination",
+    "clean",
     0.6738292011019283
   ],
   "computer_architecture-13": [
-    "input contamination",
+    "clean",
     0.7770181001453297
   ],
   "computer_architecture-14": [
-    "input-and-label contamination",
+    "clean",
     0.7395686353557751
   ],
   "computer_architecture-15": [
@@ -220,7 +220,7 @@
     0.9067561761546724
   ],
   "computer_architecture-17": [
-    "input-and-label contamination",
+    "clean",
     0.7972993827160494
   ],
   "computer_architecture-18": [
@@ -228,11 +228,11 @@
     0.9829427674570115
   ],
   "computer_architecture-19": [
-    "input-and-label contamination",
+    "input contamination",
     0.8258105530832803
   ],
   "computer_architecture-20": [
-    "input-and-label contamination",
+    "clean",
     0.7433333333333334
   ],
   "college_programming-0": [
@@ -264,11 +264,11 @@
     0.23660014383315356
   ],
   "college_programming-7": [
-    "input-and-label contamination",
+    "clean",
     0.6571633494710417
   ],
   "college_programming-8": [
-    "input-and-label contamination",
+    "clean",
     0.7358515989938916
   ],
   "college_programming-9": [
@@ -280,7 +280,7 @@
     0.9651013346515077
   ],
   "college_programming-11": [
-    "input-and-label contamination",
+    "clean",
     0.7798413497859481
   ],
   "college_programming-12": [
@@ -296,11 +296,11 @@
     0.25555555555555554
   ],
   "college_programming-15": [
-    "input contamination",
+    "clean",
     0.7742216854535696
   ],
   "college_programming-16": [
-    "input-and-label contamination",
+    "input contamination",
     0.8265660069373597
   ],
   "college_programming-17": [
@@ -320,7 +320,7 @@
     0.8968350864012021
   ],
   "college_programming-21": [
-    "input-and-label contamination",
+    "clean",
     0.6665251358695652
   ],
   "college_programming-22": [
@@ -328,7 +328,7 @@
     0.874814744741904
   ],
   "college_programming-23": [
-    "input-and-label contamination",
+    "clean",
     0.7640851212279784
   ],
   "college_programming-24": [
@@ -336,7 +336,7 @@
     0.996
   ],
   "college_programming-25": [
-    "input-and-label contamination",
+    "clean",
     0.6822574366773486
   ],
   "college_programming-26": [
@@ -348,11 +348,11 @@
     0.9269444264254804
   ],
   "college_programming-28": [
-    "input-and-label contamination",
+    "clean",
     0.7453703703703703
   ],
   "college_programming-29": [
-    "input-and-label contamination",
+    "clean",
     0.6571511870054144
   ],
   "college_programming-30": [
@@ -364,11 +364,11 @@
     0.996
   ],
   "college_programming-32": [
-    "input-and-label contamination",
+    "clean",
     0.6655703869449482
   ],
   "college_programming-33": [
-    "input-and-label contamination",
+    "clean",
     0.7338795749704841
   ],
   "college_programming-34": [
@@ -396,15 +396,15 @@
     0.9661088709677421
   ],
   "college_physics-3": [
-    "input contamination",
+    "clean",
     0.6755183989122122
   ],
   "college_physics-4": [
-    "input contamination",
+    "clean",
     0.6771265076754386
   ],
   "college_physics-5": [
-    "input-and-label contamination",
+    "clean",
     0.787536824517434
   ],
   "college_physics-6": [
@@ -412,7 +412,7 @@
     0.98311395175134
   ],
   "college_physics-7": [
-    "input-and-label contamination",
+    "clean",
     0.7319437013868884
   ],
   "college_physics-8": [
@@ -428,7 +428,7 @@
     0.8884446340519678
   ],
   "college_physics-11": [
-    "input-and-label contamination",
+    "input contamination",
     0.8852875344352616
   ],
   "college_physics-12": [
@@ -444,7 +444,7 @@
     0.8021620057262702
   ],
   "college_physics-15": [
-    "input contamination",
+    "clean",
     0.7630282778335781
   ],
   "college_physics-16": [
@@ -456,7 +456,7 @@
     0.9908878845312727
   ],
   "college_physics-18": [
-    "input-and-label contamination",
+    "input contamination",
     0.9403234332948865
   ],
   "college_chemistry-0": [
@@ -468,7 +468,7 @@
     0.5005120772946859
   ],
   "college_chemistry-2": [
-    "input contamination",
+    "clean",
     0.6968217329545455
   ],
   "college_chemistry-3": [
@@ -528,7 +528,7 @@
     0.8965176098140086
   ],
   "college_chemistry-17": [
-    "input contamination",
+    "clean",
     0.6688988095238095
   ],
   "college_chemistry-18": [
@@ -540,11 +540,11 @@
     0.9753518518518518
   ],
   "college_chemistry-20": [
-    "input-and-label contamination",
+    "clean",
     0.6720732211803642
   ],
   "college_chemistry-21": [
-    "input-and-label contamination",
+    "clean",
     0.6565798733286418
   ],
   "college_chemistry-22": [
@@ -668,7 +668,7 @@
     0.2123059640522876
   ],
   "probability_and_statistics-9": [
-    "input contamination",
+    "clean",
     0.6744614512471656
   ],
   "probability_and_statistics-10": [
@@ -708,7 +708,7 @@
     0.24278846153846156
   ],
   "discrete_mathematics-1": [
-    "input-and-label contamination",
+    "input contamination",
     0.8654513888888888
   ],
   "discrete_mathematics-2": [
@@ -744,7 +744,7 @@
     0.5351157894736842
   ],
   "discrete_mathematics-10": [
-    "input-and-label contamination",
+    "clean",
     0.6671609820398747
   ],
   "discrete_mathematics-11": [
@@ -772,7 +772,7 @@
     0.5597168697031615
   ],
   "electrical_engineer-1": [
-    "input-and-label contamination",
+    "clean",
     0.6855211220290586
   ],
   "electrical_engineer-2": [
@@ -784,7 +784,7 @@
     0.5655517108804307
   ],
   "electrical_engineer-4": [
-    "input contamination",
+    "clean",
     0.6867192636423406
   ],
   "electrical_engineer-5": [
@@ -800,7 +800,7 @@
     0.623010359029829
   ],
   "electrical_engineer-8": [
-    "input-and-label contamination",
+    "input contamination",
     0.8548285714285715
   ],
   "electrical_engineer-9": [
@@ -808,7 +808,7 @@
     0.9489371027832565
   ],
   "electrical_engineer-10": [
-    "input contamination",
+    "clean",
     0.7655448812400542
   ],
   "electrical_engineer-11": [
@@ -816,7 +816,7 @@
     0.2542131675529923
   ],
   "electrical_engineer-12": [
-    "input contamination",
+    "clean",
     0.693541136993518
   ],
   "electrical_engineer-13": [
@@ -828,7 +828,7 @@
     0.9356857939254134
   ],
   "electrical_engineer-15": [
-    "input-and-label contamination",
+    "clean",
     0.6634615384615385
   ],
   "electrical_engineer-16": [
@@ -840,7 +840,7 @@
     0.6187727616299045
   ],
   "electrical_engineer-18": [
-    "input-and-label contamination",
+    "input contamination",
     0.8987513387109066
   ],
   "electrical_engineer-19": [
@@ -848,7 +848,7 @@
     0.9248126922001677
   ],
   "electrical_engineer-20": [
-    "input-and-label contamination",
+    "clean",
     0.7480359147025815
   ],
   "electrical_engineer-21": [
@@ -868,7 +868,7 @@
     0.998890441357771
   ],
   "electrical_engineer-25": [
-    "input-and-label contamination",
+    "input contamination",
     0.8082365299060801
   ],
   "electrical_engineer-26": [
@@ -896,7 +896,7 @@
     0.9976851851851852
   ],
   "electrical_engineer-32": [
-    "input-and-label contamination",
+    "clean",
     0.7882582720588235
   ],
   "electrical_engineer-33": [
@@ -908,15 +908,15 @@
     0.5769944341372912
   ],
   "electrical_engineer-35": [
-    "input-and-label contamination",
+    "clean",
     0.6921833561957018
   ],
   "electrical_engineer-36": [
-    "input-and-label contamination",
+    "input contamination",
     0.9602192307692308
   ],
   "metrology_engineer-0": [
-    "input-and-label contamination",
+    "clean",
     0.7678246366809693
   ],
   "metrology_engineer-1": [
@@ -924,7 +924,7 @@
     0.9612923231970851
   ],
   "metrology_engineer-2": [
-    "input contamination",
+    "clean",
     0.6508469203522746
   ],
   "metrology_engineer-3": [
@@ -932,7 +932,7 @@
     0.5443844204348406
   ],
   "metrology_engineer-4": [
-    "input-and-label contamination",
+    "clean",
     0.6625532670454546
   ],
   "metrology_engineer-5": [
@@ -968,7 +968,7 @@
     0.48769012321909894
   ],
   "metrology_engineer-13": [
-    "input-and-label contamination",
+    "clean",
     0.6756004176818656
   ],
   "metrology_engineer-14": [
@@ -980,15 +980,15 @@
     0.9403924448567306
   ],
   "metrology_engineer-16": [
-    "input-and-label contamination",
+    "clean",
     0.7808963331824355
   ],
   "metrology_engineer-17": [
-    "input-and-label contamination",
+    "input contamination",
     0.8217054263565892
   ],
   "metrology_engineer-18": [
-    "input-and-label contamination",
+    "input contamination",
     0.8974543501611171
   ],
   "metrology_engineer-19": [
@@ -1056,7 +1056,7 @@
     0.636001275510204
   ],
   "high_school_mathematics-11": [
-    "input contamination",
+    "clean",
     0.7633928571428571
   ],
   "high_school_mathematics-12": [
@@ -1072,7 +1072,7 @@
     0.3910283456714357
   ],
   "high_school_mathematics-15": [
-    "input contamination",
+    "clean",
     0.75405
   ],
   "high_school_mathematics-16": [
@@ -1084,7 +1084,7 @@
     0.3311102994886778
   ],
   "high_school_physics-0": [
-    "input contamination",
+    "clean",
     0.670876970298761
   ],
   "high_school_physics-1": [
@@ -1104,7 +1104,7 @@
     0.9643294117647059
   ],
   "high_school_physics-5": [
-    "input contamination",
+    "clean",
     0.7919710862830656
   ],
   "high_school_physics-6": [
@@ -1120,7 +1120,7 @@
     0.9169758812615956
   ],
   "high_school_physics-9": [
-    "input-and-label contamination",
+    "clean",
     0.7819649890014359
   ],
   "high_school_physics-10": [
@@ -1128,11 +1128,11 @@
     0.8672111951472339
   ],
   "high_school_physics-11": [
-    "input-and-label contamination",
+    "clean",
     0.7629372477416875
   ],
   "high_school_physics-12": [
-    "input-and-label contamination",
+    "clean",
     0.7657223622488273
   ],
   "high_school_physics-13": [
@@ -1140,7 +1140,7 @@
     0.4950544635031927
   ],
   "high_school_physics-14": [
-    "input-and-label contamination",
+    "input contamination",
     0.8517443930224279
   ],
   "high_school_physics-15": [
@@ -1164,11 +1164,11 @@
     0.9473129251700679
   ],
   "high_school_chemistry-1": [
-    "input contamination",
+    "clean",
     0.7080783319244858
   ],
   "high_school_chemistry-2": [
-    "input contamination",
+    "clean",
     0.6938809273843614
   ],
   "high_school_chemistry-3": [
@@ -1192,7 +1192,7 @@
     0.876721963332888
   ],
   "high_school_chemistry-8": [
-    "input contamination",
+    "clean",
     0.6803054905738268
   ],
   "high_school_chemistry-9": [
@@ -1200,15 +1200,15 @@
     0.5906189743618855
   ],
   "high_school_chemistry-10": [
-    "input contamination",
+    "clean",
     0.7041207287512707
   ],
   "high_school_chemistry-11": [
-    "input-and-label contamination",
+    "clean",
     0.6824967108031842
   ],
   "high_school_chemistry-12": [
-    "input contamination",
+    "clean",
     0.6755642361111109
   ],
   "high_school_chemistry-13": [
@@ -1216,7 +1216,7 @@
     0.49811035525321234
   ],
   "high_school_chemistry-14": [
-    "input contamination",
+    "clean",
     0.7665039062500001
   ],
   "high_school_chemistry-15": [
@@ -1232,7 +1232,7 @@
     0.40175206540553154
   ],
   "high_school_chemistry-18": [
-    "input contamination",
+    "clean",
     0.7632211538461539
   ],
   "high_school_biology-0": [
@@ -1248,7 +1248,7 @@
     0.9599588954036656
   ],
   "high_school_biology-3": [
-    "input-and-label contamination",
+    "clean",
     0.7094487297847389
   ],
   "high_school_biology-4": [
@@ -1260,7 +1260,7 @@
     0.6162053571428572
   ],
   "high_school_biology-6": [
-    "input-and-label contamination",
+    "clean",
     0.7933673469387754
   ],
   "high_school_biology-7": [
@@ -1332,7 +1332,7 @@
     0.9881496839238165
   ],
   "middle_school_mathematics-5": [
-    "input contamination",
+    "clean",
     0.7781178836542159
   ],
   "middle_school_mathematics-6": [
@@ -1368,7 +1368,7 @@
     0
   ],
   "middle_school_mathematics-14": [
-    "input contamination",
+    "clean",
     0.6663471350078495
   ],
   "middle_school_mathematics-15": [
@@ -1380,7 +1380,7 @@
     0.9990234375
   ],
   "middle_school_mathematics-17": [
-    "input-and-label contamination",
+    "clean",
     0.7454681816165379
   ],
   "middle_school_mathematics-18": [
@@ -1400,7 +1400,7 @@
     0.9544375
   ],
   "middle_school_biology-3": [
-    "input-and-label contamination",
+    "clean",
     0.6937514276287405
   ],
   "middle_school_biology-4": [
@@ -1408,7 +1408,7 @@
     0.8952326028450596
   ],
   "middle_school_biology-5": [
-    "input-and-label contamination",
+    "clean",
     0.6906906906906908
   ],
   "middle_school_biology-6": [
@@ -1432,7 +1432,7 @@
     0.5949457908163265
   ],
   "middle_school_biology-11": [
-    "input-and-label contamination",
+    "clean",
     0.7579787234042553
   ],
   "middle_school_biology-12": [
@@ -1444,7 +1444,7 @@
     0.8613412228796845
   ],
   "middle_school_biology-14": [
-    "input-and-label contamination",
+    "clean",
     0.7147295012679628
   ],
   "middle_school_biology-15": [
@@ -1452,15 +1452,15 @@
     0.9375
   ],
   "middle_school_biology-16": [
-    "input-and-label contamination",
+    "clean",
     0.7684500000000001
   ],
   "middle_school_biology-17": [
-    "input-and-label contamination",
+    "clean",
     0.6772335364947228
   ],
   "middle_school_biology-18": [
-    "input contamination",
+    "clean",
     0.774390243902439
   ],
   "middle_school_biology-19": [
@@ -1480,7 +1480,7 @@
     0.8992783631965231
   ],
   "middle_school_physics-2": [
-    "input-and-label contamination",
+    "clean",
     0.7557173466264375
   ],
   "middle_school_physics-3": [
@@ -1508,7 +1508,7 @@
     0.8736225895316804
   ],
   "middle_school_physics-9": [
-    "input-and-label contamination",
+    "clean",
     0.6861538461538462
   ],
   "middle_school_physics-10": [
@@ -1516,7 +1516,7 @@
     0.4176551364917016
   ],
   "middle_school_physics-11": [
-    "input-and-label contamination",
+    "input contamination",
     0.8708488181953322
   ],
   "middle_school_physics-12": [
@@ -1524,7 +1524,7 @@
     0.8268229166666667
   ],
   "middle_school_physics-13": [
-    "input contamination",
+    "clean",
     0.7665039062500001
   ],
   "middle_school_physics-14": [
@@ -1548,7 +1548,7 @@
     0.9937112455507062
   ],
   "middle_school_chemistry-0": [
-    "input contamination",
+    "clean",
     0.7346379206730769
   ],
   "middle_school_chemistry-1": [
@@ -1580,7 +1580,7 @@
     0.9814814814814815
   ],
   "middle_school_chemistry-8": [
-    "input contamination",
+    "clean",
     0.6996762308808753
   ],
   "middle_school_chemistry-9": [
@@ -1596,7 +1596,7 @@
     0.9682925206281607
   ],
   "middle_school_chemistry-12": [
-    "input contamination",
+    "clean",
     0.6793372319688109
   ],
   "middle_school_chemistry-13": [
@@ -1624,7 +1624,7 @@
     0.20464978235061335
   ],
   "middle_school_chemistry-19": [
-    "input-and-label contamination",
+    "clean",
     0.6914285714285714
   ],
   "veterinary_medicine-0": [
@@ -1632,7 +1632,7 @@
     0.6162053571428572
   ],
   "veterinary_medicine-1": [
-    "input-and-label contamination",
+    "clean",
     0.7964285714285715
   ],
   "veterinary_medicine-2": [
@@ -1644,7 +1644,7 @@
     0.9902423759672281
   ],
   "veterinary_medicine-4": [
-    "input contamination",
+    "clean",
     0.7336956521739131
   ],
   "veterinary_medicine-5": [
@@ -1688,7 +1688,7 @@
     0.9606413994169096
   ],
   "veterinary_medicine-15": [
-    "input-and-label contamination",
+    "clean",
     0.7324630386914124
   ],
   "veterinary_medicine-16": [
@@ -1700,7 +1700,7 @@
     0.9626767750400933
   ],
   "veterinary_medicine-18": [
-    "input-and-label contamination",
+    "clean",
     0.7870588235294117
   ],
   "veterinary_medicine-19": [
@@ -1736,7 +1736,7 @@
     0.9316442663550102
   ],
   "college_economics-4": [
-    "input-and-label contamination",
+    "input contamination",
     0.8613412228796844
   ],
   "college_economics-5": [
@@ -1764,11 +1764,11 @@
     0.8519677534193089
   ],
   "college_economics-11": [
-    "input-and-label contamination",
+    "input contamination",
     0.9240371543303498
   ],
   "college_economics-12": [
-    "input-and-label contamination",
+    "clean",
     0.6803513071895425
   ],
   "college_economics-13": [
@@ -1776,7 +1776,7 @@
     0.8422865013774105
   ],
   "college_economics-14": [
-    "input-and-label contamination",
+    "clean",
     0.6998681825671444
   ],
   "college_economics-15": [
@@ -1784,7 +1784,7 @@
     0.9110107421875
   ],
   "college_economics-16": [
-    "input-and-label contamination",
+    "clean",
     0.7459352041430809
   ],
   "college_economics-17": [
@@ -1796,7 +1796,7 @@
     0.9955717741604821
   ],
   "college_economics-19": [
-    "input-and-label contamination",
+    "clean",
     0.7069907407407408
   ],
   "college_economics-20": [
@@ -1808,7 +1808,7 @@
     0.9142661179698217
   ],
   "college_economics-22": [
-    "input-and-label contamination",
+    "clean",
     0.6680559924504561
   ],
   "college_economics-23": [
@@ -1828,7 +1828,7 @@
     0.9118336483931949
   ],
   "college_economics-27": [
-    "input-and-label contamination",
+    "clean",
     0.7457533815665303
   ],
   "college_economics-28": [
@@ -1840,7 +1840,7 @@
     0.9019886363636362
   ],
   "college_economics-30": [
-    "input-and-label contamination",
+    "clean",
     0.6856995884773662
   ],
   "college_economics-31": [
@@ -1908,7 +1908,7 @@
     0.48866895152829265
   ],
   "college_economics-47": [
-    "input-and-label contamination",
+    "input contamination",
     0.8412698412698413
   ],
   "college_economics-48": [
@@ -1928,7 +1928,7 @@
     0.9464285714285715
   ],
   "college_economics-52": [
-    "input-and-label contamination",
+    "clean",
     0.7990138067061144
   ],
   "college_economics-53": [
@@ -1952,7 +1952,7 @@
     0.38466295609152756
   ],
   "business_administration-3": [
-    "input-and-label contamination",
+    "clean",
     0.7344905695266272
   ],
   "business_administration-4": [
@@ -1968,7 +1968,7 @@
     0.9936481481481482
   ],
   "business_administration-7": [
-    "input-and-label contamination",
+    "input contamination",
     0.8440188786806135
   ],
   "business_administration-8": [
@@ -2000,11 +2000,11 @@
     0.8035714285714285
   ],
   "business_administration-15": [
-    "input-and-label contamination",
+    "clean",
     0.7717606688898555
   ],
   "business_administration-16": [
-    "input-and-label contamination",
+    "clean",
     0.6589847457433305
   ],
   "business_administration-17": [
@@ -2036,7 +2036,7 @@
     0.49135419633840016
   ],
   "business_administration-24": [
-    "input-and-label contamination",
+    "clean",
     0.656111058556428
   ],
   "business_administration-25": [
@@ -2052,7 +2052,7 @@
     0.3778240190249703
   ],
   "business_administration-28": [
-    "input-and-label contamination",
+    "clean",
     0.7262849535482908
   ],
   "business_administration-29": [
@@ -2072,15 +2072,15 @@
     0.892
   ],
   "marxism-0": [
-    "input-and-label contamination",
+    "clean",
     0.7668240850059032
   ],
   "marxism-1": [
-    "input-and-label contamination",
+    "clean",
     0.7952547272070336
   ],
   "marxism-2": [
-    "input-and-label contamination",
+    "input contamination",
     0.8277588813303098
   ],
   "marxism-3": [
@@ -2108,11 +2108,11 @@
     0.4730050750458914
   ],
   "marxism-9": [
-    "input-and-label contamination",
+    "clean",
     0.7981178977272727
   ],
   "marxism-10": [
-    "input-and-label contamination",
+    "clean",
     0.6988271604938271
   ],
   "marxism-11": [
@@ -2128,7 +2128,7 @@
     0.9921875
   ],
   "marxism-14": [
-    "input-and-label contamination",
+    "clean",
     0.7788575747759422
   ],
   "marxism-15": [
@@ -2144,7 +2144,7 @@
     0.5681818181818182
   ],
   "marxism-18": [
-    "input-and-label contamination",
+    "clean",
     0.744
   ],
   "mao_zedong_thought-0": [
@@ -2224,11 +2224,11 @@
     0.9508420573509331
   ],
   "mao_zedong_thought-19": [
-    "input contamination",
+    "clean",
     0.7505356017643353
   ],
   "mao_zedong_thought-20": [
-    "input-and-label contamination",
+    "clean",
     0.7307545148454239
   ],
   "mao_zedong_thought-21": [
@@ -2240,7 +2240,7 @@
     0.5894831956959726
   ],
   "mao_zedong_thought-23": [
-    "input-and-label contamination",
+    "clean",
     0.7573538011695907
   ],
   "education_science-0": [
@@ -2252,7 +2252,7 @@
     0.9007523148148148
   ],
   "education_science-2": [
-    "input-and-label contamination",
+    "clean",
     0.6798641741930967
   ],
   "education_science-3": [
@@ -2268,7 +2268,7 @@
     0.6373076923076924
   ],
   "education_science-6": [
-    "input-and-label contamination",
+    "clean",
     0.7219598583234947
   ],
   "education_science-7": [
@@ -2284,11 +2284,11 @@
     0.9814814814814815
   ],
   "education_science-10": [
-    "input-and-label contamination",
+    "clean",
     0.6582716049382715
   ],
   "education_science-11": [
-    "input-and-label contamination",
+    "input contamination",
     0.8476561092494506
   ],
   "education_science-12": [
@@ -2296,7 +2296,7 @@
     0.9938552571688667
   ],
   "education_science-13": [
-    "input-and-label contamination",
+    "clean",
     0.7295906432748538
   ],
   "education_science-14": [
@@ -2312,7 +2312,7 @@
     0.968
   ],
   "education_science-17": [
-    "input-and-label contamination",
+    "clean",
     0.6671609820398747
   ],
   "education_science-18": [
@@ -2324,7 +2324,7 @@
     0.9989463746860197
   ],
   "education_science-20": [
-    "input-and-label contamination",
+    "clean",
     0.675564236111111
   ],
   "education_science-21": [
@@ -2332,7 +2332,7 @@
     0.613203125
   ],
   "education_science-22": [
-    "input contamination",
+    "clean",
     0.7566378497897637
   ],
   "education_science-23": [
@@ -2352,7 +2352,7 @@
     0.5147156084656084
   ],
   "education_science-27": [
-    "input-and-label contamination",
+    "clean",
     0.7241066666666667
   ],
   "education_science-28": [
@@ -2360,7 +2360,7 @@
     0.9917535687453043
   ],
   "teacher_qualification-0": [
-    "input-and-label contamination",
+    "clean",
     0.6867192636423406
   ],
   "teacher_qualification-1": [
@@ -2376,7 +2376,7 @@
     0.4446449762658228
   ],
   "teacher_qualification-4": [
-    "input contamination",
+    "clean",
     0.7482555018786904
   ],
   "teacher_qualification-5": [
@@ -2404,7 +2404,7 @@
     0.8982291878689191
   ],
   "teacher_qualification-11": [
-    "input-and-label contamination",
+    "input contamination",
     0.945567867036011
   ],
   "teacher_qualification-12": [
@@ -2440,7 +2440,7 @@
     0.961178079013278
   ],
   "teacher_qualification-20": [
-    "input-and-label contamination",
+    "clean",
     0.7490352456907641
   ],
   "teacher_qualification-21": [
@@ -2472,7 +2472,7 @@
     0.9729137464710876
   ],
   "teacher_qualification-28": [
-    "input-and-label contamination",
+    "clean",
     0.7043151515151516
   ],
   "teacher_qualification-29": [
@@ -2496,7 +2496,7 @@
     0.8431125217013888
   ],
   "teacher_qualification-35": [
-    "input-and-label contamination",
+    "clean",
     0.7176562806192436
   ],
   "teacher_qualification-36": [
@@ -2504,7 +2504,7 @@
     0.9785625
   ],
   "teacher_qualification-37": [
-    "input contamination",
+    "clean",
     0.6616046695686586
   ],
   "teacher_qualification-38": [
@@ -2576,7 +2576,7 @@
     0
   ],
   "high_school_politics-11": [
-    "input-and-label contamination",
+    "clean",
     0.7822671156004491
   ],
   "high_school_politics-12": [
@@ -2616,11 +2616,11 @@
     0.4794082840236687
   ],
   "high_school_geography-2": [
-    "input-and-label contamination",
+    "clean",
     0.7265625
   ],
   "high_school_geography-3": [
-    "input-and-label contamination",
+    "clean",
     0.7173295454545454
   ],
   "high_school_geography-4": [
@@ -2640,7 +2640,7 @@
     0.9994168246100015
   ],
   "high_school_geography-8": [
-    "input-and-label contamination",
+    "clean",
     0.7279449588477367
   ],
   "high_school_geography-9": [
@@ -2656,11 +2656,11 @@
     0.996
   ],
   "high_school_geography-12": [
-    "input-and-label contamination",
+    "clean",
     0.7745139475908707
   ],
   "high_school_geography-13": [
-    "input contamination",
+    "clean",
     0.7043601829251186
   ],
   "high_school_geography-14": [
@@ -2700,7 +2700,7 @@
     0.25383707201889016
   ],
   "middle_school_politics-4": [
-    "input contamination",
+    "clean",
     0.6901700949367089
   ],
   "middle_school_politics-5": [
@@ -2716,7 +2716,7 @@
     0.8789054412321676
   ],
   "middle_school_politics-8": [
-    "input contamination",
+    "clean",
     0.6510416666666666
   ],
   "middle_school_politics-9": [
@@ -2732,7 +2732,7 @@
     0.2736868686868687
   ],
   "middle_school_politics-12": [
-    "input-and-label contamination",
+    "clean",
     0.6616781181874806
   ],
   "middle_school_politics-13": [
@@ -2788,7 +2788,7 @@
     0.968
   ],
   "middle_school_geography-5": [
-    "input-and-label contamination",
+    "input contamination",
     0.8361371256792693
   ],
   "middle_school_geography-6": [
@@ -2796,11 +2796,11 @@
     0.619776417354272
   ],
   "middle_school_geography-7": [
-    "input-and-label contamination",
+    "clean",
     0.7120549904640814
   ],
   "middle_school_geography-8": [
-    "input-and-label contamination",
+    "clean",
     0.7633271990565393
   ],
   "middle_school_geography-9": [
@@ -2816,11 +2816,11 @@
     0.9842542644700394
   ],
   "modern_chinese_history-0": [
-    "input-and-label contamination",
+    "clean",
     0.742649387668919
   ],
   "modern_chinese_history-1": [
-    "input-and-label contamination",
+    "clean",
     0.7630974885228193
   ],
   "modern_chinese_history-2": [
@@ -2828,7 +2828,7 @@
     0.9921875
   ],
   "modern_chinese_history-3": [
-    "input contamination",
+    "clean",
     0.6595221764974851
   ],
   "modern_chinese_history-4": [
@@ -2864,7 +2864,7 @@
     0.8933489317632618
   ],
   "modern_chinese_history-12": [
-    "input-and-label contamination",
+    "clean",
     0.7464021088629239
   ],
   "modern_chinese_history-13": [
@@ -2872,7 +2872,7 @@
     0.899555366349747
   ],
   "modern_chinese_history-14": [
-    "input-and-label contamination",
+    "clean",
     0.7219598583234947
   ],
   "modern_chinese_history-15": [
@@ -2912,7 +2912,7 @@
     0.9736328125
   ],
   "ideological_and_moral_cultivation-1": [
-    "input contamination",
+    "clean",
     0.7783145464304885
   ],
   "ideological_and_moral_cultivation-2": [
@@ -2920,7 +2920,7 @@
     0.9518590856481481
   ],
   "ideological_and_moral_cultivation-3": [
-    "input-and-label contamination",
+    "clean",
     0.7720734126984126
   ],
   "ideological_and_moral_cultivation-4": [
@@ -2936,7 +2936,7 @@
     0.8285
   ],
   "ideological_and_moral_cultivation-7": [
-    "input-and-label contamination",
+    "clean",
     0.6776997041420119
   ],
   "ideological_and_moral_cultivation-8": [
@@ -2980,11 +2980,11 @@
     0.9307692307692308
   ],
   "ideological_and_moral_cultivation-18": [
-    "input-and-label contamination",
+    "clean",
     0.7774952320406866
   ],
   "logic-0": [
-    "input contamination",
+    "clean",
     0.7804280835575019
   ],
   "logic-1": [
@@ -2992,7 +2992,7 @@
     0.9009049719446695
   ],
   "logic-2": [
-    "input-and-label contamination",
+    "clean",
     0.6843271014699587
   ],
   "logic-3": [
@@ -3004,7 +3004,7 @@
     0.9681856982033064
   ],
   "logic-5": [
-    "input contamination",
+    "clean",
     0.6694700132454772
   ],
   "logic-6": [
@@ -3024,7 +3024,7 @@
     0.5187766335227273
   ],
   "logic-10": [
-    "input-and-label contamination",
+    "clean",
     0.7028762346589165
   ],
   "logic-11": [
@@ -3044,7 +3044,7 @@
     0.6444512864629909
   ],
   "logic-15": [
-    "input-and-label contamination",
+    "clean",
     0.7697959806760074
   ],
   "logic-16": [
@@ -3056,15 +3056,15 @@
     0.9496216171663691
   ],
   "logic-18": [
-    "input-and-label contamination",
+    "clean",
     0.7815253253357515
   ],
   "logic-19": [
-    "input-and-label contamination",
+    "clean",
     0.6524496857992704
   ],
   "logic-20": [
-    "input-and-label contamination",
+    "clean",
     0.7818047462924899
   ],
   "logic-21": [
@@ -3072,7 +3072,7 @@
     0.41059639084507044
   ],
   "law-0": [
-    "input-and-label contamination",
+    "clean",
     0.7280678178682614
   ],
   "law-1": [
@@ -3092,7 +3092,7 @@
     0.23473684210526316
   ],
   "law-5": [
-    "input contamination",
+    "clean",
     0.669870000230682
   ],
   "law-6": [
@@ -3104,11 +3104,11 @@
     0.8469537596586043
   ],
   "law-8": [
-    "input contamination",
+    "clean",
     0.7388956291401249
   ],
   "law-9": [
-    "input contamination",
+    "clean",
     0.6914285714285714
   ],
   "law-10": [
@@ -3116,15 +3116,15 @@
     0.8863503470650368
   ],
   "law-11": [
-    "input-and-label contamination",
+    "clean",
     0.7952249770431589
   ],
   "law-12": [
-    "input-and-label contamination",
+    "clean",
     0.6853674913765562
   ],
   "law-13": [
-    "input-and-label contamination",
+    "input contamination",
     0.8532676091269841
   ],
   "law-14": [
@@ -3164,7 +3164,7 @@
     0.9124865007146319
   ],
   "law-23": [
-    "input-and-label contamination",
+    "clean",
     0.75
   ],
   "chinese_language_and_literature-0": [
@@ -3176,7 +3176,7 @@
     0.8314026693528077
   ],
   "chinese_language_and_literature-2": [
-    "input-and-label contamination",
+    "clean",
     0.6956937095825985
   ],
   "chinese_language_and_literature-3": [
@@ -3184,7 +3184,7 @@
     0.5016741071428571
   ],
   "chinese_language_and_literature-4": [
-    "input-and-label contamination",
+    "input contamination",
     0.8154248366013073
   ],
   "chinese_language_and_literature-5": [
@@ -3220,7 +3220,7 @@
     0.6388888888888888
   ],
   "chinese_language_and_literature-13": [
-    "input-and-label contamination",
+    "clean",
     0.6690123456790125
   ],
   "chinese_language_and_literature-14": [
@@ -3228,7 +3228,7 @@
     0.9976851851851852
   ],
   "chinese_language_and_literature-15": [
-    "input-and-label contamination",
+    "clean",
     0.7789062499999999
   ],
   "chinese_language_and_literature-16": [
@@ -3248,7 +3248,7 @@
     0.6169690098261528
   ],
   "chinese_language_and_literature-20": [
-    "input-and-label contamination",
+    "clean",
     0.6818181818181819
   ],
   "chinese_language_and_literature-21": [
@@ -3256,7 +3256,7 @@
     0.8177842565597667
   ],
   "chinese_language_and_literature-22": [
-    "input-and-label contamination",
+    "clean",
     0.7083660130718955
   ],
   "art_studies-0": [
@@ -3280,7 +3280,7 @@
     0.9759579263711495
   ],
   "art_studies-5": [
-    "input-and-label contamination",
+    "clean",
     0.7348615916955017
   ],
   "art_studies-6": [
@@ -3292,7 +3292,7 @@
     0.9606413994169096
   ],
   "art_studies-8": [
-    "input contamination",
+    "clean",
     0.78285
   ],
   "art_studies-9": [
@@ -3320,11 +3320,11 @@
     0.840561224489796
   ],
   "art_studies-15": [
-    "input contamination",
+    "clean",
     0.7052154195011338
   ],
   "art_studies-16": [
-    "input-and-label contamination",
+    "clean",
     0.7701234567901235
   ],
   "art_studies-17": [
@@ -3340,7 +3340,7 @@
     0.8613412228796845
   ],
   "art_studies-20": [
-    "input-and-label contamination",
+    "clean",
     0.6627869897959184
   ],
   "art_studies-21": [
@@ -3380,15 +3380,15 @@
     0.9375
   ],
   "art_studies-30": [
-    "input-and-label contamination",
+    "clean",
     0.7894736842105263
   ],
   "art_studies-31": [
-    "input-and-label contamination",
+    "clean",
     0.75
   ],
   "art_studies-32": [
-    "input-and-label contamination",
+    "clean",
     0.7151937779540397
   ],
   "professional_tour_guide-0": [
@@ -3396,7 +3396,7 @@
     0.8518518518518519
   ],
   "professional_tour_guide-1": [
-    "input-and-label contamination",
+    "clean",
     0.75
   ],
   "professional_tour_guide-2": [
@@ -3408,7 +3408,7 @@
     0.5946666666666667
   ],
   "professional_tour_guide-4": [
-    "input-and-label contamination",
+    "clean",
     0.7092416435460431
   ],
   "professional_tour_guide-5": [
@@ -3424,11 +3424,11 @@
     0.9530428249436514
   ],
   "professional_tour_guide-8": [
-    "input-and-label contamination",
+    "clean",
     0.7371265098537827
   ],
   "professional_tour_guide-9": [
-    "input-and-label contamination",
+    "clean",
     0.7882582720588236
   ],
   "professional_tour_guide-10": [
@@ -3436,7 +3436,7 @@
     0.9941303531179564
   ],
   "professional_tour_guide-11": [
-    "input-and-label contamination",
+    "clean",
     0.79208324831667
   ],
   "professional_tour_guide-12": [
@@ -3484,7 +3484,7 @@
     0.5209324651473413
   ],
   "professional_tour_guide-23": [
-    "input-and-label contamination",
+    "input contamination",
     0.9259042706564573
   ],
   "professional_tour_guide-24": [
@@ -3504,7 +3504,7 @@
     0.41141975308641976
   ],
   "professional_tour_guide-28": [
-    "input-and-label contamination",
+    "clean",
     0.6583770772309387
   ],
   "legal_professional-0": [
@@ -3520,7 +3520,7 @@
     0.37949719721420083
   ],
   "legal_professional-3": [
-    "input-and-label contamination",
+    "clean",
     0.7551807133838383
   ],
   "legal_professional-4": [
@@ -3532,11 +3532,11 @@
     0.9200828169174972
   ],
   "legal_professional-6": [
-    "input-and-label contamination",
+    "clean",
     0.7862172864019948
   ],
   "legal_professional-7": [
-    "input-and-label contamination",
+    "input contamination",
     0.9032950817347435
   ],
   "legal_professional-8": [
@@ -3564,7 +3564,7 @@
     0.9008106811741465
   ],
   "legal_professional-14": [
-    "input-and-label contamination",
+    "clean",
     0.7341826923076924
   ],
   "legal_professional-15": [
@@ -3592,7 +3592,7 @@
     0.47906494140625
   ],
   "legal_professional-21": [
-    "input-and-label contamination",
+    "clean",
     0.7535676992690565
   ],
   "legal_professional-22": [
@@ -3612,11 +3612,11 @@
     0.38096190199214774
   ],
   "high_school_chinese-4": [
-    "input-and-label contamination",
+    "clean",
     0.7530336458907886
   ],
   "high_school_chinese-5": [
-    "input-and-label contamination",
+    "clean",
     0.7599850189383233
   ],
   "high_school_chinese-6": [
@@ -3640,7 +3640,7 @@
     0.9570758525239322
   ],
   "high_school_chinese-12": [
-    "input-and-label contamination",
+    "clean",
     0.7159758121530895
   ],
   "high_school_chinese-13": [
@@ -3664,11 +3664,11 @@
     0.3918283362727807
   ],
   "high_school_history-0": [
-    "input contamination",
+    "clean",
     0.7845494105642753
   ],
   "high_school_history-1": [
-    "input-and-label contamination",
+    "clean",
     0.7387638182845154
   ],
   "high_school_history-2": [
@@ -3744,7 +3744,7 @@
     0.8629684465246601
   ],
   "middle_school_history-0": [
-    "input contamination",
+    "clean",
     0.7221837488457987
   ],
   "middle_school_history-1": [
@@ -3800,15 +3800,15 @@
     0.9917188713240006
   ],
   "middle_school_history-15": [
-    "input-and-label contamination",
+    "input contamination",
     0.9027777777777777
   ],
   "middle_school_history-16": [
-    "input-and-label contamination",
+    "clean",
     0.7862903225806452
   ],
   "middle_school_history-17": [
-    "input contamination",
+    "clean",
     0.689249344472224
   ],
   "middle_school_history-18": [
@@ -3816,7 +3816,7 @@
     0.5621970221606648
   ],
   "middle_school_history-19": [
-    "input-and-label contamination",
+    "clean",
     0.7642105263157895
   ],
   "middle_school_history-20": [
@@ -3856,7 +3856,7 @@
     0.9993141289437586
   ],
   "civil_servant-7": [
-    "input-and-label contamination",
+    "input contamination",
     0.8567094567131825
   ],
   "civil_servant-8": [
@@ -3872,7 +3872,7 @@
     0.9814814814814815
   ],
   "civil_servant-12": [
-    "input-and-label contamination",
+    "clean",
     0.7601351351351352
   ],
   "civil_servant-13": [
@@ -3884,7 +3884,7 @@
     0.6029730119786405
   ],
   "civil_servant-15": [
-    "input contamination",
+    "clean",
     0.7753008104283381
   ],
   "civil_servant-16": [
@@ -3904,7 +3904,7 @@
     0.9990931646377736
   ],
   "civil_servant-20": [
-    "input-and-label contamination",
+    "input contamination",
     0.8605833554656377
   ],
   "civil_servant-21": [
@@ -3948,7 +3948,7 @@
     0.9736328125
   ],
   "civil_servant-32": [
-    "input-and-label contamination",
+    "clean",
     0.7436988027725269
   ],
   "civil_servant-33": [
@@ -4004,7 +4004,7 @@
     0.9814814814814815
   ],
   "sports_science-3": [
-    "input-and-label contamination",
+    "input contamination",
     0.9180120291231404
   ],
   "sports_science-4": [
@@ -4024,7 +4024,7 @@
     0.9799806823152063
   ],
   "sports_science-8": [
-    "input-and-label contamination",
+    "clean",
     0.77890625
   ],
   "sports_science-9": [
@@ -4040,11 +4040,11 @@
     0.9847412109375
   ],
   "sports_science-12": [
-    "input-and-label contamination",
+    "clean",
     0.754302536231884
   ],
   "sports_science-13": [
-    "input-and-label contamination",
+    "clean",
     0.7907927714021895
   ],
   "sports_science-14": [
@@ -4052,7 +4052,7 @@
     0.8365826039052456
   ],
   "sports_science-15": [
-    "input-and-label contamination",
+    "clean",
     0.6696428571428572
   ],
   "sports_science-16": [
@@ -4064,7 +4064,7 @@
     0.8321256038647343
   ],
   "sports_science-18": [
-    "input-and-label contamination",
+    "clean",
     0.7118888888888888
   ],
   "plant_protection-0": [
@@ -4104,7 +4104,7 @@
     0.6206628571428571
   ],
   "plant_protection-9": [
-    "input-and-label contamination",
+    "clean",
     0.7119410514178647
   ],
   "plant_protection-10": [
@@ -4116,15 +4116,15 @@
     0.4519477620270119
   ],
   "plant_protection-12": [
-    "input-and-label contamination",
+    "clean",
     0.7043151515151514
   ],
   "plant_protection-13": [
-    "input-and-label contamination",
+    "clean",
     0.6941034226190476
   ],
   "plant_protection-14": [
-    "input-and-label contamination",
+    "clean",
     0.75
   ],
   "plant_protection-15": [
@@ -4148,7 +4148,7 @@
     0.9954788773148148
   ],
   "plant_protection-20": [
-    "input-and-label contamination",
+    "clean",
     0.7869377162629757
   ],
   "plant_protection-21": [
@@ -4164,7 +4164,7 @@
     0.9759579263711495
   ],
   "basic_medicine-2": [
-    "input contamination",
+    "clean",
     0.6721010243177731
   ],
   "basic_medicine-3": [
@@ -4172,11 +4172,11 @@
     0.968
   ],
   "basic_medicine-4": [
-    "input contamination",
+    "clean",
     0.698247134097574
   ],
   "basic_medicine-5": [
-    "input-and-label contamination",
+    "clean",
     0.7433333333333334
   ],
   "basic_medicine-6": [
@@ -4184,11 +4184,11 @@
     0.9518590856481481
   ],
   "basic_medicine-7": [
-    "input-and-label contamination",
+    "clean",
     0.7933673469387754
   ],
   "basic_medicine-8": [
-    "input contamination",
+    "clean",
     0.6794871794871795
   ],
   "basic_medicine-9": [
@@ -4216,7 +4216,7 @@
     0.866146848602989
   ],
   "basic_medicine-15": [
-    "input-and-label contamination",
+    "clean",
     0.7228796844181461
   ],
   "basic_medicine-16": [
@@ -4256,11 +4256,11 @@
     0.9469568452380952
   ],
   "clinical_medicine-6": [
-    "input-and-label contamination",
+    "clean",
     0.7324630386914124
   ],
   "clinical_medicine-7": [
-    "input contamination",
+    "clean",
     0.7720588235294116
   ],
   "clinical_medicine-8": [
@@ -4268,15 +4268,15 @@
     0.9561042524005487
   ],
   "clinical_medicine-9": [
-    "input-and-label contamination",
+    "clean",
     0.6977213839353757
   ],
   "clinical_medicine-10": [
-    "input-and-label contamination",
+    "clean",
     0.7385021865889213
   ],
   "clinical_medicine-11": [
-    "input-and-label contamination",
+    "input contamination",
     0.8306381303259557
   ],
   "clinical_medicine-12": [
@@ -4300,7 +4300,7 @@
     0.576923076923077
   ],
   "clinical_medicine-17": [
-    "input-and-label contamination",
+    "clean",
     0.6970646907950984
   ],
   "clinical_medicine-18": [
@@ -4324,7 +4324,7 @@
     0.6
   ],
   "urban_and_rural_planner-1": [
-    "input-and-label contamination",
+    "input contamination",
     0.8452302683071914
   ],
   "urban_and_rural_planner-2": [
@@ -4348,7 +4348,7 @@
     0.5220548682087144
   ],
   "urban_and_rural_planner-7": [
-    "input contamination",
+    "clean",
     0.6601058201058201
   ],
   "urban_and_rural_planner-8": [
@@ -4356,7 +4356,7 @@
     0.4891304347826087
   ],
   "urban_and_rural_planner-9": [
-    "input-and-label contamination",
+    "clean",
     0.7807569152424675
   ],
   "urban_and_rural_planner-10": [
@@ -4396,7 +4396,7 @@
     0.9927453171021895
   ],
   "urban_and_rural_planner-19": [
-    "input-and-label contamination",
+    "clean",
     0.684293666315631
   ],
   "urban_and_rural_planner-20": [
@@ -4412,15 +4412,15 @@
     0.9049514976468015
   ],
   "urban_and_rural_planner-23": [
-    "input-and-label contamination",
+    "clean",
     0.7476210310467464
   ],
   "urban_and_rural_planner-24": [
-    "input-and-label contamination",
+    "clean",
     0.72880859375
   ],
   "urban_and_rural_planner-25": [
-    "input-and-label contamination",
+    "clean",
     0.6616571508397511
   ],
   "urban_and_rural_planner-26": [
@@ -4428,7 +4428,7 @@
     0.623125
   ],
   "urban_and_rural_planner-27": [
-    "input-and-label contamination",
+    "clean",
     0.7124973364585553
   ],
   "urban_and_rural_planner-28": [
@@ -4444,7 +4444,7 @@
     0.9589052354730008
   ],
   "urban_and_rural_planner-31": [
-    "input-and-label contamination",
+    "clean",
     0.7668333333333334
   ],
   "urban_and_rural_planner-32": [
@@ -4456,11 +4456,11 @@
     0.8753753753753752
   ],
   "urban_and_rural_planner-34": [
-    "input-and-label contamination",
+    "clean",
     0.7602228391356542
   ],
   "urban_and_rural_planner-35": [
-    "input-and-label contamination",
+    "clean",
     0.7156931738212526
   ],
   "urban_and_rural_planner-36": [
@@ -4484,11 +4484,11 @@
     0.6448562422389913
   ],
   "urban_and_rural_planner-41": [
-    "input-and-label contamination",
+    "clean",
     0.7371265098537825
   ],
   "urban_and_rural_planner-42": [
-    "input-and-label contamination",
+    "clean",
     0.6806894053917864
   ],
   "urban_and_rural_planner-43": [
@@ -4608,7 +4608,7 @@
     0.888157894736842
   ],
   "accountant-26": [
-    "input-and-label contamination",
+    "clean",
     0.6507928196951681
   ],
   "accountant-27": [
@@ -4616,11 +4616,11 @@
     0.41573183760683763
   ],
   "accountant-28": [
-    "input contamination",
+    "clean",
     0.7533710308829926
   ],
   "accountant-29": [
-    "input-and-label contamination",
+    "clean",
     0.7819800805957968
   ],
   "accountant-30": [
@@ -4648,7 +4648,7 @@
     0.9814814814814815
   ],
   "accountant-36": [
-    "input-and-label contamination",
+    "input contamination",
     0.9079694191931068
   ],
   "accountant-37": [
@@ -4688,11 +4688,11 @@
     0.9013850057116891
   ],
   "accountant-46": [
-    "input-and-label contamination",
+    "clean",
     0.7416782681074552
   ],
   "accountant-47": [
-    "input-and-label contamination",
+    "clean",
     0.7628255106814285
   ],
   "accountant-48": [
@@ -4704,7 +4704,7 @@
     0.6451556180763145
   ],
   "fire_engineer-1": [
-    "input contamination",
+    "clean",
     0.7948299651002353
   ],
   "fire_engineer-2": [
@@ -4712,7 +4712,7 @@
     0.9486486717293884
   ],
   "fire_engineer-3": [
-    "input contamination",
+    "clean",
     0.783617053557882
   ],
   "fire_engineer-4": [
@@ -4732,7 +4732,7 @@
     0.465441146070203
   ],
   "fire_engineer-8": [
-    "input contamination",
+    "clean",
     0.7699290900465298
   ],
   "fire_engineer-9": [
@@ -4756,7 +4756,7 @@
     0.9406445738017429
   ],
   "fire_engineer-14": [
-    "input-and-label contamination",
+    "clean",
     0.7159090909090909
   ],
   "fire_engineer-15": [
@@ -4776,7 +4776,7 @@
     0.8582100591715977
   ],
   "fire_engineer-19": [
-    "input-and-label contamination",
+    "clean",
     0.6963861008182338
   ],
   "fire_engineer-20": [
@@ -4788,11 +4788,11 @@
     0.9620293847566576
   ],
   "fire_engineer-22": [
-    "input-and-label contamination",
+    "clean",
     0.7421187500000002
   ],
   "fire_engineer-23": [
-    "input contamination",
+    "clean",
     0.7437632225087636
   ],
   "fire_engineer-24": [
@@ -4800,7 +4800,7 @@
     0.9475179190296156
   ],
   "fire_engineer-25": [
-    "input contamination",
+    "clean",
     0.6774984018751332
   ],
   "fire_engineer-26": [
@@ -4824,7 +4824,7 @@
     0.8812441614631987
   ],
   "environmental_impact_assessment_engineer-0": [
-    "input-and-label contamination",
+    "clean",
     0.7017682413998236
   ],
   "environmental_impact_assessment_engineer-1": [
@@ -4836,7 +4836,7 @@
     0.503992133726647
   ],
   "environmental_impact_assessment_engineer-3": [
-    "input-and-label contamination",
+    "clean",
     0.6806654553269641
   ],
   "environmental_impact_assessment_engineer-4": [
@@ -4864,11 +4864,11 @@
     0.537876167416119
   ],
   "environmental_impact_assessment_engineer-10": [
-    "input contamination",
+    "clean",
     0.7630250000000001
   ],
   "environmental_impact_assessment_engineer-11": [
-    "input-and-label contamination",
+    "clean",
     0.717037037037037
   ],
   "environmental_impact_assessment_engineer-12": [
@@ -4880,7 +4880,7 @@
     0.47410425270677525
   ],
   "environmental_impact_assessment_engineer-14": [
-    "input-and-label contamination",
+    "clean",
     0.6836072664359861
   ],
   "environmental_impact_assessment_engineer-15": [
@@ -4888,11 +4888,11 @@
     0.47580378605769236
   ],
   "environmental_impact_assessment_engineer-16": [
-    "input-and-label contamination",
+    "clean",
     0.7194669604134625
   ],
   "environmental_impact_assessment_engineer-17": [
-    "input contamination",
+    "clean",
     0.6803513071895425
   ],
   "environmental_impact_assessment_engineer-18": [
@@ -4900,7 +4900,7 @@
     0.8946280991735537
   ],
   "environmental_impact_assessment_engineer-19": [
-    "input-and-label contamination",
+    "clean",
     0.7747294879441083
   ],
   "environmental_impact_assessment_engineer-20": [
@@ -4924,7 +4924,7 @@
     0.823170731707317
   ],
   "environmental_impact_assessment_engineer-25": [
-    "input-and-label contamination",
+    "clean",
     0.799982853223594
   ],
   "environmental_impact_assessment_engineer-26": [
@@ -4956,7 +4956,7 @@
     0.586366215229424
   ],
   "tax_accountant-2": [
-    "input-and-label contamination",
+    "clean",
     0.7670913206337759
   ],
   "tax_accountant-3": [
@@ -4980,7 +4980,7 @@
     0.31550068587105623
   ],
   "tax_accountant-8": [
-    "input-and-label contamination",
+    "clean",
     0.7959283080353313
   ],
   "tax_accountant-9": [
@@ -5000,19 +5000,19 @@
     0
   ],
   "tax_accountant-13": [
-    "input-and-label contamination",
+    "clean",
     0.7233032285976962
   ],
   "tax_accountant-14": [
-    "input contamination",
+    "clean",
     0.738405347055866
   ],
   "tax_accountant-15": [
-    "input-and-label contamination",
+    "clean",
     0.6669353941954854
   ],
   "tax_accountant-16": [
-    "input-and-label contamination",
+    "clean",
     0.68792614286368
   ],
   "tax_accountant-17": [
@@ -5024,7 +5024,7 @@
     0.9312544056929946
   ],
   "tax_accountant-19": [
-    "input contamination",
+    "clean",
     0.675564236111111
   ],
   "tax_accountant-20": [
@@ -5076,7 +5076,7 @@
     0.9674110575876729
   ],
   "tax_accountant-32": [
-    "input-and-label contamination",
+    "clean",
     0.7355724265634206
   ],
   "tax_accountant-33": [
@@ -5084,7 +5084,7 @@
     0.968
   ],
   "tax_accountant-34": [
-    "input contamination",
+    "clean",
     0.6972176275992439
   ],
   "tax_accountant-35": [
@@ -5100,7 +5100,7 @@
     0.5679012345679012
   ],
   "tax_accountant-38": [
-    "input-and-label contamination",
+    "clean",
     0.7471655328798186
   ],
   "tax_accountant-39": [
@@ -5108,11 +5108,11 @@
     0.639469587456911
   ],
   "tax_accountant-40": [
-    "input-and-label contamination",
+    "clean",
     0.7817273361513523
   ],
   "tax_accountant-41": [
-    "input-and-label contamination",
+    "clean",
     0.7955998008959682
   ],
   "tax_accountant-42": [
@@ -5128,7 +5128,7 @@
     0.15992
   ],
   "tax_accountant-45": [
-    "input contamination",
+    "clean",
     0.7058583764084146
   ],
   "tax_accountant-46": [
@@ -5148,7 +5148,7 @@
     0.999744
   ],
   "physician-1": [
-    "input contamination",
+    "clean",
     0.724817620650954
   ],
   "physician-2": [
@@ -5192,15 +5192,15 @@
     0.8870067719256105
   ],
   "physician-12": [
-    "input-and-label contamination",
+    "clean",
     0.6906906906906908
   ],
   "physician-13": [
-    "input-and-label contamination",
+    "clean",
     0.67001953125
   ],
   "physician-14": [
-    "input-and-label contamination",
+    "clean",
     0.6998681825671444
   ],
   "physician-15": [
@@ -5228,11 +5228,11 @@
     0.9842542644700394
   ],
   "physician-21": [
-    "input-and-label contamination",
+    "clean",
     0.70234375
   ],
   "physician-22": [
-    "input contamination",
+    "clean",
     0.6696428571428572
   ],
   "physician-23": [
@@ -5248,7 +5248,7 @@
     0.8388075451787362
   ],
   "physician-26": [
-    "input-and-label contamination",
+    "clean",
     0.7042105263157895
   ],
   "physician-27": [
@@ -5276,7 +5276,7 @@
     0.9017693014705882
   ],
   "physician-33": [
-    "input-and-label contamination",
+    "clean",
     0.6599999999999999
   ],
   "physician-34": [
@@ -5316,11 +5316,11 @@
     0.5220548682087144
   ],
   "physician-43": [
-    "input-and-label contamination",
+    "clean",
     0.7827435527291171
   ],
   "physician-44": [
-    "input contamination",
+    "clean",
     0.7557173466264375
   ],
   "physician-45": [

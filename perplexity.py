@@ -23,6 +23,7 @@ CLEAN = {
     'bbc': 'RealTimeData/bbc_latest'
 }
 
+# the column name of the main text in the dataset, usually passage or context
 COLUMNS = {
     'RealTimeData/wikitext_alltime': 'text',
     'RealTimeData/wikitext_latest': 'text',
@@ -34,6 +35,7 @@ COLUMNS = {
     'squad_v2': 'context',
 }
 
+# which split you want to analyze, how you want to call it
 SPLITS = {
     'RealTimeData/wikitext_alltime': 'train',
     'RealTimeData/wikitext_latest': 'train',
@@ -140,26 +142,38 @@ def load_model_and_tokenizer(model_name):
 
 if __name__ == "__main__":
 
-    # What is the source of the evaluation?
-    # We support wikipedia and bbc in the current version.
-    evaluation_base = 'wiki'
-    memorised_time = '2022-8'
+    # if you are doing contamination test, you will need the memorised and fresh baseline, so set this to True
+    doing_contamination_test = False
+    # default is to use the val or test split, if you want to use the train split, set this to True
+    use_train_split = False
+
     num_token = 200
     num_samples = 300
     model_names = ['gpt2', 'TheBloke/Llama-2-13B-GPTQ', 'facebook/opt-6.7b']
+
     evaluation_datasets = ['quac', 'boolq', 'squad_v2']
-    output_file = f'reports/perplexity_{evaluation_base}.json'
+    output_file = f'reports/perplexity_report.json'
 
     datasets_and_texts = {}
     # Prepare evaluation datasets
     for ds in evaluation_datasets:
+        # default is to use the val or test split
         datasets_and_texts[ds] = prepare_data(ds, COLUMNS[ds], SPLITS[ds], num_samples = num_samples, token_count = num_token)
+
+        if use_train_split:
+            datasets_and_texts[f'{ds}_train'] = prepare_data(ds, COLUMNS[ds], 'train', num_samples = num_samples, token_count = num_token)
     
-    # Prepare two baselines
-    datasets_and_texts['memorised'] = prepare_data(MEMORISED[evaluation_base], COLUMNS[MEMORISED[evaluation_base]], SPLITS[MEMORISED[evaluation_base]], \
-                                                   config = memorised_time, num_samples = num_samples, token_count = num_token)
-    datasets_and_texts['clean'] = prepare_data(CLEAN[evaluation_base], COLUMNS[CLEAN[evaluation_base]], SPLITS[CLEAN[evaluation_base]], \
-                                               num_samples = num_samples, token_count = num_token)
+    if doing_contamination_test:
+        # What is the source of the evaluation?
+        # We support wikipedia and bbc in the current version.
+        evaluation_base = 'wiki'
+        memorised_time = '2022-8'
+
+        # Prepare two baselines
+        datasets_and_texts['memorised'] = prepare_data(MEMORISED[evaluation_base], COLUMNS[MEMORISED[evaluation_base]], SPLITS[MEMORISED[evaluation_base]], \
+                                                    config = memorised_time, num_samples = num_samples, token_count = num_token)
+        datasets_and_texts['clean'] = prepare_data(CLEAN[evaluation_base], COLUMNS[CLEAN[evaluation_base]], SPLITS[CLEAN[evaluation_base]], \
+                                                num_samples = num_samples, token_count = num_token)
 
     results = {}
     for model_name in model_names:

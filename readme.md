@@ -6,33 +6,42 @@
 
 Data Contamination is a real crisis for Large Language Models (LLMs) evaluation. **Contamination Detector** aids in identifying and analyzing such potential contamination without requiring access to the LLMs' training data, enabling even small teams and individuals to conduct robust evaluation.
 
-**Updates!**
+**News!!**
 
-- Check out our latest [open source data contamination report for llama series models](https://arxiv.org/abs/2310.17589)!
+- Our paper: [open sourced data contamination report for llama series models](https://arxiv.org/abs/2310.17589) shows the overall steps to conduct data contamination analysis with this tool .
+- Paper: [Quantifying Memorisation via Perplexity](https://arxiv.org/abs/2309.10677) showing the basic idea of perplexity verificaiton.
 
 # Methods
 
 - **Internet Presence Verification**:
 
-Contamination Detector goes through the benchmark and verify whether test examples (both inputs and labels) are present on the internet via **Bing search** and **Common Crawl index**.
+Contamination Detector checks whether test examples are present on the internet via **Bing search** and **Common Crawl index**. If both question and answer appear online, there is a big chance that this test sample was included in Common Crawl, and thus was memorized by LLMs.
 
 <figure>
-  <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/links.png" width="400"/>
+  <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/case.png" width="700"/>
 </figure>
 
-*The source of contamination for the MMLU benchmark.*
+*>> An example of contaminated sample from MMLU test set (in Llama training data).↑*
 
-<figure>
-<img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/benchmarks.png" width=700>
-</figure>
+Check out the extensive analysis on Llama series models at [here](https://arxiv.org/abs/2310.17589).
 
-*Contamination percentage of popular multi-choice QA benchmarks tested on Llama models*
+<!-- | Dataset       | #Total | #Online | #CommonCrawl (All Dirty) | #Input-only Contamination | #Input-and-label Contamination |
+|---------------|-------:|--------:|-------------------------:|--------------------------:|-------------------------------:|
+| Hellaswag     |   9315 |     805 | 805 (8.6%)               | 30(0.3%)                  | 775 (8.3%)                    |
+| ARC           |   1172 |     102 | 90 (7.7%)                | 28 (2.4%)                 | 62 (5.3%)                     |
+| CommonsenseQA |   1221 |      19 | 16 (1.3%)                | 0                         | 16 (1.3%)                     |
+| MMLU          |  11322 |    1307 | 1213 (8.7%)              | 355 (2.5%)                | 858 (6.1%)                    |
+| Winogrande    |   1267 |      13 | 13 (1.0%)                | 0                         | 13 (1.0%)                     |
+| C-Eval        |   1335 |     712 | 3 (0.2%)                 | 0                         | 3 (0.2%)                      |
 
-Check out more analysis in the [contamination report of llama](https://arxiv.org/abs/2310.17589).
+
+*>> How many test samples are leaked to Llama's training data? Analysis for popular multi-choice QA benchmarks.↑* -->
 
 - **Test Memorization via Perplexity**:
 
-Contamination Detector also audit the entire benchmark on a specific LLM, to verify whether the model exhibits **memorization** behaviors on test benchmarks. This is done by comparing the perplexity of the benchmark against memorised and fresh data.
+Contamination Detector also verifies whether the model exhibits **memorization** behaviors on test benchmarks. This could be used to check whether model are **cheating by optimizing on benchmarks**. Just simply comparing the perplexity on training and test split of benchmarks.
+
+You can also use PPL to detect data contamination:
 
 <figure>
 <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png" width = 700>
@@ -40,13 +49,8 @@ Contamination Detector also audit the entire benchmark on a specific LLM, to ver
 
 *The extent of contamination of XSum test set.*
 
-We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated.
+We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated (memorized).
 
-## Why Choose Contamination Detector
-
-Traditional methods for analyzing contamination often depend on identifying overlaps between training and test data. However, many modern LLMs utilize closed-source training data, restricting analysis largely to internal reports from big tech companies or research groups.
-
-Contamination Detector uses a novel approach by directly auditing models and benchmarks, thereby **avoiding the need for access to the training data.** And there is no need for the massive storage demands for hosting the entire training data as well. This provides opportunities for small teams and individuals to conduct their own contamination analyses.
 
 ## 0.To start
 
@@ -62,7 +66,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-## Run Internet Presence Verification
+## 1. Run Internet Presence Verification
 
 To check whether test examples are accessible on the internet:
 
@@ -72,11 +76,11 @@ Simply run this to produce a report for a benchmark:
 python search.py
 ```
 
-To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api). A free access key allow 1000 calls monthly.
+To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api). A free access key allow 1000 calls monthly. Student will receive $100 funding if you're creating a new account.
 
 Set the key via `export Bing_Key = [YOUR API KEY]` in terminal.
 
-Or, you can directly download my search results [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0), so you don't have to pay for accessing Bing.
+Or, **you can directly download my search results** [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0), so you don't have to pay for accessing Bing.
 
 It will generate a report under `reports/` that highlight all matches online, for example:
 ```
@@ -93,10 +97,10 @@ It will generate a report under `reports/` that highlight all matches online, fo
 
 Reports for six popular multi-choice QA benchmarks are ready to access under `/reports`.
 
-You could visualize contamination examples via:
+You could visualize contamination examples after generating the reports via:
 
 ```
-python pics/visualize_search.py
+python visualize/visualize_search.py
 ```
 
 This will highlight the matched part of benchmark samples.
@@ -115,17 +119,18 @@ It will hightlight the overlapping part of the benchmark and internet pages.
 
 **Check more contamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
-If you cannot accessing Huggingface Hub for the benchmarks, download as json file [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0).
+If you cannot accessing Huggingface Hub for the benchmark datasets, download them as json files [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0).
 
-## Compare Model Performance on Clean and Dirty test set
+## 2. Compare Model Performance on Clean and Dirty test sets
 
-This will generate the comparison of accuracy between the clean and dirty benchmark subsets for various models.
+This will generate the comparison of accuracy between the *clean and dirty benchmark subsets* for various models.
 
 But first you need prepare:
 1. the model predictions on these benchmarks.
-2. get the benchmark reports ready (the internet presence reports).
 
 Download predictions of all Llama series models on these benchmark at [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0). Unzip and put them under `model_predictions/`.
+
+2. get the benchmark reports (generated in step 1) ready.
 
 Then run:
 ```
@@ -150,22 +155,22 @@ See how contamination affect the evaluation of Llama-2 70B, more results in the 
 | Average   | Input-label Dirty  | .7072 ↑      |
 
 
-## Test Memorization via Perplexity
+## 3. Run Perplexity Verification
 
-Read this paper first to get the basic idea of perplexity test: [Estimating Contamination via Perplexity](https://arxiv.org/abs/2309.10677)!
+Read this paper first to get the basic idea of perplexity test: [Quantifying Memorisation via Perplexity](https://arxiv.org/abs/2309.10677).
 
 Run this to conduct the perplexity comparison:
 
 ```
-python perplexity/perplexity.py
+python perplexity.py
 ```
 
-You could specify models and benchmarks to test. It will write the results under `reports/`.
+Customize `perplexity.py` to specify models and benchmarks to test. It will write the results under `reports/`.
 
 Then you could generate the figure to visualize the results via:
 
 ```
-python pics/visualize_perplexity.py
+python visualize/visualize_perplexity.py
 ```
 
 **Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**

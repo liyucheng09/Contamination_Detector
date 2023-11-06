@@ -31,6 +31,8 @@ def bing_search(query, cache_path = None, mkt = 'en-US'):
         if os.path.exists(f'{cache_path}/{id_}.json'):
             with open(f'{cache_path}/{id_}.json', 'r') as f:
                 return json.load(f)
+        else:
+            return None
     Bing_API_Key = os.environ.get('Bing_Key')
     search_url = "https://api.bing.microsoft.com/v7.0/search"
     headers = {"Ocp-Apim-Subscription-Key": Bing_API_Key}
@@ -117,7 +119,8 @@ if __name__ == '__main__':
     if not os.path.exists(report_path):
         os.makedirs(report_path)
 
-    datasets_to_check = prepare_dataset(['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa'], n = 'all')
+    # datasets_to_check = prepare_dataset(['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa'], n = 'all')
+    datasets_to_check = prepare_dataset(['mmlu', 'ceval'], n = 'all')
 
     for dataset_name, ds in datasets_to_check.items():
 
@@ -133,6 +136,7 @@ if __name__ == '__main__':
             if query['query'] is None or len(query['query']) > 1000: continue
 
             search_result = bing_search(query, cache_path = f'bing_search/{dataset_name}', mkt = Dataset_lang[dataset_name])
+            if search_result is None: continue
             count += 1
             matches, _, case_type, recall_score = process_search_results(search_result, query, threshold=Recall_threshold_for_dataset[dataset_name], lang = Dataset_lang[dataset_name])
             all_results[query['id']] = (case_type, recall_score)

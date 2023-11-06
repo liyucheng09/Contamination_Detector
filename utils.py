@@ -1,5 +1,5 @@
 
-# this highlights three major columns to check: input, label, and id
+# the three columns we use: input, label, and id
 Column_to_check = {
     'winogrande': {'input': 'sentence', 'label': lambda x: x[f'option{x["answer"]}'], 'id': 'id'},
     'ceval': {'input': 'question', 'label': lambda x: x[x['answer']], 'id': 'id'},
@@ -9,6 +9,7 @@ Column_to_check = {
     'commonsense_qa': {'input': 'question', 'label': lambda x: x['choices']['text'][x['choices']['label'].index(x['answerKey'])], 'id': 'id'}
 }
 
+# The name of benchmarks on the Huggingface Hub, and the split to be used
 Hf_Name_and_Split = {
     'winogrande': {'hf_name': 'liyucheng/winogrande_val', 'split': 'validation'},
     'ceval': {'hf_name': 'liyucheng/ceval_all', 'split': 'val'},
@@ -18,7 +19,7 @@ Hf_Name_and_Split = {
     'commonsense_qa': {'hf_name': 'commonsense_qa', 'split': 'validation'},
 }
 
-# This is used to choose the right Bing market
+# This is used to choose the right Bing market, based on the language of the dataset
 Dataset_lang = {
     'winogrande': 'en-US',
     'ceval': 'zh-CN',
@@ -30,7 +31,7 @@ Dataset_lang = {
 
 Recall_threshold_for_dataset = {
     'winogrande': 0.7,
-    'ceval': 0.7,
+    'ceval': 0.8,
     'mmlu': 0.7,
     'hellaswag': 0.7,
     'ARC': 0.7,
@@ -57,9 +58,9 @@ def random_sample_ds(ds, n = 100):
     return ds.select(np.random.choice(len(ds), n))
 
 def prepare_query(dataset_name, row):
-    """We verbalize the input and label to form a query
+    """Here we verbalize the input and label to form a textual query so that we can send them to Bing Search.
     For some benchmarks which have blanks in the input, we replace the blank with the label
-    Otherwise, we append the label to the input
+    Otherwise, we directly append the answer to the input.
     """
     assert dataset_name in Column_to_check.keys(), \
         f'Column_to_check for {dataset_name} is not configed in utils.py'
@@ -113,6 +114,9 @@ def prepare_query(dataset_name, row):
     }
 
 def prepare_dataset(dataset_names, n = 500):
+    """Load the datasets from Huggingface Hub, and randomly sample n samples from each dataset.
+    if n == 'all', then load all samples.
+    """
     dses = {}
     for dataset_name in dataset_names:
         assert dataset_name in Hf_Name_and_Split.keys(), \
@@ -130,6 +134,9 @@ def prepare_dataset(dataset_names, n = 500):
     return dses
 
 class CommonCrawlPresenceChecker:
+    """Check whether a URL is present in a range of Common Crawl dumps.
+    But the Common Crawl API is almost broken recently, so we wont use it.
+    """
 
     def __init__(self, time_range = ('2017-01-01', '2021-01-01')) -> None:
         import requests
