@@ -47,9 +47,7 @@ You can also use PPL to detect data contamination:
 <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/xsum.png" width = 700>
 </figure>
 
-*The extent of contamination of XSum test set.*
-
-We found the perplexity on XSum is between the memorized and clean baseline, which indicate XSum is partially contaminated (memorized).
+*>> The results show LLaMA models have memorized XSum test set partially (ppl is lower than clean data, but higher than fully memorised baseline).↑*
 
 
 ## 0.To start
@@ -76,13 +74,20 @@ Simply run this to produce a report for a benchmark:
 python search.py
 ```
 
-To run this script, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api). A free access key allow 1000 calls monthly. Student will receive $100 funding if you're creating a new account.
+---
+
+To run this script, you need have the bing search results for the benchmarks you want to analyze.
+
+**you can directly download my search results** [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0), so you don't have to pay for accessing Bing.
+
+There are six popular multi-choice QA benchmarks you could directly download: `['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa']`. After this, unzip them under `bing_search/`.
+
+Otherwise, you will need a free access token for Bing search API. You could obtain one via [this](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api). A free access key allow 1000 calls monthly. Student will receive $100 funding if you're creating a new account.
 
 Set the key via `export Bing_Key = [YOUR API KEY]` in terminal.
 
-Or, **you can directly download my search results** [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0), so you don't have to pay for accessing Bing.
-
-It will generate a report under `reports/` that highlight all matches online, for example:
+---
+`search.py` will generate a report under `reports/` such as `reports/mmlu_report.json` that highlight all matches online, for example:
 ```
 [
   {
@@ -97,27 +102,9 @@ It will generate a report under `reports/` that highlight all matches online, fo
 
 Reports for six popular multi-choice QA benchmarks are ready to access under `/reports`.
 
-You could visualize contamination examples after generating the reports via:
+To visualize the results, please move to [visualize](https://github.com/liyucheng09/Contamination_Detector/tree/master/visualize).
 
-```
-python visualize/visualize_search.py
-```
-
-This will highlight the matched part of benchmark samples.
-
-**`MMLU` - An example of contamination visualization**
-
-**Question:** The economy is in a deep recession. Given this economic situation which of the following statements about monetary policy is accurate?
-
-**Matches:**
-| Page Name | Overlapping | Match Ratio | URL |
-|-|-|-|-|
-| AP Macroeconomics Question 445: Answer and Explanation - CrackAP.com | **The economy is in a deep recession. Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.901 | [Link](https://www.crackap.com/ap/macroeconomics/question-445-answer-and-explanation.html) |  
-| AP Macroeconomics Practice Test 21 - CrackAP.com | **Given this economic situation**, **which of the following statements about monetary policy is accurate?** A. Expansionary policy would only worsen the recession. B. Expansionary policy greatly increases aggregate demand if investment is sensitive to changes in the interest rate. | 0.615 | [Link](https://www.crackap.com/ap/macroeconomics/test41.html) |
-
-It will hightlight the overlapping part of the benchmark and internet pages.
-
-**Check more contamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
+**Check contamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
 If you cannot accessing Huggingface Hub for the benchmark datasets, download them as json files [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0).
 
@@ -175,7 +162,7 @@ python visualize/visualize_perplexity.py
 
 **Check perplexity analysis of QA (BoolQ, SQuAD, QuAD) benchmarks [here](https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/qa.png)**
 
-**Important:** you should choose apporiate data source for the memorised and clean baselinse. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines. 
+**Important:** you should choose apporiate data source for the memorised and clean baselinse if you are doing data contamination analysis. For example, qa benchmarks often use wikipedia passages, so you should use wikipedia as the base for the two baselines. 
 
 Again, read [this paper](https://arxiv.org/abs/2309.10677) before you start.
 

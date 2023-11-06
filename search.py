@@ -31,14 +31,12 @@ def bing_search(query, cache_path = None, mkt = 'en-US'):
         if os.path.exists(f'{cache_path}/{id_}.json'):
             with open(f'{cache_path}/{id_}.json', 'r') as f:
                 return json.load(f)
-        else:
-            return None
     Bing_API_Key = os.environ.get('Bing_Key')
     search_url = "https://api.bing.microsoft.com/v7.0/search"
     headers = {"Ocp-Apim-Subscription-Key": Bing_API_Key}
 
     # adjust the freshness to suit your target models
-    params = {"q": query['query'], "textDecorations": True, "textFormat": "HTML", 'responseFilter': 'Webpages', 'mkt': mkt, 'freshness': '2017-01-01..2020-12-30'}
+    params = {"q": query['query'], "textDecorations": True, "textFormat": "HTML", 'responseFilter': 'Webpages', 'mkt': mkt,} # set 'freshness': '2017-01-01..2020-12-30' if you need a specific time range
     
     response = requests.get(search_url, headers=headers, params=params)
     response.raise_for_status()
@@ -119,8 +117,7 @@ if __name__ == '__main__':
     if not os.path.exists(report_path):
         os.makedirs(report_path)
 
-    # datasets_to_check = prepare_dataset(['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa'], n = 'all')
-    datasets_to_check = prepare_dataset(['mmlu', 'ceval'], n = 'all')
+    datasets_to_check = prepare_dataset(['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa'], n = 'all')
 
     for dataset_name, ds in datasets_to_check.items():
 
