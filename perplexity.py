@@ -9,43 +9,14 @@ import traceback
 import datasets
 import numpy as np
 import time
+from utils import (
+    Column_to_check,
+    Hf_Name_and_Split,
+    prepare_query,
+    prepare_dataset,
+)
 
-WIKI_API_ENDPOINT = "https://en.wikipedia.org/w/api.php"
 np.random.seed(42)
-
-MEMORISED = {
-    'wiki': 'RealTimeData/wikitext_alltime',
-    'bbc': 'RealTimeData/bbc_alltime'
-}
-
-CLEAN = {
-    'wiki': 'RealTimeData/wikitext_latest',
-    'bbc': 'RealTimeData/bbc_latest'
-}
-
-# the column name of the main text in the dataset, usually passage or context
-COLUMNS = {
-    'RealTimeData/wikitext_alltime': 'text',
-    'RealTimeData/wikitext_latest': 'text',
-    'RealTimeData/bbc_latest': 'content',
-    'RealTimeData/bbc_alltime': 'content',
-    'iohadrubin/mini_xsum': 'document',
-    'quac': 'context',
-    'boolq': 'passage',
-    'squad_v2': 'context',
-}
-
-# which split you want to analyze, how you want to call it
-SPLITS = {
-    'RealTimeData/wikitext_alltime': 'train',
-    'RealTimeData/wikitext_latest': 'train',
-    'RealTimeData/bbc_latest': 'train',
-    'RealTimeData/bbc_alltime': 'train',
-    'iohadrubin/mini_xsum': 'validation',
-    'quac': 'validation',
-    'boolq': 'validation',
-    'squad_v2': 'validation',
-}
 
 def self_info(text, model, tokenizer, merge = False):
     def merge_sub_tokens(log_probs, word_ids):
@@ -103,23 +74,6 @@ def select_token_window(text, token_count=400):
     tokens = tokens[ramdom_start:ramdom_start + token_count]
     return ' '.join(tokens)
 
-def prepare_data(dataset, column, split, config = None, num_samples=200, token_count=300):
-    # This function is used to prepare the data to analyze
-    # it takes dataset_name as input as return a list of strings as output
-    # Now it main support the downloading datasets from huggingface hub
-    # you could easily extend it to support other datasets
-
-    if config is None:
-        ds = datasets.load_dataset(dataset, split=split)
-    else:
-        ds = datasets.load_dataset(dataset, config, split=split)
-
-    ds = ds.select(np.random.choice(len(ds), num_samples))
-    ds = ds[column]
-
-    texts = [select_token_window(text, token_count=token_count) for text in ds]
-    return texts
-
 def load_model_and_tokenizer(model_name):
 
     if 'GPTQ' in model_name:
@@ -137,6 +91,9 @@ def load_model_and_tokenizer(model_name):
     elif 'gpt2' == model_name.lower():
         model = AutoModelForCausalLM.from_pretrained(model_name)
         tokenizer = AutoTokenizer.from_pretrained(model_name)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+        model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto", trust_remote_code=True)
 
     return model, tokenizer
 
@@ -147,33 +104,32 @@ if __name__ == "__main__":
     # default is to use the val or test split, if you want to use the train split, set this to True
     use_train_split = False
 
-    num_token = 200
+    num_token = 300
     num_samples = 300
-    model_names = ['gpt2', 'TheBloke/Llama-2-13B-GPTQ', 'facebook/opt-6.7b']
-
-    evaluation_datasets = ['quac', 'boolq', 'squad_v2']
     output_file = f'reports/perplexity_report.json'
+    model_names = ['Qwen/Qwen-7B', 'baichuan-inc/Baichuan2-7B-Base']
 
-    datasets_and_texts = {}
-    # Prepare evaluation datasets
-    for ds in evaluation_datasets:
-        # default is to use the val or test split
-        datasets_and_texts[ds] = prepare_data(ds, COLUMNS[ds], SPLITS[ds], num_samples = num_samples, token_count = num_token)
+    evaluation_datasets = ['mmlu', 'mmlu_train', 'ceval', 'ceval_train']
+    datasets_to_check = prepare_dataset(evaluation_datasets, n = num_samples)
 
-        if use_train_split:
-            datasets_and_texts[f'{ds}_train'] = prepare_data(ds, COLUMNS[ds], 'train', num_samples = num_samples, token_count = num_token)
-    
     if doing_contamination_test:
-        # What is the source of the evaluation?
-        # We support wikipedia and bbc in the current version.
         evaluation_base = 'wiki'
         memorised_time = '2022-8'
 
-        # Prepare two baselines
-        datasets_and_texts['memorised'] = prepare_data(MEMORISED[evaluation_base], COLUMNS[MEMORISED[evaluation_base]], SPLITS[MEMORISED[evaluation_base]], \
-                                                    config = memorised_time, num_samples = num_samples, token_count = num_token)
-        datasets_and_texts['clean'] = prepare_data(CLEAN[evaluation_base], COLUMNS[CLEAN[evaluation_base]], SPLITS[CLEAN[evaluation_base]], \
-                                                num_samples = num_samples, token_count = num_token)
+        baseline_datasets = [f'{evaluation_base}_clean', f'{evaluation_base}_all']
+        datasets_to_check.update(prepare_dataset(baseline_datasets, n = 500, config = memorised_time))
+    
+    datasets_and_texts = {}
+    for dataset_name, ds in datasets_to_check.items():
+
+        all_texts = []
+        for i, row in tqdm(enumerate(ds), desc=f'Processing {dataset_name}'):
+            # query is the verbatized test sample
+            query = prepare_query(dataset_name, row)
+            if query['query'] is None: continue
+            query_chunked = select_token_window(query['query'], token_count=num_token)
+
+            datasets_and_texts.setdefault(dataset_name, []).append(query_chunked)
 
     results = {}
     for model_name in model_names:

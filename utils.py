@@ -3,20 +3,40 @@
 Column_to_check = {
     'winogrande': {'input': 'sentence', 'label': lambda x: x[f'option{x["answer"]}'], 'id': 'id'},
     'ceval': {'input': 'question', 'label': lambda x: x[x['answer']], 'id': 'id'},
+    'ceval_train': {'input': 'question', 'label': lambda x: x[x['answer']], 'id': 'id'},
     'mmlu': {'input': 'question', 'label': lambda x: x[x['answer']], 'id': 'id'},
+    'mmlu_train': {'input': 'question', 'label': lambda x: x['choices'][x['answer']], 'id': 'id'},
     'hellaswag': {'input': 'ctx', 'label': lambda x: x['endings'][int(x['label'])], 'id': 'ind'},
     'ARC': {'input': 'question', 'label': lambda x: x['choices']['text'][x['choices']['label'].index(x['answerKey'])], 'id': 'id'},
-    'commonsense_qa': {'input': 'question', 'label': lambda x: x['choices']['text'][x['choices']['label'].index(x['answerKey'])], 'id': 'id'}
+    'commonsense_qa': {'input': 'question', 'label': lambda x: x['choices']['text'][x['choices']['label'].index(x['answerKey'])], 'id': 'id'},
+    'squad_v2': {'passage': 'context', 'question': 'question', 'label': lambda x:x['answers']['text'], 'id': 'id'},  
+    'squad_v2_train': {'passage': 'context', 'question': 'question', 'label': lambda x:x['answers']['text'], 'id': 'id'},  
+    'quac': {'passage': 'background', 'id': 'dialogue_id'},
+    'boolq': {'passage': 'passage', 'id': 'question'},
+    'wiki_clean': {'passage': 'text', 'id': 'title'},
+    'bbc_clean': {'passage': 'content', 'id': 'link'},
+    'wiki_all': {'passage': 'text', 'id': 'title'},
+    'bbc_all': {'passage': 'content', 'id': 'link'},
 }
 
 # The name of benchmarks on the Huggingface Hub, and the split to be used
 Hf_Name_and_Split = {
     'winogrande': {'hf_name': 'liyucheng/winogrande_val', 'split': 'validation'},
     'ceval': {'hf_name': 'liyucheng/ceval_all', 'split': 'val'},
+    'ceval_train': {'hf_name': 'liyucheng/ceval_all_dev', 'split': 'dev'},
     'mmlu': {'hf_name': 'liyucheng/mmlu_test', 'split': 'train'},
+    'mmlu_train': {'hf_name': 'liyucheng/mmlu_train', 'split': 'train'},
     'hellaswag': {'hf_name': 'Rowan/hellaswag', 'split': 'validation'},
     'ARC': {'hf_name': 'liyucheng/arc_test', 'split': 'test'},
     'commonsense_qa': {'hf_name': 'commonsense_qa', 'split': 'validation'},
+    'quac': {'hf_name': 'quac', 'split': 'validation'},
+    'boolq': {'hf_name': 'boolq', 'split': 'validation'},
+    'squad_v2': {'hf_name': 'squad_v2', 'split': 'validation'},
+    'squad_v2_train': {'hf_name': 'squad_v2', 'split': 'train'},
+    'wiki_clean': {'hf_name': 'RealTimeData/wikitext_latest', 'split': 'train'},
+    'bbc_clean': {'hf_name': 'RealTimeData/bbc_latest', 'split': 'train'},
+    'wiki_all': {'hf_name': 'RealTimeData/wikitext_alltime', 'split': 'train'},
+    'bbc_all': {'hf_name': 'RealTimeData/bbc_alltime', 'split': 'train'},
 }
 
 # This is used to choose the right Bing market, based on the language of the dataset
@@ -58,13 +78,29 @@ def random_sample_ds(ds, n = 100):
     return ds.select(np.random.choice(len(ds), n))
 
 def prepare_query(dataset_name, row):
-    """Here we verbalize the input and label to form a textual query so that we can send them to Bing Search.
-    For some benchmarks which have blanks in the input, we replace the blank with the label
+    """
+    Here we verbalize the test instances to form a textual query so that we can send them to Bing Search or calculating ppl.
+    For multi-choice benchmarks, we use 'input' and 'label' to form the query.
+    For reading comprehension benchmarks, we use 'passage', 'question', and 'answer' to form the query.
+    
+    For test samples which have blanks in the input, we replace the blank with the label.
     Otherwise, we directly append the answer to the input.
     """
     assert dataset_name in Column_to_check.keys(), \
         f'Column_to_check for {dataset_name} is not configed in utils.py'
+    
     id_ = row[Column_to_check[dataset_name]['id']]
+    if Column_to_check[dataset_name].get('passage', None) is not None:
+        # rendering reading comprehension benchmarks
+        passage = row[Column_to_check[dataset_name]['passage']]
+        query = f'{passage}'
+        return {
+            'id': id_,
+            'query': query,
+        }
+
+    # multi-choice benchmarks are more complicated, sometimes need to fill-blanks
+    assert Column_to_check[dataset_name].get('input', None) is not None
     input_ = row[Column_to_check[dataset_name]['input']]
     label = Column_to_check[dataset_name]['label'](row)
 
@@ -100,7 +136,9 @@ def prepare_query(dataset_name, row):
     verbalize = {
         'winogrande': lambda input_, label: fill_blanks(input_, label, '_'), 
         'ceval': lambda input_, label: fill_blanks(input_, label, '____'),
+        'ceval_train': lambda input_, label: fill_blanks(input_, label, '____'),
         'mmlu': lambda input_, label: fill_blanks(input_, label),
+        'mmlu_train': lambda input_, label: fill_blanks(input_, label),
 
         'hellaswag': lambda input_, label: f'{input_} {label}',
         'ARC': lambda input_, label: f'{input_} {label}',
@@ -113,7 +151,7 @@ def prepare_query(dataset_name, row):
         'query': verbalize[dataset_name](input_, label),
     }
 
-def prepare_dataset(dataset_names, n = 500):
+def prepare_dataset(dataset_names, n = 500, config = None):
     """Load the datasets from Huggingface Hub, and randomly sample n samples from each dataset.
     if n == 'all', then load all samples.
     """
@@ -121,7 +159,11 @@ def prepare_dataset(dataset_names, n = 500):
     for dataset_name in dataset_names:
         assert dataset_name in Hf_Name_and_Split.keys(), \
             f'Hf_Name_and_Split for {dataset_name} is not defined in utils.py'
-        if Hf_Name_and_Split[dataset_name].get('config', None) is not None:
+        
+        if dataset_name in ['wiki_clean', 'bbc_clean', 'wiki_all', 'bbc_all']:
+            assert config is not None, 'The config is used to set a time range, if you use wiki_clean, bbc_clean, wiki_all, bbc_all you need to set a time with config = time'
+            ds = load_dataset(Hf_Name_and_Split[dataset_name]['hf_name'], config, split = Hf_Name_and_Split[dataset_name]['split'])
+        elif Hf_Name_and_Split[dataset_name].get('config', None) is not None:
             ds = load_dataset(Hf_Name_and_Split[dataset_name]['hf_name'], Hf_Name_and_Split[dataset_name]['config'], split = Hf_Name_and_Split[dataset_name]['split'])
         else:
             ds = load_dataset(Hf_Name_and_Split[dataset_name]['hf_name'], split = Hf_Name_and_Split[dataset_name]['split'])
