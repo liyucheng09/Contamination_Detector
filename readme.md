@@ -78,7 +78,7 @@ python search.py
 
 To run this script, you need have the bing search results for the benchmarks you want to analyze.
 
-**you can directly download my search results** [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0), so you don't have to pay for accessing Bing.
+**you can directly download my search results** [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.1), so you don't have to pay for accessing Bing.
 
 There are six popular multi-choice QA benchmarks you could directly download: `['winogrande', 'ceval', 'mmlu', 'hellaswag', 'ARC', 'commonsense_qa']`. After this, unzip them under `bing_search/`.
 
@@ -106,7 +106,7 @@ To visualize the results, please move to [visualize](https://github.com/liyuchen
 
 **Check contamination examples: MMLU at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/mmlu.html), and C-Eval at [here](https://htmlpreview.github.io/?https://github.com/liyucheng09/Contamination_Detector/blob/master/reports/ceval.html)**
 
-If you cannot accessing Huggingface Hub for the benchmark datasets, download them as json files [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0).
+If you cannot accessing Huggingface Hub for the benchmark datasets, download them as json files [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.1).
 
 ## 2. Compare Model Performance on Clean and Dirty test sets
 
@@ -115,7 +115,7 @@ This will generate the comparison of accuracy between the *clean and dirty bench
 But first you need prepare:
 1. the model predictions on these benchmarks.
 
-Download predictions of all Llama series models on these benchmark at [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.0). Unzip and put them under `model_predictions/`.
+Download predictions of all Llama series models on these benchmark at [here](https://github.com/liyucheng09/Contamination_Detector/releases/tag/v0.1.1). Unzip and put them under `model_predictions/`.
 
 2. get the benchmark reports (generated in step 1) ready.
 
