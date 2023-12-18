@@ -8,19 +8,28 @@ Data Contamination is a pervasive and critical issue in the evaluation of Large 
 
 **News!!**
 
-- See an extensive data contamination report for Llama-series models via our **Contamination Detector**: [open sourced data contamination report for llama series models](https://arxiv.org/abs/2310.17589).
+- Our new preprint: [An open source data contamination report for large language models](https://arxiv.org/abs/2310.17589)!
 
-# Our Methods: Internet Presence Verification
+# Our Methods: check potential contamination via search engine
 
-Contamination Detector checks whether test examples are presented on the internet via **Bing search** and **Common Crawl index**. If either the question or answer from a test sample is found online, this sample may have been included in the LLM's training data. As a result, LLMs might gain an unfair advantage by 'remembering' these samples, rather than genuinely understanding or solving them.
+Contamination Detector checks whether test examples appear on the internet via **Bing search** and **Common Crawl index**. We categorize test samples into three subsets:
+1. **Clean** set: the question and reference answer do not appear online.
+2. **Input-only contaminated** set: the question appears online, but not its answer.
+3. **Input-and-label contaminated** set: both question and answer appear online.
 
-<figure>
-  <img src="https://github.com/liyucheng09/Contamination_Detector/blob/master/pics/case.png" width="600"/>
-</figure>
 
-*>> An example of contaminated sample from MMLU test set (in Llama training data).↑*
+If either the "question" or "answer" of a test example is found online, this sample may have been included in the LLM's training data. As a result, LLMs might gain an **unfair advantage by 'remembering' these samples**, rather than genuinely **understanding or solving them**.
 
-# Test LLMs' degree of contamination
+We now support the following popular LLMs benchmarks:
+
+- MMLU
+- CEval
+- Winogrande
+- ARC
+- Hellaswag
+- CommonsenseQA
+
+# Get start: Test LLMs' degree of contamination
 
 1. Clone the repository and install the required packages:
 
@@ -30,17 +39,20 @@ cd Contamination_Detector/
 pip install -r requirements.txt
 ```
 
-2. We need model predictions to further analyze their data contamination issue. We have prepared model predictions for a list of models including:
+2. We need model predictions to further analyze their data contamination issue. We have prepared model predictions for the following LLMs:
 
 - LLaMA 7,13,30,65B
 - Llama-2 7,13,70B
 - Qwen-7b
 - Baichuan2-7B
+- Mistral-7B
+- Mistral Instruct 7B
+- Yi 6B
 
 That you can download directly without going through the inference:
 
 ```
-wget https://github.com/liyucheng09/Contamination_Detector/releases/download/v0.1.1/model_predictions.zip
+wget https://github.com/liyucheng09/Contamination_Detector/releases/download/v0.1.1rc2/model_predictions.zip
 unzip model_predictions.zip
 ```
 
@@ -80,8 +92,6 @@ python clean_dirty_comparison.py
 
 This will use the contamination annotation under `reports/` to generate models' performance on the clean, input-only contaminated, and input-and-label contaminated subsets.
 
-Samples in the clean set mean both question and the reference answer never appear online. Input-only contaminated set means samples in it have their question appearing online. And Input-and-label contaminated set indicates samples whose question and answer all appear online.
-
 See how the performance of Llama-2 70B differs on the three subsets.
 
 | Dataset   | Condition          | Llama-2 70B |
@@ -98,14 +108,6 @@ See how the performance of Llama-2 70B differs on the three subsets.
 | Average   | Clean              | .6348       |
 | Average   | All Dirty          | .6882 ↑      |
 | Average   | Input-label Dirty  | .7072 ↑      |
-
-Now we support the following popular multi-choice QA benchmarks in `clean_dirty_comparison.py`:
-- MMLU
-- CEval
-- Winogrande
-- ARC
-- Hellaswag
-- CommonsenseQA
 
 Other than this table, `clean_dirty_comparison.py` also produces a figure illustrating how the performance change with the recall score (the extent of contamination for a sample).
 
@@ -153,12 +155,11 @@ If you cannot accessing Huggingface Hub for the benchmark datasets, download the
 Consider cite our project if you find it helpful:
 ```
 @article{Li2023AnOS,
-  title={An Open Source Data Contamination Report for Llama Series Models},
+  title={An Open Source Data Contamination Report for Large Language Models},
   author={Yucheng Li},
   journal={ArXiv},
   year={2023},
   volume={abs/2310.17589},
-  url={https://api.semanticscholar.org/CorpusID:264490711}
 }
 ```
 

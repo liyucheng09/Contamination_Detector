@@ -88,28 +88,6 @@
     ],
     [
       {
-        "query": "What island country is ferret popular? great britain",
-        "match_string": "What island country is ferret popular Great Britain ferret Great Britain Great Britain country Great Britain island ferret",
-        "score": 0.6650390625,
-        "score_label": 1.0,
-        "name": "<b>Winnowing Knowledge for Multi</b>-choice Question Answering - ACL Anthology",
-        "url": "https://aclanthology.org/2021.findings-emnlp.100.pdf",
-        "snippet": "Question <b>What island</b> <b>country</b> <b>is ferret</b> <b>popular</b>? Answer <b>Great</b> <b>Britain</b> Attention Knowledge 1 = 0.949 You are likely to ﬁnd a <b>ferret</b> in <b>Great</b> <b>Britain</b> 2 = 0.017 <b>Great</b> <b>Britain</b> is a <b>country</b> 3 = 0.017 <b>Great</b> <b>Britain</b> is a large <b>island</b> 4 = 0.017 A <b>ferret</b> is an animal. Table 1: An example that attention pooling helps to"
-      }
-    ],
-    [
-      {
-        "query": "In what Spanish speaking North American country can you get a great cup of coffee? mexico",
-        "match_string": "American country can you get a great cup of coffee mexico coffee mexico",
-        "score": 0.6854338842975208,
-        "score_label": 1.0,
-        "name": "arXiv:2203.11364v1 [cs.CL] 21 Mar 2022",
-        "url": "https://arxiv.org/pdf/2203.11364.pdf",
-        "snippet": "<b>American</b> <b>country</b> <b>can</b> <b>you</b> <b>get</b> <b>a great</b> <b>cup</b> <b>of coffee</b>? , <b>mexico</b>, mildred s <b>coffee</b> shop, diner, kitchen, canteen , -&gt; <b>mexico</b> ... case, the <b>language</b> model <b>can</b> “give” an answer by assigning probability to tokens that begin giving each of these answers (invariant to lexical varia-"
-      }
-    ],
-    [
-      {
         "query": "What do people typically do while playing guitar? singing",
         "match_string": "What do people typically do while playing guitar singing",
         "score": 0.9993141289437586,
@@ -216,17 +194,6 @@
     ],
     [
       {
-        "query": "Where would you buy food? store",
-        "match_string": "you buy food stores",
-        "score": 0.6614583333333333,
-        "score_label": 1.0,
-        "name": "SHOP NOW: <b>Places Other Than the Grocery Store</b> Where <b>You</b> Can <b>Buy</b> <b>Food</b> at ...",
-        "url": "https://www.theorganicprepper.com/places-to-buy-food/",
-        "snippet": "Here are some places <b>you</b> may be able to <b>buy</b> <b>food</b> when there&#39;s none in the grocery <b>stores</b>, as well as some unusual ideas for sold-out necessities. ... ‘Ditto on the feed <b>stores</b>. <b>You</b> can always <b>buy</b> a cheap bag of oats, get the feed oats, and not the seed oats as the feed oats will be for feeding to animals and not coated, and the seed oats will ..."
-      }
-    ],
-    [
-      {
         "query": "Where could a personal ficus live? front yard",
         "match_string": "Where could a personal ficus live front yard",
         "score": 0.9990234375,
@@ -271,17 +238,6 @@
     ],
     [
       {
-        "query": "A weasel has a thin body and short legs to easier burrow after prey in a what? rabbit warren",
-        "match_string": "A weasel has a thin body and short legs to easier burrow after prey has to easier burrow after",
-        "score": 0.6907894736842105,
-        "score_label": 0.0,
-        "name": "(PDF) GreaseLM: Graph REASoning Enhanced Language Models ... - ResearchGate",
-        "url": "https://www.researchgate.net/publication/358144631_GreaseLM_Graph_REASoning_Enhanced_Language_Models_for_Question_Answering",
-        "snippet": "For example, the CommonsenseQA question in T able 1, “ <b>A weasel</b> <b>has</b> <b>a thin</b> <b>body</b> <b>and short</b> <b>legs</b> <b>to easier</b> <b>burrow</b> <b>after</b> <b>prey</b> in a what?” <b>has</b> three prepositional phrases: <b>to easier</b> <b>burrow</b> , <b>after</b> ..."
-      }
-    ],
-    [
-      {
         "query": "The man working in the attic swatted away a bee, but soon the single bee was an entire what? swarm",
         "match_string": "The man working in the attic swatted away a bee but soon the single bee was an entire swarm swarm",
         "score": 0.9494459833795015,
@@ -311,17 +267,6 @@
         "name": "(PDF) GreaseLM: Graph REASoning Enhanced Language Models ... - ResearchGate",
         "url": "https://www.researchgate.net/publication/358144631_GreaseLM_Graph_REASoning_Enhanced_Language_Models_for_Question_Answering",
         "snippet": "<b>What is unlikely</b> <b>to get</b> <b>bugs</b> <b>on its</b> <b>windshield</b> <b>due</b> <b>to bugs</b> &#39; <b>inability</b> <b>to reach</b> <b>it when it is moving</b>? ... <b>What is unlikely</b> <b>to get</b> <b>bugs</b> <b>on its</b> <b>windshield</b> <b>due</b> <b>to bugs</b> &#39; <b>inability</b> <b>to reach</b> it when it ..."
-      }
-    ],
-    [
-      {
-        "query": "Where would you find people standing in a line outside? bus depot",
-        "match_string": "People Standing In A Line Outside People Standing In A Line Outside Find you find",
-        "score": 0.6614583333333333,
-        "score_label": 0.0,
-        "name": "<b>People</b> <b>Standing</b> <b>In A Line</b> <b>Outside</b> Pictures, Images and Stock Photos",
-        "url": "https://www.istockphoto.com/photos/people-standing-in-a-line-outside",
-        "snippet": "<b>People</b> <b>Standing</b> <b>In A Line</b> <b>Outside</b> Stock Photos, Pictures &amp; Royalty-Free Images - iStock Search from <b>People</b> <b>Standing</b> <b>In A Line</b> <b>Outside</b> stock photos, pictures and royalty-free images from iStock. <b>Find</b> high-quality stock photos that <b>you</b> won&#39;t <b>find</b> anywhere else. Video Trending searches Mental health Hiring Paper texture Meditation Fitness Computer"
       }
     ],
     [

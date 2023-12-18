@@ -20,11 +20,11 @@
     0.9491851851851851
   ],
   "a4892551cb4beb279653ae52d0de4c89": [
-    "input-and-label contamination",
+    "clean",
     0.6650390625
   ],
   "118a9093a30695622363455e4d911866": [
-    "input-and-label contamination",
+    "clean",
     0.6854338842975208
   ],
   "05ea49b82e8ec519e82d6633936ab8bf": [
@@ -1188,7 +1188,7 @@
     0.2869318181818182
   ],
   "d1d2585e0ba1160948b7c5822a99b7a1": [
-    "input-and-label contamination",
+    "clean",
     0.6614583333333333
   ],
   "e34a0d1331c6bd4574ffe308e3fbd389": [
@@ -2708,7 +2708,7 @@
     0.22544642857142855
   ],
   "c7327a1a7d12b6cc0740fc9446270e02": [
-    "input contamination",
+    "clean",
     0.6907894736842105
   ],
   "2729d8502208c25d8e9293cd4e8ecbb5": [
@@ -4396,7 +4396,7 @@
     0.3716666666666667
   ],
   "9b4bbf3c4d24ecdb4b27320afb706808": [
-    "input contamination",
+    "clean",
     0.6614583333333333
   ],
   "43df3a316880d8bab346c06bd43b94dd": [
